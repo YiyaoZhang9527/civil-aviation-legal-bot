@@ -1,0 +1,298 @@
+{
+  "law:中国民用航空部门计量检定规程管理办法": {
+    "node_id": "law:中国民用航空部门计量检定规程管理办法",
+    "type": "law",
+    "title": "中国民用航空部门计量检定规程管理办法",
+    "line_start": 0,
+    "line_end": 150,
+    "source_anchor": "中国民用航空部门计量检定规程管理办法"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了加强对民用航空部门计量检定规程的规范化管理,保障民用航空",
+    "line_start": 5,
+    "line_end": 7,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 民用航空企、事业单位(以下简称企、事业单位)制定、修订民航部",
+    "line_start": 8,
+    "line_end": 9,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 检定规程由中国民用航空总局(以下简称民航总局)审批、发布,民",
+    "line_start": 10,
+    "line_end": 11,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 民用航空一级计量技术机构(以下简称一级计量技术机构)是检定规",
+    "line_start": 12,
+    "line_end": 20,
+    "source_anchor": "第四条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总则",
+    "line_start": 3,
+    "line_end": 20,
+    "source_anchor": "第一章"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 企、事业单位根据民航总局下达的检定规程建议项目或实际工作需要,",
+    "line_start": 23,
+    "line_end": 26,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 一级计量技术机构应当于每年11月底前向民航总局计量管理部门提",
+    "line_start": 27,
+    "line_end": 28,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 检定规程制定、修订年度计划,经民航总局批准后,由计量管理部门",
+    "line_start": 29,
+    "line_end": 31,
+    "source_anchor": "第七条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 立项程序",
+    "line_start": 21,
+    "line_end": 31,
+    "source_anchor": "第二章"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 检定规程一般应由计量技术机构负责起草。编写组主要起草人不超过",
+    "line_start": 34,
+    "line_end": 35,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 检定规程起草人应当由具有一定的计量基础和专业技术知识,熟悉本",
+    "line_start": 36,
+    "line_end": 38,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 的规定,制定了《中国民用航空部门计量检定规程管理办法》。现将有关事",
+    "line_start": 134,
+    "line_end": 150,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 规定编制本单位校准规范、校验方法,经本单位领导批准后在内部实施,",
+    "line_start": 120,
+    "line_end": 121,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 起草单位应根据民航总局计量管理部门批准的计划任务书,编写《检",
+    "line_start": 49,
+    "line_end": 54,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 起草单位按所征求的意见修改后,将其\"送审稿\"送一级计量技术机",
+    "line_start": 55,
+    "line_end": 61,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 一级计量技术机构应当于收到送审稿15天内,将技术审查结果报",
+    "line_start": 62,
+    "line_end": 70,
+    "source_anchor": "第十四条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 起草程序",
+    "line_start": 32,
+    "line_end": 70,
+    "source_anchor": "第三章"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 民航总局计量管理部门负责检定规程审定的组织工作,授权审定委",
+    "line_start": 73,
+    "line_end": 75,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 审定委员由民航总局计量管理部门聘请熟悉计量检定工作、有较高",
+    "line_start": 76,
+    "line_end": 78,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 审定委员会采取会议审查方式进行审查时,参加会议的委员必须为",
+    "line_start": 79,
+    "line_end": 81,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 审定委员会采取函审方式审定的程序如下:",
+    "line_start": 82,
+    "line_end": 86,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 审定通过的检定规程送审稿,由起草单位根据审定结论进行修改、",
+    "line_start": 87,
+    "line_end": 92,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 检定规程报批稿经民航总局批准后,由民航总局计量管理部门办理",
+    "line_start": 93,
+    "line_end": 94,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 经审定未能通过的检定规程送审稿,退回原起草单位。原起草单",
+    "line_start": 95,
+    "line_end": 97,
+    "source_anchor": "第二十一条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 审定、报批程序",
+    "line_start": 71,
+    "line_end": 97,
+    "source_anchor": "第四章"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 检定规程一般经实施三至五年后,应当对其进行复审。复审工作",
+    "line_start": 100,
+    "line_end": 101,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 复审计划由民航总局计量管理部门提出,原起草单位可提出复审",
+    "line_start": 102,
+    "line_end": 103,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 检定规程中关系到飞行安全的重要技术参数,应随所依据的国外",
+    "line_start": 104,
+    "line_end": 106,
+    "source_anchor": "第二十四条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 复审程序",
+    "line_start": 98,
+    "line_end": 106,
+    "source_anchor": "第五章"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 检定规程制定、修订经费和一级计量技术机构工作经费,由总局",
+    "line_start": 109,
+    "line_end": 111,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 企业制定民航部门计量检定规程所发生的费用,其中应由企业承",
+    "line_start": 112,
+    "line_end": 115,
+    "source_anchor": "第二十六条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 经费",
+    "line_start": 107,
+    "line_end": 115,
+    "source_anchor": "第六章"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 民用航空计量技术规范和制定程序参照本办法执行。",
+    "line_start": 118,
+    "line_end": 118,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 根据实际需要,各单位可参照本办法第八条、第九条、第十条和",
+    "line_start": 119,
+    "line_end": 119,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 本办法自发布之日起施行。本办法实施前制定的有关文件与本办",
+    "line_start": 122,
+    "line_end": 133,
+    "source_anchor": "第二十九条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 附则",
+    "line_start": 116,
+    "line_end": 150,
+    "source_anchor": "第七章"
+  }
+}

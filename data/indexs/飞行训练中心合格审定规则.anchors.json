@@ -1,0 +1,330 @@
+{
+  "law:飞行训练中心合格审定规则": {
+    "node_id": "law:飞行训练中心合格审定规则",
+    "type": "law",
+    "title": "飞行训练中心合格审定规则",
+    "line_start": 0,
+    "line_end": 713,
+    "source_anchor": "飞行训练中心合格审定规则"
+  },
+  "article:142.1": {
+    "node_id": "article:142.1",
+    "type": "article",
+    "title": "第142.1条 目的和依据",
+    "line_start": 64,
+    "line_end": 68,
+    "source_anchor": "第142.1条"
+  },
+  "article:142.3": {
+    "node_id": "article:142.3",
+    "type": "article",
+    "title": "第142.3条 适用范围",
+    "line_start": 69,
+    "line_end": 84,
+    "source_anchor": "第142.3条"
+  },
+  "article:142.5": {
+    "node_id": "article:142.5",
+    "type": "article",
+    "title": "第142.5条 定义",
+    "line_start": 85,
+    "line_end": 95,
+    "source_anchor": "第142.5条"
+  },
+  "article:142.7": {
+    "node_id": "article:142.7",
+    "type": "article",
+    "title": "第142.7条 管理机构",
+    "line_start": 96,
+    "line_end": 108,
+    "source_anchor": "第142.7条"
+  },
+  "article:142.9": {
+    "node_id": "article:142.9",
+    "type": "article",
+    "title": "第142.9条 飞行训练中心合格证与运行规范",
+    "line_start": 109,
+    "line_end": 112,
+    "source_anchor": "第142.9条"
+  },
+  "article:142.11": {
+    "node_id": "article:142.11",
+    "type": "article",
+    "title": "第142.11条 飞行训练中心的内部机构和人员",
+    "line_start": 113,
+    "line_end": 120,
+    "source_anchor": "第142.11条"
+  },
+  "article:142.13": {
+    "node_id": "article:142.13",
+    "type": "article",
+    "title": "第142.13条 训练管理手册要求",
+    "line_start": 121,
+    "line_end": 155,
+    "source_anchor": "第142.13条"
+  },
+  "article:142.15": {
+    "node_id": "article:142.15",
+    "type": "article",
+    "title": "第142.15条 训练中心分支机构",
+    "line_start": 156,
+    "line_end": 176,
+    "source_anchor": "第142.15条"
+  },
+  "article:142.17": {
+    "node_id": "article:142.17",
+    "type": "article",
+    "title": "第142.17条 境外及香港、澳门特别行政区的飞行训练中心",
+    "line_start": 177,
+    "line_end": 182,
+    "source_anchor": "第142.17条"
+  },
+  "article:142.19": {
+    "node_id": "article:142.19",
+    "type": "article",
+    "title": "第142.19条 训练设备的租赁",
+    "line_start": 183,
+    "line_end": 188,
+    "source_anchor": "第142.19条"
+  },
+  "chapter:A": {
+    "node_id": "chapter:A",
+    "type": "chapter",
+    "title": "A章 总 则",
+    "line_start": 63,
+    "line_end": 188,
+    "source_anchor": "A章"
+  },
+  "article:142.31": {
+    "node_id": "article:142.31",
+    "type": "article",
+    "title": "第142.31条 合格证的申请",
+    "line_start": 190,
+    "line_end": 229,
+    "source_anchor": "第142.31条"
+  },
+  "article:142.33": {
+    "node_id": "article:142.33",
+    "type": "article",
+    "title": "第142.33条 申请的受理与审定",
+    "line_start": 230,
+    "line_end": 247,
+    "source_anchor": "第142.33条"
+  },
+  "article:142.35": {
+    "node_id": "article:142.35",
+    "type": "article",
+    "title": "第142.35条 飞行训练中心合格证和运行规范的颁发",
+    "line_start": 248,
+    "line_end": 263,
+    "source_anchor": "第142.35条"
+  },
+  "article:142.37": {
+    "node_id": "article:142.37",
+    "type": "article",
+    "title": "第142.37条 飞行训练中心合格证和运行规范的内容",
+    "line_start": 264,
+    "line_end": 294,
+    "source_anchor": "第142.37条"
+  },
+  "article:142.39": {
+    "node_id": "article:142.39",
+    "type": "article",
+    "title": "第142.39条 飞行训练中心合格证的有效期",
+    "line_start": 295,
+    "line_end": 304,
+    "source_anchor": "第142.39条"
+  },
+  "article:142.41": {
+    "node_id": "article:142.41",
+    "type": "article",
+    "title": "第142.41条 合格证和运行规范的修改",
+    "line_start": 305,
+    "line_end": 335,
+    "source_anchor": "第142.41条"
+  },
+  "article:142.43": {
+    "node_id": "article:142.43",
+    "type": "article",
+    "title": "第142.43条 保存和使用的责任",
+    "line_start": 336,
+    "line_end": 348,
+    "source_anchor": "第142.43条"
+  },
+  "article:142.45": {
+    "node_id": "article:142.45",
+    "type": "article",
+    "title": "第142.45条 监督检查的实施",
+    "line_start": 349,
+    "line_end": 356,
+    "source_anchor": "第142.45条"
+  },
+  "chapter:B": {
+    "node_id": "chapter:B",
+    "type": "chapter",
+    "title": "B章 合格审定的程序和要求",
+    "line_start": 189,
+    "line_end": 356,
+    "source_anchor": "B章"
+  },
+  "article:142.51": {
+    "node_id": "article:142.51",
+    "type": "article",
+    "title": "第142.51条 训练大纲的审批和使用",
+    "line_start": 358,
+    "line_end": 380,
+    "source_anchor": "第142.51条"
+  },
+  "article:142.53": {
+    "node_id": "article:142.53",
+    "type": "article",
+    "title": "第142.53条 训练大纲课程的要求",
+    "line_start": 381,
+    "line_end": 393,
+    "source_anchor": "第142.53条"
+  },
+  "chapter:C": {
+    "node_id": "chapter:C",
+    "type": "chapter",
+    "title": "C章 训练大纲要求",
+    "line_start": 357,
+    "line_end": 393,
+    "source_anchor": "C章"
+  },
+  "article:142.61": {
+    "node_id": "article:142.61",
+    "type": "article",
+    "title": "第142.61条 教员的一般要求",
+    "line_start": 395,
+    "line_end": 417,
+    "source_anchor": "第142.61条"
+  },
+  "article:142.63": {
+    "node_id": "article:142.63",
+    "type": "article",
+    "title": "第142.63条 地面教员的资格要求、权利和限制",
+    "line_start": 418,
+    "line_end": 425,
+    "source_anchor": "第142.63条"
+  },
+  "article:142.65": {
+    "node_id": "article:142.65",
+    "type": "article",
+    "title": "第142.65条 在飞行模拟机和飞行训练器上担任教员的资格要求",
+    "line_start": 430,
+    "line_end": 461,
+    "source_anchor": "第142.65条"
+  },
+  "article:142.67": {
+    "node_id": "article:142.67",
+    "type": "article",
+    "title": "第142.67条 航空器飞行教员的资格要求",
+    "line_start": 462,
+    "line_end": 473,
+    "source_anchor": "第142.67条"
+  },
+  "article:142.69": {
+    "node_id": "article:142.69",
+    "type": "article",
+    "title": "第142.69条 教员的权利和限制",
+    "line_start": 474,
+    "line_end": 485,
+    "source_anchor": "第142.69条"
+  },
+  "article:142.71": {
+    "node_id": "article:142.71",
+    "type": "article",
+    "title": "第142.71条 飞行训练中心检查员",
+    "line_start": 486,
+    "line_end": 498,
+    "source_anchor": "第142.71条"
+  },
+  "chapter:D": {
+    "node_id": "chapter:D",
+    "type": "chapter",
+    "title": "D章 人员要求",
+    "line_start": 394,
+    "line_end": 498,
+    "source_anchor": "D章"
+  },
+  "article:142.81": {
+    "node_id": "article:142.81",
+    "type": "article",
+    "title": "第142.81条 飞行模拟机与飞行训练器要求",
+    "line_start": 500,
+    "line_end": 508,
+    "source_anchor": "第142.81条"
+  },
+  "article:142.83": {
+    "node_id": "article:142.83",
+    "type": "article",
+    "title": "第142.83条 航空器",
+    "line_start": 509,
+    "line_end": 516,
+    "source_anchor": "第142.83条"
+  },
+  "article:142.85": {
+    "node_id": "article:142.85",
+    "type": "article",
+    "title": "第142.85条 训练中心的设施",
+    "line_start": 517,
+    "line_end": 534,
+    "source_anchor": "第142.85条"
+  },
+  "chapter:E": {
+    "node_id": "chapter:E",
+    "type": "chapter",
+    "title": "E章 训练设备与设施",
+    "line_start": 499,
+    "line_end": 534,
+    "source_anchor": "E章"
+  },
+  "article:142.91": {
+    "node_id": "article:142.91",
+    "type": "article",
+    "title": "第142.91条 记录保持要求",
+    "line_start": 536,
+    "line_end": 578,
+    "source_anchor": "第142.91条"
+  },
+  "chapter:F": {
+    "node_id": "chapter:F",
+    "type": "chapter",
+    "title": "F章 记录保持",
+    "line_start": 535,
+    "line_end": 578,
+    "source_anchor": "F章"
+  },
+  "article:142.101": {
+    "node_id": "article:142.101",
+    "type": "article",
+    "title": "第142.101条 警告和罚款",
+    "line_start": 580,
+    "line_end": 599,
+    "source_anchor": "第142.101条"
+  },
+  "chapter:G": {
+    "node_id": "chapter:G",
+    "type": "chapter",
+    "title": "G章 罚则",
+    "line_start": 579,
+    "line_end": 599,
+    "source_anchor": "G章"
+  },
+  "article:142.111": {
+    "node_id": "article:142.111",
+    "type": "article",
+    "title": "第142.111条 施行日期",
+    "line_start": 601,
+    "line_end": 713,
+    "source_anchor": "第142.111条"
+  },
+  "chapter:H": {
+    "node_id": "chapter:H",
+    "type": "chapter",
+    "title": "H章 附则",
+    "line_start": 600,
+    "line_end": 713,
+    "source_anchor": "H章"
+  }
+}

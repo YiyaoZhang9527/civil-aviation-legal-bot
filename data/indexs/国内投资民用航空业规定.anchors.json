@@ -1,0 +1,234 @@
+{
+  "law:国内投资民用航空业规定": {
+    "node_id": "law:国内投资民用航空业规定",
+    "type": "law",
+    "title": "国内投资民用航空业规定",
+    "line_start": 0,
+    "line_end": 164,
+    "source_anchor": "国内投资民用航空业规定"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了规范国内投资主体投资民用航空业,根据«中华",
+    "line_start": 2,
+    "line_end": 3,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 鼓励、支持国内投资主体投资民用航空业,促进民用",
+    "line_start": 4,
+    "line_end": 10,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 国内投资主体投资民用航空业适用本规定.",
+    "line_start": 11,
+    "line_end": 29,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 中国民用航空局(以下简称民航局)及民用航空地区",
+    "line_start": 30,
+    "line_end": 34,
+    "source_anchor": "第四条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总  则",
+    "line_start": 1,
+    "line_end": 34,
+    "source_anchor": "第一章"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 国有投资主体和非国有投资主体可以单独或者联合",
+    "line_start": 36,
+    "line_end": 37,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 对国内投资需要特别管理的公共航空运输企业应当",
+    "line_start": 38,
+    "line_end": 40,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 民用运输机场是公共基础设施,鼓励各国内投资主",
+    "line_start": 41,
+    "line_end": 50,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 采用政府和社会资本合作等方式投资建设或者运营",
+    "line_start": 51,
+    "line_end": 53,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 一家民用运输机场、航空燃油销售储运加注企业、计",
+    "line_start": 54,
+    "line_end": 59,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 一家公共航空运输企业及其关联企业投资枢纽机场",
+    "line_start": 60,
+    "line_end": 64,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 一家枢纽机场及其关联企业投资本机场范围内的",
+    "line_start": 65,
+    "line_end": 81,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 空中交通管理系统主要由中央政府投资.空中交",
+    "line_start": 82,
+    "line_end": 84,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 公共航空运输企业的董事、高级管理人员不得在",
+    "line_start": 85,
+    "line_end": 87,
+    "source_anchor": "第十三条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 投资准入",
+    "line_start": 35,
+    "line_end": 87,
+    "source_anchor": "第二章"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 公共航空运输企业、民用运输机场违反本规定第",
+    "line_start": 89,
+    "line_end": 92,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 违反本规定,有下列情形之一的,由民航局或者地",
+    "line_start": 93,
+    "line_end": 106,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 空中交通管理部门违反本规定第十二条,违法投",
+    "line_start": 107,
+    "line_end": 110,
+    "source_anchor": "第十六条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 法律责任",
+    "line_start": 88,
+    "line_end": 110,
+    "source_anchor": "第三章"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 国内投资主体投资民用航空业,法律、法规要求",
+    "line_start": 112,
+    "line_end": 113,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 本规定所称控股是指在企业的全部资本中所占比",
+    "line_start": 114,
+    "line_end": 118,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 本规定所称关联企业是指企业与另一公司、企业",
+    "line_start": 119,
+    "line_end": 140,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 本规定中“以上”含本数,“以下”不含本数.",
+    "line_start": 141,
+    "line_end": 141,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 对国内投资主体的行政处罚、行政强制等处理",
+    "line_start": 142,
+    "line_end": 144,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 投资军民合用机场民用部分,按照国家有关规",
+    "line_start": 145,
+    "line_end": 150,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 本规定中对国内投资需要特别管理的公共航空",
+    "line_start": 151,
+    "line_end": 153,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 本规定自2018年1月19日起施行.民航总局",
+    "line_start": 154,
+    "line_end": 164,
+    "source_anchor": "第二十四条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 附  则",
+    "line_start": 111,
+    "line_end": 164,
+    "source_anchor": "第四章"
+  }
+}

@@ -1,0 +1,962 @@
+{
+  "law:民用航空器驾驶员": {
+    "node_id": "law:民用航空器驾驶员",
+    "type": "law",
+    "title": "合格审定规则»的决定",
+    "line_start": 0,
+    "line_end": 4796,
+    "source_anchor": "合格审定规则»的决定"
+  },
+  "article:61.1": {
+    "node_id": "article:61.1",
+    "type": "article",
+    "title": "第61.1条 目的和依据",
+    "line_start": 236,
+    "line_end": 238,
+    "source_anchor": "第61.1条"
+  },
+  "article:61.3": {
+    "node_id": "article:61.3",
+    "type": "article",
+    "title": "第61.3条 适用范围",
+    "line_start": 239,
+    "line_end": 245,
+    "source_anchor": "第61.3条"
+  },
+  "article:61.5": {
+    "node_id": "article:61.5",
+    "type": "article",
+    "title": "第61.5条 机构与职责",
+    "line_start": 246,
+    "line_end": 257,
+    "source_anchor": "第61.5条"
+  },
+  "article:61.7": {
+    "node_id": "article:61.7",
+    "type": "article",
+    "title": "第61.7条 定义",
+    "line_start": 258,
+    "line_end": 395,
+    "source_anchor": "第61.7条"
+  },
+  "article:61.9": {
+    "node_id": "article:61.9",
+    "type": "article",
+    "title": "第61.9条 执照、合格证和等级的要求",
+    "line_start": 396,
+    "line_end": 444,
+    "source_anchor": "第61.9条"
+  },
+  "article:61.11": {
+    "node_id": "article:61.11",
+    "type": "article",
+    "title": "第61.11条 飞行模拟机和飞行训练器的鉴定和批准",
+    "line_start": 445,
+    "line_end": 458,
+    "source_anchor": "第61.11条"
+  },
+  "article:61.13": {
+    "node_id": "article:61.13",
+    "type": "article",
+    "title": "第61.13条 按本规则颁发的执照和等级",
+    "line_start": 459,
+    "line_end": 576,
+    "source_anchor": "第61.13条"
+  },
+  "article:61.15": {
+    "node_id": "article:61.15",
+    "type": "article",
+    "title": "第61.15条 涉及酒精或者药物的违禁行为",
+    "line_start": 577,
+    "line_end": 585,
+    "source_anchor": "第61.15条"
+  },
+  "article:61.17": {
+    "node_id": "article:61.17",
+    "type": "article",
+    "title": "第61.17条 接受酒精、药物检验或者提供检验结果",
+    "line_start": 586,
+    "line_end": 588,
+    "source_anchor": "第61.17条"
+  },
+  "article:61.19": {
+    "node_id": "article:61.19",
+    "type": "article",
+    "title": "第61.19条 临时执照",
+    "line_start": 589,
+    "line_end": 600,
+    "source_anchor": "第61.19条"
+  },
+  "article:61.21": {
+    "node_id": "article:61.21",
+    "type": "article",
+    "title": "第61.21条 执照的有效期",
+    "line_start": 601,
+    "line_end": 616,
+    "source_anchor": "第61.21条"
+  },
+  "article:61.23": {
+    "node_id": "article:61.23",
+    "type": "article",
+    "title": "第61.23条 执照的更新和重新办理",
+    "line_start": 617,
+    "line_end": 623,
+    "source_anchor": "第61.23条"
+  },
+  "article:61.25": {
+    "node_id": "article:61.25",
+    "type": "article",
+    "title": "第61.25条 体检合格证的要求",
+    "line_start": 624,
+    "line_end": 651,
+    "source_anchor": "第61.25条"
+  },
+  "article:61.27": {
+    "node_id": "article:61.27",
+    "type": "article",
+    "title": "第61.27条 航空器等级限制和附加训练要求",
+    "line_start": 652,
+    "line_end": 764,
+    "source_anchor": "第61.27条"
+  },
+  "article:61.29": {
+    "node_id": "article:61.29",
+    "type": "article",
+    "title": "第61.29条 语言能力要求和无线电通信资格",
+    "line_start": 765,
+    "line_end": 787,
+    "source_anchor": "第61.29条"
+  },
+  "chapter:A": {
+    "node_id": "chapter:A",
+    "type": "chapter",
+    "title": "A章 总  则",
+    "line_start": 235,
+    "line_end": 787,
+    "source_anchor": "A章"
+  },
+  "article:61.31": {
+    "node_id": "article:61.31",
+    "type": "article",
+    "title": "第61.31条 执照和等级的申请与审批",
+    "line_start": 789,
+    "line_end": 865,
+    "source_anchor": "第61.31条"
+  },
+  "article:61.33": {
+    "node_id": "article:61.33",
+    "type": "article",
+    "title": "第61.33条 考试的一般程序",
+    "line_start": 866,
+    "line_end": 868,
+    "source_anchor": "第61.33条"
+  },
+  "article:61.35": {
+    "node_id": "article:61.35",
+    "type": "article",
+    "title": "第61.35条 理论考试和语言能力考试的准考条件和通过",
+    "line_start": 869,
+    "line_end": 883,
+    "source_anchor": "第61.35条"
+  },
+  "article:61.37": {
+    "node_id": "article:61.37",
+    "type": "article",
+    "title": "第61.37条 理论考试和语言能力考试中禁止的行为",
+    "line_start": 884,
+    "line_end": 893,
+    "source_anchor": "第61.37条"
+  },
+  "article:61.39": {
+    "node_id": "article:61.39",
+    "type": "article",
+    "title": "第61.39条 实践考试的准考条件",
+    "line_start": 894,
+    "line_end": 921,
+    "source_anchor": "第61.39条"
+  },
+  "article:61.41": {
+    "node_id": "article:61.41",
+    "type": "article",
+    "title": "第61.41条 从军方和境外飞行教员处接受的飞行训练",
+    "line_start": 922,
+    "line_end": 936,
+    "source_anchor": "第61.41条"
+  },
+  "article:61.43": {
+    "node_id": "article:61.43",
+    "type": "article",
+    "title": "第61.43条 实践考试的一般要求",
+    "line_start": 937,
+    "line_end": 961,
+    "source_anchor": "第61.43条"
+  },
+  "article:61.45": {
+    "node_id": "article:61.45",
+    "type": "article",
+    "title": "第61.45条 实践考试必需的航空器和设备",
+    "line_start": 962,
+    "line_end": 1011,
+    "source_anchor": "第61.45条"
+  },
+  "article:61.47": {
+    "node_id": "article:61.47",
+    "type": "article",
+    "title": "第61.47条 实践考试中考试员的地位",
+    "line_start": 1012,
+    "line_end": 1021,
+    "source_anchor": "第61.47条"
+  },
+  "article:61.49": {
+    "node_id": "article:61.49",
+    "type": "article",
+    "title": "第61.49条 考试不合格后的再次考试",
+    "line_start": 1022,
+    "line_end": 1040,
+    "source_anchor": "第61.49条"
+  },
+  "article:61.51": {
+    "node_id": "article:61.51",
+    "type": "article",
+    "title": "第61.51条 飞行经历记录本",
+    "line_start": 1041,
+    "line_end": 1153,
+    "source_anchor": "第61.51条"
+  },
+  "article:61.53": {
+    "node_id": "article:61.53",
+    "type": "article",
+    "title": "第61.53条 身体缺陷期间的限制",
+    "line_start": 1154,
+    "line_end": 1156,
+    "source_anchor": "第61.53条"
+  },
+  "article:61.55": {
+    "node_id": "article:61.55",
+    "type": "article",
+    "title": "第61.55条 副驾驶资格要求",
+    "line_start": 1157,
+    "line_end": 1187,
+    "source_anchor": "第61.55条"
+  },
+  "article:61.56": {
+    "node_id": "article:61.56",
+    "type": "article",
+    "title": "第61.56条 接受检查",
+    "line_start": 1188,
+    "line_end": 1190,
+    "source_anchor": "第61.56条"
+  },
+  "article:61.57": {
+    "node_id": "article:61.57",
+    "type": "article",
+    "title": "第61.57条 定期检查",
+    "line_start": 1191,
+    "line_end": 1216,
+    "source_anchor": "第61.57条"
+  },
+  "article:61.59": {
+    "node_id": "article:61.59",
+    "type": "article",
+    "title": "第61.59条 熟练检查",
+    "line_start": 1217,
+    "line_end": 1242,
+    "source_anchor": "第61.59条"
+  },
+  "article:61.61": {
+    "node_id": "article:61.61",
+    "type": "article",
+    "title": "第61.61条 机长近期飞行经历要求",
+    "line_start": 1243,
+    "line_end": 1286,
+    "source_anchor": "第61.61条"
+  },
+  "article:61.63": {
+    "node_id": "article:61.63",
+    "type": "article",
+    "title": "第61.63条 禁止提供虚假材料",
+    "line_start": 1287,
+    "line_end": 1294,
+    "source_anchor": "第61.63条"
+  },
+  "article:61.65": {
+    "node_id": "article:61.65",
+    "type": "article",
+    "title": "第61.65条 变更姓名或者地址",
+    "line_start": 1295,
+    "line_end": 1305,
+    "source_anchor": "第61.65条"
+  },
+  "article:61.67": {
+    "node_id": "article:61.67",
+    "type": "article",
+    "title": "第61.67条 自愿放弃或者更换执照",
+    "line_start": 1306,
+    "line_end": 1310,
+    "source_anchor": "第61.67条"
+  },
+  "article:61.69": {
+    "node_id": "article:61.69",
+    "type": "article",
+    "title": "第61.69条 补发执照",
+    "line_start": 1311,
+    "line_end": 1315,
+    "source_anchor": "第61.69条"
+  },
+  "chapter:B": {
+    "node_id": "chapter:B",
+    "type": "chapter",
+    "title": "B章 一般规定",
+    "line_start": 788,
+    "line_end": 1315,
+    "source_anchor": "B章"
+  },
+  "article:61.81": {
+    "node_id": "article:61.81",
+    "type": "article",
+    "title": "第61.81条 增加航空器等级",
+    "line_start": 1317,
+    "line_end": 1462,
+    "source_anchor": "第61.81条"
+  },
+  "article:61.83": {
+    "node_id": "article:61.83",
+    "type": "article",
+    "title": "第61.83条 仪表等级要求",
+    "line_start": 1463,
+    "line_end": 1545,
+    "source_anchor": "第61.83条"
+  },
+  "article:61.87": {
+    "node_id": "article:61.87",
+    "type": "article",
+    "title": "第61.87条 牵引滑翔机的航空器机长经历和训练要求",
+    "line_start": 1546,
+    "line_end": 1582,
+    "source_anchor": "第61.87条"
+  },
+  "article:61.89": {
+    "node_id": "article:61.89",
+    "type": "article",
+    "title": "第61.89条 按其他规章批准的训练大纲完成训练的人员",
+    "line_start": 1583,
+    "line_end": 1593,
+    "source_anchor": "第61.89条"
+  },
+  "article:61.91": {
+    "node_id": "article:61.91",
+    "type": "article",
+    "title": "第61.91条 对具有国家航空器驾驶员经历的人员的特殊",
+    "line_start": 1594,
+    "line_end": 1649,
+    "source_anchor": "第61.91条"
+  },
+  "article:61.93": {
+    "node_id": "article:61.93",
+    "type": "article",
+    "title": "第61.93条 外国驾驶员执照或香港、澳门特别行政区执照",
+    "line_start": 1650,
+    "line_end": 1699,
+    "source_anchor": "第61.93条"
+  },
+  "article:61.95": {
+    "node_id": "article:61.95",
+    "type": "article",
+    "title": "第61.95条 依据外国或香港、澳门特别行政区驾驶员执照颁",
+    "line_start": 1700,
+    "line_end": 1740,
+    "source_anchor": "第61.95条"
+  },
+  "chapter:C": {
+    "node_id": "chapter:C",
+    "type": "chapter",
+    "title": "C章 增加等级和特殊规定",
+    "line_start": 1316,
+    "line_end": 1740,
+    "source_anchor": "C章"
+  },
+  "article:61.101": {
+    "node_id": "article:61.101",
+    "type": "article",
+    "title": "第61.101条 适用范围",
+    "line_start": 1742,
+    "line_end": 1746,
+    "source_anchor": "第61.101条"
+  },
+  "article:61.103": {
+    "node_id": "article:61.103",
+    "type": "article",
+    "title": "第61.103条 资格要求",
+    "line_start": 1747,
+    "line_end": 1767,
+    "source_anchor": "第61.103条"
+  },
+  "article:61.105": {
+    "node_id": "article:61.105",
+    "type": "article",
+    "title": "第61.105条 学生驾驶员单飞要求",
+    "line_start": 1768,
+    "line_end": 2041,
+    "source_anchor": "第61.105条"
+  },
+  "article:61.107": {
+    "node_id": "article:61.107",
+    "type": "article",
+    "title": "第61.107条 一般限制",
+    "line_start": 2042,
+    "line_end": 2060,
+    "source_anchor": "第61.107条"
+  },
+  "article:61.109": {
+    "node_id": "article:61.109",
+    "type": "article",
+    "title": "第61.109条 转场单飞要求",
+    "line_start": 2061,
+    "line_end": 2325,
+    "source_anchor": "第61.109条"
+  },
+  "chapter:D": {
+    "node_id": "chapter:D",
+    "type": "chapter",
+    "title": "D章 学生驾驶员执照",
+    "line_start": 1741,
+    "line_end": 2325,
+    "source_anchor": "D章"
+  },
+  "article:61.111": {
+    "node_id": "article:61.111",
+    "type": "article",
+    "title": "第61.111条 适用范围",
+    "line_start": 2327,
+    "line_end": 2329,
+    "source_anchor": "第61.111条"
+  },
+  "article:61.113": {
+    "node_id": "article:61.113",
+    "type": "article",
+    "title": "第61.113条 资格要求",
+    "line_start": 2330,
+    "line_end": 2364,
+    "source_anchor": "第61.113条"
+  },
+  "article:61.119": {
+    "node_id": "article:61.119",
+    "type": "article",
+    "title": "第61.119条 运动驾驶员的飞行经历要求",
+    "line_start": 2504,
+    "line_end": 2601,
+    "source_anchor": "第61.119条"
+  },
+  "article:61.115": {
+    "node_id": "article:61.115",
+    "type": "article",
+    "title": "第61.115条 航空知识要求",
+    "line_start": 2374,
+    "line_end": 2428,
+    "source_anchor": "第61.115条"
+  },
+  "article:61.117": {
+    "node_id": "article:61.117",
+    "type": "article",
+    "title": "第61.117条 飞行技能要求",
+    "line_start": 2429,
+    "line_end": 2503,
+    "source_anchor": "第61.117条"
+  },
+  "article:61.120": {
+    "node_id": "article:61.120",
+    "type": "article",
+    "title": "第61.120条 运动驾驶员执照持有人的权利和限制",
+    "line_start": 2602,
+    "line_end": 2624,
+    "source_anchor": "第61.120条"
+  },
+  "chapter:E": {
+    "node_id": "chapter:E",
+    "type": "chapter",
+    "title": "E章 运动驾驶员执照",
+    "line_start": 2326,
+    "line_end": 2624,
+    "source_anchor": "E章"
+  },
+  "article:61.121": {
+    "node_id": "article:61.121",
+    "type": "article",
+    "title": "第61.121条 适用范围",
+    "line_start": 2626,
+    "line_end": 2628,
+    "source_anchor": "第61.121条"
+  },
+  "article:61.123": {
+    "node_id": "article:61.123",
+    "type": "article",
+    "title": "第61.123条 资格要求",
+    "line_start": 2629,
+    "line_end": 2656,
+    "source_anchor": "第61.123条"
+  },
+  "article:61.125": {
+    "node_id": "article:61.125",
+    "type": "article",
+    "title": "第61.125条 航空知识要求",
+    "line_start": 2657,
+    "line_end": 2708,
+    "source_anchor": "第61.125条"
+  },
+  "article:61.127": {
+    "node_id": "article:61.127",
+    "type": "article",
+    "title": "第61.127条 飞行技能要求",
+    "line_start": 2709,
+    "line_end": 2800,
+    "source_anchor": "第61.127条"
+  },
+  "article:61.129": {
+    "node_id": "article:61.129",
+    "type": "article",
+    "title": "第61.129条 飞机类别驾驶员的飞行经历要求",
+    "line_start": 2801,
+    "line_end": 2873,
+    "source_anchor": "第61.129条"
+  },
+  "article:61.131": {
+    "node_id": "article:61.131",
+    "type": "article",
+    "title": "第61.131条 直升机类别驾驶员的飞行经历要求",
+    "line_start": 2874,
+    "line_end": 2905,
+    "source_anchor": "第61.131条"
+  },
+  "article:61.133": {
+    "node_id": "article:61.133",
+    "type": "article",
+    "title": "第61.133条 飞艇类别驾驶员的飞行经历要求",
+    "line_start": 2906,
+    "line_end": 2925,
+    "source_anchor": "第61.133条"
+  },
+  "article:61.135": {
+    "node_id": "article:61.135",
+    "type": "article",
+    "title": "第61.135条 倾转旋翼机类别驾驶员的飞行经历要求",
+    "line_start": 2926,
+    "line_end": 2967,
+    "source_anchor": "第61.135条"
+  },
+  "article:61.137": {
+    "node_id": "article:61.137",
+    "type": "article",
+    "title": "第61.137条 私用驾驶员执照持有人的权利和限制",
+    "line_start": 2968,
+    "line_end": 2973,
+    "source_anchor": "第61.137条"
+  },
+  "chapter:F": {
+    "node_id": "chapter:F",
+    "type": "chapter",
+    "title": "F章 私用驾驶员执照",
+    "line_start": 2625,
+    "line_end": 2973,
+    "source_anchor": "F章"
+  },
+  "article:61.151": {
+    "node_id": "article:61.151",
+    "type": "article",
+    "title": "第61.151条 适用范围",
+    "line_start": 2975,
+    "line_end": 2977,
+    "source_anchor": "第61.151条"
+  },
+  "article:61.153": {
+    "node_id": "article:61.153",
+    "type": "article",
+    "title": "第61.153条 资格要求",
+    "line_start": 2978,
+    "line_end": 3011,
+    "source_anchor": "第61.153条"
+  },
+  "article:61.155": {
+    "node_id": "article:61.155",
+    "type": "article",
+    "title": "第61.155条 航空知识要求",
+    "line_start": 3012,
+    "line_end": 3092,
+    "source_anchor": "第61.155条"
+  },
+  "article:61.157": {
+    "node_id": "article:61.157",
+    "type": "article",
+    "title": "第61.157条 飞行技能要求",
+    "line_start": 3093,
+    "line_end": 3200,
+    "source_anchor": "第61.157条"
+  },
+  "article:61.159": {
+    "node_id": "article:61.159",
+    "type": "article",
+    "title": "第61.159条 飞机类别驾驶员的飞行经历要求",
+    "line_start": 3201,
+    "line_end": 3292,
+    "source_anchor": "第61.159条"
+  },
+  "article:61.161": {
+    "node_id": "article:61.161",
+    "type": "article",
+    "title": "第61.161条 直升机类别驾驶员的飞行经历要求",
+    "line_start": 3293,
+    "line_end": 3329,
+    "source_anchor": "第61.161条"
+  },
+  "article:61.165": {
+    "node_id": "article:61.165",
+    "type": "article",
+    "title": "第61.165条 飞艇类别驾驶员的飞行经历要求",
+    "line_start": 3330,
+    "line_end": 3347,
+    "source_anchor": "第61.165条"
+  },
+  "article:61.166": {
+    "node_id": "article:61.166",
+    "type": "article",
+    "title": "第61.166条 倾转旋翼机类别驾驶员的飞行经历要求",
+    "line_start": 3348,
+    "line_end": 3394,
+    "source_anchor": "第61.166条"
+  },
+  "article:61.171": {
+    "node_id": "article:61.171",
+    "type": "article",
+    "title": "第61.171条 夜间飞行限制",
+    "line_start": 3395,
+    "line_end": 3403,
+    "source_anchor": "第61.171条"
+  },
+  "article:61.173": {
+    "node_id": "article:61.173",
+    "type": "article",
+    "title": "第61.173条 商用驾驶员执照持有人的权利和限制",
+    "line_start": 3404,
+    "line_end": 3439,
+    "source_anchor": "第61.173条"
+  },
+  "chapter:G": {
+    "node_id": "chapter:G",
+    "type": "chapter",
+    "title": "G章 商用驾驶员执照",
+    "line_start": 2974,
+    "line_end": 3439,
+    "source_anchor": "G章"
+  },
+  "article:61.174": {
+    "node_id": "article:61.174",
+    "type": "article",
+    "title": "第61.174条 适用范围",
+    "line_start": 3441,
+    "line_end": 3450,
+    "source_anchor": "第61.174条"
+  },
+  "article:61.175": {
+    "node_id": "article:61.175",
+    "type": "article",
+    "title": "第61.175条 资格要求",
+    "line_start": 3451,
+    "line_end": 3479,
+    "source_anchor": "第61.175条"
+  },
+  "article:61.176": {
+    "node_id": "article:61.176",
+    "type": "article",
+    "title": "第61.176条 航空知识要求",
+    "line_start": 3480,
+    "line_end": 3551,
+    "source_anchor": "第61.176条"
+  },
+  "article:61.177": {
+    "node_id": "article:61.177",
+    "type": "article",
+    "title": "第61.177条 飞行技能要求",
+    "line_start": 3552,
+    "line_end": 3571,
+    "source_anchor": "第61.177条"
+  },
+  "article:61.178": {
+    "node_id": "article:61.178",
+    "type": "article",
+    "title": "第61.178条 飞行经历要求",
+    "line_start": 3572,
+    "line_end": 3584,
+    "source_anchor": "第61.178条"
+  },
+  "article:61.179": {
+    "node_id": "article:61.179",
+    "type": "article",
+    "title": "第61.179条 多人制机组驾驶员执照持有人的权利和限制",
+    "line_start": 3585,
+    "line_end": 3623,
+    "source_anchor": "第61.179条"
+  },
+  "chapter:H": {
+    "node_id": "chapter:H",
+    "type": "chapter",
+    "title": "H章 飞机类别多人制机组驾驶员执照",
+    "line_start": 3440,
+    "line_end": 3623,
+    "source_anchor": "H章"
+  },
+  "article:61.181": {
+    "node_id": "article:61.181",
+    "type": "article",
+    "title": "第61.181条 适用范围",
+    "line_start": 3625,
+    "line_end": 3627,
+    "source_anchor": "第61.181条"
+  },
+  "article:61.183": {
+    "node_id": "article:61.183",
+    "type": "article",
+    "title": "第61.183条 资格要求",
+    "line_start": 3628,
+    "line_end": 3660,
+    "source_anchor": "第61.183条"
+  },
+  "article:61.185": {
+    "node_id": "article:61.185",
+    "type": "article",
+    "title": "第61.185条 航空知识要求",
+    "line_start": 3661,
+    "line_end": 3746,
+    "source_anchor": "第61.185条"
+  },
+  "article:61.187": {
+    "node_id": "article:61.187",
+    "type": "article",
+    "title": "第61.187条 飞行技能要求",
+    "line_start": 3747,
+    "line_end": 3938,
+    "source_anchor": "第61.187条"
+  },
+  "article:61.189": {
+    "node_id": "article:61.189",
+    "type": "article",
+    "title": "第61.189条 飞机驾驶员的飞行经历要求",
+    "line_start": 3939,
+    "line_end": 3975,
+    "source_anchor": "第61.189条"
+  },
+  "article:61.191": {
+    "node_id": "article:61.191",
+    "type": "article",
+    "title": "第61.191条 直升机驾驶员的飞行经历要求",
+    "line_start": 3976,
+    "line_end": 4008,
+    "source_anchor": "第61.191条"
+  },
+  "article:61.193": {
+    "node_id": "article:61.193",
+    "type": "article",
+    "title": "第61.193条 倾转旋翼机驾驶员的飞行经历要求",
+    "line_start": 4009,
+    "line_end": 4050,
+    "source_anchor": "第61.193条"
+  },
+  "article:61.195": {
+    "node_id": "article:61.195",
+    "type": "article",
+    "title": "第61.195条 增加类别和级别的要求",
+    "line_start": 4051,
+    "line_end": 4090,
+    "source_anchor": "第61.195条"
+  },
+  "article:61.197": {
+    "node_id": "article:61.197",
+    "type": "article",
+    "title": "第61.197条 航线运输驾驶员执照持有人的权利和限制",
+    "line_start": 4091,
+    "line_end": 4129,
+    "source_anchor": "第61.197条"
+  },
+  "chapter:I": {
+    "node_id": "chapter:I",
+    "type": "chapter",
+    "title": "I章 航线运输驾驶员执照",
+    "line_start": 3624,
+    "line_end": 4129,
+    "source_anchor": "I章"
+  },
+  "article:61.201": {
+    "node_id": "article:61.201",
+    "type": "article",
+    "title": "第61.201条 适用范围",
+    "line_start": 4131,
+    "line_end": 4139,
+    "source_anchor": "第61.201条"
+  },
+  "article:61.203": {
+    "node_id": "article:61.203",
+    "type": "article",
+    "title": "第61.203条 所列的适合于所申请飞行教员等级的资格要求,但不",
+    "line_start": 4487,
+    "line_end": 4492,
+    "source_anchor": "第61.203条"
+  },
+  "article:61.204": {
+    "node_id": "article:61.204",
+    "type": "article",
+    "title": "第61.204条 其他要求",
+    "line_start": 4345,
+    "line_end": 4358,
+    "source_anchor": "第61.204条"
+  },
+  "article:61.205": {
+    "node_id": "article:61.205",
+    "type": "article",
+    "title": "第61.205条 知识要求",
+    "line_start": 4359,
+    "line_end": 4391,
+    "source_anchor": "第61.205条"
+  },
+  "article:61.207": {
+    "node_id": "article:61.207",
+    "type": "article",
+    "title": "第61.207条 飞行教学能力",
+    "line_start": 4392,
+    "line_end": 4473,
+    "source_anchor": "第61.207条"
+  },
+  "article:61.209": {
+    "node_id": "article:61.209",
+    "type": "article",
+    "title": "第61.209条 飞行教员的教学记录",
+    "line_start": 4474,
+    "line_end": 4484,
+    "source_anchor": "第61.209条"
+  },
+  "article:61.211": {
+    "node_id": "article:61.211",
+    "type": "article",
+    "title": "第61.211条 增加教员等级的要求",
+    "line_start": 4485,
+    "line_end": 4486,
+    "source_anchor": "第61.211条"
+  },
+  "article:61.213": {
+    "node_id": "article:61.213",
+    "type": "article",
+    "title": "第61.213条 飞行教员的权利",
+    "line_start": 4493,
+    "line_end": 4554,
+    "source_anchor": "第61.213条"
+  },
+  "article:61.215": {
+    "node_id": "article:61.215",
+    "type": "article",
+    "title": "第61.215条 飞行教员的限制",
+    "line_start": 4555,
+    "line_end": 4593,
+    "source_anchor": "第61.215条"
+  },
+  "article:61.217": {
+    "node_id": "article:61.217",
+    "type": "article",
+    "title": "第61.217条 教员等级的更新",
+    "line_start": 4594,
+    "line_end": 4640,
+    "source_anchor": "第61.217条"
+  },
+  "article:61.219": {
+    "node_id": "article:61.219",
+    "type": "article",
+    "title": "第61.219条 教员等级过期后的重新办理",
+    "line_start": 4641,
+    "line_end": 4647,
+    "source_anchor": "第61.219条"
+  },
+  "chapter:J": {
+    "node_id": "chapter:J",
+    "type": "chapter",
+    "title": "J章 飞行教员等级",
+    "line_start": 4130,
+    "line_end": 4647,
+    "source_anchor": "J章"
+  },
+  "article:61.241": {
+    "node_id": "article:61.241",
+    "type": "article",
+    "title": "第61.241条 涉及酒精或药物的违禁行为的处罚",
+    "line_start": 4649,
+    "line_end": 4653,
+    "source_anchor": "第61.241条"
+  },
+  "article:61.243": {
+    "node_id": "article:61.243",
+    "type": "article",
+    "title": "第61.243条 拒绝接受酒精、药物检验或提供检验结果的",
+    "line_start": 4654,
+    "line_end": 4664,
+    "source_anchor": "第61.243条"
+  },
+  "article:61.245": {
+    "node_id": "article:61.245",
+    "type": "article",
+    "title": "第61.245条 理论考试中的作弊或其他禁止的行为的处罚",
+    "line_start": 4665,
+    "line_end": 4673,
+    "source_anchor": "第61.245条"
+  },
+  "article:61.247": {
+    "node_id": "article:61.247",
+    "type": "article",
+    "title": "第61.247条 提供虚假材料的处罚",
+    "line_start": 4674,
+    "line_end": 4681,
+    "source_anchor": "第61.247条"
+  },
+  "article:61.249": {
+    "node_id": "article:61.249",
+    "type": "article",
+    "title": "第61.249条 对其他违章行为的处罚",
+    "line_start": 4682,
+    "line_end": 4725,
+    "source_anchor": "第61.249条"
+  },
+  "article:61.251": {
+    "node_id": "article:61.251",
+    "type": "article",
+    "title": "第61.251条 受到刑事处罚后执照的处理",
+    "line_start": 4726,
+    "line_end": 4728,
+    "source_anchor": "第61.251条"
+  },
+  "chapter:L": {
+    "node_id": "chapter:L",
+    "type": "chapter",
+    "title": "L章 法律责任",
+    "line_start": 4648,
+    "line_end": 4728,
+    "source_anchor": "L章"
+  },
+  "article:61.281": {
+    "node_id": "article:61.281",
+    "type": "article",
+    "title": "第61.281条 施行日期和废止的规章",
+    "line_start": 4730,
+    "line_end": 4746,
+    "source_anchor": "第61.281条"
+  },
+  "article:61.283": {
+    "node_id": "article:61.283",
+    "type": "article",
+    "title": "第61.283条 执照有效期、原飞行教员执照的换发",
+    "line_start": 4747,
+    "line_end": 4796,
+    "source_anchor": "第61.283条"
+  },
+  "chapter:M": {
+    "node_id": "chapter:M",
+    "type": "chapter",
+    "title": "M章 附  则",
+    "line_start": 4729,
+    "line_end": 4796,
+    "source_anchor": "M章"
+  }
+}

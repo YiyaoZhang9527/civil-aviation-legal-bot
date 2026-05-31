@@ -1,0 +1,322 @@
+{
+  "law:外国航空运输企业常驻代表机构审批管理办法": {
+    "node_id": "law:外国航空运输企业常驻代表机构审批管理办法",
+    "type": "law",
+    "title": "外国航空运输企业常驻代表机构审批管理办法",
+    "line_start": 0,
+    "line_end": 192,
+    "source_anchor": "外国航空运输企业常驻代表机构审批管理办法"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了规范对外国航空运输企业常驻代表机构的管理,根据《中华人民共和国国务院关于管理外国企业常驻代表机构的暂行规定》,制定本办法。",
+    "line_start": 4,
+    "line_end": 5,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本办法适用于外国航空运输企业在中华人民共和国境内设立常驻代表机构(以下简称代表机构)的管理。",
+    "line_start": 6,
+    "line_end": 7,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 本办法所称代表机构是指外国航空运输企业在中华人民共和国境内设立并从事经营性活动的代表处。",
+    "line_start": 8,
+    "line_end": 11,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 外国航空运输企业申请在中华人民共和国境内设立代表机构,应当在中华人民共和国工商行政管理部门(以下简称登记机关)办理登记手续,并经中国民用航空局(以下简称民航局)批准。",
+    "line_start": 12,
+    "line_end": 13,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 民航局受理代表机构设立、延期、变更、撤销的申请或者备案,并作出相应决定。中国民用航空地区管理局(以下简称地区管理局)负责本辖区内代表机构的监督管理。",
+    "line_start": 14,
+    "line_end": 15,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 外国航空运输企业未经登记和批准不得在中华人民共和国境内设立代表机构。",
+    "line_start": 16,
+    "line_end": 17,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 代表机构应当遵守中华人民共和国法律、法规和涉及民航管理的规章,不得损害中华人民共和国安全和社会公共利益。",
+    "line_start": 18,
+    "line_end": 21,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 对代表机构的批准实行互惠对等的原则,外国政府民用航空主管部门对中华人民共和国航空运输企业根据政府间航空运输协定或者有关协议申请设立常驻代表机构进行不合理限制的,民航局可以采取对等措施。",
+    "line_start": 22,
+    "line_end": 23,
+    "source_anchor": "第八条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总则",
+    "line_start": 2,
+    "line_end": 23,
+    "source_anchor": "第一章"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 外国航空运输企业设立代表机构,应当符合下列条件:",
+    "line_start": 26,
+    "line_end": 35,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 申请设立代表机构的外国航空运输企业(以下简称申请人),应当根据不同情况向民航局提交申请材料:",
+    "line_start": 36,
+    "line_end": 67,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 民航局对申请人提出的申请,根据下列情况分别作出处理:",
+    "line_start": 68,
+    "line_end": 75,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 民航局应当自受理之日起二十日内作出批准或者不予批准设立代表机构的决定。二十日内不能作出决定的,经民航局负责人批准,可以延长十日,并应当将延长期限的理由告知申请人。民航局作出批准设立代表机构决定的,应当自作出决定之日起十日内向申请人颁发代表机构批准证书(附件2);对不予批准设立代表机构的,应当出具不予行政许可决定书,并说明不予批准的理由。",
+    "line_start": 76,
+    "line_end": 77,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 指定的外国航空运输企业代表机构批准证书有效期限应当与民航局向其颁发的经营许可有效期一致。非指定的外国航空运输企业代表机构批准证书有效期不超过三年。代表机构批准证书有效期自民航局颁发该批准证书之日起计算。",
+    "line_start": 78,
+    "line_end": 79,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 申请代表机构批准证书延期的,代表机构应当在该批准证书有效期满四十五日前提出延期申请,并根据不同情况提交申请材料:",
+    "line_start": 80,
+    "line_end": 109,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 民航局按照本办法第十一条、第十二条规定的程序办理延期,在该批准证书有效期届满前作出是否准予延期的决定。",
+    "line_start": 110,
+    "line_end": 111,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 指定的外国航空运输企业代表机构批准证书的有效延展期应当与民航局向其颁发的经营许可的有效延展期一致。非指定的外国航空运输企业代表机构批准证书的有效延展期为三年。指定的外国航空运输企业在暂停或者终止航线经营后,需继续保留代表机构的,代表机构批准证书的有效延展期由民航局根据实际情况确定。",
+    "line_start": 112,
+    "line_end": 113,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 外国航空运输企业变更代表机构的名称、首席代表或者代表、代表机构办公地址,应当向民航局申请变更登记。",
+    "line_start": 114,
+    "line_end": 149,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 民航局按照本办法第十一条、第十二条规定的程序办理变更。",
+    "line_start": 150,
+    "line_end": 151,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 外国航空运输企业在其代表机构批准证书有效期满前未提出延期申请的,原批准证书有效期满后失效。民航局依法予以注销。",
+    "line_start": 152,
+    "line_end": 155,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 代表机构的名称应当与其工商登记证名称一致。",
+    "line_start": 156,
+    "line_end": 157,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 代表机构设立、延期、变更和撤销的申请书或者通知书应当用中文书写;如用其他文字书写,应当附中文译本。其他申请材料如用中文以外的文字书写,应当附中文译本。",
+    "line_start": 158,
+    "line_end": 161,
+    "source_anchor": "第二十一条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 代表机构的设立、延期、变更和终止",
+    "line_start": 24,
+    "line_end": 161,
+    "source_anchor": "第二章"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 民航局和地区管理局(以下统称民航行政机关)会同有关部门对代表机构的业务活动进行管理和监督检查。",
+    "line_start": 164,
+    "line_end": 165,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 民航行政机关实施监督检查可以采取查阅文件或者要求代表机构报送材料的方式,也可以进行现场检查。",
+    "line_start": 166,
+    "line_end": 167,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 被检查单位应当对民航行政机关实施的监督检查积极配合,如实提供所需文件和材料。",
+    "line_start": 168,
+    "line_end": 169,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 外国航空运输企业对其设立的代表机构在中华人民共和国境内的业务活动承担相关法律责任。",
+    "line_start": 170,
+    "line_end": 171,
+    "source_anchor": "第二十五条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 监督管理",
+    "line_start": 162,
+    "line_end": 171,
+    "source_anchor": "第三章"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 外国航空运输企业未取得代表机构批准证书,在中华人民共和国境内设立代表机构的,由民航行政机关责令改正,处三万元以下的罚款。",
+    "line_start": 174,
+    "line_end": 175,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 代表机构未按照本办法第十七条的规定办理代表机构的名称、首席代表或者代表、办公地址变更的,由民航行政机关责令改正,给予警告;情节严重的,处一万元以上三万元以下的罚款。",
+    "line_start": 176,
+    "line_end": 177,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 外国航空运输企业隐瞒有关情况或者提供虚假材料申请代表机构批准证书的,民航行政机关不予受理或者不予批准,并给予警告。",
+    "line_start": 178,
+    "line_end": 179,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 外国航空运输企业以欺骗、贿赂等不正当手段取得代表机构批准证书的,民航行政机关应当撤销该批准证书,给予警告,并处三万元以下的罚款。",
+    "line_start": 180,
+    "line_end": 181,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 代表机构涂改、倒卖、出租、出借代表机构批准证书,或者以其他形式非法转让代表机构批准证书的,由民航行政机关责令改正,给予警告;情节严重的,处一万元以上三万元以下的罚款。构成犯罪的,按照国家有关规定向代表机构所在地公安机关移送。",
+    "line_start": 182,
+    "line_end": 183,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 代表机构拒绝、阻碍民航行政机关实施监督检查的,由民航行政机关责令改正;拒不改正的,处三万元以下的罚款。",
+    "line_start": 184,
+    "line_end": 185,
+    "source_anchor": "第三十一条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 法律责任",
+    "line_start": 172,
+    "line_end": 185,
+    "source_anchor": "第四章"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 对代表机构的撤销许可、行政处罚、行政强制等处理措施及其执行情况记入守法信用信息记录,并按照有关规定进行公示。",
+    "line_start": 188,
+    "line_end": 189,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 本办法规定的期限以工作日计算,不含法定节假日。",
+    "line_start": 190,
+    "line_end": 191,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 本办法自2018年9月1日起施行。原民航总局于2006年4月3日公布的《外国航空运输企业常驻代表机构审批管理办法》(民航总局令第165号)同时废止。",
+    "line_start": 192,
+    "line_end": 192,
+    "source_anchor": "第三十四条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 附则",
+    "line_start": 186,
+    "line_end": 192,
+    "source_anchor": "第五章"
+  }
+}

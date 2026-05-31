@@ -1,0 +1,466 @@
+{
+  "law:民用机场飞行程序和运行最低标准管理规定": {
+    "node_id": "law:民用机场飞行程序和运行最低标准管理规定",
+    "type": "law",
+    "title": "民用机场飞行程序和运行最低标准管理规定",
+    "line_start": 0,
+    "line_end": 286,
+    "source_anchor": "民用机场飞行程序和运行最低标准管理规定"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总  则",
+    "line_start": 13,
+    "line_end": 45,
+    "source_anchor": "第一章"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 飞行程序设计和运行最低标准拟定",
+    "line_start": 46,
+    "line_end": 164,
+    "source_anchor": "第二章"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 飞行程序和运行最低标准的批准、",
+    "line_start": 165,
+    "line_end": 204,
+    "source_anchor": "第三章"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 飞行程序和运行最低标准的使用和维护",
+    "line_start": 205,
+    "line_end": 236,
+    "source_anchor": "第四章"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 飞行程序设计人员和单位的管理",
+    "line_start": 237,
+    "line_end": 253,
+    "source_anchor": "第五章"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 监督检查",
+    "line_start": 254,
+    "line_end": 266,
+    "source_anchor": "第六章"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 法律责任",
+    "line_start": 267,
+    "line_end": 280,
+    "source_anchor": "第七章"
+  },
+  "chapter:8": {
+    "node_id": "chapter:8",
+    "type": "chapter",
+    "title": "第八章 附  则",
+    "line_start": 281,
+    "line_end": 286,
+    "source_anchor": "第八章"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了保障民用航空器的飞行运行安全,规范民用机场飞",
+    "line_start": 14,
+    "line_end": 17,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规定适用于中华人民共和国境内民用机场(含军民合",
+    "line_start": 18,
+    "line_end": 20,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 本规定中的飞行程序,是指为航空器在机场区域运行所",
+    "line_start": 21,
+    "line_end": 31,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 运输机场应当建立仪表飞行程序,根据需要建立目视飞",
+    "line_start": 32,
+    "line_end": 33,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 中国民用航空局(以下简称民航局)负责全国民用机场",
+    "line_start": 34,
+    "line_end": 36,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 中国民用航空地区管理局(以下简称地区管理局)负责",
+    "line_start": 37,
+    "line_end": 40,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 机场管理机构负责机场飞行程序设计和运行最低标准",
+    "line_start": 41,
+    "line_end": 45,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 飞行程序设计和运行最低标准的拟定应当遵循以下原",
+    "line_start": 50,
+    "line_end": 60,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 飞行程序设计和运行最低标准拟定应当考虑下列因素:",
+    "line_start": 61,
+    "line_end": 71,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 飞行程序设计和运行最低标准拟定应当遵守国际民航",
+    "line_start": 72,
+    "line_end": 77,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 飞行程序设计和运行最低标准拟定可由机场管理机构",
+    "line_start": 78,
+    "line_end": 79,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 飞行程序设计和运行最低标准拟定过程中,拟定单位",
+    "line_start": 80,
+    "line_end": 82,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 机场管理机构负责与当地政府协调军民航有关单位,",
+    "line_start": 83,
+    "line_end": 84,
+    "source_anchor": "第十三条"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 基本要求",
+    "line_start": 47,
+    "line_end": 84,
+    "source_anchor": "第一节"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 新建、改建、扩建运输机场的飞行程序设计和运行最",
+    "line_start": 87,
+    "line_end": 93,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 “飞行程序预先研究”是在运输机场选址或者项目建",
+    "line_start": 94,
+    "line_end": 109,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 “飞行程序方案研究”是在运输机场建设可行性研究",
+    "line_start": 110,
+    "line_end": 119,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 “飞行程序初步设计”是在运输机场工程可行性研究",
+    "line_start": 120,
+    "line_end": 133,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 “飞行程序正式设计”是在运输机场建设竣工阶段,",
+    "line_start": 134,
+    "line_end": 148,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 飞行程序设计报告应当按照民航局的有关规范进行",
+    "line_start": 149,
+    "line_end": 150,
+    "source_anchor": "第十九条"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 新建、改建、扩建运输机场飞行程序设计",
+    "line_start": 85,
+    "line_end": 150,
+    "source_anchor": "第二节"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 出现下列情况时,运输机场管理机构应当根据需要对",
+    "line_start": 152,
+    "line_end": 161,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 飞行程序和运行最低标准的修改或者优化,可以根",
+    "line_start": 162,
+    "line_end": 164,
+    "source_anchor": "第二十一条"
+  },
+  "section:3": {
+    "node_id": "section:3",
+    "type": "section",
+    "title": "第三节 运输机场飞行程序和运行最低标准的修改和优化",
+    "line_start": 151,
+    "line_end": 164,
+    "source_anchor": "第三节"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 飞行程序预先研究在编制运输机场选址报告和运输",
+    "line_start": 167,
+    "line_end": 173,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 “飞行程序初步设计”报告由运输机场管理机构报",
+    "line_start": 174,
+    "line_end": 175,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 “飞行程序正式设计”报告由运输机场管理机构报",
+    "line_start": 176,
+    "line_end": 180,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 运输机场的飞行程序校验由机场管理机构承担,由",
+    "line_start": 181,
+    "line_end": 182,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 执行飞行程序校验任务的航空器的机载设备、性能",
+    "line_start": 183,
+    "line_end": 189,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 在下列情况下,应当组织机场试飞:",
+    "line_start": 190,
+    "line_end": 198,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 飞行程序校验或机场试飞后,地区管理局组织相关",
+    "line_start": 199,
+    "line_end": 201,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 运输机场的飞行程序和运行最低标准,由民航局航",
+    "line_start": 202,
+    "line_end": 204,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 驾驶员、飞行签派员、空中交通管制员和机场管理机",
+    "line_start": 206,
+    "line_end": 209,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 航空器运营人、空中交通管理部门等单位或者个人",
+    "line_start": 210,
+    "line_end": 214,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 机场管理机构应当加强机场净空巡视,监控可能影",
+    "line_start": 215,
+    "line_end": 223,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 出现导航设施、目视助航设施或气象探测设施故障",
+    "line_start": 224,
+    "line_end": 232,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 在有特殊运行需要时,经地区管理局批准,航空器",
+    "line_start": 233,
+    "line_end": 236,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 民航局负责组织制定飞行程序设计人员训练大纲。",
+    "line_start": 238,
+    "line_end": 238,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 飞行程序设计人员承担设计工作应从事飞行程序",
+    "line_start": 239,
+    "line_end": 240,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 飞行程序设计单位应当具有3 名(含)以上设计人",
+    "line_start": 241,
+    "line_end": 243,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 飞行程序设计单位应当保证其飞行程序设计人员",
+    "line_start": 244,
+    "line_end": 253,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 民航局、地区管理局依据职责对民用机场飞行程序",
+    "line_start": 255,
+    "line_end": 256,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 民航局负责对飞行程序设计人员训练大纲执行情况",
+    "line_start": 257,
+    "line_end": 260,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 地区管理局对飞行程序设计单位的备案情况、飞行",
+    "line_start": 261,
+    "line_end": 262,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 地区管理局对机场管理机构工作开展情况进行检",
+    "line_start": 263,
+    "line_end": 266,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 违反本规定第二十条,运输机场管理机构未对飞行",
+    "line_start": 268,
+    "line_end": 273,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 违反本规定第三十三条,机场管理机构未对飞行程",
+    "line_start": 274,
+    "line_end": 276,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 违反本规定第三十七条,飞行程序设计单位未在民",
+    "line_start": 277,
+    "line_end": 280,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 本规定自2017 年1 月1 日起施行。2001 年2 月26",
+    "line_start": 282,
+    "line_end": 286,
+    "source_anchor": "第四十六条"
+  }
+}

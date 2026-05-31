@@ -1,0 +1,1050 @@
+{
+  "law:民用航空运输机场航空安全保卫规则": {
+    "node_id": "law:民用航空运输机场航空安全保卫规则",
+    "type": "law",
+    "title": "(一)督促和指导机场实施《国家民用航空安全保卫规划》,建立和运行航空安保管理体系;",
+    "line_start": 0,
+    "line_end": 712,
+    "source_anchor": "(一)督促和指导机场实施《国家民用航空安全保卫规划》,建立和运行航空安保管理体系;"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了规范民用航空运输机场航空安全保卫(以下简称航空安保)工作,保证旅客、工作人员、公众和机场设施设备的安全,根据《中华人民共和国民用航空安全保卫条例》,制定本规则。",
+    "line_start": 2,
+    "line_end": 3,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规则适用于中华人民共和国境内民用航空运输机场(含军民合用机场民用部分,以下简称机场)的安全保卫工作,与机场安全保卫活动有关的单位和个人应当遵守本规则。",
+    "line_start": 4,
+    "line_end": 5,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 中国民用航空局(以下简称民航局)对机场航空安保工作实行监督管理。主要职责包括:",
+    "line_start": 6,
+    "line_end": 27,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 民航地区管理局负责航空安保法规标准在本地区机场的贯彻执行,对违法、违规行为进行查处。主要职责包括:",
+    "line_start": 28,
+    "line_end": 45,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 机场管理机构对机场航空安保工作承担直接责任,负责实施有关航空安保法规标准。其主要职责包括:",
+    "line_start": 46,
+    "line_end": 63,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 旅客以及其他进入机场的人员,应当遵守有关航空安保规定。",
+    "line_start": 64,
+    "line_end": 65,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 机场管理机构应当接受民航局、民航地区管理局的行业管理。",
+    "line_start": 70,
+    "line_end": 71,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 机场管理机构应当指定一名负责航空安保工作的副总经理,负责协调有关部门执行航空安保方案,并直接向总经理负责。",
+    "line_start": 72,
+    "line_end": 79,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 公共航空运输企业及油料、空管、配餐等驻场民航单位应当设置航空安保机构或配备航空安保人员,并将航空安保机构的设置和人员的配备情况报所在地机场公安机关和民航地区管理局备案。",
+    "line_start": 80,
+    "line_end": 81,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 本规则自2016年5月22日起施行。",
+    "line_start": 712,
+    "line_end": 712,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 违反本规则第一百零八条规定,相关机构未按规定制定或未有效实施航空安保方案的,由民航地区管理局责令限期改正;逾期未改正的,处以1万元以上3万元以下罚款。",
+    "line_start": 668,
+    "line_end": 669,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 违反本规则第一百零九条规定,机场管理机构迟报、漏报或者隐瞒不报信息的,由民航地区管理局予以警告并处以1万元以上3万元以下罚款;造成恶劣后果的,并对有关单位负责人和相关责任人员依法给予行政处分。",
+    "line_start": 670,
+    "line_end": 671,
+    "source_anchor": "第十二条"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 机场开放使用的安保要求",
+    "line_start": 228,
+    "line_end": 257,
+    "source_anchor": "第一节"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 违反本规则第一百一十二条规定,机场管理机构未按规定接受审计、评估、考察,或未按规定报告情况的,由民航地区管理局对机场管理机构予以警告;情节严重的,处以1万元以上3万元以下罚款。",
+    "line_start": 672,
+    "line_end": 673,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 违反本规则第一百一十五条规定,机场管理机构未按规定制定应急处置预案、配备相应设施设备并按期开展演练的,由民航地区管理局责令限期改正;逾期未改正的,处以1万元以上3万元以下罚款。",
+    "line_start": 674,
+    "line_end": 675,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 违反本规则第一百二十条规定,机场管理机构不执行安保指令和信息通告的,由民航地区管理局责令限期改正。",
+    "line_start": 676,
+    "line_end": 677,
+    "source_anchor": "第十五条"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 机场控制区的划分",
+    "line_start": 258,
+    "line_end": 269,
+    "source_anchor": "第二节"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 违反本规则第一百二十九条规定,机场管理机构、驻场民航单位不接受、不配合民航局、民航地区管理局监督检查的,或不提供有关记录档案的,予以警告;情节严重的,处以1万元以上3万元以下罚款。",
+    "line_start": 678,
+    "line_end": 679,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 民航局、民航地区管理局工作人员不依法履行监督检查职责,或有滥用职权、玩忽职守行为的,由有关部门依法予以行政处分。",
+    "line_start": 680,
+    "line_end": 681,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 违反本规则构成犯罪的,依法追究刑事责任。",
+    "line_start": 682,
+    "line_end": 683,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 本规则下列用语的含义:",
+    "line_start": 686,
+    "line_end": 711,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 机场管理机构及驻场民航单位应当按照民航局有关规定,制定背景调查程序和措施,对相关人员进行背景调查。",
+    "line_start": 118,
+    "line_end": 121,
+    "source_anchor": "第二十条"
+  },
+  "section:3": {
+    "node_id": "section:3",
+    "type": "section",
+    "title": "第三节 机场控制区的安保设施",
+    "line_start": 270,
+    "line_end": 279,
+    "source_anchor": "第三节"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 机场管理机构应当建立航空安保经费投入和保障制度,并在航空安保方案中列明。",
+    "line_start": 124,
+    "line_end": 141,
+    "source_anchor": "第二十一条"
+  },
+  "section:4": {
+    "node_id": "section:4",
+    "type": "section",
+    "title": "第四节 机场控制区通行证",
+    "line_start": 280,
+    "line_end": 345,
+    "source_anchor": "第四节"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 一般规定",
+    "line_start": 66,
+    "line_end": 141,
+    "source_anchor": "第二章"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 机场运行应当具备符合规定的航空安保方案。",
+    "line_start": 146,
+    "line_end": 147,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 航空安保方案应当根据本规则及其他航空安保法规标准制定并适时修订。",
+    "line_start": 148,
+    "line_end": 149,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 航空安保方案应当由机场法定代表人或者其授权人员签署,并以书面形式独立成册、采用易于修订的活页形式,在修订过的每一页上注有最后一次修订的日期。",
+    "line_start": 152,
+    "line_end": 153,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 航空安保方案的内容应当包括:",
+    "line_start": 154,
+    "line_end": 171,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 机场的航空安保方案应当符合民航局和民航地区管理局的规定。",
+    "line_start": 174,
+    "line_end": 175,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 新建或改扩建的机场的航空安保方案应当在机场开放使用前,与机场使用许可的申请材料共同报送民航地区管理局。",
+    "line_start": 176,
+    "line_end": 177,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 民航地区管理局审查机场使用许可申请时,一并审查机场安保方案。",
+    "line_start": 178,
+    "line_end": 179,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 航空安保方案具有约束力,机场管理机构及有关单位应当执行。",
+    "line_start": 180,
+    "line_end": 181,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 机场管理机构应当在下列情形下对航空安保方案进行修订,以确保其持续有效:",
+    "line_start": 184,
+    "line_end": 191,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 为了保护国家安全和公共利益的需要,民航局可要求机场对其航空安保方案作出紧急修订,机场管理机构应当在收到通知后10个工作日内完成修订。",
+    "line_start": 192,
+    "line_end": 193,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 机场管理机构根据本规则第三十条、第三十一条对航空安保方案作出修订的,应当在修订内容实施前至少5个工作日报民航地区管理局备案。",
+    "line_start": 194,
+    "line_end": 197,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 机场管理机构应当根据工作需要,将航空安保方案的相关部分分发给机场相关部门以及有关驻场单位。",
+    "line_start": 200,
+    "line_end": 201,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 机场管理机构将安保业务外包给航空安保服务机构的,应当将航空安保方案中与外包安保业务相关的部分提供给航空安保服务机构。",
+    "line_start": 202,
+    "line_end": 203,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 机场管理机构应当将航空安保方案文本保存在便于安保工作人员查阅的地方。",
+    "line_start": 204,
+    "line_end": 205,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 航空安保方案为敏感信息文件,应当进行编号并做好登记,妥善保存。",
+    "line_start": 206,
+    "line_end": 207,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 航空安保方案的分发、查阅范围必须受到限制,只限于履行职责需要此种信息的应知人员。",
+    "line_start": 208,
+    "line_end": 209,
+    "source_anchor": "第三十七条"
+  },
+  "section:5": {
+    "node_id": "section:5",
+    "type": "section",
+    "title": "第五节 机场控制区通行管制",
+    "line_start": 346,
+    "line_end": 371,
+    "source_anchor": "第五节"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 机场管理机构应当与公共航空运输企业、通用航空企业、航空配餐企业以及地面服务代理等机构签订航空安保协议,以便本机场航空安保方案中列明的措施和程序得到有效执行。",
+    "line_start": 212,
+    "line_end": 213,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 机场管理机构将安保业务外包的,应当签订航空安保协议,内容至少包括:",
+    "line_start": 214,
+    "line_end": 223,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 航空安保协议应当妥善保存,以便民航地区管理局检查。",
+    "line_start": 224,
+    "line_end": 225,
+    "source_anchor": "第四十条"
+  },
+  "section:6": {
+    "node_id": "section:6",
+    "type": "section",
+    "title": "第六节 候机隔离区的航空安保措施",
+    "line_start": 372,
+    "line_end": 397,
+    "source_anchor": "第六节"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 航空安保方案",
+    "line_start": 142,
+    "line_end": 225,
+    "source_anchor": "第三章"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 机场根据年旅客吞吐量以及受威胁程度划分安保等级,实行分级管理。",
+    "line_start": 230,
+    "line_end": 231,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 机场的新建、改建和扩建,应当符合《民用航空运输机场安全保卫设施》(MH/T7003)规定。",
+    "line_start": 232,
+    "line_end": 233,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 机场的开放使用,应当满足下列安保条件:",
+    "line_start": 234,
+    "line_end": 249,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 申请换发民用机场使用许可证,应当同时报送下列文件资料:",
+    "line_start": 250,
+    "line_end": 257,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 机场管理机构应当按照规定,会同相关驻场单位划定机场控制区。",
+    "line_start": 260,
+    "line_end": 261,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 机场控制区根据安保需要,划分为候机隔离区、行李分拣装卸区、航空器活动区和维修区、货物存放区等。机场控制区的具体划分情况应当在航空安保方案中列明。",
+    "line_start": 262,
+    "line_end": 263,
+    "source_anchor": "第四十六条"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 机场控制区应当有严密的航空安保措施,实行封闭式分区管理。",
+    "line_start": 264,
+    "line_end": 267,
+    "source_anchor": "第四十七条"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 机场管理机构应当设置受到非法干扰威胁的航空器隔离停放区,并在航空安保方案中列明。",
+    "line_start": 268,
+    "line_end": 269,
+    "source_anchor": "第四十八条"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 机场管理机构应当保持机场控制区防护围栏处于持续良好状态,并配备相应人员进行巡逻检查,及时发现并消除安全隐患。",
+    "line_start": 272,
+    "line_end": 273,
+    "source_anchor": "第四十九条"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 进出机场控制区的道口应当具有与防护围栏同等隔离效果的设施保护。",
+    "line_start": 274,
+    "line_end": 275,
+    "source_anchor": "第五十条"
+  },
+  "article:51": {
+    "node_id": "article:51",
+    "type": "article",
+    "title": "第五十一条 进出机场控制区道口的安全检查应当符合民航局及民航地区管理局的相关规定。",
+    "line_start": 276,
+    "line_end": 277,
+    "source_anchor": "第五十一条"
+  },
+  "article:52": {
+    "node_id": "article:52",
+    "type": "article",
+    "title": "第五十二条 机场控制区的安保设施设备应当符合《民用航空运输机场安全保卫设施》(MH/T7003)及相关规定的要求。",
+    "line_start": 278,
+    "line_end": 279,
+    "source_anchor": "第五十二条"
+  },
+  "article:53": {
+    "node_id": "article:53",
+    "type": "article",
+    "title": "第五十三条 机场控制区应当实行通行管制,进入机场控制区的工作人员、车辆应当持有机场控制区通行证。",
+    "line_start": 282,
+    "line_end": 283,
+    "source_anchor": "第五十三条"
+  },
+  "article:54": {
+    "node_id": "article:54",
+    "type": "article",
+    "title": "第五十四条 机场控制区人员通行证应当包含以下信息:",
+    "line_start": 284,
+    "line_end": 301,
+    "source_anchor": "第五十四条"
+  },
+  "article:55": {
+    "node_id": "article:55",
+    "type": "article",
+    "title": "第五十五条 申办机场控制区人员通行证,应当同时具备下列条件:",
+    "line_start": 302,
+    "line_end": 311,
+    "source_anchor": "第五十五条"
+  },
+  "article:56": {
+    "node_id": "article:56",
+    "type": "article",
+    "title": "第五十六条 对因工作需要一次性进入机场控制区的人员,凭驻场接待单位出具的证明信,经发证机构审查合格后为其办理一次性通行证。",
+    "line_start": 312,
+    "line_end": 315,
+    "source_anchor": "第五十六条"
+  },
+  "article:57": {
+    "node_id": "article:57",
+    "type": "article",
+    "title": "第五十七条 因工作需要进入机场航空器活动区的车辆,应当办理机场控制区车辆通行证,车辆通行证应当包含以下信息:",
+    "line_start": 316,
+    "line_end": 333,
+    "source_anchor": "第五十七条"
+  },
+  "article:58": {
+    "node_id": "article:58",
+    "type": "article",
+    "title": "第五十八条 机场控制区人员、车辆通行证的制作应符合有关制作技术标准。",
+    "line_start": 334,
+    "line_end": 337,
+    "source_anchor": "第五十八条"
+  },
+  "article:59": {
+    "node_id": "article:59",
+    "type": "article",
+    "title": "第五十九条 发证机构应当按照民航局及民航地区管理局的有关规定对办证申请进行审核,严格控制证件发放范围和数量,防止无关人员、车辆进入机场控制区。",
+    "line_start": 338,
+    "line_end": 339,
+    "source_anchor": "第五十九条"
+  },
+  "article:60": {
+    "node_id": "article:60",
+    "type": "article",
+    "title": "第六十条 发证机构应当定期核查持证人背景调查资料,确保持证人员持续符合要求。",
+    "line_start": 340,
+    "line_end": 343,
+    "source_anchor": "第六十条"
+  },
+  "article:61": {
+    "node_id": "article:61",
+    "type": "article",
+    "title": "第六十一条 机场控制区人员、车辆通行证的发证机构和管理规定,应当在航空安保方案中列明。",
+    "line_start": 344,
+    "line_end": 345,
+    "source_anchor": "第六十一条"
+  },
+  "article:62": {
+    "node_id": "article:62",
+    "type": "article",
+    "title": "第六十二条 机场管理机构应当制定措施和程序,并配备符合标准的人员和设施设备,对进入机场控制区的人员、车辆进行安全检查,防止未经许可的人员、车辆进入。",
+    "line_start": 348,
+    "line_end": 349,
+    "source_anchor": "第六十二条"
+  },
+  "article:63": {
+    "node_id": "article:63",
+    "type": "article",
+    "title": "第六十三条 乘机旅客应当通过安全检查通道进入指定的区域候机和登机。",
+    "line_start": 350,
+    "line_end": 353,
+    "source_anchor": "第六十三条"
+  },
+  "article:64": {
+    "node_id": "article:64",
+    "type": "article",
+    "title": "第六十四条 民用航空监察员凭民航局或地区管理局颁发的通行证进入机场控制区。",
+    "line_start": 354,
+    "line_end": 355,
+    "source_anchor": "第六十四条"
+  },
+  "article:65": {
+    "node_id": "article:65",
+    "type": "article",
+    "title": "第六十五条 空勤人员执行飞行任务时凭空勤登机证进入机场控制区。",
+    "line_start": 356,
+    "line_end": 357,
+    "source_anchor": "第六十五条"
+  },
+  "article:66": {
+    "node_id": "article:66",
+    "type": "article",
+    "title": "第六十六条 持机场控制区一次性通行证的人员,应当在发证机构指定人员引领下进入机场控制区。",
+    "line_start": 358,
+    "line_end": 359,
+    "source_anchor": "第六十六条"
+  },
+  "article:67": {
+    "node_id": "article:67",
+    "type": "article",
+    "title": "第六十七条 车辆进入机场控制区应当停车接受道口值守人员对车辆、驾驶员、搭乘人员和车辆证件及所载物品的检查。",
+    "line_start": 360,
+    "line_end": 363,
+    "source_anchor": "第六十七条"
+  },
+  "article:68": {
+    "node_id": "article:68",
+    "type": "article",
+    "title": "第六十八条 进入机场控制区的车辆应当由合格的驾驶员驾驶,在机场控制区内行驶的车辆应当按照划定的路线行驶,在划定的位置停放。",
+    "line_start": 364,
+    "line_end": 365,
+    "source_anchor": "第六十八条"
+  },
+  "article:69": {
+    "node_id": "article:69",
+    "type": "article",
+    "title": "第六十九条 对进入机场控制区的工具、物料和器材应当实施安保控制措施。道口和安检通道值守人员应当对工作人员进出机场控制区所携带的工具、物料和器材进行检查、核对和登记,带出时予以核销。使用单位应当明确专人负责工具、物料和器材在机场控制区内的管理。",
+    "line_start": 366,
+    "line_end": 369,
+    "source_anchor": "第六十九条"
+  },
+  "article:70": {
+    "node_id": "article:70",
+    "type": "article",
+    "title": "第七十条 运输航空配餐和机上供应品的车辆进入机场控制区应当全程签封,道口安检人员应当查验签封是否完好并核对签封编号。",
+    "line_start": 370,
+    "line_end": 371,
+    "source_anchor": "第七十条"
+  },
+  "article:71": {
+    "node_id": "article:71",
+    "type": "article",
+    "title": "第七十一条 候机隔离区应当封闭管理,凡与非隔离区相毗邻的门、窗、通道等部位,应采取有效的隔离措施。",
+    "line_start": 374,
+    "line_end": 375,
+    "source_anchor": "第七十一条"
+  },
+  "article:72": {
+    "node_id": "article:72",
+    "type": "article",
+    "title": "第七十二条 机场应当配备与旅客吞吐量相适应的安检通道及安检人员和设备,确保所有进入候机隔离区的人员及物品经过安全检查。",
+    "line_start": 376,
+    "line_end": 377,
+    "source_anchor": "第七十二条"
+  },
+  "article:73": {
+    "node_id": "article:73",
+    "type": "article",
+    "title": "第七十三条 机场应当建立符合标准的安检信息管理系统,及时收集、存储旅客安检信息。",
+    "line_start": 378,
+    "line_end": 379,
+    "source_anchor": "第七十三条"
+  },
+  "article:74": {
+    "node_id": "article:74",
+    "type": "article",
+    "title": "第七十四条 已经通过安全检查的人员离开候机隔离区再次进入的,应当重新接受安全检查。",
+    "line_start": 380,
+    "line_end": 381,
+    "source_anchor": "第七十四条"
+  },
+  "article:75": {
+    "node_id": "article:75",
+    "type": "article",
+    "title": "第七十五条 已经通过安全检查和未经安全检查的人员不得相混或接触。如发生相混或接触,机场管理机构应当采取以下措施:",
+    "line_start": 382,
+    "line_end": 389,
+    "source_anchor": "第七十五条"
+  },
+  "article:76": {
+    "node_id": "article:76",
+    "type": "article",
+    "title": "第七十六条 机场管理机构应当采取措施,确保过站和转机旅客受到有效的安保控制。",
+    "line_start": 390,
+    "line_end": 393,
+    "source_anchor": "第七十六条"
+  },
+  "article:77": {
+    "node_id": "article:77",
+    "type": "article",
+    "title": "第七十七条 机场受公共航空运输企业委托,开展值机、托运行李、过站等地面代理服务的,其航空安保措施应当符合《公共航空运输企业航空安全保卫规则》相关规定。",
+    "line_start": 394,
+    "line_end": 395,
+    "source_anchor": "第七十七条"
+  },
+  "article:78": {
+    "node_id": "article:78",
+    "type": "article",
+    "title": "第七十八条 安全检查业务外包的,机场管理机构应当与服务提供商签订安保协议,并对候机隔离区实施有效控制。",
+    "line_start": 396,
+    "line_end": 397,
+    "source_anchor": "第七十八条"
+  },
+  "article:79": {
+    "node_id": "article:79",
+    "type": "article",
+    "title": "第七十九条 除非同时满足以下条件,任何人员不得携带武器乘机:",
+    "line_start": 400,
+    "line_end": 405,
+    "source_anchor": "第七十九条"
+  },
+  "article:80": {
+    "node_id": "article:80",
+    "type": "article",
+    "title": "第八十条 对警卫人员随身携带的武器进行安全检查时,应当:",
+    "line_start": 406,
+    "line_end": 411,
+    "source_anchor": "第八十条"
+  },
+  "article:81": {
+    "node_id": "article:81",
+    "type": "article",
+    "title": "第八十一条 对公共航空运输企业收运的枪支弹药进行安全检查时,应当确认枪支和弹药分离。",
+    "line_start": 412,
+    "line_end": 413,
+    "source_anchor": "第八十一条"
+  },
+  "section:7": {
+    "node_id": "section:7",
+    "type": "section",
+    "title": "第七节 携带武器乘机或托运枪支弹药的航空安保措施",
+    "line_start": 398,
+    "line_end": 413,
+    "source_anchor": "第七节"
+  },
+  "article:82": {
+    "node_id": "article:82",
+    "type": "article",
+    "title": "第八十二条 航空器在地面的安保应当明确划分责任,并分别在机场、公共航空运输企业航空安保方案中列明。",
+    "line_start": 416,
+    "line_end": 417,
+    "source_anchor": "第八十二条"
+  },
+  "article:83": {
+    "node_id": "article:83",
+    "type": "article",
+    "title": "第八十三条 执行航班飞行任务的民用航空器在机坪短暂停留期间,由机场管理机构负责监护。",
+    "line_start": 418,
+    "line_end": 421,
+    "source_anchor": "第八十三条"
+  },
+  "article:84": {
+    "node_id": "article:84",
+    "type": "article",
+    "title": "第八十四条 航空器监护人员接收和移交监护任务时,应当与机务人员办理交接手续,填写记录,双方签字。",
+    "line_start": 422,
+    "line_end": 423,
+    "source_anchor": "第八十四条"
+  },
+  "article:85": {
+    "node_id": "article:85",
+    "type": "article",
+    "title": "第八十五条 航空器停放区域应当有充足的照明,确保守护人员及巡逻人员能够及时发现未经授权的非法接触。",
+    "line_start": 424,
+    "line_end": 427,
+    "source_anchor": "第八十五条"
+  },
+  "article:86": {
+    "node_id": "article:86",
+    "type": "article",
+    "title": "第八十六条 当发生下列情况时,机场管理机构应组织机场公安、安检等相关部门对航空器进行安保搜查:",
+    "line_start": 428,
+    "line_end": 437,
+    "source_anchor": "第八十六条"
+  },
+  "section:8": {
+    "node_id": "section:8",
+    "type": "section",
+    "title": "第八节 航空器在地面的航空安保措施",
+    "line_start": 414,
+    "line_end": 437,
+    "source_anchor": "第八节"
+  },
+  "article:87": {
+    "node_id": "article:87",
+    "type": "article",
+    "title": "第八十七条 下列设施和部位应划定为要害部位,并实施相应的航空安保措施:",
+    "line_start": 440,
+    "line_end": 451,
+    "source_anchor": "第八十七条"
+  },
+  "article:88": {
+    "node_id": "article:88",
+    "type": "article",
+    "title": "第八十八条 要害部位的安全保卫应当明确主责单位,并由其制定安保制度和应急处置预案,采取相应的航空安保措施。",
+    "line_start": 452,
+    "line_end": 455,
+    "source_anchor": "第八十八条"
+  },
+  "article:89": {
+    "node_id": "article:89",
+    "type": "article",
+    "title": "第八十九条 要害部位应当至少采取下列航空安保措施:",
+    "line_start": 456,
+    "line_end": 465,
+    "source_anchor": "第八十九条"
+  },
+  "section:9": {
+    "node_id": "section:9",
+    "type": "section",
+    "title": "第九节 要害部位的航空安保措施",
+    "line_start": 438,
+    "line_end": 465,
+    "source_anchor": "第九节"
+  },
+  "article:90": {
+    "node_id": "article:90",
+    "type": "article",
+    "title": "第九十条 机场非控制区的航空安保措施应当符合航空安保法规标准的要求,其内容应当纳入机场、公共航空运输企业航空安保方案。",
+    "line_start": 468,
+    "line_end": 469,
+    "source_anchor": "第九十条"
+  },
+  "article:91": {
+    "node_id": "article:91",
+    "type": "article",
+    "title": "第九十一条 机场公安机关应当保持足够警力在机场候机楼、停车场等公共区域巡逻。",
+    "line_start": 470,
+    "line_end": 471,
+    "source_anchor": "第九十一条"
+  },
+  "article:92": {
+    "node_id": "article:92",
+    "type": "article",
+    "title": "第九十二条 候机楼前人行道应当设置相应的安全防护设施,防止车辆冲击候机楼。",
+    "line_start": 472,
+    "line_end": 473,
+    "source_anchor": "第九十二条"
+  },
+  "article:93": {
+    "node_id": "article:93",
+    "type": "article",
+    "title": "第九十三条 候机楼内售票柜台及其他办理登机手续设施的结构应当能够防止旅客和公众进入工作区。所有客票和登机牌、行李标牌等应当采取航空安保措施,防止被盗或者滥用。",
+    "line_start": 474,
+    "line_end": 475,
+    "source_anchor": "第九十三条"
+  },
+  "article:94": {
+    "node_id": "article:94",
+    "type": "article",
+    "title": "第九十四条 候机楼广播、电视系统应定时通告,告知旅客和公众应当遵守的基本安保事项和程序。在候机楼内、售票处、办理乘机手续柜台、安检通道等位置应当设置适当的安保告示牌。",
+    "line_start": 476,
+    "line_end": 477,
+    "source_anchor": "第九十四条"
+  },
+  "article:95": {
+    "node_id": "article:95",
+    "type": "article",
+    "title": "第九十五条 设在候机楼内的小件物品寄存场所,其寄存的物品应当经过安全检查。",
+    "line_start": 478,
+    "line_end": 479,
+    "source_anchor": "第九十五条"
+  },
+  "article:96": {
+    "node_id": "article:96",
+    "type": "article",
+    "title": "第九十六条 无人看管行李、无人认领行李和错运行李应存放在机场的指定区域,并采取相应的航空安保措施。",
+    "line_start": 480,
+    "line_end": 481,
+    "source_anchor": "第九十六条"
+  },
+  "article:97": {
+    "node_id": "article:97",
+    "type": "article",
+    "title": "第九十七条 机场管理机构应当对保洁员等候机楼内工作人员进行培训,制定对候机楼内卫生间、垃圾箱等隐蔽部位的检查措施以及发现可疑物品的报告程序。",
+    "line_start": 482,
+    "line_end": 483,
+    "source_anchor": "第九十七条"
+  },
+  "article:98": {
+    "node_id": "article:98",
+    "type": "article",
+    "title": "第九十八条 机场管理机构应当组织制定对候机楼、停车场等公共区域发现的无主可疑物或可疑车辆的处置程序并配备相应的防爆设备。",
+    "line_start": 484,
+    "line_end": 485,
+    "source_anchor": "第九十八条"
+  },
+  "article:99": {
+    "node_id": "article:99",
+    "type": "article",
+    "title": "第九十九条 候机楼地下不得设置公共停车场;候机楼地下已设有公共停车场的,应在入口处配置爆炸物探测设备,对进入车辆进行安全检查。",
+    "line_start": 486,
+    "line_end": 487,
+    "source_anchor": "第九十九条"
+  },
+  "article:100": {
+    "node_id": "article:100",
+    "type": "article",
+    "title": "第一百条 机场非控制区可以俯视航空器、安检现场的区域以及穿越机场控制区下方的通道,应当采取以下措施:",
+    "line_start": 488,
+    "line_end": 495,
+    "source_anchor": "第一百条"
+  },
+  "article:101": {
+    "node_id": "article:101",
+    "type": "article",
+    "title": "第一百一条 机场要客服务区域应当采取适当的航空安保措施,防止未经授权人员进入。",
+    "line_start": 496,
+    "line_end": 497,
+    "source_anchor": "第一百一条"
+  },
+  "section:10": {
+    "node_id": "section:10",
+    "type": "section",
+    "title": "第十节 机场非控制区的航空安保措施",
+    "line_start": 466,
+    "line_end": 497,
+    "source_anchor": "第十节"
+  },
+  "article:102": {
+    "node_id": "article:102",
+    "type": "article",
+    "title": "第一百二条 机场租户应当与机场管理机构签订航空安保协议,协议中应当包含以下内容:",
+    "line_start": 500,
+    "line_end": 511,
+    "source_anchor": "第一百二条"
+  },
+  "article:103": {
+    "node_id": "article:103",
+    "type": "article",
+    "title": "第一百三条 机场租户应当根据机场航空安保方案,制定相应的航空安保措施,并报机场管理机构备案。",
+    "line_start": 512,
+    "line_end": 513,
+    "source_anchor": "第一百三条"
+  },
+  "article:104": {
+    "node_id": "article:104",
+    "type": "article",
+    "title": "第一百四条 机场租户人员、物品进入机场控制区,应当经过安全检查。",
+    "line_start": 514,
+    "line_end": 517,
+    "source_anchor": "第一百四条"
+  },
+  "article:105": {
+    "node_id": "article:105",
+    "type": "article",
+    "title": "第一百五条 机场租户应当履行所在机场航空安保方案所规定的责任,对员工进行航空安保法规标准培训。",
+    "line_start": 518,
+    "line_end": 519,
+    "source_anchor": "第一百五条"
+  },
+  "article:106": {
+    "node_id": "article:106",
+    "type": "article",
+    "title": "第一百六条 机场租户所租地构成控制区与非控制区界线的一部分,或者经其可以从非控制区进入控制区者,应当配合机场管理机构对通过其区域的进出实施控制,防止未经授权和未经安全检查的人员、物品进入控制区。",
+    "line_start": 520,
+    "line_end": 521,
+    "source_anchor": "第一百六条"
+  },
+  "section:11": {
+    "node_id": "section:11",
+    "type": "section",
+    "title": "第十一节 机场租户的航空安保措施",
+    "line_start": 498,
+    "line_end": 521,
+    "source_anchor": "第十一节"
+  },
+  "article:107": {
+    "node_id": "article:107",
+    "type": "article",
+    "title": "第一百七条 机场联检部门应当对工作人员进行航空安保法规标准的培训,维护民用航空安全。其工作场地构成控制区与非控制区界线的一部分,或经其可从非控制区进入控制区者,应当负责对通过其区域的进出实施控制,防止未经授权和未经安全检查的人员、物品进入控制区。",
+    "line_start": 524,
+    "line_end": 525,
+    "source_anchor": "第一百七条"
+  },
+  "article:108": {
+    "node_id": "article:108",
+    "type": "article",
+    "title": "第一百八条 空管部门、航空油料和地面服务代理等其他驻场民航单位应当制定并实施相应的航空安保方案,并报机场所在地民航地区管理局备案。",
+    "line_start": 526,
+    "line_end": 527,
+    "source_anchor": "第一百八条"
+  },
+  "section:12": {
+    "node_id": "section:12",
+    "type": "section",
+    "title": "第十二节 驻场单位的航空安保措施",
+    "line_start": 522,
+    "line_end": 527,
+    "source_anchor": "第十二节"
+  },
+  "article:109": {
+    "node_id": "article:109",
+    "type": "article",
+    "title": "第一百九条 机场管理机构应当建立航空安保信息报告制度,发生以下情况应当立即报告民航地区管理局:",
+    "line_start": 530,
+    "line_end": 543,
+    "source_anchor": "第一百九条"
+  },
+  "section:13": {
+    "node_id": "section:13",
+    "type": "section",
+    "title": "第十三节 信息报告",
+    "line_start": 528,
+    "line_end": 555,
+    "source_anchor": "第十三节"
+  },
+  "section:14": {
+    "node_id": "section:14",
+    "type": "section",
+    "title": "第十四节 其他规定",
+    "line_start": 556,
+    "line_end": 567,
+    "source_anchor": "第十四节"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 运行航空安保措施",
+    "line_start": 226,
+    "line_end": 567,
+    "source_anchor": "第四章"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 安保应急处置",
+    "line_start": 568,
+    "line_end": 609,
+    "source_anchor": "第五章"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 监督管理",
+    "line_start": 610,
+    "line_end": 629,
+    "source_anchor": "第六章"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 法律责任",
+    "line_start": 630,
+    "line_end": 683,
+    "source_anchor": "第七章"
+  },
+  "chapter:8": {
+    "node_id": "chapter:8",
+    "type": "chapter",
+    "title": "第八章 附 则",
+    "line_start": 684,
+    "line_end": 712,
+    "source_anchor": "第八章"
+  }
+}

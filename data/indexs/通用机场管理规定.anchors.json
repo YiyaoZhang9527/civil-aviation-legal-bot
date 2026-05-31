@@ -1,0 +1,738 @@
+{
+  "law:通用机场管理规定": {
+    "node_id": "law:通用机场管理规定",
+    "type": "law",
+    "title": "《通用机场管理规定》已于2024 年11 月22 日经第22",
+    "line_start": 0,
+    "line_end": 507,
+    "source_anchor": "《通用机场管理规定》已于2024 年11 月22 日经第22"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了规范通用机场管理,促进通用机场安全有",
+    "line_start": 15,
+    "line_end": 17,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 中华人民共和国境内通用机场的建设、使用、",
+    "line_start": 18,
+    "line_end": 19,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 通用机场按照飞行场地的物理特性分为跑道",
+    "line_start": 20,
+    "line_end": 30,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 跑道型机场的飞行区指标和水上机场的飞行",
+    "line_start": 31,
+    "line_end": 35,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 通用机场按照其社会属性分为A、B 两类。",
+    "line_start": 36,
+    "line_end": 45,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 中国民用航空局(以下简称中国民航局)和中",
+    "line_start": 46,
+    "line_end": 50,
+    "source_anchor": "第六条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总   则",
+    "line_start": 13,
+    "line_end": 50,
+    "source_anchor": "第一章"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 通用机场场址应当符合工程建设强制性标准",
+    "line_start": 53,
+    "line_end": 55,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 民航地区管理局出具行业意见,应当依据新",
+    "line_start": 56,
+    "line_end": 66,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 当通用机场场址发生较大变化时,民航地区管",
+    "line_start": 67,
+    "line_end": 69,
+    "source_anchor": "第九条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 场址管理",
+    "line_start": 51,
+    "line_end": 69,
+    "source_anchor": "第二章"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 通用机场专业工程的建设应当符合有关法律、",
+    "line_start": 73,
+    "line_end": 75,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 通用机场专业工程的勘察、设计、施工、监",
+    "line_start": 76,
+    "line_end": 77,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 通用机场专业工程参建单位和从业人员应",
+    "line_start": 78,
+    "line_end": 80,
+    "source_anchor": "第十二条"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 名   称",
+    "line_start": 157,
+    "line_end": 187,
+    "source_anchor": "第一节"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 通用机场专业工程的设计分为初步设计和",
+    "line_start": 83,
+    "line_end": 89,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 通用机场专业工程的设计应当满足国家和",
+    "line_start": 90,
+    "line_end": 92,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 飞行区指标Ⅰ达到2 的跑道型机场专业工程",
+    "line_start": 93,
+    "line_end": 96,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 民航地区管理局收到初步设计审查申请材",
+    "line_start": 97,
+    "line_end": 104,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 民航地区管理局受理初步设计审查申请后,",
+    "line_start": 105,
+    "line_end": 108,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 民航地区管理局应当自受理初步设计审查",
+    "line_start": 109,
+    "line_end": 112,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 设计单位应当按照审查通过的初步设计、国",
+    "line_start": 113,
+    "line_end": 117,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 建设单位在将通用机场专业工程的施工图",
+    "line_start": 118,
+    "line_end": 123,
+    "source_anchor": "第二十条"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 使用许可",
+    "line_start": 188,
+    "line_end": 283,
+    "source_anchor": "第二节"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 施工单位应当按照工程设计图纸和施工",
+    "line_start": 126,
+    "line_end": 127,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 以机场道面建设为主体工程的通用机场",
+    "line_start": 128,
+    "line_end": 136,
+    "source_anchor": "第二十二条"
+  },
+  "section:3": {
+    "node_id": "section:3",
+    "type": "section",
+    "title": "第三节 备   案",
+    "line_start": 284,
+    "line_end": 312,
+    "source_anchor": "第三节"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 通用机场建设有通信、导航、监视等地面",
+    "line_start": 139,
+    "line_end": 145,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 通用机场建设有通信、导航、监视等设施",
+    "line_start": 146,
+    "line_end": 148,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 建设单位应当依法组织勘察、设计、监理、",
+    "line_start": 149,
+    "line_end": 155,
+    "source_anchor": "第二十五条"
+  },
+  "section:4": {
+    "node_id": "section:4",
+    "type": "section",
+    "title": "第四节 通用机场专业工程的验收",
+    "line_start": 137,
+    "line_end": 155,
+    "source_anchor": "第四节"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 通用机场专业工程建设管理",
+    "line_start": 70,
+    "line_end": 155,
+    "source_anchor": "第三章"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 通用机场的命名、更名应当符合《地名管",
+    "line_start": 159,
+    "line_end": 160,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 通用机场名称应当由专名和通名两部分",
+    "line_start": 161,
+    "line_end": 166,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 通用机场的一级专名应当与机场所在地",
+    "line_start": 167,
+    "line_end": 177,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 通用机场的更名应当遵循下列要求:",
+    "line_start": 178,
+    "line_end": 184,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 通用机场命名或者更名的办理程序另行规",
+    "line_start": 185,
+    "line_end": 187,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 A 类通用机场实行使用许可制度,取得机",
+    "line_start": 190,
+    "line_end": 191,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 A 类通用机场应当由机场运营人按照本规",
+    "line_start": 192,
+    "line_end": 198,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 机场运营人应当在机场使用许可证规定",
+    "line_start": 199,
+    "line_end": 200,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 申请机场使用许可证的机场应当具备下",
+    "line_start": 201,
+    "line_end": 209,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 机场运营人申请机场使用许可证,应当提",
+    "line_start": 210,
+    "line_end": 219,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 民航地区管理局收到申请材料后,对于申",
+    "line_start": 220,
+    "line_end": 229,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 民航地区管理局应当自受理申请之日起",
+    "line_start": 230,
+    "line_end": 234,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 民航地区管理局在对机场运营人报送的",
+    "line_start": 235,
+    "line_end": 239,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 机场使用许可证载明的下列事项发生变",
+    "line_start": 240,
+    "line_end": 251,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 机场运营人应当确保手册与机场实际运行",
+    "line_start": 252,
+    "line_end": 265,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 有下列情形之一的,民航地区管理局应当",
+    "line_start": 266,
+    "line_end": 272,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 机场运营人决定机场关闭不再运营的,应",
+    "line_start": 273,
+    "line_end": 283,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 B 类通用机场实行备案管理。机场运营人",
+    "line_start": 286,
+    "line_end": 288,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 机场运营人应当在备案的范围内开展运",
+    "line_start": 289,
+    "line_end": 292,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 机场运营人向民航地区管理局提交备案",
+    "line_start": 293,
+    "line_end": 300,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 机场运营人应当对备案信息动态更新,确",
+    "line_start": 301,
+    "line_end": 307,
+    "source_anchor": "第四十六条"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 机场运营人决定关闭机场不再运营的,应",
+    "line_start": 308,
+    "line_end": 312,
+    "source_anchor": "第四十七条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 名称、使用许可及备案管理",
+    "line_start": 156,
+    "line_end": 312,
+    "source_anchor": "第四章"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 机场运营人负责通用机场的安全和运营",
+    "line_start": 315,
+    "line_end": 316,
+    "source_anchor": "第四十八条"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 机场运营人应当与驻场单位签订有关机",
+    "line_start": 317,
+    "line_end": 320,
+    "source_anchor": "第四十九条"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 机场运营人应当与驻场单位及相关通用航",
+    "line_start": 321,
+    "line_end": 322,
+    "source_anchor": "第五十条"
+  },
+  "article:51": {
+    "node_id": "article:51",
+    "type": "article",
+    "title": "第五十一条 A 类通用机场运营人、相关驻场单位应当",
+    "line_start": 323,
+    "line_end": 326,
+    "source_anchor": "第五十一条"
+  },
+  "article:52": {
+    "node_id": "article:52",
+    "type": "article",
+    "title": "第五十二条 A 类通用机场运营人应当加强机场飞行场",
+    "line_start": 327,
+    "line_end": 334,
+    "source_anchor": "第五十二条"
+  },
+  "article:53": {
+    "node_id": "article:53",
+    "type": "article",
+    "title": "第五十三条 A 类通用机场运营人应当加强目视助航设",
+    "line_start": 335,
+    "line_end": 337,
+    "source_anchor": "第五十三条"
+  },
+  "article:54": {
+    "node_id": "article:54",
+    "type": "article",
+    "title": "第五十四条 A类通用机场运营人应当加强机坪(停泊",
+    "line_start": 338,
+    "line_end": 340,
+    "source_anchor": "第五十四条"
+  },
+  "article:55": {
+    "node_id": "article:55",
+    "type": "article",
+    "title": "第五十五条 机场运营人应当依据有关规定的要求制",
+    "line_start": 341,
+    "line_end": 346,
+    "source_anchor": "第五十五条"
+  },
+  "article:56": {
+    "node_id": "article:56",
+    "type": "article",
+    "title": "第五十六条 机场运营人应当依照有关规定配合所在",
+    "line_start": 347,
+    "line_end": 352,
+    "source_anchor": "第五十六条"
+  },
+  "article:57": {
+    "node_id": "article:57",
+    "type": "article",
+    "title": "第五十七条 A 类通用机场运营人应当根据机场内及临",
+    "line_start": 353,
+    "line_end": 355,
+    "source_anchor": "第五十七条"
+  },
+  "article:58": {
+    "node_id": "article:58",
+    "type": "article",
+    "title": "第五十八条 A类通用机场内开展施工的,机场运营人",
+    "line_start": 356,
+    "line_end": 362,
+    "source_anchor": "第五十八条"
+  },
+  "article:59": {
+    "node_id": "article:59",
+    "type": "article",
+    "title": "第五十九条 A 类通用机场运营人应当具备必要的机场",
+    "line_start": 363,
+    "line_end": 368,
+    "source_anchor": "第五十九条"
+  },
+  "article:60": {
+    "node_id": "article:60",
+    "type": "article",
+    "title": "第六十条 A 类通用机场运营人应当建立机场检查、维",
+    "line_start": 369,
+    "line_end": 371,
+    "source_anchor": "第六十条"
+  },
+  "article:61": {
+    "node_id": "article:61",
+    "type": "article",
+    "title": "第六十一条 鼓励B 类通用机场运营人建立飞行场地、",
+    "line_start": 372,
+    "line_end": 376,
+    "source_anchor": "第六十一条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 安全和运营管理",
+    "line_start": 313,
+    "line_end": 376,
+    "source_anchor": "第五章"
+  },
+  "article:62": {
+    "node_id": "article:62",
+    "type": "article",
+    "title": "第六十二条 民航地区管理局应当按照分类分级监督",
+    "line_start": 379,
+    "line_end": 388,
+    "source_anchor": "第六十二条"
+  },
+  "article:63": {
+    "node_id": "article:63",
+    "type": "article",
+    "title": "第六十三条 通用机场名称、类别、主要起降机型及机",
+    "line_start": 389,
+    "line_end": 390,
+    "source_anchor": "第六十三条"
+  },
+  "article:64": {
+    "node_id": "article:64",
+    "type": "article",
+    "title": "第六十四条 机场运营人、通用航空企业及其他驻场单",
+    "line_start": 391,
+    "line_end": 393,
+    "source_anchor": "第六十四条"
+  },
+  "article:65": {
+    "node_id": "article:65",
+    "type": "article",
+    "title": "第六十五条 任何单位或者个人有权向民航行政机关",
+    "line_start": 394,
+    "line_end": 397,
+    "source_anchor": "第六十五条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 监督管理",
+    "line_start": 377,
+    "line_end": 397,
+    "source_anchor": "第六章"
+  },
+  "article:66": {
+    "node_id": "article:66",
+    "type": "article",
+    "title": "第六十六条 建设单位违反本规定第十五条,飞行区指",
+    "line_start": 400,
+    "line_end": 405,
+    "source_anchor": "第六十六条"
+  },
+  "article:67": {
+    "node_id": "article:67",
+    "type": "article",
+    "title": "第六十七条 机场运营人违反本规定第三十一条,未取",
+    "line_start": 406,
+    "line_end": 409,
+    "source_anchor": "第六十七条"
+  },
+  "article:68": {
+    "node_id": "article:68",
+    "type": "article",
+    "title": "第六十八条 机场运营人违反本规定第三十三条,未按",
+    "line_start": 410,
+    "line_end": 417,
+    "source_anchor": "第六十八条"
+  },
+  "article:69": {
+    "node_id": "article:69",
+    "type": "article",
+    "title": "第六十九条 机场运营人违反本规定第三十五条,提供",
+    "line_start": 418,
+    "line_end": 423,
+    "source_anchor": "第六十九条"
+  },
+  "article:70": {
+    "node_id": "article:70",
+    "type": "article",
+    "title": "第七十条 机场运营人违反本规定第三十九条、第四十",
+    "line_start": 424,
+    "line_end": 429,
+    "source_anchor": "第七十条"
+  },
+  "article:71": {
+    "node_id": "article:71",
+    "type": "article",
+    "title": "第七十一条 机场运营人违反本规定第四十二条,未在",
+    "line_start": 430,
+    "line_end": 434,
+    "source_anchor": "第七十一条"
+  },
+  "article:72": {
+    "node_id": "article:72",
+    "type": "article",
+    "title": "第七十二条 机场运营人违反本规定第四十三条,未向",
+    "line_start": 435,
+    "line_end": 448,
+    "source_anchor": "第七十二条"
+  },
+  "article:73": {
+    "node_id": "article:73",
+    "type": "article",
+    "title": "第七十三条 A 类通用机场运营人有下列行为之一的,",
+    "line_start": 449,
+    "line_end": 458,
+    "source_anchor": "第七十三条"
+  },
+  "article:74": {
+    "node_id": "article:74",
+    "type": "article",
+    "title": "第七十四条 建设单位有下列行为之一的,由民航地区",
+    "line_start": 459,
+    "line_end": 473,
+    "source_anchor": "第七十四条"
+  },
+  "article:75": {
+    "node_id": "article:75",
+    "type": "article",
+    "title": "第七十五条 机场运营人、相关驻场单位有下列行为之",
+    "line_start": 474,
+    "line_end": 481,
+    "source_anchor": "第七十五条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 法律责任",
+    "line_start": 398,
+    "line_end": 481,
+    "source_anchor": "第七章"
+  },
+  "article:76": {
+    "node_id": "article:76",
+    "type": "article",
+    "title": "第七十六条 本规定中下列用语的含义是:",
+    "line_start": 484,
+    "line_end": 496,
+    "source_anchor": "第七十六条"
+  },
+  "article:77": {
+    "node_id": "article:77",
+    "type": "article",
+    "title": "第七十七条 通用机场专业工程范围按照国务院民用",
+    "line_start": 497,
+    "line_end": 498,
+    "source_anchor": "第七十七条"
+  },
+  "article:78": {
+    "node_id": "article:78",
+    "type": "article",
+    "title": "第七十八条 用于航空器临时起降的场地不适用本规",
+    "line_start": 499,
+    "line_end": 504,
+    "source_anchor": "第七十八条"
+  },
+  "article:79": {
+    "node_id": "article:79",
+    "type": "article",
+    "title": "第七十九条 本规定自2025 年4 月1 日起施行。",
+    "line_start": 505,
+    "line_end": 507,
+    "source_anchor": "第七十九条"
+  },
+  "chapter:8": {
+    "node_id": "chapter:8",
+    "type": "chapter",
+    "title": "第八章 附   则",
+    "line_start": 482,
+    "line_end": 507,
+    "source_anchor": "第八章"
+  }
+}

@@ -1,0 +1,858 @@
+{
+  "law:民用航空危险品运输管理规定": {
+    "node_id": "law:民用航空危险品运输管理规定",
+    "type": "law",
+    "title": "《民用航空危险品运输管理规定》已于2024 年1 月12",
+    "line_start": 0,
+    "line_end": 752,
+    "source_anchor": "《民用航空危险品运输管理规定》已于2024 年1 月12"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了加强民用航空危险品运输管理,规范危险",
+    "line_start": 16,
+    "line_end": 21,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 中华人民共和国境内的承运人、机场管理机构、",
+    "line_start": 22,
+    "line_end": 28,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 中国民用航空局(以下简称民航局)负责对民",
+    "line_start": 29,
+    "line_end": 33,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 从事民用航空危险品运输有关活动的单位和个",
+    "line_start": 34,
+    "line_end": 40,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 有关行业协会应当加强行业自律,推进诚信建",
+    "line_start": 41,
+    "line_end": 44,
+    "source_anchor": "第五条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总   则",
+    "line_start": 14,
+    "line_end": 44,
+    "source_anchor": "第一章"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 任何单位和个人不得在行李中携带或者通过货",
+    "line_start": 47,
+    "line_end": 49,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 除运输安全水平符合要求并获得民航行政机关",
+    "line_start": 50,
+    "line_end": 56,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 托运、收运、载运含有危险品的邮件,应当符",
+    "line_start": 57,
+    "line_end": 58,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 符合下列情况的物品或者物质,按照《技术细",
+    "line_start": 59,
+    "line_end": 72,
+    "source_anchor": "第九条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 运输限制",
+    "line_start": 45,
+    "line_end": 72,
+    "source_anchor": "第二章"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 承运人从事危险品货物、含有危险品的邮件(以",
+    "line_start": 76,
+    "line_end": 78,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 境内承运人申请取得危险品航空运输许可",
+    "line_start": 79,
+    "line_end": 88,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 港澳台地区承运人、外国承运人申请取得危",
+    "line_start": 89,
+    "line_end": 100,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 民航地区管理局作出的危险品航空运输许",
+    "line_start": 101,
+    "line_end": 108,
+    "source_anchor": "第十三条"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 一般规定",
+    "line_start": 416,
+    "line_end": 443,
+    "source_anchor": "第一节"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 境内承运人申请危险品航空运输许可的,应",
+    "line_start": 111,
+    "line_end": 120,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 港澳台地区承运人、外国承运人申请危险品",
+    "line_start": 121,
+    "line_end": 135,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 经审查,境内承运人符合本规定第十一条、",
+    "line_start": 136,
+    "line_end": 141,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 民航地区管理局应当自受理申请之日起20",
+    "line_start": 142,
+    "line_end": 151,
+    "source_anchor": "第十七条"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 培训大纲",
+    "line_start": 444,
+    "line_end": 464,
+    "source_anchor": "第二节"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 危险品航空运输许可的有效期最长不超过",
+    "line_start": 154,
+    "line_end": 161,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 承运人要求变更许可事项的,应当向民航地",
+    "line_start": 162,
+    "line_end": 163,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 承运人申请许可有效期延续的,应当在许可",
+    "line_start": 164,
+    "line_end": 169,
+    "source_anchor": "第二十条"
+  },
+  "section:3": {
+    "node_id": "section:3",
+    "type": "section",
+    "title": "第三节 培训机构",
+    "line_start": 465,
+    "line_end": 501,
+    "source_anchor": "第三节"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 运输许可",
+    "line_start": 73,
+    "line_end": 169,
+    "source_anchor": "第三章"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 境内承运人、地面服务代理人应当制定符",
+    "line_start": 174,
+    "line_end": 179,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 境内承运人、地面服务代理人的危险品航",
+    "line_start": 180,
+    "line_end": 205,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 承运人委托地面服务代理人代表其从事",
+    "line_start": 206,
+    "line_end": 217,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 承运人、地面服务代理人应当采取必要措",
+    "line_start": 218,
+    "line_end": 226,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 承运人、地面服务代理人应当按照危险品",
+    "line_start": 227,
+    "line_end": 229,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 运输机场管理机构应当制定机场危险品航",
+    "line_start": 230,
+    "line_end": 235,
+    "source_anchor": "第二十六条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 运输手册管理",
+    "line_start": 170,
+    "line_end": 235,
+    "source_anchor": "第四章"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 托运人应当确保办理危险品货物托运手",
+    "line_start": 238,
+    "line_end": 240,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 托运人将危险品货物提交航空运输前,应",
+    "line_start": 241,
+    "line_end": 246,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 托运人将货物提交航空运输时,应当向承",
+    "line_start": 247,
+    "line_end": 257,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 托运人应当向承运人提供所托运危险品货",
+    "line_start": 258,
+    "line_end": 260,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 托运人应当确保航空货运单、危险品运输",
+    "line_start": 261,
+    "line_end": 263,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 托运人应当保存一份危险品航空运输相",
+    "line_start": 264,
+    "line_end": 268,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 托运人代理人从事危险品货物航空运输",
+    "line_start": 269,
+    "line_end": 272,
+    "source_anchor": "第三十三条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 托运人责任",
+    "line_start": 236,
+    "line_end": 272,
+    "source_anchor": "第五章"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 境内承运人、地面服务代理人应当将危险",
+    "line_start": 276,
+    "line_end": 281,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 境内承运人、地面服务代理人应当明确适",
+    "line_start": 282,
+    "line_end": 285,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 承运人和地面服务代理人应当对从事公共",
+    "line_start": 286,
+    "line_end": 290,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 承运人应当按照危险品航空运输许可的",
+    "line_start": 293,
+    "line_end": 296,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 承运人接收危险品货物、邮件进行航空运",
+    "line_start": 297,
+    "line_end": 308,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 承运人应当按照《技术细则》及民航行政",
+    "line_start": 309,
+    "line_end": 311,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 承运人应当按照《技术细则》及民航行政机",
+    "line_start": 312,
+    "line_end": 314,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 承运人应当按照《技术细则》及民航行政",
+    "line_start": 315,
+    "line_end": 319,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 承运人应当在载运危险品货物、邮件的飞",
+    "line_start": 320,
+    "line_end": 324,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 委托地面服务代理人代表其从事危险品",
+    "line_start": 325,
+    "line_end": 329,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 承运人应当采取措施防止货物、邮件、行",
+    "line_start": 330,
+    "line_end": 334,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 境内承运人应当对其地面服务代理人的",
+    "line_start": 335,
+    "line_end": 337,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 地面服务代理人应当按照与承运人签订",
+    "line_start": 340,
+    "line_end": 342,
+    "source_anchor": "第四十六条"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 在首次开展航空运输地面服务代理活动",
+    "line_start": 343,
+    "line_end": 356,
+    "source_anchor": "第四十七条"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 地面服务代理人开展危险品航空运输活动",
+    "line_start": 357,
+    "line_end": 362,
+    "source_anchor": "第四十八条"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 地面服务代理人代表承运人从事危险品航",
+    "line_start": 363,
+    "line_end": 365,
+    "source_anchor": "第四十九条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 承运人及其地面服务代理人责任",
+    "line_start": 273,
+    "line_end": 365,
+    "source_anchor": "第六章"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 承运人在向旅客出售机票时,应当向旅客提",
+    "line_start": 368,
+    "line_end": 373,
+    "source_anchor": "第五十条"
+  },
+  "article:51": {
+    "node_id": "article:51",
+    "type": "article",
+    "title": "第五十一条 在旅客办理乘机手续时,承运人或者地面",
+    "line_start": 374,
+    "line_end": 378,
+    "source_anchor": "第五十一条"
+  },
+  "article:52": {
+    "node_id": "article:52",
+    "type": "article",
+    "title": "第五十二条 承运人、地面服务代理人或者机场管理机",
+    "line_start": 379,
+    "line_end": 383,
+    "source_anchor": "第五十二条"
+  },
+  "article:53": {
+    "node_id": "article:53",
+    "type": "article",
+    "title": "第五十三条 承运人或者地面服务代理人应当在货物、",
+    "line_start": 384,
+    "line_end": 391,
+    "source_anchor": "第五十三条"
+  },
+  "article:54": {
+    "node_id": "article:54",
+    "type": "article",
+    "title": "第五十四条 承运人、地面服务代理人、从事民航安全",
+    "line_start": 392,
+    "line_end": 398,
+    "source_anchor": "第五十四条"
+  },
+  "article:55": {
+    "node_id": "article:55",
+    "type": "article",
+    "title": "第五十五条 民用航空器上载运危险品货物、邮件时,",
+    "line_start": 399,
+    "line_end": 402,
+    "source_anchor": "第五十五条"
+  },
+  "article:56": {
+    "node_id": "article:56",
+    "type": "article",
+    "title": "第五十六条 飞行中发生紧急情况时,如果情况允许,",
+    "line_start": 403,
+    "line_end": 405,
+    "source_anchor": "第五十六条"
+  },
+  "article:57": {
+    "node_id": "article:57",
+    "type": "article",
+    "title": "第五十七条 承运人、地面服务代理人、机场管理机构",
+    "line_start": 406,
+    "line_end": 408,
+    "source_anchor": "第五十七条"
+  },
+  "article:58": {
+    "node_id": "article:58",
+    "type": "article",
+    "title": "第五十八条 承运人、地面服务代理人、从事民航安全",
+    "line_start": 409,
+    "line_end": 414,
+    "source_anchor": "第五十八条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 运输信息",
+    "line_start": 366,
+    "line_end": 414,
+    "source_anchor": "第七章"
+  },
+  "article:59": {
+    "node_id": "article:59",
+    "type": "article",
+    "title": "第五十九条 危险品货物托运人及托运人代理人、境内",
+    "line_start": 418,
+    "line_end": 431,
+    "source_anchor": "第五十九条"
+  },
+  "article:60": {
+    "node_id": "article:60",
+    "type": "article",
+    "title": "第六十条 港澳台地区承运人、外国承运人,应当确保",
+    "line_start": 432,
+    "line_end": 434,
+    "source_anchor": "第六十条"
+  },
+  "article:61": {
+    "node_id": "article:61",
+    "type": "article",
+    "title": "第六十一条 危险品货物托运人及托运人代理人、境内",
+    "line_start": 435,
+    "line_end": 443,
+    "source_anchor": "第六十一条"
+  },
+  "article:62": {
+    "node_id": "article:62",
+    "type": "article",
+    "title": "第六十二条 下列单位应当制定并持有符合本规定及",
+    "line_start": 446,
+    "line_end": 454,
+    "source_anchor": "第六十二条"
+  },
+  "article:63": {
+    "node_id": "article:63",
+    "type": "article",
+    "title": "第六十三条 危险品培训大纲应当根据受训人员的职责",
+    "line_start": 455,
+    "line_end": 461,
+    "source_anchor": "第六十三条"
+  },
+  "article:64": {
+    "node_id": "article:64",
+    "type": "article",
+    "title": "第六十四条 危险品培训大纲应当及时修订和更新,确",
+    "line_start": 462,
+    "line_end": 464,
+    "source_anchor": "第六十四条"
+  },
+  "article:65": {
+    "node_id": "article:65",
+    "type": "article",
+    "title": "第六十五条 危险品培训机构应当在首次开展培训活动",
+    "line_start": 469,
+    "line_end": 472,
+    "source_anchor": "第六十五条"
+  },
+  "article:66": {
+    "node_id": "article:66",
+    "type": "article",
+    "title": "第六十六条 危险品培训机构应当在备案时提交下列材",
+    "line_start": 473,
+    "line_end": 484,
+    "source_anchor": "第六十六条"
+  },
+  "article:67": {
+    "node_id": "article:67",
+    "type": "article",
+    "title": "第六十七条 危险品培训机构应当按照备案的危险品",
+    "line_start": 485,
+    "line_end": 498,
+    "source_anchor": "第六十七条"
+  },
+  "article:68": {
+    "node_id": "article:68",
+    "type": "article",
+    "title": "第六十八条 危险品培训机构应当确保本机构的危险",
+    "line_start": 499,
+    "line_end": 501,
+    "source_anchor": "第六十八条"
+  },
+  "article:69": {
+    "node_id": "article:69",
+    "type": "article",
+    "title": "第六十九条 危险品培训机构应当使用符合以下要求",
+    "line_start": 504,
+    "line_end": 511,
+    "source_anchor": "第六十九条"
+  },
+  "article:70": {
+    "node_id": "article:70",
+    "type": "article",
+    "title": "第七十条 危险品培训机构的教员应当按照本规定开展",
+    "line_start": 512,
+    "line_end": 527,
+    "source_anchor": "第七十条"
+  },
+  "section:4": {
+    "node_id": "section:4",
+    "type": "section",
+    "title": "第四节 培训教员",
+    "line_start": 502,
+    "line_end": 527,
+    "source_anchor": "第四节"
+  },
+  "chapter:8": {
+    "node_id": "chapter:8",
+    "type": "chapter",
+    "title": "第八章 培训管理",
+    "line_start": 415,
+    "line_end": 527,
+    "source_anchor": "第八章"
+  },
+  "article:71": {
+    "node_id": "article:71",
+    "type": "article",
+    "title": "第七十一条 从事民用航空危险品运输活动的有关单",
+    "line_start": 530,
+    "line_end": 532,
+    "source_anchor": "第七十一条"
+  },
+  "article:72": {
+    "node_id": "article:72",
+    "type": "article",
+    "title": "第七十二条 持有危险品航空运输许可的承运人,应当",
+    "line_start": 533,
+    "line_end": 537,
+    "source_anchor": "第七十二条"
+  },
+  "article:73": {
+    "node_id": "article:73",
+    "type": "article",
+    "title": "第七十三条 民航地区管理局应当自地面服务代理人、",
+    "line_start": 538,
+    "line_end": 541,
+    "source_anchor": "第七十三条"
+  },
+  "article:74": {
+    "node_id": "article:74",
+    "type": "article",
+    "title": "第七十四条 托运人、托运人代理人有下列行为之一的,",
+    "line_start": 542,
+    "line_end": 552,
+    "source_anchor": "第七十四条"
+  },
+  "chapter:9": {
+    "node_id": "chapter:9",
+    "type": "chapter",
+    "title": "第九章 监督管理",
+    "line_start": 528,
+    "line_end": 552,
+    "source_anchor": "第九章"
+  },
+  "article:75": {
+    "node_id": "article:75",
+    "type": "article",
+    "title": "第七十五条 承运人隐瞒有关情况或者提供虚假材料申",
+    "line_start": 555,
+    "line_end": 562,
+    "source_anchor": "第七十五条"
+  },
+  "article:76": {
+    "node_id": "article:76",
+    "type": "article",
+    "title": "第七十六条 托运人或者托运人代理人有下列行为之一",
+    "line_start": 563,
+    "line_end": 569,
+    "source_anchor": "第七十六条"
+  },
+  "article:77": {
+    "node_id": "article:77",
+    "type": "article",
+    "title": "第七十七条 托运人或者托运人代理人有下列行为之一",
+    "line_start": 570,
+    "line_end": 586,
+    "source_anchor": "第七十七条"
+  },
+  "article:78": {
+    "node_id": "article:78",
+    "type": "article",
+    "title": "第七十八条 承运人有下列行为之一的,由民航地区管",
+    "line_start": 587,
+    "line_end": 592,
+    "source_anchor": "第七十八条"
+  },
+  "article:79": {
+    "node_id": "article:79",
+    "type": "article",
+    "title": "第七十九条 承运人、地面服务代理人有下列行为之一",
+    "line_start": 593,
+    "line_end": 594,
+    "source_anchor": "第七十九条"
+  },
+  "article:85": {
+    "node_id": "article:85",
+    "type": "article",
+    "title": "第八十五条 托运人、托运人代理人、境内承运人、地",
+    "line_start": 670,
+    "line_end": 686,
+    "source_anchor": "第八十五条"
+  },
+  "article:80": {
+    "node_id": "article:80",
+    "type": "article",
+    "title": "第八十条 承运人、地面服务代理人有下列行为之一的,",
+    "line_start": 605,
+    "line_end": 633,
+    "source_anchor": "第八十条"
+  },
+  "article:81": {
+    "node_id": "article:81",
+    "type": "article",
+    "title": "第八十一条 承运人有下列行为之一的,由民航地区管",
+    "line_start": 634,
+    "line_end": 640,
+    "source_anchor": "第八十一条"
+  },
+  "article:82": {
+    "node_id": "article:82",
+    "type": "article",
+    "title": "第八十二条 承运人、地面服务代理人违反本规定第三",
+    "line_start": 641,
+    "line_end": 649,
+    "source_anchor": "第八十二条"
+  },
+  "article:83": {
+    "node_id": "article:83",
+    "type": "article",
+    "title": "第八十三条 地面服务代理人有下列行为之一的,由民",
+    "line_start": 650,
+    "line_end": 664,
+    "source_anchor": "第八十三条"
+  },
+  "article:84": {
+    "node_id": "article:84",
+    "type": "article",
+    "title": "第八十四条 托运人、托运人代理人、承运人、地面服",
+    "line_start": 665,
+    "line_end": 669,
+    "source_anchor": "第八十四条"
+  },
+  "article:86": {
+    "node_id": "article:86",
+    "type": "article",
+    "title": "第八十六条 有下列行为之一的,由民航地区管理局责",
+    "line_start": 687,
+    "line_end": 698,
+    "source_anchor": "第八十六条"
+  },
+  "article:87": {
+    "node_id": "article:87",
+    "type": "article",
+    "title": "第八十七条 承运人、地面服务代理人、从事民航安全",
+    "line_start": 699,
+    "line_end": 704,
+    "source_anchor": "第八十七条"
+  },
+  "article:88": {
+    "node_id": "article:88",
+    "type": "article",
+    "title": "第八十八条 危险品培训机构有下列行为之一的,由民",
+    "line_start": 705,
+    "line_end": 717,
+    "source_anchor": "第八十八条"
+  },
+  "article:89": {
+    "node_id": "article:89",
+    "type": "article",
+    "title": "第八十九条 违反本规定,有关危险物品的法律、行政",
+    "line_start": 718,
+    "line_end": 720,
+    "source_anchor": "第八十九条"
+  },
+  "chapter:10": {
+    "node_id": "chapter:10",
+    "type": "chapter",
+    "title": "第十章 法律责任",
+    "line_start": 553,
+    "line_end": 720,
+    "source_anchor": "第十章"
+  },
+  "article:90": {
+    "node_id": "article:90",
+    "type": "article",
+    "title": "第九十条 本规定中下列用语,除具体条款中另有规定",
+    "line_start": 723,
+    "line_end": 747,
+    "source_anchor": "第九十条"
+  },
+  "article:91": {
+    "node_id": "article:91",
+    "type": "article",
+    "title": "第九十一条 本规定自2024 年7 月1 日起施行。交通运",
+    "line_start": 748,
+    "line_end": 752,
+    "source_anchor": "第九十一条"
+  },
+  "chapter:11": {
+    "node_id": "chapter:11",
+    "type": "chapter",
+    "title": "第十一章 附则",
+    "line_start": 721,
+    "line_end": 752,
+    "source_anchor": "第十一章"
+  }
+}

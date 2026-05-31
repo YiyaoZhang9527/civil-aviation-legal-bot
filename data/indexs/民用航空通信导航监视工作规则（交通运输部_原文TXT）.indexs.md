@@ -1,0 +1,1599 @@
+# 本规则是组织实施通信导航监视工作的依据。提供通信导航监视服务的单位以及其他与通信导航监视工作有关的单位和个人,应当遵守本规则。
+- node_id: law:民用航空通信导航监视工作规则(交通运输部_原文TXT)
+- type: law
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 本规则是组织实施通信导航监视工作的依据。提供通信导航监视服务的单位以及其他与通信导航监视工作有关的单位和个人,应当遵守本规则。
+- summary: 本法核心调整对象为民用航空通信导航监视设备及其运行管理体系。主要规制领域包括：机构与人员资质管理、设施设备准入与建设、通信导航监视服务、运行维护与监控、飞行校验、资料管理、监督检查及法律责任。适用主体范围涵盖从事相关设备规划、建设、运行、维护、校验、管理的机构、人员及设备使用者。
+- keywords: 本规则是组织实施通信导航监视工作的依据, 提供通信导航监视服务的单位以及其他与通信导航监视工作有关的单位和个人, 应当遵守本规则, 第一章, 总则, 第一条
+- children: article:1, article:2, article:3, article:4, article:5, article:6, article:7, chapter:2, chapter:3, chapter:4, chapter:5, chapter:6, chapter:7, chapter:8, chapter:9, chapter:10
+
+## 第一条 为了规范民用航空通信导航监视(以下简称通信导航监视)工作,保障民用航空活动的安全、正常和高效,依据《中华人民共和国民用航空法》《中华人民共和国飞行基本规则》和《民用机场管理条例》,制定本规则。
+- node_id: article:1
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第一条
+- summary: 第一条 为了规范民用航空通信导航监视(以下简称通信导航监视)工作,保障民用航空活动的安全、正常和高效,依据《中华人民共和国民用航空法》《中华人民共和国飞行基本规则》和《民用机场管理条例》,制定本规则
+- keywords: 制定本规则, 民用机场管理条例, 中华人民共和国飞行基本规则, 中华人民共和国民用航空法, 依据, 第一条, 为了规范民用航空通信导航监视, 以下简称通信导航监视
+
+## 第二条 本规则适用于在中华人民共和国领域内以及根据我国缔结或者参加的国际条约的规定,提供通信导航监视服务以及与通信导航监视服务有关的活动。
+- node_id: article:2
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第二条
+- summary: 第二条 本规则适用于在中华人民共和国领域内以及根据我国缔结或者参加的国际条约的规定,提供通信导航监视服务以及与通信导航监视服务有关的活动
+- keywords: 第二条, 本规则适用于在中华人民共和国领域内以及根据我国缔结或者参加的国际条约的规定, 提供通信导航监视服务以及与通信导航监视服务有关的活动, 本规则是组织实施通信导航监视工作的依据, 提供通信导航监视服务的单位以及其他与通信导航监视工作有关的单位和个人, 应当遵守本规则
+
+## 第三条 中国民用航空局(以下简称民航局)负责统一管理全国通信导航监视工作,民航地区管理局(以下简称地区管理局)负责监督管理本地区通信导航监视工作。
+- node_id: article:3
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第三条
+- summary: 第三条 中国民用航空局(以下简称民航局)负责统一管理全国通信导航监视工作,民航地区管理局(以下简称地区管理局)负责监督管理本地区通信导航监视工作
+- keywords: 负责监督管理本地区通信导航监视工作, 第三条, 中国民用航空局, 以下简称民航局, 负责统一管理全国通信导航监视工作, 民航地区管理局, 以下简称地区管理局
+
+## 第四条 通信导航监视工作的主要任务是通过配置和管理相应的人员及设施设备,为民用航空活动提供准确、及时、连续、可靠的通信导航监视服务。
+- node_id: article:4
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第四条
+- summary: 第四条 通信导航监视工作的主要任务是通过配置和管理相应的人员及设施设备,为民用航空活动提供准确、及时、连续、可靠的通信导航监视服务
+- keywords: 第四条, 通信导航监视工作的主要任务是通过配置和管理相应的人员及设施设备, 为民用航空活动提供准确, 及时, 连续, 可靠的通信导航监视服务
+
+## 第五条 组织与实施通信导航监视工作,贯彻安全第一、保障可靠、服务优质的方针,遵循科学配置、协调运行、集中统一、分工负责的原则。
+- node_id: article:5
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第五条
+- summary: 第五条 组织与实施通信导航监视工作,贯彻安全第一、保障可靠、服务优质的方针,遵循科学配置、协调运行、集中统一、分工负责的原则
+- keywords: 分工负责的原则, 集中统一, 协调运行, 第五条, 组织与实施通信导航监视工作, 贯彻安全第一, 保障可靠, 服务优质的方针
+
+## 第六条 民航局鼓励和支持通信导航监视领域的科学技术研究与应用、人才培养、国际合作与交流,不断提高通信导航监视服务水平。对通信导航监视工作做出突出贡献的单位和个人,给予奖励。
+- node_id: article:6
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第六条
+- summary: 第六条 民航局鼓励和支持通信导航监视领域的科学技术研究与应用、人才培养、国际合作与交流,不断提高通信导航监视服务水平
+- keywords: 给予奖励, 第六条, 民航局鼓励和支持通信导航监视领域的科学技术研究与应用, 人才培养, 国际合作与交流, 不断提高通信导航监视服务水平, 对通信导航监视工作做出突出贡献的单位和个人
+
+## 第七条 本规则所用术语的含义在本规则附件一《定义》中规定。
+- node_id: article:7
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第七条
+- summary: 第七条 本规则所用术语的含义在本规则附件一《定义》中规定
+- keywords: 第七条, 本规则所用术语的含义在本规则附件一, 定义, 中规定
+
+## 第二章 机构与人员
+- node_id: chapter:2
+- type: chapter
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第二章
+- summary: 本章规定监管机构、从业人员及组织的设立、职责、资格和执业规范，涵盖准入条件、行为准则、禁止性条款及法律责任。典型法律问题包括机构资质审批、人员执业许可、利益冲突防范及违规处罚。
+- keywords: 第二章, 机构与人员
+- children: section:1, section:2, section:3
+
+### 第一节 机构
+- node_id: section:1
+- type: section
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第一节
+- summary: 第一节 机构
+- keywords: 第一节, 机构
+- children: article:8, article:9, article:10, article:11, article:12
+
+#### 第八条 通信导航监视服务由通信导航监视运行保障单位提供。通信导航监视运行保障单位应当在指定的职责范围内提供通信导航监视服务。
+- node_id: article:8
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第八条
+- summary: 第八条 通信导航监视服务由通信导航监视运行保障单位提供
+- keywords: 第八条, 通信导航监视服务由通信导航监视运行保障单位提供, 通信导航监视运行保障单位应当在指定的职责范围内提供通信导航监视服务
+
+#### 第九条 通信导航监视运行保障单位应当具备下列基本条件:
+- node_id: article:9
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第九条
+- summary: 第九条 通信导航监视运行保障单位应当具备下列基本条件:
+- keywords: 第九条, 通信导航监视运行保障单位应当具备下列基本条件, 具有健全的组织机构和管理制度, 具有满足通信导航监视服务保障工作需要的, 持有有效执照的民用航空电信人员, 具有开展通信导航监视服务保障工作所需的设施设备
+
+#### 第十条 通信导航监视服务保障组织体系由全国、地区和机场通信导航监视运行保障单位等三级运行保障单位组成。
+- node_id: article:10
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十条
+- summary: 第十条 通信导航监视服务保障组织体系由全国、地区和机场通信导航监视运行保障单位等三级运行保障单位组成
+- keywords: 第十条, 通信导航监视服务保障组织体系由全国, 地区和机场通信导航监视运行保障单位等三级运行保障单位组成, 全国通信导航监视运行保障单位负责全国通信导航监视服务及设施设备的运行与管理, 以及全国范围内民航专用航空电信网络的运行保障, 状态监控和应急处置等工作
+
+#### 第十一条 各级通信导航监视运行保障单位根据工作职责,可以承担通信、导航、监视专业中的一项或者多项服务保障工作。
+- node_id: article:11
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十一条
+- summary: 第十一条 各级通信导航监视运行保障单位根据工作职责,可以承担通信、导航、监视专业中的一项或者多项服务保障工作
+- keywords: 第十一条, 各级通信导航监视运行保障单位根据工作职责, 可以承担通信, 导航, 监视专业中的一项或者多项服务保障工作
+
+#### 第十二条 空中交通管理单位、民用航空企业、机场以及其他与民用航空安全生产运行相关的单位应当按照民用航空有关法律、法规、规章和标准的要求,积极配合通信导航监视服务保障工作的实施。
+- node_id: article:12
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十二条
+- summary: 第十二条 空中交通管理单位、民用航空企业、机场以及其他与民用航空安全生产运行相关的单位应当按照民用航空有关法律、法规、规章和标准的要求,积极配合通信导航监视服务保障工作的实施
+- keywords: 积极配合通信导航监视服务保障工作的实施, 第十二条, 空中交通管理单位, 民用航空企业, 机场以及其他与民用航空安全生产运行相关的单位应当按照民用航空有关法律, 法规, 规章和标准的要求
+
+### 第二节 人员执照
+- node_id: section:2
+- type: section
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第二节
+- summary: 第二节 人员执照
+- keywords: 第二节, 人员执照
+- children: article:13, article:14, article:15, article:16
+
+#### 第十三条 从事通信导航监视服务保障工作的技术人员(以下简称航空电信人员)实行执照管理制度。航空电信人员执照由民航局统一管理。
+- node_id: article:13
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十三条
+- summary: 第十三条 从事通信导航监视服务保障工作的技术人员(以下简称航空电信人员)实行执照管理制度
+- keywords: 第十三条, 从事通信导航监视服务保障工作的技术人员, 以下简称航空电信人员, 实行执照管理制度, 航空电信人员执照由民航局统一管理
+
+#### 第十四条 航空电信人员应当按照《民用航空电信人员执照管理规则》要求取得电信人员执照,并按照规定保持其有效。未持有有效执照的人员,不得独立从事通信导航监视服务保障工作。
+- node_id: article:14
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十四条
+- summary: 第十四条 航空电信人员应当按照《民用航空电信人员执照管理规则》要求取得电信人员执照,并按照规定保持其有效
+- keywords: 不得独立从事通信导航监视服务保障工作, 第十四条, 航空电信人员应当按照, 民用航空电信人员执照管理规则, 要求取得电信人员执照, 并按照规定保持其有效, 未持有有效执照的人员
+
+#### 第十五条 航空电信人员执照类别包括通信专业、导航专业和监视专业三类。
+- node_id: article:15
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十五条
+- summary: 第十五条 航空电信人员执照类别包括通信专业、导航专业和监视专业三类
+- keywords: 第十五条, 航空电信人员执照类别包括通信专业, 导航专业和监视专业三类
+
+#### 第十六条 航空电信人员执照的申请、颁发、管理和监督,按照《民用航空电信人员执照管理规则》执行。
+- node_id: article:16
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十六条
+- summary: 第十六条 航空电信人员执照的申请、颁发、管理和监督,按照《民用航空电信人员执照管理规则》执行
+- keywords: 执行, 第十六条, 航空电信人员执照的申请, 颁发, 管理和监督, 按照, 民用航空电信人员执照管理规则
+
+### 第三节 人员培训
+- node_id: section:3
+- type: section
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第三节
+- summary: 第三节 人员培训
+- keywords: 第三节, 人员培训
+- children: article:17, article:18, article:19, article:20
+
+#### 第十七条 航空电信人员应当按照规定接受岗位培训和考核。
+- node_id: article:17
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十七条
+- summary: 第十七条 航空电信人员应当按照规定接受岗位培训和考核
+- keywords: 第十七条, 航空电信人员应当按照规定接受岗位培训和考核, 通信导航监视运行保障单位应当按照民航局有关规定组织航空电信人员岗位培训和考核
+
+#### 第十八条 航空电信人员岗位培训由通信导航监视运行保障单位或者培训机构实施。
+- node_id: article:18
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十八条
+- summary: 第十八条 航空电信人员岗位培训由通信导航监视运行保障单位或者培训机构实施
+- keywords: 第十八条, 航空电信人员岗位培训由通信导航监视运行保障单位或者培训机构实施
+
+#### 第十九条 从事与执照申请和执照注册相关的航空电信人员培训机构,应当具备符合规定的管理制度、专职管理人员和教学人员、场地和教学设施、培训平台、教学计划和教材,以及开展航空电信人员相关专业知识或者技能培训的经历。
+- node_id: article:19
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十九条
+- summary: 第十九条 从事与执照申请和执照注册相关的航空电信人员培训机构,应当具备符合规定的管理制度、专职管理人员和教学人员、场地和教学设施、培训平台、教学计划和教材,以及开展航空电信人员相关专业知识或者技能培训的经历
+- keywords: 以及开展航空电信人员相关专业知识或者技能培训的经历, 教学计划和教材, 第十九条, 从事与执照申请和执照注册相关的航空电信人员培训机构, 应当具备符合规定的管理制度, 专职管理人员和教学人员, 场地和教学设施, 培训平台
+
+#### 第二十条 通信导航监视运行保障单位应当每年组织通信导航监视从业人员进行专业培训,确保其专业知识更新。
+- node_id: article:20
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第二十条
+- summary: 第二十条 通信导航监视运行保障单位应当每年组织通信导航监视从业人员进行专业培训,确保其专业知识更新
+- keywords: 第二十条, 通信导航监视运行保障单位应当每年组织通信导航监视从业人员进行专业培训, 确保其专业知识更新, 专业培训考试, 记录应当记入个人技术档案
+
+## 第三章 设施与设备
+- node_id: chapter:3
+- type: chapter
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第三章
+- summary: 本章（第三章 设施与设备）主要规制设施与设备的建设标准、安全配置、维护保养及使用管理要求，确保其符合法定技术规范。典型法律问题包括：设施合规性验收责任、设备质量缺陷所致侵权、定期检修义务的履行、以及因不符合安全标准引发的行政处罚或民事责任。
+- keywords: 第三章, 设施与设备
+- children: section:1, section:2, section:3, section:4, section:5, section:6
+
+### 第一节 设备准入
+- node_id: section:1
+- type: section
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第一节
+- summary: 第一节 设备准入
+- keywords: 第一节, 设备准入
+- children: article:21, article:22
+
+#### 第二十一条 使用直接关系民用航空飞行活动安全的通信导航监视设备,应当符合民航局有关规定。
+- node_id: article:21
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第二十一条
+- summary: 第二十一条 使用直接关系民用航空飞行活动安全的通信导航监视设备,应当符合民航局有关规定
+- keywords: 第二十一条, 使用直接关系民用航空飞行活动安全的通信导航监视设备, 应当符合民航局有关规定
+
+#### 第二十二条 购置和使用实行使用许可管理的通信导航监视设备,应当从民航局定期公布的《民用航空通信导航监视设备使用许可目录》中选取。
+- node_id: article:22
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第二十二条
+- summary: 第二十二条 购置和使用实行使用许可管理的通信导航监视设备,应当从民航局定期公布的《民用航空通信导航监视设备使用许可目录》中选取
+- keywords: 第二十二条, 购置和使用实行使用许可管理的通信导航监视设备, 应当从民航局定期公布的, 民用航空通信导航监视设备使用许可目录, 中选取, 购置和使用不实行使用许可管理的通信导航监视设备
+
+### 第二节 规划与建设
+- node_id: section:2
+- type: section
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第二节
+- summary: 第二节 规划与建设
+- keywords: 第二节, 规划与建设
+- children: article:23, article:24, article:25, article:26, article:27, article:28, article:29
+
+#### 第二十三条 通信导航监视的发展与建设由民航局组织制定相关规划。
+- node_id: article:23
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第二十三条
+- summary: 第二十三条 通信导航监视的发展与建设由民航局组织制定相关规划
+- keywords: 第二十三条, 通信导航监视的发展与建设由民航局组织制定相关规划
+
+#### 第二十四条 通信导航监视发展与建设应当服从国家和民航发展总体规划,以运行需求为引导,坚持统一规划、科学合理、资源共享的原则,提高系统综合保障服务能力,确保飞行安全。
+- node_id: article:24
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第二十四条
+- summary: 第二十四条 通信导航监视发展与建设应当服从国家和民航发展总体规划,以运行需求为引导,坚持统一规划、科学合理、资源共享的原则,提高系统综合保障服务能力,确保飞行安全
+- keywords: 确保飞行安全, 提高系统综合保障服务能力, 第二十四条, 通信导航监视发展与建设应当服从国家和民航发展总体规划, 以运行需求为引导, 坚持统一规划, 科学合理, 资源共享的原则
+
+#### 第二十五条 通信导航监视运行保障单位以及与通信导航监视服务有关的单位负责提出通信导航监视服务发展和建设相关规划的需求和建议。
+- node_id: article:25
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第二十五条
+- summary: 第二十五条 通信导航监视运行保障单位以及与通信导航监视服务有关的单位负责提出通信导航监视服务发展和建设相关规划的需求和建议
+- keywords: 第二十五条, 通信导航监视运行保障单位以及与通信导航监视服务有关的单位负责提出通信导航监视服务发展和建设相关规划的需求和建议, 通信导航监视运行保障单位负责通信导航监视发展和建设相关规划的组织实施
+
+#### 第二十六条 新建、改建、扩建通信导航监视设施设备时,应当符合通信导航监视发展和建设的相关规划,并按有关规定建设防雷设施、安全保卫设施、消防设施以及环境监控和告警装置等设施设备。
+- node_id: article:26
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第二十六条
+- summary: 第二十六条 新建、改建、扩建通信导航监视设施设备时,应当符合通信导航监视发展和建设的相关规划,并按有关规定建设防雷设施、安全保卫设施、消防设施以及环境监控和告警装置等设施设备
+- keywords: 消防设施以及环境监控和告警装置等设施设备, 安全保卫设施, 第二十六条, 新建, 改建, 扩建通信导航监视设施设备时, 应当符合通信导航监视发展和建设的相关规划, 并按有关规定建设防雷设施
+
+#### 第二十七条 民航局和地区管理局对通信导航监视工程的立项、可行性研究、初步设计、工程实施和验收实施管理。
+- node_id: article:27
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第二十七条
+- summary: 第二十七条 民航局和地区管理局对通信导航监视工程的立项、可行性研究、初步设计、工程实施和验收实施管理
+- keywords: 第二十七条, 民航局和地区管理局对通信导航监视工程的立项, 可行性研究, 初步设计, 工程实施和验收实施管理
+
+#### 第二十八条 通信导航监视工程的建设管理应当按照民航局有关规定执行。
+- node_id: article:28
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第二十八条
+- summary: 第二十八条 通信导航监视工程的建设管理应当按照民航局有关规定执行
+- keywords: 第二十八条, 通信导航监视工程的建设管理应当按照民航局有关规定执行
+
+#### 第二十九条 新建、改建、扩建的通信导航监视设施设备投入使用后的评估按照民航局有关规定执行。
+- node_id: article:29
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第二十九条
+- summary: 第二十九条 新建、改建、扩建的通信导航监视设施设备投入使用后的评估按照民航局有关规定执行
+- keywords: 第二十九条, 新建, 改建, 扩建的通信导航监视设施设备投入使用后的评估按照民航局有关规定执行, 民航局或者地区管理局可以根据需要组织评估
+
+### 第三节 设施设备的设置
+- node_id: section:3
+- type: section
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第三节
+- summary: 第三节 设施设备的设置
+- keywords: 第三节, 设施设备的设置
+- children: article:30, article:31, article:32, article:33, article:34, article:35, article:36, article:37, article:38
+
+#### 第三十条 通信导航监视运行保障单位应当根据运行需求和民航局相关规定,配置通信导航监视设施设备,并保证设施设备在规定使用周期内正常运行。
+- node_id: article:30
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第三十条
+- summary: 第三十条 通信导航监视运行保障单位应当根据运行需求和民航局相关规定,配置通信导航监视设施设备,并保证设施设备在规定使用周期内正常运行
+- keywords: 第三十条, 通信导航监视运行保障单位应当根据运行需求和民航局相关规定, 配置通信导航监视设施设备, 并保证设施设备在规定使用周期内正常运行, 设施设备根据其使用年限和实际工作状况以及技术发展进行更新改造时, 应当按照有关规定执行
+
+#### 第三十一条 通信导航监视运行保障单位应当根据空中交通管制运行需求、空中航行服务需求及飞行程序设计方案要求设置或者迁移无线电通信导航监视台(站)。
+- node_id: article:31
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第三十一条
+- summary: 第三十一条 通信导航监视运行保障单位应当根据空中交通管制运行需求、空中航行服务需求及飞行程序设计方案要求设置或者迁移无线电通信导航监视台(站)
+- keywords: 第三十一条, 通信导航监视运行保障单位应当根据空中交通管制运行需求, 空中航行服务需求及飞行程序设计方案要求设置或者迁移无线电通信导航监视台
+
+#### 第三十二条 用于提供应急服务或通用航空保障等非固定台(站)址的无线电通信导航监视台(站)应当在批准的范围内设置和使用。
+- node_id: article:32
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第三十二条
+- summary: 第三十二条 用于提供应急服务或通用航空保障等非固定台(站)址的无线电通信导航监视台(站)应当在批准的范围内设置和使用
+- keywords: 第三十二条, 用于提供应急服务或通用航空保障等非固定台, 址的无线电通信导航监视台, 应当在批准的范围内设置和使用
+
+#### 第三十三条 无线电通信导航监视台(站)的选址工作由通信导航监视运行保障单位或者空管项目建设单位负责并自行或会同从事民航专业工程设计、咨询的单位组织实施。
+- node_id: article:33
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第三十三条
+- summary: 第三十三条 无线电通信导航监视台(站)的选址工作由通信导航监视运行保障单位或者空管项目建设单位负责并自行或会同从事民航专业工程设计、咨询的单位组织实施
+- keywords: 第三十三条, 无线电通信导航监视台, 的选址工作由通信导航监视运行保障单位或者空管项目建设单位负责并自行或会同从事民航专业工程设计, 咨询的单位组织实施
+
+#### 第三十四条 通信导航监视运行保障单位设置或者迁移无线电通信导航监视台(站)址时,应当向所在地地区管理局提交台(站)址选址报告。
+- node_id: article:34
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第三十四条
+- summary: 第三十四条 通信导航监视运行保障单位设置或者迁移无线电通信导航监视台(站)址时,应当向所在地地区管理局提交台(站)址选址报告
+- keywords: 第三十四条, 通信导航监视运行保障单位设置或者迁移无线电通信导航监视台, 址时, 应当向所在地地区管理局提交台, 址选址报告
+
+#### 第三十五条 无线电通信导航监视台(站)的选址报告应当包括以下主要内容:
+- node_id: article:35
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第三十五条
+- summary: 第三十五条 无线电通信导航监视台(站)的选址报告应当包括以下主要内容:
+- keywords: 第三十五条, 无线电通信导航监视台, 的选址报告应当包括以下主要内容, 编制依据, 运行需求分析, 电磁环境和地理环境分析
+
+#### 第三十六条 无线电导航台(站)址应当同时满足导航台(站)场地设置规范、电磁环境要求和飞行程序设计方案。不能同时满足的,负责选址的单位应当与飞行程序设计单位会商,对飞行程序设计方案或者比选台(站)址进行调整,直至符合运行需求为止。
+- node_id: article:36
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第三十六条
+- summary: 第三十六条 无线电导航台(站)址应当同时满足导航台(站)场地设置规范、电磁环境要求和飞行程序设计方案
+- keywords: 直至符合运行需求为止, 址进行调整, 对飞行程序设计方案或者比选台, 负责选址的单位应当与飞行程序设计单位会商, 第三十六条, 无线电导航台, 址应当同时满足导航台, 场地设置规范
+
+#### 第三十七条 无线电通信导航监视台(站)或设备的频率、呼号、地址等代码资源由民航局统一规划和管理。
+- node_id: article:37
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第三十七条
+- summary: 第三十七条 无线电通信导航监视台(站)或设备的频率、呼号、地址等代码资源由民航局统一规划和管理
+- keywords: 第三十七条, 无线电通信导航监视台, 或设备的频率, 呼号, 地址等代码资源由民航局统一规划和管理, 无线电频率
+
+#### 第三十八条 通信导航监视运行保障单位需要撤销无线电通信导航监视台(站)时,应当向审批机关申请办理撤销手续。
+- node_id: article:38
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第三十八条
+- summary: 第三十八条 通信导航监视运行保障单位需要撤销无线电通信导航监视台(站)时,应当向审批机关申请办理撤销手续
+- keywords: 第三十八条, 通信导航监视运行保障单位需要撤销无线电通信导航监视台, 应当向审批机关申请办理撤销手续
+
+### 第四节 新技术应用
+- node_id: section:4
+- type: section
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第四节
+- summary: 第四节 新技术应用
+- keywords: 第四节, 新技术应用
+- children: article:39, article:40, article:41, article:42
+
+#### 第三十九条 通信导航监视新技术应用(以下简称新技术应用)政策、规划、规章和标准由民航局统一制定和发布。民航局负责统一组织指导和管理新技术应用活动,地区管理局负责监督管理本地区新技术应用活动。
+- node_id: article:39
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第三十九条
+- summary: 第三十九条 通信导航监视新技术应用(以下简称新技术应用)政策、规划、规章和标准由民航局统一制定和发布
+- keywords: 地区管理局负责监督管理本地区新技术应用活动, 民航局负责统一组织指导和管理新技术应用活动, 第三十九条, 通信导航监视新技术应用, 以下简称新技术应用, 政策, 规划, 规章和标准由民航局统一制定和发布
+
+#### 第四十条 通信导航监视运行保障单位实施新技术应用,应当贯彻和执行有关新技术应用的政策、规划、规章和标准。并建立相应的管理程序和制度。
+- node_id: article:40
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第四十条
+- summary: 第四十条 通信导航监视运行保障单位实施新技术应用,应当贯彻和执行有关新技术应用的政策、规划、规章和标准
+- keywords: 第四十条, 通信导航监视运行保障单位实施新技术应用, 应当贯彻和执行有关新技术应用的政策, 规划, 规章和标准, 并建立相应的管理程序和制度
+
+#### 第四十一条 新技术应用前,应当按照民航局相关规定进行验证。
+- node_id: article:41
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第四十一条
+- summary: 第四十一条 新技术应用前,应当按照民航局相关规定进行验证
+- keywords: 第四十一条, 新技术应用前, 应当按照民航局相关规定进行验证, 未通过验证的新技术不得用于提供通信导航监视服务
+
+#### 第四十二条 实施新技术应用的单位应当具备应用条件,制定安全保证措施,并对应用活动的安全负责。
+- node_id: article:42
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第四十二条
+- summary: 第四十二条 实施新技术应用的单位应当具备应用条件,制定安全保证措施,并对应用活动的安全负责
+- keywords: 第四十二条, 实施新技术应用的单位应当具备应用条件, 制定安全保证措施, 并对应用活动的安全负责
+
+### 第五节 设备开放与运行
+- node_id: section:5
+- type: section
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第五节
+- summary: 第五节 设备开放与运行
+- keywords: 第五节, 设备开放与运行
+- children: article:43, article:44, article:45
+
+#### 第四十三条 用于民用航空导航设备的开放与运行管理,按照《民用航空导航设备开放与运行管理规定》执行。
+- node_id: article:43
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第四十三条
+- summary: 第四十三条 用于民用航空导航设备的开放与运行管理,按照《民用航空导航设备开放与运行管理规定》执行
+- keywords: 第四十三条, 用于民用航空导航设备的开放与运行管理, 按照, 民用航空导航设备开放与运行管理规定, 执行, 用于民用航空通信和监视设备的开放与运行管理按照民航局有关规定执行
+
+#### 第四十四条 通信导航监视运行保障单位应当执行国家和民用航空的有关规定,保证通信导航监视设备的开放、运行和关闭符合民航局的相关规定和标准,保持通信导航监视设备的持续适用。
+- node_id: article:44
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第四十四条
+- summary: 第四十四条 通信导航监视运行保障单位应当执行国家和民用航空的有关规定,保证通信导航监视设备的开放、运行和关闭符合民航局的相关规定和标准,保持通信导航监视设备的持续适用
+- keywords: 第四十四条, 通信导航监视运行保障单位应当执行国家和民用航空的有关规定, 保证通信导航监视设备的开放, 运行和关闭符合民航局的相关规定和标准, 保持通信导航监视设备的持续适用
+
+#### 第四十五条 通信导航监视运行保障单位应当会同航空情报服务机构保证开放运行的通信导航监视设备资料的完整性、准确性、及时性和一致性。
+- node_id: article:45
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第四十五条
+- summary: 第四十五条 通信导航监视运行保障单位应当会同航空情报服务机构保证开放运行的通信导航监视设备资料的完整性、准确性、及时性和一致性
+- keywords: 第四十五条, 通信导航监视运行保障单位应当会同航空情报服务机构保证开放运行的通信导航监视设备资料的完整性, 准确性, 及时性和一致性
+
+### 第六节 设施设备及其电磁环境保护
+- node_id: section:6
+- type: section
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第六节
+- summary: 第六节 设施设备及其电磁环境保护
+- keywords: 第六节, 设施设备及其电磁环境保护
+- children: article:46, article:47, article:48, article:49, article:50, article:51
+
+#### 第四十六条 通信导航监视设施设备及其电磁环境的保护工作应当按照国家和民用航空的有关规定具体实施。
+- node_id: article:46
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第四十六条
+- summary: 第四十六条 通信导航监视设施设备及其电磁环境的保护工作应当按照国家和民用航空的有关规定具体实施
+- keywords: 第四十六条, 通信导航监视设施设备及其电磁环境的保护工作应当按照国家和民用航空的有关规定具体实施, 通信导航监视设备正常运行所需的场地和设施应当满足电磁环境保护要求
+
+#### 第四十七条 任何单位或者个人不得侵占、破坏或者擅自移动通信导航监视设施设备。
+- node_id: article:47
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第四十七条
+- summary: 第四十七条 任何单位或者个人不得侵占、破坏或者擅自移动通信导航监视设施设备
+- keywords: 第四十七条, 任何单位或者个人不得侵占, 破坏或者擅自移动通信导航监视设施设备, 禁止任何危害通信导航监视设施设备及无线电通信导航监视设施设备电磁环境的行为
+
+#### 第四十八条 通信导航监视运行保障单位应当按照国家和民用航空有关法律、法规、规章和标准的要求,对通信导航监视设施设备及其电磁环境保护区域采取必要的防护措施。
+- node_id: article:48
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第四十八条
+- summary: 第四十八条 通信导航监视运行保障单位应当按照国家和民用航空有关法律、法规、规章和标准的要求,对通信导航监视设施设备及其电磁环境保护区域采取必要的防护措施
+- keywords: 第四十八条, 通信导航监视运行保障单位应当按照国家和民用航空有关法律, 法规, 规章和标准的要求, 对通信导航监视设施设备及其电磁环境保护区域采取必要的防护措施
+
+#### 第四十九条 通信导航监视运行保障单位应当向地方政府提出对有关无线电通信导航监视台(站)的电磁环境保护的范围和要求。
+- node_id: article:49
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第四十九条
+- summary: 第四十九条 通信导航监视运行保障单位应当向地方政府提出对有关无线电通信导航监视台(站)的电磁环境保护的范围和要求
+- keywords: 第四十九条, 通信导航监视运行保障单位应当向地方政府提出对有关无线电通信导航监视台, 的电磁环境保护的范围和要求, 无线电通信导航监视台, 的电磁环境保护工作应当由设施设备所在地地区管理局协调所在地地方政府按照国家和民用航空的有关规定和标准执行
+
+#### 第五十条 通信导航监视设备的无线电频率受到有害干扰时,通信导航监视运行保障单位在进行自查后,应当及时报告所在地地方无线电管理机构和地区管理局,并配合所在地地方无线电管理机构排除有害干扰。
+- node_id: article:50
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第五十条
+- summary: 第五十条 通信导航监视设备的无线电频率受到有害干扰时,通信导航监视运行保障单位在进行自查后,应当及时报告所在地地方无线电管理机构和地区管理局,并配合所在地地方无线电管理机构排除有害干扰
+- keywords: 第五十条, 通信导航监视设备的无线电频率受到有害干扰时, 通信导航监视运行保障单位在进行自查后, 应当及时报告所在地地方无线电管理机构和地区管理局, 并配合所在地地方无线电管理机构排除有害干扰
+
+#### 第五十一条 在民用航空无线电台(站)电磁环境保护区域内进行工程施工或者设置使用各类设施设备,应当按照国家和民用航空有关台(站)设置和电磁环境保护规定执行。
+- node_id: article:51
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第五十一条
+- summary: 第五十一条 在民用航空无线电台(站)电磁环境保护区域内进行工程施工或者设置使用各类设施设备,应当按照国家和民用航空有关台(站)设置和电磁环境保护规定执行
+- keywords: 第五十一条, 在民用航空无线电台, 电磁环境保护区域内进行工程施工或者设置使用各类设施设备, 应当按照国家和民用航空有关台, 设置和电磁环境保护规定执行
+
+## 第四章 通信导航监视服务
+- node_id: chapter:4
+- type: chapter
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第四章
+- summary: 本规范通信导航监视服务的提供、运行与监管，核心内容包括服务资质要求、设备技术标准、运行安全保障及数据管理。典型法律问题涉及服务中断责任认定、频率干扰纠纷、导航信息准确性争议，以及监视数据隐私保护与跨境传输合规。
+- keywords: 第四章, 通信导航监视服务
+- children: section:1, section:2, section:3, section:4
+
+### 第一节 一般规定
+- node_id: section:1
+- type: section
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第一节
+- summary: 第一节 一般规定
+- keywords: 第一节, 一般规定
+- children: article:52, article:53, article:54, article:55, article:56, article:57, article:58
+
+#### 第五十二条 通信导航监视设施设备的系统配置、参数设置和运行,应该遵照国家和民用航空的相关规定和标准执行。
+- node_id: article:52
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第五十二条
+- summary: 第五十二条 通信导航监视设施设备的系统配置、参数设置和运行,应该遵照国家和民用航空的相关规定和标准执行
+- keywords: 第五十二条, 通信导航监视设施设备的系统配置, 参数设置和运行, 应该遵照国家和民用航空的相关规定和标准执行
+
+#### 第五十三条 通信导航监视设备应当使用协调世界时,并使用统一的授时系统;独立设置的通信导航监视设施中的设备可以使用独立的授时系统,并定期校准。
+- node_id: article:53
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第五十三条
+- summary: 第五十三条 通信导航监视设备应当使用协调世界时,并使用统一的授时系统;独立设置的通信导航监视设施中的设备可以使用独立的授时系统,并定期校准
+- keywords: 第五十三条, 通信导航监视设备应当使用协调世界时, 并使用统一的授时系统, 独立设置的通信导航监视设施中的设备可以使用独立的授时系统, 并定期校准
+
+#### 第五十四条 通信导航监视运行保障单位应当确保通信导航监视服务的持续提供。因故无法提供服务时,通信导航监视运行保障单位应当及时通知相关运行单位,并按照航空情报服务相关规定,及时通知航空情报服务机构发布航行通告。
+- node_id: article:54
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第五十四条
+- summary: 第五十四条 通信导航监视运行保障单位应当确保通信导航监视服务的持续提供
+- keywords: 第五十四条, 通信导航监视运行保障单位应当确保通信导航监视服务的持续提供, 因故无法提供服务时, 通信导航监视运行保障单位应当及时通知相关运行单位, 并按照航空情报服务相关规定, 及时通知航空情报服务机构发布航行通告
+
+#### 第五十五条 通信导航监视设备因维护、维修、检测、调试、飞行校验需要暂时停止提供相应服务的,通信导航监视运行保障单位应当:
+- node_id: article:55
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第五十五条
+- summary: 第五十五条 通信导航监视设备因维护、维修、检测、调试、飞行校验需要暂时停止提供相应服务的,通信导航监视运行保障单位应当:
+- keywords: 通信导航监视运行保障单位应当, 第五十五条, 通信导航监视设备因维护, 维修, 检测, 调试, 飞行校验需要暂时停止提供相应服务的
+
+#### 第五十六条 通信导航监视设备运行的正常率和完好率应当符合民航局有关规定。
+- node_id: article:56
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第五十六条
+- summary: 第五十六条 通信导航监视设备运行的正常率和完好率应当符合民航局有关规定
+- keywords: 第五十六条, 通信导航监视设备运行的正常率和完好率应当符合民航局有关规定
+
+#### 第五十七条 未经授权的单位或者个人不得对通信导航监视设备进行本地或者远程操作。
+- node_id: article:57
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第五十七条
+- summary: 第五十七条 未经授权的单位或者个人不得对通信导航监视设备进行本地或者远程操作
+- keywords: 第五十七条, 未经授权的单位或者个人不得对通信导航监视设备进行本地或者远程操作
+
+#### 第五十八条 通信导航监视服务应当使用规定的缩略语和代码。在服务中提供的含有非标准缩略语和代码的,应当对其所使用的缩略语和代码提供相应的解释和解码。
+- node_id: article:58
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第五十八条
+- summary: 第五十八条 通信导航监视服务应当使用规定的缩略语和代码
+- keywords: 第五十八条, 通信导航监视服务应当使用规定的缩略语和代码, 在服务中提供的含有非标准缩略语和代码的, 应当对其所使用的缩略语和代码提供相应的解释和解码
+
+### 第二节 通信
+- node_id: section:2
+- type: section
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第二节
+- summary: 第二节 通信
+- keywords: 第二节, 通信
+- children: article:59, article:60, article:61, article:62, article:63, article:64, article:65, article:66, article:67, article:68, article:69, article:70
+
+#### 第五十九条 通信的任务是利用通信网络或者通信终端传输、交换和处理民用航空生产信息,为民用航空活动提供语音或者数据通信,使其能够安全、高效运行。
+- node_id: article:59
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第五十九条
+- summary: 第五十九条 通信的任务是利用通信网络或者通信终端传输、交换和处理民用航空生产信息,为民用航空活动提供语音或者数据通信,使其能够安全、高效运行
+- keywords: 第五十九条, 通信的任务是利用通信网络或者通信终端传输, 交换和处理民用航空生产信息, 为民用航空活动提供语音或者数据通信, 使其能够安全, 高效运行
+
+#### 第六十条 通信包括地空通信和地地通信。
+- node_id: article:60
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第六十条
+- summary: 第六十条 通信包括地空通信和地地通信
+- keywords: 第六十条, 通信包括地空通信和地地通信
+
+#### 第六十一条 地空通信主要包括空中交通服务通信、航务管理通信、站坪管理通信和对空气象广播等。
+- node_id: article:61
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第六十一条
+- summary: 第六十一条 地空通信主要包括空中交通服务通信、航务管理通信、站坪管理通信和对空气象广播等
+- keywords: 第六十一条, 地空通信主要包括空中交通服务通信, 航务管理通信, 站坪管理通信和对空气象广播等, 地地通信主要包括航空固定业务通信, 民航专用电话通信
+
+#### 第六十二条 按照不同的职责和业务类型,空中交通服务地空通信分为塔台地空通信、起飞线地空通信、地面放行通信、地面管制通信、进近或终端区地空通信、航路地空通信、搜寻救援通信、通用航空通信、航站情报通播等。
+- node_id: article:62
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第六十二条
+- summary: 第六十二条 按照不同的职责和业务类型,空中交通服务地空通信分为塔台地空通信、起飞线地空通信、地面放行通信、地面管制通信、进近或终端区地空通信、航路地空通信、搜寻救援通信、通用航空通信、航站情报通播等
+- keywords: 航站情报通播等, 通用航空通信, 搜寻救援通信, 航路地空通信, 进近或终端区地空通信, 第六十二条, 按照不同的职责和业务类型, 空中交通服务地空通信分为塔台地空通信
+
+#### 第六十三条 地空通信可使用无线电语音和数据通信等方式。
+- node_id: article:63
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第六十三条
+- summary: 第六十三条 地空通信可使用无线电语音和数据通信等方式
+- keywords: 第六十三条, 地空通信可使用无线电语音和数据通信等方式
+
+#### 第六十四条 民用航空地地通信方式可使用民航专用通信网和公用通信网方式实现语音与数据的交换与传输。
+- node_id: article:64
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第六十四条
+- summary: 第六十四条 民用航空地地通信方式可使用民航专用通信网和公用通信网方式实现语音与数据的交换与传输
+- keywords: 第六十四条, 民用航空地地通信方式可使用民航专用通信网和公用通信网方式实现语音与数据的交换与传输
+
+#### 第六十五条 通信导航监视运行保障单位应当根据飞行和空中交通管制运行的需求,及时提供和开放地空通信服务。
+- node_id: article:65
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第六十五条
+- summary: 第六十五条 通信导航监视运行保障单位应当根据飞行和空中交通管制运行的需求,及时提供和开放地空通信服务
+- keywords: 第六十五条, 通信导航监视运行保障单位应当根据飞行和空中交通管制运行的需求, 及时提供和开放地空通信服务
+
+#### 第六十六条 民用航空专用航空电信网络由民航局指定的通信导航监视运行保障单位统一管理。
+- node_id: article:66
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第六十六条
+- summary: 第六十六条 民用航空专用航空电信网络由民航局指定的通信导航监视运行保障单位统一管理
+- keywords: 第六十六条, 民用航空专用航空电信网络由民航局指定的通信导航监视运行保障单位统一管理
+
+#### 第六十七条 通信设备发生故障时,通信导航监视运行保障单位应当及时采取措施,避免或者减少对相应通信服务的影响。
+- node_id: article:67
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第六十七条
+- summary: 第六十七条 通信设备发生故障时,通信导航监视运行保障单位应当及时采取措施,避免或者减少对相应通信服务的影响
+- keywords: 第六十七条, 通信设备发生故障时, 通信导航监视运行保障单位应当及时采取措施, 避免或者减少对相应通信服务的影响
+
+#### 第六十八条 地空通信、管制中心间通信和安全运行所需的民航专用电话通信,应当配置语音和数据记录设备,并完整记录通信内容。记录内容的保存和重放应当符合《民用航空空中交通管理规则》和本规则第一百二十八条的规定。
+- node_id: article:68
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第六十八条
+- summary: 第六十八条 地空通信、管制中心间通信和安全运行所需的民航专用电话通信,应当配置语音和数据记录设备,并完整记录通信内容
+- keywords: 和本规则第一百二十八条的规定, 民用航空空中交通管理规则, 第六十八条, 地空通信, 管制中心间通信和安全运行所需的民航专用电话通信, 应当配置语音和数据记录设备, 并完整记录通信内容, 记录内容的保存和重放应当符合
+
+#### 第六十九条 通用航空飞行的通信服务,由从事通用航空活动的单位或者个人负责提供,并制定相应的服务保障措施。
+- node_id: article:69
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第六十九条
+- summary: 第六十九条 通用航空飞行的通信服务,由从事通用航空活动的单位或者个人负责提供,并制定相应的服务保障措施
+- keywords: 第六十九条, 通用航空飞行的通信服务, 由从事通用航空活动的单位或者个人负责提供, 并制定相应的服务保障措施
+
+#### 第七十条 所有在中华人民共和国领域内活动的民用航空器,应当按照国家和民用航空的有关规定实施通信。
+- node_id: article:70
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第七十条
+- summary: 第七十条所有在中华人民共和国领域内活动的民用航空器,应当按照国家和民用航空的有关规定实施通信
+- keywords: 第七十条, 所有在中华人民共和国领域内活动的民用航空器, 应当按照国家和民用航空的有关规定实施通信, 第七十条所有在中华人民共和国领域内活动的民用航空器
+
+### 第三节 导航
+- node_id: section:3
+- type: section
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第三节
+- summary: 第三节 导航
+- keywords: 第三节, 导航
+- children: article:71, article:72, article:73, article:74, article:75, article:76, article:77, article:78, article:79
+
+#### 第七十一条 导航的任务是为航空器提供飞行引导信息,使其能够安全、正常飞行。
+- node_id: article:71
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第七十一条
+- summary: 第七十一条 导航的任务是为航空器提供飞行引导信息,使其能够安全、正常飞行
+- keywords: 第七十一条, 导航的任务是为航空器提供飞行引导信息, 使其能够安全, 正常飞行
+
+#### 第七十二条 导航服务包括机场(终端区)导航服务和航路、航线导航服务。
+- node_id: article:72
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第七十二条
+- summary: 第七十二条 导航服务包括机场(终端区)导航服务和航路、航线导航服务
+- keywords: 第七十二条, 导航服务包括机场, 终端区, 导航服务和航路, 航线导航服务
+
+#### 第七十三条 机场(终端区)导航设施包括无方向信标台、指点信标台、全向信标台、测距台、仪表着陆系统、卫星导航地面设施以及其他导航设施等。
+- node_id: article:73
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第七十三条
+- summary: 第七十三条 机场(终端区)导航设施包括无方向信标台、指点信标台、全向信标台、测距台、仪表着陆系统、卫星导航地面设施以及其他导航设施等
+- keywords: 卫星导航地面设施以及其他导航设施等, 仪表着陆系统, 测距台, 第七十三条, 机场, 终端区, 导航设施包括无方向信标台, 指点信标台
+
+#### 第七十四条 机场(终端区)导航设施的设置应当根据机场等级和运行标准、空域方案和飞行程序、机场区域的地理环境和场地条件等确定。
+- node_id: article:74
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第七十四条
+- summary: 第七十四条 机场(终端区)导航设施的设置应当根据机场等级和运行标准、空域方案和飞行程序、机场区域的地理环境和场地条件等确定
+- keywords: 第七十四条, 机场, 终端区, 导航设施的设置应当根据机场等级和运行标准, 空域方案和飞行程序, 机场区域的地理环境和场地条件等确定
+
+#### 第七十五条 航路、航线导航设施包括全向信标台、测距台、无方向信标台、卫星导航地面设施等。
+- node_id: article:75
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第七十五条
+- summary: 第七十五条 航路、航线导航设施包括全向信标台、测距台、无方向信标台、卫星导航地面设施等
+- keywords: 第七十五条, 航路, 航线导航设施包括全向信标台, 测距台, 无方向信标台, 卫星导航地面设施等
+
+#### 第七十六条 航路、航线导航设施的设置应当根据空域方案和飞行程序、当地地理环境和场地条件等确定。
+- node_id: article:76
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第七十六条
+- summary: 第七十六条 航路、航线导航设施的设置应当根据空域方案和飞行程序、当地地理环境和场地条件等确定
+- keywords: 第七十六条, 航路, 航线导航设施的设置应当根据空域方案和飞行程序, 当地地理环境和场地条件等确定
+
+#### 第七十七条 导航设备发生故障或不能提供有效导航信号时,通信导航监视运行保障单位应当及时采取措施,同时通知相关单位,并按照规定发布航行通告,减少对航空器安全飞行的影响。
+- node_id: article:77
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第七十七条
+- summary: 第七十七条 导航设备发生故障或不能提供有效导航信号时,通信导航监视运行保障单位应当及时采取措施,同时通知相关单位,并按照规定发布航行通告,减少对航空器安全飞行的影响
+- keywords: 第七十七条, 导航设备发生故障或不能提供有效导航信号时, 通信导航监视运行保障单位应当及时采取措施, 同时通知相关单位, 并按照规定发布航行通告, 减少对航空器安全飞行的影响
+
+#### 第七十八条 通用航空飞行的导航服务,由从事通用航空活动的单位或者相关通信导航监视运行保障单位负责提供,并制定相应的服务保障措施。
+- node_id: article:78
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第七十八条
+- summary: 第七十八条 通用航空飞行的导航服务,由从事通用航空活动的单位或者相关通信导航监视运行保障单位负责提供,并制定相应的服务保障措施
+- keywords: 第七十八条, 通用航空飞行的导航服务, 由从事通用航空活动的单位或者相关通信导航监视运行保障单位负责提供, 并制定相应的服务保障措施
+
+#### 第七十九条 所有为航空器提供服务的各类型无线电导航设施设备,应当按照有关规定进行飞行校验或者验证。
+- node_id: article:79
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第七十九条
+- summary: 第七十九条 所有为航空器提供服务的各类型无线电导航设施设备,应当按照有关规定进行飞行校验或者验证
+- keywords: 第七十九条, 所有为航空器提供服务的各类型无线电导航设施设备, 应当按照有关规定进行飞行校验或者验证
+
+### 第四节 监视
+- node_id: section:4
+- type: section
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第四节
+- summary: 第四节 监视
+- keywords: 第四节, 监视
+- children: article:80, article:81, article:82, article:83, article:84, article:85, article:86, article:87, article:88
+
+#### 第八十条 监视的任务是对航空器及其他目标进行可靠的探测,提供准确的航空器及其他探测目标的位置、状态和告警信息。
+- node_id: article:80
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第八十条
+- summary: 第八十条 监视的任务是对航空器及其他目标进行可靠的探测,提供准确的航空器及其他探测目标的位置、状态和告警信息
+- keywords: 第八十条, 监视的任务是对航空器及其他目标进行可靠的探测, 提供准确的航空器及其他探测目标的位置, 状态和告警信息
+
+#### 第八十一条 监视设备包括信息探测系统、信息处理与显示系统。
+- node_id: article:81
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第八十一条
+- summary: 第八十一条 监视设备包括信息探测系统、信息处理与显示系统
+- keywords: 第八十一条, 监视设备包括信息探测系统, 信息处理与显示系统
+
+#### 第八十二条 信息探测系统包括一次监视雷达、二次监视雷达、场面监视雷达、自动相关监视系统、多点相关定位系统等。
+- node_id: article:82
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第八十二条
+- summary: 第八十二条 信息探测系统包括一次监视雷达、二次监视雷达、场面监视雷达、自动相关监视系统、多点相关定位系统等
+- keywords: 第八十二条, 信息探测系统包括一次监视雷达, 二次监视雷达, 场面监视雷达, 自动相关监视系统, 多点相关定位系统等
+
+#### 第八十三条 信息探测系统的设置和布局应当根据其覆盖范围、机场运行和空中交通服务需求等确定。
+- node_id: article:83
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第八十三条
+- summary: 第八十三条 信息探测系统的设置和布局应当根据其覆盖范围、机场运行和空中交通服务需求等确定
+- keywords: 第八十三条, 信息探测系统的设置和布局应当根据其覆盖范围, 机场运行和空中交通服务需求等确定
+
+#### 第八十四条 信息处理与显示系统包括空中交通管制自动化系统及其他自动化系统。
+- node_id: article:84
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第八十四条
+- summary: 第八十四条 信息处理与显示系统包括空中交通管制自动化系统及其他自动化系统
+- keywords: 第八十四条, 信息处理与显示系统包括空中交通管制自动化系统及其他自动化系统
+
+#### 第八十五条 信息处理与显示系统的设置,应当根据机场运行和空中交通服务需求以及民航局的相关规定等确定。
+- node_id: article:85
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第八十五条
+- summary: 第八十五条 信息处理与显示系统的设置,应当根据机场运行和空中交通服务需求以及民航局的相关规定等确定
+- keywords: 第八十五条, 信息处理与显示系统的设置, 应当根据机场运行和空中交通服务需求以及民航局的相关规定等确定
+
+#### 第八十六条 信息处理与显示系统应当配置记录设备。记录内容的保存和重放应当符合《民用航空空中交通管理规则》和本规则第一百二十八条的规定。
+- node_id: article:86
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第八十六条
+- summary: 第八十六条 信息处理与显示系统应当配置记录设备
+- keywords: 第八十六条, 信息处理与显示系统应当配置记录设备, 记录内容的保存和重放应当符合, 民用航空空中交通管理规则, 和本规则第一百二十八条的规定
+
+#### 第八十七条 监视设备发生故障时,通信导航监视运行保障单位应当及时采取措施,避免或者减少对空中交通服务和飞行的影响。
+- node_id: article:87
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第八十七条
+- summary: 第八十七条 监视设备发生故障时,通信导航监视运行保障单位应当及时采取措施,避免或者减少对空中交通服务和飞行的影响
+- keywords: 第八十七条, 监视设备发生故障时, 通信导航监视运行保障单位应当及时采取措施, 避免或者减少对空中交通服务和飞行的影响
+
+#### 第八十八条 通用航空飞行的监视服务,由从事通用航空活动的单位或者相关通信导航监视运行保障单位负责提供,并制定相应的服务保障措施。
+- node_id: article:88
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第八十八条
+- summary: 第八十八条 通用航空飞行的监视服务,由从事通用航空活动的单位或者相关通信导航监视运行保障单位负责提供,并制定相应的服务保障措施
+- keywords: 第八十八条, 通用航空飞行的监视服务, 由从事通用航空活动的单位或者相关通信导航监视运行保障单位负责提供, 并制定相应的服务保障措施
+
+## 第五章 运行管理
+- node_id: chapter:5
+- type: chapter
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第五章
+- summary: 第五章运行管理主要规定各类设施、系统或组织的日常运行规范，包括运行主体资质、操作流程、安全标准、维护检修、应急处置及监督检查等。典型法律问题涉及运行安全责任、违规操作处罚、行政许可与备案、数据记录保存，以及因运行故障引发的民事、行政或刑事责任认定。
+- keywords: 第五章, 运行管理
+- children: section:1, section:2, section:3, section:4, section:5, section:6, section:7, section:8, section:9
+
+### 第一节 一般规定
+- node_id: section:1
+- type: section
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第一节
+- summary: 第一节 一般规定
+- keywords: 第一节, 一般规定
+- children: article:89, article:90, article:91, article:92, article:93, article:94
+
+#### 第八十九条 通信导航监视运行保障单位应当依据国家和民用航空有关规定建立质量管理体系。
+- node_id: article:89
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第八十九条
+- summary: 第八十九条 通信导航监视运行保障单位应当依据国家和民用航空有关规定建立质量管理体系
+- keywords: 第八十九条, 通信导航监视运行保障单位应当依据国家和民用航空有关规定建立质量管理体系
+
+#### 第九十条 通信导航监视服务质量管理体系应当包括通信导航监视服务机构、设施设备、人员、技术标准、规范规程、工作制度、运行程序、质量考核及改进措施等。
+- node_id: article:90
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第九十条
+- summary: 第九十条 通信导航监视服务质量管理体系应当包括通信导航监视服务机构、设施设备、人员、技术标准、规范规程、工作制度、运行程序、质量考核及改进措施等
+- keywords: 质量考核及改进措施等, 运行程序, 工作制度, 第九十条, 通信导航监视服务质量管理体系应当包括通信导航监视服务机构, 设施设备, 人员, 技术标准
+
+#### 第九十一条 通信导航监视服务质量管理体系应当保证通信导航监视服务的有效性、完整性、及时性和准确性符合国家和民用航空的有关规定,并能有效监控服务质量。
+- node_id: article:91
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第九十一条
+- summary: 第九十一条 通信导航监视服务质量管理体系应当保证通信导航监视服务的有效性、完整性、及时性和准确性符合国家和民用航空的有关规定,并能有效监控服务质量
+- keywords: 第九十一条, 通信导航监视服务质量管理体系应当保证通信导航监视服务的有效性, 完整性, 及时性和准确性符合国家和民用航空的有关规定, 并能有效监控服务质量
+
+#### 第九十二条 通信导航监视运行保障单位应当依据有关的民用航空法律、法规、规章、规范性文件、技术标准以及质量管理体系要求及时制定和修订运行手册,并保持运行手册的持续有效。
+- node_id: article:92
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第九十二条
+- summary: 第九十二条 通信导航监视运行保障单位应当依据有关的民用航空法律、法规、规章、规范性文件、技术标准以及质量管理体系要求及时制定和修订运行手册,并保持运行手册的持续有效
+- keywords: 并保持运行手册的持续有效, 第九十二条, 通信导航监视运行保障单位应当依据有关的民用航空法律, 法规, 规章, 规范性文件, 技术标准以及质量管理体系要求及时制定和修订运行手册
+
+#### 第九十三条 运行手册应当包括以下主要内容:
+- node_id: article:93
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第九十三条
+- summary: 第九十三条 运行手册应当包括以下主要内容:
+- keywords: 第九十三条, 运行手册应当包括以下主要内容, 服务范围和服务内容, 岗位职责和工作规范, 运行管理和工作程序, 设备管理和操作程序
+
+#### 第九十四条 运行手册应当在相关的工作场所设置和保存,便于使用和查阅。
+- node_id: article:94
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第九十四条
+- summary: 第九十四条 运行手册应当在相关的工作场所设置和保存,便于使用和查阅
+- keywords: 第九十四条, 运行手册应当在相关的工作场所设置和保存, 便于使用和查阅
+
+### 第二节 运行管理制度
+- node_id: section:2
+- type: section
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第二节
+- summary: 第二节 运行管理制度
+- keywords: 第二节, 运行管理制度
+- children: article:95, article:96, article:97, article:98, article:99, article:100, article:101, article:102, article:103
+
+#### 第九十五条 通信导航监视运行保障单位应当制定运行管理制度。运行管理制度应当至少包括:
+- node_id: article:95
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第九十五条
+- summary: 第九十五条 通信导航监视运行保障单位应当制定运行管理制度
+- keywords: 第九十五条, 通信导航监视运行保障单位应当制定运行管理制度, 运行管理制度应当至少包括, 岗位值班工作制度, 机房管理制度, 设备管理制度
+
+#### 第九十六条 岗位值班工作制度应当至少包括:
+- node_id: article:96
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第九十六条
+- summary: 第九十六条 岗位值班工作制度应当至少包括:
+- keywords: 第九十六条, 岗位值班工作制度应当至少包括, 值班要求, 交接班程序, 信息通报规定, 设备机房巡视规定
+
+#### 第九十七条 机房管理制度应当至少包括:
+- node_id: article:97
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第九十七条
+- summary: 第九十七条 机房管理制度应当至少包括:
+- keywords: 第九十七条, 机房管理制度应当至少包括, 机房安全保卫规定, 机房设备管理规定, 机房环境保持规定
+
+#### 第九十八条 设备管理制度应当至少包括:
+- node_id: article:98
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第九十八条
+- summary: 第九十八条 设备管理制度应当至少包括:
+- keywords: 第九十八条, 设备管理制度应当至少包括, 设备登记统计规定, 设备采购, 使用和报废管理规定
+
+#### 第九十九条 备件管理制度应当至少包括:
+- node_id: article:99
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第九十九条
+- summary: 第九十九条 备件管理制度应当至少包括:
+- keywords: 第九十九条, 备件管理制度应当至少包括, 备件登记统计规定, 备件采购, 使用和报废管理规定, 备件保管规定
+
+#### 第一百条 器材和工具管理制度应当至少包括:
+- node_id: article:100
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第一百条
+- summary: 第一百条 器材和工具管理制度应当至少包括:
+- keywords: 第一百条, 器材和工具管理制度应当至少包括, 器材和工具登记统计规定, 器材和工具采购, 使用和报废规定, 器材和工具保管规定
+
+#### 第一百一条 技术资料管理制度应当至少包括:
+- node_id: article:101
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第一百一条
+- summary: 第一百零一条 技术资料管理制度应当至少包括:
+- keywords: 第一百一条, 技术资料管理制度应当至少包括, 第一百零一条, 技术资料登记统计规定, 技术资料保管与移交规定
+
+#### 第一百二条 设备和人员安全操作制度应当至少包括:
+- node_id: article:102
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第一百二条
+- summary: 第一百零二条 设备和人员安全操作制度应当至少包括:
+- keywords: 第一百二条, 设备和人员安全操作制度应当至少包括, 第一百零二条, 设备使用安全操作程序, 设备维护和维修安全操作程序, 电信人员安全用电防护规定
+
+#### 第一百三条 运行检查制度应当至少包括:
+- node_id: article:103
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第一百三条
+- summary: 第一百零三条 运行检查制度应当至少包括:
+- keywords: 第一百三条, 运行检查制度应当至少包括, 第一百零三条, 运行检查内容, 周期和程序的规定, 运行检查记录管理规定
+
+### 第三节 维护和维修管理
+- node_id: section:3
+- type: section
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第三节
+- summary: 第三节 维护和维修管理
+- keywords: 第三节, 维护和维修管理
+- children: article:104, article:105, article:106, article:107, article:108, article:109
+
+#### 第一百四条 通信导航监视运行保障单位应当按照国家和民用航空有关规定建立通信导航监视设备维护和维修管理制度,组织实施设备维护和维修,保证设备安全正常运行。
+- node_id: article:104
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第一百四条
+- summary: 第一百零四条 通信导航监视运行保障单位应当按照国家和民用航空有关规定建立通信导航监视设备维护和维修管理制度,组织实施设备维护和维修,保证设备安全正常运行
+- keywords: 第一百四条, 通信导航监视运行保障单位应当按照国家和民用航空有关规定建立通信导航监视设备维护和维修管理制度, 组织实施设备维护和维修, 保证设备安全正常运行, 第一百零四条
+
+#### 第一百五条 通信导航监视设备维护管理制度应当至少包括:
+- node_id: article:105
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第一百五条
+- summary: 第一百零五条 通信导航监视设备维护管理制度应当至少包括:
+- keywords: 第一百五条, 通信导航监视设备维护管理制度应当至少包括, 第一百零五条, 设备维护内容, 周期和程序的规定, 设备维护记录管理规定
+
+#### 第一百六条 通信导航监视设备维修管理制度应当至少包括:
+- node_id: article:106
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第一百六条
+- summary: 第一百零六条 通信导航监视设备维修管理制度应当至少包括:
+- keywords: 第一百六条, 通信导航监视设备维修管理制度应当至少包括, 第一百零六条, 设备维修内容和程序的规定, 设备维修计划和实施程序, 设备维修记录管理规定
+
+#### 第一百七条 通信导航监视设备维修由各级通信导航监视运行保障单位组织实施。
+- node_id: article:107
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第一百七条
+- summary: 第一百零七条 通信导航监视设备维修由各级通信导航监视运行保障单位组织实施
+- keywords: 第一百七条, 通信导航监视设备维修由各级通信导航监视运行保障单位组织实施, 第一百零七条
+
+#### 第一百八条 通信导航监视运行保障单位组织实施设备维修应当具备下列基本条件:
+- node_id: article:108
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第一百八条
+- summary: 第一百零八条 通信导航监视运行保障单位组织实施设备维修应当具备下列基本条件:
+- keywords: 第一百八条, 通信导航监视运行保障单位组织实施设备维修应当具备下列基本条件, 第一百零八条, 具有满足通信导航监视设备维修要求并持有电信人员执照的人员, 具有开展通信导航监视设备维修工作所需的设施设备, 以及必备的仪器仪表
+
+#### 第一百九条 委托其他通信导航监视运行保障单位实施本单位通信导航监视设备维护和维修时,应当签署有关服务协议,并明确服务内容、责任、权利和义务。
+- node_id: article:109
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第一百九条
+- summary: 第一百零九条 委托其他通信导航监视运行保障单位实施本单位通信导航监视设备维护和维修时,应当签署有关服务协议,并明确服务内容、责任、权利和义务
+- keywords: 第一百九条, 委托其他通信导航监视运行保障单位实施本单位通信导航监视设备维护和维修时, 应当签署有关服务协议, 并明确服务内容, 责任, 权利和义务
+
+### 第四节 运行监控
+- node_id: section:4
+- type: section
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第四节
+- summary: 第四节 运行监控
+- keywords: 第四节, 运行监控
+- children: article:10, article:11, article:12
+
+#### 第十条 通信导航监视运行保障单位应当具备通信导航监视设备运行监控手段,对设备运行进行实时有效的监控。
+- node_id: article:10
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十条
+- summary: 第一百一十条 通信导航监视运行保障单位应当具备通信导航监视设备运行监控手段,对设备运行进行实时有效的监控
+- keywords: 第十条, 通信导航监视运行保障单位应当具备通信导航监视设备运行监控手段, 对设备运行进行实时有效的监控, 第一百一十条
+
+#### 第十一条 通信导航监视运行保障单位应当建立设备运行监控制度。设备运行监控制度应当至少包括:
+- node_id: article:11
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十一条
+- summary: 第一百一十一条 通信导航监视运行保障单位应当建立设备运行监控制度
+- keywords: 第十一条, 通信导航监视运行保障单位应当建立设备运行监控制度, 设备运行监控制度应当至少包括, 第一百一十一条, 运行监控岗位工作职责, 运行监控内容和工作程序
+
+#### 第十二条 实行本地集中监控和异地设备运行监控的,应当建立可靠的通信联络,保障监控数据的安全可靠传输。
+- node_id: article:12
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十二条
+- summary: 第一百一十二条 实行本地集中监控和异地设备运行监控的,应当建立可靠的通信联络,保障监控数据的安全可靠传输
+- keywords: 第十二条, 实行本地集中监控和异地设备运行监控的, 应当建立可靠的通信联络, 保障监控数据的安全可靠传输, 第一百一十二条
+
+### 第五节 信息引接管理
+- node_id: section:5
+- type: section
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第五节
+- summary: 第五节 信息引接管理
+- keywords: 第五节, 信息引接管理
+- children: article:13, article:14, article:15, article:16, article:17, article:18
+
+#### 第十三条 通信导航监视信息引接管理主要是针对民用航空通信导航监视信息的提供和使用进行的管理。
+- node_id: article:13
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十三条
+- summary: 第一百一十三条 通信导航监视信息引接管理主要是针对民用航空通信导航监视信息的提供和使用进行的管理
+- keywords: 第十三条, 通信导航监视信息引接管理主要是针对民用航空通信导航监视信息的提供和使用进行的管理, 第一百一十三条, 本规则所称通信导航监视信息是指由通信导航监视设备产生, 处理, 传输和集成的信息
+
+#### 第十四条 通信导航监视运行保障单位应当建立通信导航监视信息引接管理制度。
+- node_id: article:14
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十四条
+- summary: 第一百一十四条 通信导航监视运行保障单位应当建立通信导航监视信息引接管理制度
+- keywords: 第十四条, 通信导航监视运行保障单位应当建立通信导航监视信息引接管理制度, 第一百一十四条
+
+#### 第十五条 通信导航监视运行保障单位应当满足空中交通管制单位、民用航空企业、机场等民航安全生产运行单位对必要的通信导航监视信息引接使用的要求,并根据需要签订信息引接使用协议,明确信息引接内容、使用期限以及双方的权利、责任和义务。
+- node_id: article:15
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十五条
+- summary: 第一百一十五条 通信导航监视运行保障单位应当满足空中交通管制单位、民用航空企业、机场等民航安全生产运行单位对必要的通信导航监视信息引接使用的要求,并根据需要签订信息引接使用协议,明确信息引接内容、使用期限以及双方的权利、责任和义务
+- keywords: 责任和义务, 使用期限以及双方的权利, 第十五条, 通信导航监视运行保障单位应当满足空中交通管制单位, 民用航空企业, 机场等民航安全生产运行单位对必要的通信导航监视信息引接使用的要求, 并根据需要签订信息引接使用协议, 明确信息引接内容
+
+#### 第十六条 通信导航监视信息需要引接至社会公共机构、服务机构、研究机构使用的,不得影响通信导航监视保障的安全正常,并按照有关规定签订信息引接使用协议,明确信息内容、使用期限以及双方的权利、责任和义务。
+- node_id: article:16
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十六条
+- summary: 第一百一十六条 通信导航监视信息需要引接至社会公共机构、服务机构、研究机构使用的,不得影响通信导航监视保障的安全正常,并按照有关规定签订信息引接使用协议,明确信息内容、使用期限以及双方的权利、责任和义务
+- keywords: 责任和义务, 使用期限以及双方的权利, 明确信息内容, 第十六条, 通信导航监视信息需要引接至社会公共机构, 服务机构, 研究机构使用的, 不得影响通信导航监视保障的安全正常
+
+#### 第十七条 通信导航监视运行保障单位应当采取措施保证通信导航监视信息引接的安全使用。
+- node_id: article:17
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十七条
+- summary: 第一百一十七条 通信导航监视运行保障单位应当采取措施保证通信导航监视信息引接的安全使用
+- keywords: 第十七条, 通信导航监视运行保障单位应当采取措施保证通信导航监视信息引接的安全使用, 第一百一十七条
+
+#### 第十八条 对外提供涉及保密要求的通信导航监视信息应当按照国家和民用航空的有关规定执行。
+- node_id: article:18
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十八条
+- summary: 第一百一十八条 对外提供涉及保密要求的通信导航监视信息应当按照国家和民用航空的有关规定执行
+- keywords: 第十八条, 对外提供涉及保密要求的通信导航监视信息应当按照国家和民用航空的有关规定执行, 第一百一十八条
+
+### 第六节 应急管理
+- node_id: section:6
+- type: section
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第六节
+- summary: 第六节 应急管理
+- keywords: 第六节, 应急管理
+- children: article:19, article:10, article:11, article:12, article:13, article:14, article:15, article:16
+
+#### 第十九条 通信导航监视设备发生重大故障时,通信导航监视运行保障单位应当采取有力措施避免或减少对飞行安全的影响。
+- node_id: article:19
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十九条
+- summary: 第一百一十九条 通信导航监视设备发生重大故障时,通信导航监视运行保障单位应当采取有力措施避免或减少对飞行安全的影响
+- keywords: 第十九条, 通信导航监视设备发生重大故障时, 通信导航监视运行保障单位应当采取有力措施避免或减少对飞行安全的影响, 第一百一十九条
+
+#### 第十条 通信导航监视运行保障单位应当建立设备重大故障应急管理机制,明确应急处置工作程序。
+- node_id: article:10
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十条
+- summary: 第一百二十条 通信导航监视运行保障单位应当建立设备重大故障应急管理机制,明确应急处置工作程序
+- keywords: 第十条, 通信导航监视运行保障单位应当建立设备重大故障应急管理机制, 明确应急处置工作程序, 第一百二十条
+
+#### 第十一条 通信导航监视运行保障单位应当制定设备重大故障应急预案,并按规定向有关管理部门备案。
+- node_id: article:11
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十一条
+- summary: 第一百二十一条 通信导航监视运行保障单位应当制定设备重大故障应急预案,并按规定向有关管理部门备案
+- keywords: 第十一条, 通信导航监视运行保障单位应当制定设备重大故障应急预案, 并按规定向有关管理部门备案, 第一百二十一条
+
+#### 第十二条 设备重大故障应急管理制度应当至少包括:
+- node_id: article:12
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十二条
+- summary: 第一百二十二条 设备重大故障应急管理制度应当至少包括:
+- keywords: 第十二条, 设备重大故障应急管理制度应当至少包括, 第一百二十二条, 应急预案, 应急后评估工作规定, 应急培训和演练规定
+
+#### 第十三条 设备重大故障应急预案应当至少包括:
+- node_id: article:13
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十三条
+- summary: 第一百二十三条 设备重大故障应急预案应当至少包括:
+- keywords: 第十三条, 设备重大故障应急预案应当至少包括, 第一百二十三条, 应急管理机构与职责分工, 应急措施和应急处置程序, 应急信息通报内容和程序
+
+#### 第十四条 通信导航监视运行保障单位处置设备重大故障时,应当加强与相关单位的协调配合,并按照应急预案的操作程序进行处置。
+- node_id: article:14
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十四条
+- summary: 第一百二十四条 通信导航监视运行保障单位处置设备重大故障时,应当加强与相关单位的协调配合,并按照应急预案的操作程序进行处置
+- keywords: 第十四条, 通信导航监视运行保障单位处置设备重大故障时, 应当加强与相关单位的协调配合, 并按照应急预案的操作程序进行处置, 第一百二十四条
+
+#### 第十五条 通信导航监视运行保障单位在完成设备重大故障处置,恢复正常通信导航监视服务后,应当及时分析评估本单位应急处置工作,总结经验教训,修订完善应急预案,并报民航局或地区管理局备案。
+- node_id: article:15
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十五条
+- summary: 第一百二十五条 通信导航监视运行保障单位在完成设备重大故障处置,恢复正常通信导航监视服务后,应当及时分析评估本单位应急处置工作,总结经验教训,修订完善应急预案,并报民航局或地区管理局备案
+- keywords: 并报民航局或地区管理局备案, 第十五条, 通信导航监视运行保障单位在完成设备重大故障处置, 恢复正常通信导航监视服务后, 应当及时分析评估本单位应急处置工作, 总结经验教训, 修订完善应急预案
+
+#### 第十六条 通信导航监视运行保障单位应当组织电信人员进行应急预案培训和模拟演练,定期配合运行单位实施应急综合演练,加强相关单位之间的协调配合。
+- node_id: article:16
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十六条
+- summary: 第一百二十六条 通信导航监视运行保障单位应当组织电信人员进行应急预案培训和模拟演练,定期配合运行单位实施应急综合演练,加强相关单位之间的协调配合
+- keywords: 第十六条, 通信导航监视运行保障单位应当组织电信人员进行应急预案培训和模拟演练, 定期配合运行单位实施应急综合演练, 加强相关单位之间的协调配合, 第一百二十六条
+
+### 第七节 运行记录
+- node_id: section:7
+- type: section
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第七节
+- summary: 第七节 运行记录
+- keywords: 第七节, 运行记录
+- children: article:17, article:18
+
+#### 第十七条 通信导航监视运行保障单位应当设立工作日志,记录通信导航监视服务运行基本情况。工作日志应当至少记录如下内容:
+- node_id: article:17
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十七条
+- summary: 第一百二十七条 通信导航监视运行保障单位应当设立工作日志,记录通信导航监视服务运行基本情况
+- keywords: 第十七条, 通信导航监视运行保障单位应当设立工作日志, 记录通信导航监视服务运行基本情况, 工作日志应当至少记录如下内容, 第一百二十七条, 岗位人员值班与交接班情况
+
+#### 第十八条 通信导航监视设备运行数据和操作情况应当予以完整记录,记录至少保存30天。与事故、事故征候或者其它民用航空不安全事件调查有关的记录,应当按照有关要求保存。
+- node_id: article:18
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十八条
+- summary: 第一百二十八条 通信导航监视设备运行数据和操作情况应当予以完整记录,记录至少保存30天
+- keywords: 第十八条, 通信导航监视设备运行数据和操作情况应当予以完整记录, 记录至少保存, 与事故, 事故征候或者其它民用航空不安全事件调查有关的记录, 应当按照有关要求保存
+
+### 第八节 不安全事件管理
+- node_id: section:8
+- type: section
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第八节
+- summary: 第八节 不安全事件管理
+- keywords: 第八节, 不安全事件管理
+- children: article:19, article:10, article:11, article:12, article:13, article:14, article:15
+
+#### 第十九条 通信导航监视服务不安全事件分为事故、事故征候和其他不安全事件。
+- node_id: article:19
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十九条
+- summary: 第一百二十九条 通信导航监视服务不安全事件分为事故、事故征候和其他不安全事件
+- keywords: 第十九条, 通信导航监视服务不安全事件分为事故, 事故征候和其他不安全事件, 第一百二十九条
+
+#### 第十条 通信导航监视服务事故是指由于通信导航监视服务保障原因导致通信导航监视服务异常造成的民用航空器事故。
+- node_id: article:10
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十条
+- summary: 第一百三十条 通信导航监视服务事故是指由于通信导航监视服务保障原因导致通信导航监视服务异常造成的民用航空器事故
+- keywords: 第十条, 通信导航监视服务事故是指由于通信导航监视服务保障原因导致通信导航监视服务异常造成的民用航空器事故, 第一百三十条, 通信导航监视服务事故征候是指由于通信导航监视服务保障原因导致通信导航监视服务异常造成的民用航空器事故征候, 通信导航监视服务事故和事故征候按照国家和民用航空有关规定确定
+
+#### 第十一条 其他不安全事件是指通信导航监视服务异常出现下列情况之一的:
+- node_id: article:11
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十一条
+- summary: 第一百三十一条 其他不安全事件是指通信导航监视服务异常出现下列情况之一的:
+- keywords: 第十一条, 其他不安全事件是指通信导航监视服务异常出现下列情况之一的, 第一百三十一条, 造成空中交通管制运行方式和飞行方式改变, 并且导致航班取消或者中断正常进近, 但不构成民用航空器事故征候的
+
+#### 第十二条 通信导航监视运行保障单位应当建立不安全事件管理制度。
+- node_id: article:12
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十二条
+- summary: 第一百三十二条 通信导航监视运行保障单位应当建立不安全事件管理制度
+- keywords: 第十二条, 通信导航监视运行保障单位应当建立不安全事件管理制度, 第一百三十二条
+
+#### 第十三条 通信导航监视运行保障单位发生不安全事件时,应当根据事件的性质和影响,及时、如实报告。
+- node_id: article:13
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十三条
+- summary: 第一百三十三条 通信导航监视运行保障单位发生不安全事件时,应当根据事件的性质和影响,及时、如实报告
+- keywords: 第十三条, 通信导航监视运行保障单位发生不安全事件时, 应当根据事件的性质和影响, 及时, 如实报告, 第一百三十三条
+
+#### 第十四条 通信导航监视运行保障单位发生不安全事件后,应当及时分析原因,制定整改措施,并按规定将有关情况上报。
+- node_id: article:14
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十四条
+- summary: 第一百三十四条 通信导航监视运行保障单位发生不安全事件后,应当及时分析原因,制定整改措施,并按规定将有关情况上报
+- keywords: 第十四条, 通信导航监视运行保障单位发生不安全事件后, 应当及时分析原因, 制定整改措施, 并按规定将有关情况上报, 第一百三十四条
+
+#### 第十五条 通信导航监视运行保障单位应当配合事故、事故征候调查,如实反映相关情况,提供相关资料和数据。
+- node_id: article:15
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十五条
+- summary: 第一百三十五条 通信导航监视运行保障单位应当配合事故、事故征候调查,如实反映相关情况,提供相关资料和数据
+- keywords: 第十五条, 通信导航监视运行保障单位应当配合事故, 事故征候调查, 如实反映相关情况, 提供相关资料和数据, 第一百三十五条
+
+### 第九节 安全保卫
+- node_id: section:9
+- type: section
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第九节
+- summary: 第九节 安全保卫
+- keywords: 第九节, 安全保卫
+- children: article:16, article:17
+
+#### 第十六条 通信导航监视运行保障单位应当制定安全保卫制度和措施,保证人员和通信导航监视设施设备的安全。
+- node_id: article:16
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十六条
+- summary: 第一百三十六条 通信导航监视运行保障单位应当制定安全保卫制度和措施,保证人员和通信导航监视设施设备的安全
+- keywords: 第十六条, 通信导航监视运行保障单位应当制定安全保卫制度和措施, 保证人员和通信导航监视设施设备的安全, 第一百三十六条
+
+#### 第十七条 安全保卫工作应当包括以下主要内容:
+- node_id: article:17
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十七条
+- summary: 第一百三十七条 安全保卫工作应当包括以下主要内容:
+- keywords: 第十七条, 安全保卫工作应当包括以下主要内容, 第一百三十七条, 采取有效措施, 防止或者预防通信导航监视服务设施设备及人员遭受损害, 协调地方政府加强通信导航监视设施设备的安全保卫工作
+
+## 第六章 飞行校验与验证
+- node_id: chapter:6
+- type: chapter
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第六章
+- summary: 本章核心规制飞行校验与验证的程序、标准与主体责任，确保航空器设备及系统的准确性与安全性。典型法律问题包括校验义务履行、数据造假责任、适航合规争议及因未校验导致事故的侵权或行政责任认定。
+- keywords: 第六章, 飞行校验与验证
+- children: article:18, article:19, article:10, article:11
+
+### 第十八条 通信导航监视设备应当按照有关规定进行飞行校验与验证。
+- node_id: article:18
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十八条
+- summary: 第一百三十八条 通信导航监视设备应当按照有关规定进行飞行校验与验证
+- keywords: 第十八条, 通信导航监视设备应当按照有关规定进行飞行校验与验证, 第一百三十八条
+
+### 第十九条 飞行校验由民航局飞行校验机构和通信导航监视运行保障单位具体实施。通信导航监视设备验证工作由符合民航局规定条件的验证机构实施。
+- node_id: article:19
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十九条
+- summary: 第一百三十九条 飞行校验由民航局飞行校验机构和通信导航监视运行保障单位具体实施
+- keywords: 第十九条, 飞行校验由民航局飞行校验机构和通信导航监视运行保障单位具体实施, 通信导航监视设备验证工作由符合民航局规定条件的验证机构实施, 第一百三十九条
+
+### 第十条 通信导航监视设备的飞行校验管理按照《民用航空通信导航监视设备飞行校验管理规则》执行。
+- node_id: article:10
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十条
+- summary: 第一百四十条 通信导航监视设备的飞行校验管理按照《民用航空通信导航监视设备飞行校验管理规则》执行
+- keywords: 第十条, 通信导航监视设备的飞行校验管理按照, 民用航空通信导航监视设备飞行校验管理规则, 执行, 第一百四十条
+
+### 第十一条 通信导航监视设备验证工作按照民用航空的有关规定执行。
+- node_id: article:11
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十一条
+- summary: 第一百四十一条 通信导航监视设备验证工作按照民用航空的有关规定执行
+- keywords: 第十一条, 通信导航监视设备验证工作按照民用航空的有关规定执行, 第一百四十一条
+
+## 第七章 资料管理
+- node_id: chapter:7
+- type: chapter
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第七章
+- summary: 该章主要规范资料的收集、存储、使用、传输与销毁等全流程管理要求，明确管理者与使用者的权利义务。典型法律问题包括数据合规与安全保护、个人隐私泄露风险、资料权属争议及违规责任认定。
+- keywords: 第七章, 资料管理
+- children: article:12, article:13, article:14, article:15, article:16
+
+### 第十二条 通信导航监视资料是指与提供通信导航监视服务以及其他与通信导航监视工作有关的资料,应当包括以下主要内容:
+- node_id: article:12
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十二条
+- summary: 第一百四十二条 通信导航监视资料是指与提供通信导航监视服务以及其他与通信导航监视工作有关的资料,应当包括以下主要内容:
+- keywords: 第十二条, 通信导航监视资料是指与提供通信导航监视服务以及其他与通信导航监视工作有关的资料, 应当包括以下主要内容, 第一百四十二条, 电信人员基本情况, 培训考核记录
+
+### 第十三条 通信导航监视运行保障单位应当建立资料管理制度,实施分层、分类管理并定期清点校对。
+- node_id: article:13
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十三条
+- summary: 第一百四十三条 通信导航监视运行保障单位应当建立资料管理制度,实施分层、分类管理并定期清点校对
+- keywords: 第十三条, 通信导航监视运行保障单位应当建立资料管理制度, 实施分层, 分类管理并定期清点校对, 第一百四十三条
+
+### 第十四条 通信导航监视运行保障单位应当按照民航局要求定期将设备统计资料报地区管理局备案。
+- node_id: article:14
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十四条
+- summary: 第一百四十四条 通信导航监视运行保障单位应当按照民航局要求定期将设备统计资料报地区管理局备案
+- keywords: 第十四条, 通信导航监视运行保障单位应当按照民航局要求定期将设备统计资料报地区管理局备案, 第一百四十四条
+
+### 第十五条 通信导航监视运行保障单位应当指定专人负责资料的管理,并配备必要的设备。
+- node_id: article:15
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十五条
+- summary: 第一百四十五条 通信导航监视运行保障单位应当指定专人负责资料的管理,并配备必要的设备
+- keywords: 第十五条, 通信导航监视运行保障单位应当指定专人负责资料的管理, 并配备必要的设备, 第一百四十五条
+
+### 第十六条 通信导航监视资料的保密和保存期限按照国家和民用航空的有关规定执行。
+- node_id: article:16
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十六条
+- summary: 第一百四十六条 通信导航监视资料的保密和保存期限按照国家和民用航空的有关规定执行
+- keywords: 第十六条, 通信导航监视资料的保密和保存期限按照国家和民用航空的有关规定执行, 第一百四十六条
+
+## 第八章 监督检查
+- node_id: chapter:8
+- type: chapter
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第八章
+- summary: 该章规定监督检查机关的职责、权限、程序及措施（如询问、查阅资料、查封扣押等），明确被检查主体的配合义务。典型法律问题包括：检查权与经营自主权/隐私权的平衡，行政强制措施的合法性，以及程序违法导致的证据效力争议。
+- keywords: 第八章, 监督检查
+- children: article:17, article:18, article:19
+
+### 第十七条 民航局和地区管理局依据职责对通信导航监视服务有关的单位实施监督检查,以确保其符合:
+- node_id: article:17
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十七条
+- summary: 第一百四十七条 民航局和地区管理局依据职责对通信导航监视服务有关的单位实施监督检查,以确保其符合:
+- keywords: 第十七条, 民航局和地区管理局依据职责对通信导航监视服务有关的单位实施监督检查, 以确保其符合, 第一百四十七条, 本规则的规定, 本单位通信导航监视工作的规定
+
+### 第十八条 通信导航监视运行保障单位应当对民航局和地区管理局执法人员的监督检查给予积极配合,不得向执法人员隐瞒情况或者提供虚假情况。
+- node_id: article:18
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十八条
+- summary: 第一百四十八条 通信导航监视运行保障单位应当对民航局和地区管理局执法人员的监督检查给予积极配合,不得向执法人员隐瞒情况或者提供虚假情况
+- keywords: 第十八条, 通信导航监视运行保障单位应当对民航局和地区管理局执法人员的监督检查给予积极配合, 不得向执法人员隐瞒情况或者提供虚假情况, 第一百四十八条
+
+### 第十九条 任何单位和个人有权向民航局或者地区管理局举报违反本规则的行为。
+- node_id: article:19
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十九条
+- summary: 第一百四十九条 任何单位和个人有权向民航局或者地区管理局举报违反本规则的行为
+- keywords: 第十九条, 任何单位和个人有权向民航局或者地区管理局举报违反本规则的行为, 第一百四十九条
+
+## 第九章 法律责任
+- node_id: chapter:9
+- type: chapter
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第九章
+- summary: 该章核心规制违反本法相关义务的法律后果，涵盖民事赔偿、行政处罚及刑事责任。典型问题包括：违法行为的认定标准、责任主体范围、处罚幅度与裁量依据、免责情形及程序衔接。
+- keywords: 第九章, 法律责任
+- children: article:10, article:11, article:12, article:13, article:14, article:15, article:16, article:17, article:18, article:19, article:10, article:11, article:12, article:13
+
+### 第十条 通信导航监视运行保障单位违反本规则第八条规定,超越指定的职责范围提供通信导航监视服务的,由地区管理局责令限期改正,给予警告;逾期未改正或者造成严重后果的,对单位处以1万元以上3万元以下罚款。
+- node_id: article:10
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十条
+- summary: 第一百五十条 通信导航监视运行保障单位违反本规则第八条规定,超越指定的职责范围提供通信导航监视服务的,由地区管理局责令限期改正,给予警告;逾期未改正或者造成严重后果的,对单位处以1万元以上3万元以下罚款
+- keywords: 万元以下罚款, 万元以上, 对单位处以, 第十条, 通信导航监视运行保障单位违反本规则第八条规定, 超越指定的职责范围提供通信导航监视服务的, 由地区管理局责令限期改正, 给予警告
+
+### 第十一条 民用机场违反本规则第九条和第十条规定,未按要求设置通信导航监视运行保障单位,或者未按要求取得机场使用许可而提供通信导航监视服务的,由地区管理局责令限期改正,给予警告;逾期未改正或者造成严重后果的,对单位处以1万元以上3万元以下罚款。
+- node_id: article:11
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十一条
+- summary: 第一百五十一条 民用机场违反本规则第九条和第十条规定,未按要求设置通信导航监视运行保障单位,或者未按要求取得机场使用许可而提供通信导航监视服务的,由地区管理局责令限期改正,给予警告;逾期未改正或者造成严重后果的,对单位处以1万元以上3万元以
+- keywords: 万元以下罚款, 万元以上, 对单位处以, 逾期未改正或者造成严重后果的, 第十一条, 民用机场违反本规则第九条和第十条规定, 未按要求设置通信导航监视运行保障单位, 或者未按要求取得机场使用许可而提供通信导航监视服务的
+
+### 第十二条 通信导航监视运行保障单位违反本规则第十七条规定,未按要求组织开展相应的培训,由地区管理局责令限期改正,给予警告;逾期未改正的,对单位处以5000元以上1万元以下罚款。
+- node_id: article:12
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十二条
+- summary: 第一百五十二条 通信导航监视运行保障单位违反本规则第十七条规定,未按要求组织开展相应的培训,由地区管理局责令限期改正,给予警告;逾期未改正的,对单位处以5000元以上1万元以下罚款
+- keywords: 万元以下罚款, 元以上, 对单位处以, 第十二条, 通信导航监视运行保障单位违反本规则第十七条规定, 未按要求组织开展相应的培训, 由地区管理局责令限期改正, 给予警告
+
+### 第十三条 通信导航监视运行保障单位违反本规则第二十二条规定,未按要求购置和使用通信导航监视设备的,由地区管理局责令限期改正,给予警告;逾期未改正的,对单位处以人民币1万元以上3万元以下罚款。
+- node_id: article:13
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十三条
+- summary: 第一百五十三条 通信导航监视运行保障单位违反本规则第二十二条规定,未按要求购置和使用通信导航监视设备的,由地区管理局责令限期改正,给予警告;逾期未改正的,对单位处以人民币1万元以上3万元以下罚款
+- keywords: 万元以下罚款, 万元以上, 对单位处以人民币, 第十三条, 通信导航监视运行保障单位违反本规则第二十二条规定, 未按要求购置和使用通信导航监视设备的, 由地区管理局责令限期改正, 给予警告
+
+### 第十四条 通信导航监视运行保障单位违反本规则第二十六条规定,未按要求配备防雷设施、安全保卫设施、消防设施以及环境监控和告警装置等设施设备的,地区管理局应当责令限期改正,给予警告;逾期未改正或者造成严重后果的,对单位处以1万元以上3万元以下罚款。
+- node_id: article:14
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十四条
+- summary: 第一百五十四条 通信导航监视运行保障单位违反本规则第二十六条规定,未按要求配备防雷设施、安全保卫设施、消防设施以及环境监控和告警装置等设施设备的,地区管理局应当责令限期改正,给予警告;逾期未改正或者造成严重后果的,对单位处以1万元以上3万元
+- keywords: 万元以下罚款, 万元以上, 对单位处以, 逾期未改正或者造成严重后果的, 给予警告, 第十四条, 通信导航监视运行保障单位违反本规则第二十六条规定, 未按要求配备防雷设施
+
+### 第十五条 通信导航监视运行保障单位违反本规则第三十条规定,未按要求配备通信导航监视设施设备或者未能保证设施设备正常运行的,地区管理局应当责令限期改正,给予警告;逾期未改正或者造成严重后果的,对单位处以1万元以上3万元以下罚款。
+- node_id: article:15
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十五条
+- summary: 第一百五十五条 通信导航监视运行保障单位违反本规则第三十条规定,未按要求配备通信导航监视设施设备或者未能保证设施设备正常运行的,地区管理局应当责令限期改正,给予警告;逾期未改正或者造成严重后果的,对单位处以1万元以上3万元以下罚款
+- keywords: 万元以下罚款, 万元以上, 对单位处以, 第十五条, 通信导航监视运行保障单位违反本规则第三十条规定, 未按要求配备通信导航监视设施设备或者未能保证设施设备正常运行的, 地区管理局应当责令限期改正, 给予警告
+
+### 第十六条 通信导航监视运行保障单位违反本规则第四十条规定,实施新技术应用时未按要求建立相应的管理程序和制度的,由地区管理局责令限期改正,给予警告;逾期未改正或者造成严重后果的,对单位处以1万元以上3万元以下罚款。
+- node_id: article:16
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十六条
+- summary: 第一百五十六条 通信导航监视运行保障单位违反本规则第四十条规定,实施新技术应用时未按要求建立相应的管理程序和制度的,由地区管理局责令限期改正,给予警告;逾期未改正或者造成严重后果的,对单位处以1万元以上3万元以下罚款
+- keywords: 万元以下罚款, 万元以上, 对单位处以, 第十六条, 通信导航监视运行保障单位违反本规则第四十条规定, 实施新技术应用时未按要求建立相应的管理程序和制度的, 由地区管理局责令限期改正, 给予警告
+
+### 第十七条 通信导航监视运行保障单位违反本规则第四十一条规定,未经验证实施新技术应用的,由地区管理局责令改正,给予警告;未改正或者造成严重后果的,对单位处以1万元以上3万元以下罚款。
+- node_id: article:17
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十七条
+- summary: 第一百五十七条 通信导航监视运行保障单位违反本规则第四十一条规定,未经验证实施新技术应用的,由地区管理局责令改正,给予警告;未改正或者造成严重后果的,对单位处以1万元以上3万元以下罚款
+- keywords: 万元以下罚款, 万元以上, 对单位处以, 第十七条, 通信导航监视运行保障单位违反本规则第四十一条规定, 未经验证实施新技术应用的, 由地区管理局责令改正, 给予警告
+
+### 第十八条 违反本规则第四十七条规定,危害通信导航监视设施设备的单位和个人,由地区管理局责令立即停止危害行为或者限期改正,给予警告;逾期未改正或者情节严重的,对单位处以1万元以上3万元以下罚款,对个人处以200元以上1000元以下罚款。
+- node_id: article:18
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十八条
+- summary: 第一百五十八条 违反本规则第四十七条规定,危害通信导航监视设施设备的单位和个人,由地区管理局责令立即停止危害行为或者限期改正,给予警告;逾期未改正或者情节严重的,对单位处以1万元以上3万元以下罚款,对个人处以200元以上1000元以下罚款
+- keywords: 元以下罚款, 元以上, 对个人处以, 万元以下罚款, 万元以上, 对单位处以, 第十八条, 违反本规则第四十七条规定
+
+### 第十九条 通信导航监视运行保障单位违反本规则第四十八条规定,未按要求对通信导航监视设施设备及其电磁环境采取必要防护措施的,由地区管理局责令改正,给予警告;情节严重的,对单位处以1万元以上3万元以下罚款。
+- node_id: article:19
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十九条
+- summary: 第一百五十九条 通信导航监视运行保障单位违反本规则第四十八条规定,未按要求对通信导航监视设施设备及其电磁环境采取必要防护措施的,由地区管理局责令改正,给予警告;情节严重的,对单位处以1万元以上3万元以下罚款
+- keywords: 万元以下罚款, 万元以上, 对单位处以, 第十九条, 通信导航监视运行保障单位违反本规则第四十八条规定, 未按要求对通信导航监视设施设备及其电磁环境采取必要防护措施的, 由地区管理局责令改正, 给予警告
+
+### 第十条 通信导航监视运行保障单位违反本规则第四章的规定,有下列情形之一的,由地区管理局责令改正,给予警告;未改正或者造成严重后果的,对单位处以1万元以上3万元以下罚款:
+- node_id: article:10
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十条
+- summary: 第一百六十条 通信导航监视运行保障单位违反本规则第四章的规定,有下列情形之一的,由地区管理局责令改正,给予警告;未改正或者造成严重后果的,对单位处以1万元以上3万元以下罚款:
+- keywords: 万元以下罚款, 万元以上, 对单位处以, 第十条, 通信导航监视运行保障单位违反本规则第四章的规定, 有下列情形之一的, 由地区管理局责令改正, 给予警告
+
+### 第十一条 通信导航监视运行保障单位违反本规则第五章的规定,有下列情形之一的,由地区管理局责令改正,给予警告;未改正或者造成严重后果的,对单位处以1万元以上3万元以下罚款:
+- node_id: article:11
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十一条
+- summary: 第一百六十一条 通信导航监视运行保障单位违反本规则第五章的规定,有下列情形之一的,由地区管理局责令改正,给予警告;未改正或者造成严重后果的,对单位处以1万元以上3万元以下罚款:
+- keywords: 万元以下罚款, 万元以上, 对单位处以, 第十一条, 通信导航监视运行保障单位违反本规则第五章的规定, 有下列情形之一的, 由地区管理局责令改正, 给予警告
+
+### 第十二条 通信导航监视服务保障单位违反本规则第一百四十三条规定,未按要求建立资料管理制度或者未按要求保存相应资料的,由地区管理局责令改正,给予警告;逾期未改正的,对单位处以5000元以上1万元以下罚款。
+- node_id: article:12
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十二条
+- summary: 第一百六十二条 通信导航监视服务保障单位违反本规则第一百四十三条规定,未按要求建立资料管理制度或者未按要求保存相应资料的,由地区管理局责令改正,给予警告;逾期未改正的,对单位处以5000元以上1万元以下罚款
+- keywords: 万元以下罚款, 元以上, 对单位处以, 第十二条, 通信导航监视服务保障单位违反本规则第一百四十三条规定, 未按要求建立资料管理制度或者未按要求保存相应资料的, 由地区管理局责令改正, 给予警告
+
+### 第十三条 通信导航监视运行保障单位违反本规则第一百四十八条的规定,不接受民航局和地区管理局监督检查的,或在监督检查过程中向执法人员隐瞒情况或者提供虚假情况的,由地区管理局责令改正,给予警告;情节严重的,对单位处以1万元以下罚款。
+- node_id: article:13
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十三条
+- summary: 第一百六十三条 通信导航监视运行保障单位违反本规则第一百四十八条的规定,不接受民航局和地区管理局监督检查的,或在监督检查过程中向执法人员隐瞒情况或者提供虚假情况的,由地区管理局责令改正,给予警告;情节严重的,对单位处以1万元以下罚款
+- keywords: 万元以下罚款, 对单位处以, 情节严重的, 第十三条, 通信导航监视运行保障单位违反本规则第一百四十八条的规定, 不接受民航局和地区管理局监督检查的, 或在监督检查过程中向执法人员隐瞒情况或者提供虚假情况的, 由地区管理局责令改正
+
+## 第十章 附则
+- node_id: chapter:10
+- type: chapter
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十章
+- summary: 本附则章节主要规定法律生效日期、术语定义、解释权归属、授权制定配套规定以及废止先前相关法律等事项。典型法律问题包括：法律的时间效力与溯及力、解释机关权限、新旧法衔接适用规则等。
+- keywords: 第十章, 附则
+- children: article:14
+
+### 第十四条 本规则自2016年4月28日起实施。1990年5月26日发布,1990年11月1日起施行的《中国民用航空通信导航雷达工作规则》(中国民航总局令第5号,CCAR115TM)同时废止。
+- node_id: article:14
+- type: article
+- source_file: /home/zhangmanman/Documents/法律机器人/民航法律机器人/data/法律数据/民用航空通信导航监视工作规则（交通运输部_原文TXT）.txt
+- source_anchor: 第十四条
+- summary: 第一百六十四条 本规则自2016年4月28日起实施
+- keywords: 同时废止, 中国民航总局令第, 第十四条, 本规则自, 日起实施, 日发布, 日起施行的, 中国民用航空通信导航雷达工作规则

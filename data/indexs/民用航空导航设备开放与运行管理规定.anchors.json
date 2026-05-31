@@ -1,0 +1,690 @@
+{
+  "law:民用航空导航设备开放与运行管理规定": {
+    "node_id": "law:民用航空导航设备开放与运行管理规定",
+    "type": "law",
+    "title": "民用航空导航设备开放与运行管理规定",
+    "line_start": 0,
+    "line_end": 396,
+    "source_anchor": "民用航空导航设备开放与运行管理规定"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了加强对民用航空导航设备的运行管理,保障飞行安全,根据《中华人民共和国民用航空法》《中华人民共和国飞行基本规则》《中华人民共和国无线电管理条例》《民用机场管理条例》等法律、行政法规,制定本规定。",
+    "line_start": 4,
+    "line_end": 5,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规定适用于民用航空导航设备的开放与运行管理。",
+    "line_start": 6,
+    "line_end": 7,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 本规定所称民用航空导航设备(以下简称导航设备),是指与民用航空飞行活动密切相关的,为航空器运行提供定位与导航服务的仪表着陆系统(包含航向信标、下滑信标)、全向信标、测距仪、无方向信标、指点信标、卫星导航增强系统地面设备等地面无线电设备。导航设备分为运输航空导航设备和通用航空导航设备。",
+    "line_start": 8,
+    "line_end": 13,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 导航设备的投产开放、特殊开放、定期开放和撤除,按照分级分类管理的原则实施行政许可或者备案管理。",
+    "line_start": 14,
+    "line_end": 15,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 中国民用航空局(以下简称民航局)依法对全国导航设备的开放、运行实行统一监督管理。",
+    "line_start": 16,
+    "line_end": 19,
+    "source_anchor": "第五条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总 则",
+    "line_start": 2,
+    "line_end": 19,
+    "source_anchor": "第一章"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 新建、迁建或者更新的运输航空导航设备首次投入实际运行,应当进行投产校验,并取得投产开放许可。",
+    "line_start": 24,
+    "line_end": 25,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 申请投产开放许可的运输航空导航设备应当满足下列条件:",
+    "line_start": 26,
+    "line_end": 37,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 申请运输航空导航设备投产开放许可,应当向申请人所在地受民航局委托的民航地区管理局提交下列材料:",
+    "line_start": 38,
+    "line_end": 49,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 民航地区管理局收到运输航空导航设备投产开放许可的申请材料后,对于申请材料齐全且符合要求的,应当当场受理;对于申请材料不齐全或者不符合要求的,应当当场或者在5个工作日内一次告知申请人需要补正的全部内容,逾期不告知的,自收到申请材料之日起即为受理。",
+    "line_start": 50,
+    "line_end": 51,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 民航地区管理局受理申请材料后,对申请材料进行初步审查,并将初步审查意见和申请材料一并报民航局。",
+    "line_start": 52,
+    "line_end": 53,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 民航局应当自民航地区管理局受理申请之日起20个工作日内作出许可决定。符合条件的,应当在作出决定之日起10个工作日内,将许可证件送达申请人并通知申请人所在地的民航地区管理局。不符合条件的,不予许可,并将书面决定通知申请人和申请人所在地的民航地区管理局。",
+    "line_start": 54,
+    "line_end": 55,
+    "source_anchor": "第十一条"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 一般规定",
+    "line_start": 190,
+    "line_end": 201,
+    "source_anchor": "第一节"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 运输航空导航设备出现下列情形之一的,运输航空通信导航监视运行保障单位(以下简称通信导航监视运行保障单位)应当关闭该设备并进行特殊校验:",
+    "line_start": 58,
+    "line_end": 73,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 运输航空导航设备出现需要进行特殊校验情形的,通信导航监视运行保障单位应当主动向所在地的民航地区管理局报告。",
+    "line_start": 74,
+    "line_end": 75,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 通信导航监视运行保障单位完成运输航空导航设备特殊校验后,应当报告所在地的民航地区管理局。",
+    "line_start": 76,
+    "line_end": 79,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 民航地区管理局对通信导航监视运行保障单位的下列资料进行检查:",
+    "line_start": 80,
+    "line_end": 89,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 民航地区管理局接到通信导航监视运行保障单位完成特殊校验的报告后,应当在15个工作日内完成检查并出具书面意见,在5个工作日内将书面意见送达通信导航监视运行保障单位。",
+    "line_start": 90,
+    "line_end": 91,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 民航地区管理局实施检查时发现存在安全隐患的,按照本规定第六十三条处理。",
+    "line_start": 92,
+    "line_end": 93,
+    "source_anchor": "第十七条"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 投产开放管理",
+    "line_start": 202,
+    "line_end": 229,
+    "source_anchor": "第二节"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 运输航空导航设备应当按照规定的飞行校验周期进行定期校验。",
+    "line_start": 96,
+    "line_end": 97,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 通信导航监视运行保障单位应当根据定期校验结论,确定是否开放使用设备。",
+    "line_start": 98,
+    "line_end": 103,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 通信导航监视运行保障单位应当在定期校验结论作出之日起5个工作日内,将按照本规定附件3填写的运输航空导航设备定期开放备案表、定期校验飞行校验报告报所在地的民航地区管理局备案。",
+    "line_start": 104,
+    "line_end": 105,
+    "source_anchor": "第二十条"
+  },
+  "section:3": {
+    "node_id": "section:3",
+    "type": "section",
+    "title": "第三节 特殊开放管理",
+    "line_start": 230,
+    "line_end": 259,
+    "source_anchor": "第三节"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 已获得投产开放许可的运输航空导航设备出现下列情形之一的,应当申请运输航空导航设备撤除:",
+    "line_start": 108,
+    "line_end": 113,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 申请运输航空导航设备撤除,应当向申请人所在地受民航局委托的民航地区管理局提交下列材料:",
+    "line_start": 114,
+    "line_end": 121,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 民航地区管理局收到运输航空导航设备撤除的申请材料后,对于申请材料齐全且符合要求的,应当当场受理;对于申请材料不齐全或者不符合要求的,应当当场或者在5个工作日内一次告知申请人需要补正的全部内容,逾期不告知的,自收到申请材料之日起即为受理。",
+    "line_start": 122,
+    "line_end": 123,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 民航地区管理局受理申请材料后,对申请材料进行初步审查,并将初步审查意见和申请材料一并报民航局。",
+    "line_start": 124,
+    "line_end": 125,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 民航局应当自民航地区管理局受理申请之日起20个工作日内作出许可决定。符合条件的,应当在作出决定之日起10个工作日内,将许可证件送达申请人并通知申请人所在地的民航地区管理局。不符合条件的,不予许可,并将书面决定通知申请人和申请人所在地的民航地区管理局。",
+    "line_start": 126,
+    "line_end": 127,
+    "source_anchor": "第二十五条"
+  },
+  "section:4": {
+    "node_id": "section:4",
+    "type": "section",
+    "title": "第四节 定期开放管理",
+    "line_start": 260,
+    "line_end": 263,
+    "source_anchor": "第四节"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 通信导航监视运行保障单位应当保证运输航空导航设备运行符合民用航空有关规定和技术标准,保证空间导航信号连续、稳定、可靠,保证运输航空导航设备的持续适用。",
+    "line_start": 130,
+    "line_end": 131,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 导航台(站)的电磁环境应当按照《中华人民共和国无线电管理条例》《民用机场管理条例》的相关规定,依法进行保护。",
+    "line_start": 132,
+    "line_end": 133,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 航路、航线需要运输机场导航设备提供服务的,负责航路、航线划设与调整的空管运行单位应当征得该设备所属通信导航监视运行保障单位同意。",
+    "line_start": 134,
+    "line_end": 139,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 通信导航监视运行保障单位应当充分考虑运输航空导航设备限用对于安全运行的影响,及时协调有关单位,采取积极有效的相关措施,确保运行安全。",
+    "line_start": 140,
+    "line_end": 141,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 通信导航监视运行保障单位需要按照有关规定和技术标准对设备进行维护、检修的,应当提前制定维护、检修计划,缩短设备关闭时间。在征得相关运行单位同意后,可以临时关闭设备。",
+    "line_start": 142,
+    "line_end": 145,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 运输航空导航设备存在下列情形之一的,通信导航监视运行保障单位应当立即关闭该设备:",
+    "line_start": 146,
+    "line_end": 157,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 运输航空导航设备在实施飞行校验期间应当关闭。",
+    "line_start": 158,
+    "line_end": 159,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 本规定第三十条、第三十一条、第三十二条规定的关闭情形消失后,运输航空导航设备可以开放使用的,通信导航监视运行保障单位应当立即恢复设备开放使用。",
+    "line_start": 160,
+    "line_end": 161,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 运输航空导航设备存在下列情形之一的,通信导航监视运行保障单位应当及时通知相关运行单位采取相应措施,并通知航空情报服务机构发布航行通告:",
+    "line_start": 162,
+    "line_end": 173,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 通信导航监视运行保障单位应当按照《民用航空空中交通管理运行单位安全管理规则》建立安全评估机制,存在下列情形之一的,应当形成书面评估报告并报所在地的民航地区管理局备案,民航地区管理局应当就相关情形实施监督检查:",
+    "line_start": 174,
+    "line_end": 187,
+    "source_anchor": "第三十五条"
+  },
+  "section:5": {
+    "node_id": "section:5",
+    "type": "section",
+    "title": "第五节 撤除管理",
+    "line_start": 264,
+    "line_end": 289,
+    "source_anchor": "第五节"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 运输航空导航设备开放运行",
+    "line_start": 20,
+    "line_end": 187,
+    "source_anchor": "第二章"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 N1级通用航空导航设备投产开放和撤除实行许可管理,特殊开放和定期开放实行备案管理。",
+    "line_start": 192,
+    "line_end": 193,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 N2级通用航空导航设备中仪表着陆系统的投产开放和撤除实行许可管理,特殊开放和定期开放实行备案管理;N2级通用航空导航设备中其他设备的投产开放、特殊开放和撤除实行备案管理。",
+    "line_start": 194,
+    "line_end": 195,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 N3级通用航空导航设备投产开放、特殊开放和撤除实行备案管理。",
+    "line_start": 196,
+    "line_end": 197,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 N4级通用航空导航设备由设置通用航空导航设备的通用机场自行决定校验和开放运行。",
+    "line_start": 198,
+    "line_end": 199,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 民航地区管理局受民航局的委托,以民航局的名义实施辖区内通用航空导航设备的投产开放许可和撤除许可。",
+    "line_start": 200,
+    "line_end": 201,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 申请投产开放许可的通用航空导航设备应当满足下列条件:",
+    "line_start": 204,
+    "line_end": 211,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 申请通用航空导航设备投产开放许可,应当向申请人所在地受民航局委托的民航地区管理局提交下列材料:",
+    "line_start": 212,
+    "line_end": 219,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 民航地区管理局收到通用航空导航设备投产开放许可的申请材料后,对于申请材料齐全且符合要求的,应当当场受理;对于申请材料不齐全或者不符合要求的,应当当场或者在5个工作日内一次告知申请人需要补正的全部内容,逾期不告知的,自收到申请材料之日起即为受理。",
+    "line_start": 220,
+    "line_end": 221,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 民航地区管理局受理申请后,应当在受理之日起20个工作日内对申请人的申请材料进行审核并作出许可决定。符合条件的,应当在作出决定之日起10个工作日内,将许可证件送达申请人。不符合条件的,不予许可,并将书面决定通知申请人。",
+    "line_start": 222,
+    "line_end": 223,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 通用航空导航设备需要进行投产开放备案的,应当在投产校验飞行校验报告出具之日起5个工作日内,向所在地的民航地区管理局提交下列资料备案:",
+    "line_start": 224,
+    "line_end": 229,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 N1、N2、N3级通用航空导航设备出现下列情形之一的,设置通用航空导航设备的通用机场应当关闭该设备并进行特殊校验:",
+    "line_start": 232,
+    "line_end": 247,
+    "source_anchor": "第四十六条"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 通用航空导航设备出现需要进行特殊校验情形的,设置通用航空导航设备的通用机场应当主动向所在地的民航地区管理局报告。",
+    "line_start": 248,
+    "line_end": 249,
+    "source_anchor": "第四十七条"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 设置通用航空导航设备的通用机场完成特殊校验后,应当在特殊校验结论作出之日起5个工作日内,向所在地的民航地区管理局提交下列资料备案,由所在地的民航地区管理局根据需要对设备是否符合开放条件实施特殊开放检查:",
+    "line_start": 250,
+    "line_end": 259,
+    "source_anchor": "第四十八条"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 通用航空导航设备需要进行定期开放备案的,应当在定期校验结论作出之日起5个工作日内,将按照本规定附件6填写的通用航空导航设备备案表、定期校验飞行校验报告报所在地的民航地区管理局备案。",
+    "line_start": 262,
+    "line_end": 263,
+    "source_anchor": "第四十九条"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 已获得投产开放许可的通用航空导航设备出现下列情形之一的,应当申请通用航空导航设备撤除:",
+    "line_start": 266,
+    "line_end": 271,
+    "source_anchor": "第五十条"
+  },
+  "article:51": {
+    "node_id": "article:51",
+    "type": "article",
+    "title": "第五十一条 申请通用航空导航设备撤除,应当向申请人所在地受民航局委托的民航地区管理局提交下列材料:",
+    "line_start": 272,
+    "line_end": 279,
+    "source_anchor": "第五十一条"
+  },
+  "article:52": {
+    "node_id": "article:52",
+    "type": "article",
+    "title": "第五十二条 民航地区管理局收到通用航空导航设备撤除许可的申请材料后,对于申请材料齐全且符合要求的,应当当场受理;对于申请材料不齐全或者不符合要求的,应当当场或者在5个工作日内一次告知申请人需要补正的全部内容,逾期不告知的,自收到申请材料之日起即为受理。",
+    "line_start": 280,
+    "line_end": 281,
+    "source_anchor": "第五十二条"
+  },
+  "article:53": {
+    "node_id": "article:53",
+    "type": "article",
+    "title": "第五十三条 民航地区管理局受理申请后,应当在受理之日起20个工作日内对申请人的申请材料进行审核并作出许可决定。符合条件的,应当在作出决定之日起10个工作日内,将许可证件送达申请人。不符合条件的,不予许可,并将书面决定通知申请人。",
+    "line_start": 282,
+    "line_end": 283,
+    "source_anchor": "第五十三条"
+  },
+  "article:54": {
+    "node_id": "article:54",
+    "type": "article",
+    "title": "第五十四条 通用航空导航设备的撤除需要备案的,应当在设备撤除之日起5个工作日内,向所在地的民航地区管理局提交下列资料备案:",
+    "line_start": 284,
+    "line_end": 289,
+    "source_anchor": "第五十四条"
+  },
+  "article:55": {
+    "node_id": "article:55",
+    "type": "article",
+    "title": "第五十五条 设置通用航空导航设备的通用机场承担通用航空导航设备的运行安全管理主体责任。",
+    "line_start": 292,
+    "line_end": 293,
+    "source_anchor": "第五十五条"
+  },
+  "article:56": {
+    "node_id": "article:56",
+    "type": "article",
+    "title": "第五十六条 设置通用航空导航设备的通用机场应当保证通用航空导航设备运行符合民用航空有关规定和技术标准,保证空间导航信号连续、稳定、可靠。",
+    "line_start": 294,
+    "line_end": 295,
+    "source_anchor": "第五十六条"
+  },
+  "article:57": {
+    "node_id": "article:57",
+    "type": "article",
+    "title": "第五十七条 设置通用航空导航设备的通用机场应当按照规定的导航频率、识别和功率限值开放使用,不得影响其它导航设备的正常运行。",
+    "line_start": 296,
+    "line_end": 297,
+    "source_anchor": "第五十七条"
+  },
+  "article:58": {
+    "node_id": "article:58",
+    "type": "article",
+    "title": "第五十八条 设置通用航空导航设备的通用机场应当按照民用航空有关规定和通用航空导航设备使用手册定期对设备进行检查维护,保持设备完好、运行正常。",
+    "line_start": 298,
+    "line_end": 299,
+    "source_anchor": "第五十八条"
+  },
+  "article:59": {
+    "node_id": "article:59",
+    "type": "article",
+    "title": "第五十九条 设置通用航空导航设备的通用机场应当妥善保存通用航空导航设备投产、运行、维护与维修记录和飞行校验报告。",
+    "line_start": 300,
+    "line_end": 301,
+    "source_anchor": "第五十九条"
+  },
+  "article:60": {
+    "node_id": "article:60",
+    "type": "article",
+    "title": "第六十条 通用机场如需取得运输机场使用许可证的,其设置的导航设备开放应当按照运输航空导航设备开放进行管理。",
+    "line_start": 302,
+    "line_end": 303,
+    "source_anchor": "第六十条"
+  },
+  "section:6": {
+    "node_id": "section:6",
+    "type": "section",
+    "title": "第六节 运行管理",
+    "line_start": 290,
+    "line_end": 303,
+    "source_anchor": "第六节"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 通用航空导航设备开放运行",
+    "line_start": 188,
+    "line_end": 303,
+    "source_anchor": "第三章"
+  },
+  "article:61": {
+    "node_id": "article:61",
+    "type": "article",
+    "title": "第六十一条 民航局和民航地区管理局定期或者不定期对导航设备运行情况以及导航台(站)电磁环境对导航设备影响情况实施监督检查。",
+    "line_start": 306,
+    "line_end": 307,
+    "source_anchor": "第六十一条"
+  },
+  "article:62": {
+    "node_id": "article:62",
+    "type": "article",
+    "title": "第六十二条 除本规定另有规定外,通信导航监视运行保障单位以及设置通用航空导航设备的通用机场应当持续提供导航设备的开放与运行服务。",
+    "line_start": 308,
+    "line_end": 309,
+    "source_anchor": "第六十二条"
+  },
+  "article:63": {
+    "node_id": "article:63",
+    "type": "article",
+    "title": "第六十三条 民航地区管理局对检查中发现的安全隐患,应当责令通信导航监视运行保障单位以及设置通用航空导航设备的通用机场立即排除;重大安全隐患排除前或者排除过程中无法保证航空运行安全的,应当责令通信导航监视运行保障单位及设置通用航空导航设备的通用机场暂时停止使用该设备;重大安全隐患排除后,经审查同意,方可恢复使用。",
+    "line_start": 310,
+    "line_end": 311,
+    "source_anchor": "第六十三条"
+  },
+  "article:64": {
+    "node_id": "article:64",
+    "type": "article",
+    "title": "第六十四条 通信导航监视运行保障单位和设置通用航空导航设备的通用机场有下列行为之一的,依法记入民航行业严重失信行为信用记录:",
+    "line_start": 312,
+    "line_end": 321,
+    "source_anchor": "第六十四条"
+  },
+  "article:65": {
+    "node_id": "article:65",
+    "type": "article",
+    "title": "第六十五条 任何单位和个人有权向民航局和民航地区管理局举报违反本规定的行为。",
+    "line_start": 322,
+    "line_end": 323,
+    "source_anchor": "第六十五条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 监督检查",
+    "line_start": 304,
+    "line_end": 323,
+    "source_anchor": "第四章"
+  },
+  "article:66": {
+    "node_id": "article:66",
+    "type": "article",
+    "title": "第六十六条 通信导航监视运行保障单位和设置通用航空导航设备的通用机场以欺骗、贿赂等不正当手段取得开放许可的,由民航局予以撤销,由民航地区管理局处2万元以上3万元以下的罚款。",
+    "line_start": 326,
+    "line_end": 327,
+    "source_anchor": "第六十六条"
+  },
+  "article:67": {
+    "node_id": "article:67",
+    "type": "article",
+    "title": "第六十七条 通信导航监视运行保障单位存在下列情形之一的,由民航地区管理局责令改正,处2万元以上3万元以下的罚款:",
+    "line_start": 328,
+    "line_end": 337,
+    "source_anchor": "第六十七条"
+  },
+  "article:68": {
+    "node_id": "article:68",
+    "type": "article",
+    "title": "第六十八条 通信导航监视运行保障单位存在下列情形之一的,由民航地区管理局责令改正,给予警告;逾期未改正或者造成严重后果的,处1万元以上2万元以下的罚款:",
+    "line_start": 338,
+    "line_end": 353,
+    "source_anchor": "第六十八条"
+  },
+  "article:69": {
+    "node_id": "article:69",
+    "type": "article",
+    "title": "第六十九条 设置通用航空导航设备的通用机场存在下列情形之一的,由民航地区管理局责令改正,给予警告;逾期未改正或者造成严重后果的,处1万元以上2万元以下的罚款:",
+    "line_start": 354,
+    "line_end": 369,
+    "source_anchor": "第六十九条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 法律责任",
+    "line_start": 324,
+    "line_end": 369,
+    "source_anchor": "第五章"
+  },
+  "article:70": {
+    "node_id": "article:70",
+    "type": "article",
+    "title": "第七十条 本规定中所用部分术语的含义如下:",
+    "line_start": 372,
+    "line_end": 391,
+    "source_anchor": "第七十条"
+  },
+  "article:71": {
+    "node_id": "article:71",
+    "type": "article",
+    "title": "第七十一条 卫星导航空间信号的使用,以及卫星导航增强系统民用航空监测网络的运行管理,根据国家有关规定执行。",
+    "line_start": 392,
+    "line_end": 393,
+    "source_anchor": "第七十一条"
+  },
+  "article:72": {
+    "node_id": "article:72",
+    "type": "article",
+    "title": "第七十二条 本规定所称“以上”“以下”,包括本数。",
+    "line_start": 394,
+    "line_end": 395,
+    "source_anchor": "第七十二条"
+  },
+  "article:73": {
+    "node_id": "article:73",
+    "type": "article",
+    "title": "第七十三条 本规定自2021年7月1日起施行。2016年3月28日以交通运输部令2016年第24号公布的《民用航空导航设备开放与运行管理规定》同时废止。",
+    "line_start": 396,
+    "line_end": 396,
+    "source_anchor": "第七十三条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 附 则",
+    "line_start": 370,
+    "line_end": 396,
+    "source_anchor": "第六章"
+  }
+}

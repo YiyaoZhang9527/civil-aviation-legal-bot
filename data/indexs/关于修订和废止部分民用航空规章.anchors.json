@@ -1,0 +1,82 @@
+{
+  "law:关于修订和废止部分民用航空规章": {
+    "node_id": "law:关于修订和废止部分民用航空规章",
+    "type": "law",
+    "title": "关于修订和废止部分民用航空规章",
+    "line_start": 0,
+    "line_end": 190,
+    "source_anchor": "关于修订和废止部分民用航空规章"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 中的\"吊销\"修改为\"收回\",并增加一项,作为第三项:\"(三)已调离航",
+    "line_start": 8,
+    "line_end": 25,
+    "source_anchor": "第九条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 修改为:\"当航空公司在运营中发生违犯航行规章行为时,民航当局有权",
+    "line_start": 32,
+    "line_end": 36,
+    "source_anchor": "第七条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 修改为:\"6.民航局适航管理司和地区管理局适航处将定期或不定期地",
+    "line_start": 42,
+    "line_end": 45,
+    "source_anchor": "第六条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 修改为:\"持有施工许可证的单位有下列情形之一的,民航总局可以收留",
+    "line_start": 124,
+    "line_end": 190,
+    "source_anchor": "第十条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 第三句修改为:\"……经整改无效,可以收留或收回生产许可证,并给",
+    "line_start": 75,
+    "line_end": 84,
+    "source_anchor": "第十三条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 修改为:\"证书的收回和处罚",
+    "line_start": 85,
+    "line_end": 92,
+    "source_anchor": "第二十六条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 修改为:\"对于违反本规定的,中国民用航空局可以取消其有关认可",
+    "line_start": 93,
+    "line_end": 112,
+    "source_anchor": "第三十九条"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 修改为:\"为了加强对民用航空器运行的适航管理,保证民用航空器安全",
+    "line_start": 113,
+    "line_end": 117,
+    "source_anchor": "第一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 修改为:\"机场工程设计单位违反本规定,其设计成果不予审查,并视",
+    "line_start": 118,
+    "line_end": 123,
+    "source_anchor": "第十二条"
+  }
+}

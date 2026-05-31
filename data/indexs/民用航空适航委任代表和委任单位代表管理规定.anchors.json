@@ -1,0 +1,266 @@
+{
+  "law:民用航空适航委任代表和委任单位代表管理规定": {
+    "node_id": "law:民用航空适航委任代表和委任单位代表管理规定",
+    "type": "law",
+    "title": "第183.1条目的",
+    "line_start": 0,
+    "line_end": 342,
+    "source_anchor": "第183.1条目的"
+  },
+  "article:183.1": {
+    "node_id": "article:183.1",
+    "type": "article",
+    "title": "第183.1条 目的",
+    "line_start": 2,
+    "line_end": 5,
+    "source_anchor": "第183.1条"
+  },
+  "article:183.2": {
+    "node_id": "article:183.2",
+    "type": "article",
+    "title": "第183.2条 适用范围",
+    "line_start": 6,
+    "line_end": 13,
+    "source_anchor": "第183.2条"
+  },
+  "article:183.3": {
+    "node_id": "article:183.3",
+    "type": "article",
+    "title": "第183.3条 定义",
+    "line_start": 14,
+    "line_end": 25,
+    "source_anchor": "第183.3条"
+  },
+  "article:183.4": {
+    "node_id": "article:183.4",
+    "type": "article",
+    "title": "第183.4条 主管部门",
+    "line_start": 26,
+    "line_end": 31,
+    "source_anchor": "第183.4条"
+  },
+  "article:183.11": {
+    "node_id": "article:183.11",
+    "type": "article",
+    "title": "第183.11条 委任代表的资格",
+    "line_start": 34,
+    "line_end": 49,
+    "source_anchor": "第183.11条"
+  },
+  "article:183.12": {
+    "node_id": "article:183.12",
+    "type": "article",
+    "title": "第183.12条 申请",
+    "line_start": 50,
+    "line_end": 59,
+    "source_anchor": "第183.12条"
+  },
+  "article:183.13": {
+    "node_id": "article:183.13",
+    "type": "article",
+    "title": "第183.13条 颁发委任代表文书",
+    "line_start": 60,
+    "line_end": 65,
+    "source_anchor": "第183.13条"
+  },
+  "article:183.16": {
+    "node_id": "article:183.16",
+    "type": "article",
+    "title": "第183.16条 委任代表的责任",
+    "line_start": 66,
+    "line_end": 75,
+    "source_anchor": "第183.16条"
+  },
+  "article:183.17": {
+    "node_id": "article:183.17",
+    "type": "article",
+    "title": "第183.17条 记录和报告",
+    "line_start": 76,
+    "line_end": 81,
+    "source_anchor": "第183.17条"
+  },
+  "article:183.19": {
+    "node_id": "article:183.19",
+    "type": "article",
+    "title": "第183.19条 培训、检查和考核",
+    "line_start": 82,
+    "line_end": 89,
+    "source_anchor": "第183.19条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 委任代表的管理",
+    "line_start": 32,
+    "line_end": 89,
+    "source_anchor": "第二章"
+  },
+  "article:183.27": {
+    "node_id": "article:183.27",
+    "type": "article",
+    "title": "第183.27条 委任代表类别",
+    "line_start": 92,
+    "line_end": 103,
+    "source_anchor": "第183.27条"
+  },
+  "article:183.29": {
+    "node_id": "article:183.29",
+    "type": "article",
+    "title": "第183.29条 委任工程代表",
+    "line_start": 104,
+    "line_end": 123,
+    "source_anchor": "第183.29条"
+  },
+  "article:183.31": {
+    "node_id": "article:183.31",
+    "type": "article",
+    "title": "第183.31条 委任制造检查代表",
+    "line_start": 124,
+    "line_end": 147,
+    "source_anchor": "第183.31条"
+  },
+  "article:183.33": {
+    "node_id": "article:183.33",
+    "type": "article",
+    "title": "第183.33条 委任适航代表",
+    "line_start": 148,
+    "line_end": 151,
+    "source_anchor": "第183.33条"
+  },
+  "article:183.35": {
+    "node_id": "article:183.35",
+    "type": "article",
+    "title": "第183.35条 委任航油航化代表",
+    "line_start": 152,
+    "line_end": 159,
+    "source_anchor": "第183.35条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 委任代表的类别和权限",
+    "line_start": 90,
+    "line_end": 159,
+    "source_anchor": "第三章"
+  },
+  "article:183.41": {
+    "node_id": "article:183.41",
+    "type": "article",
+    "title": "第183.41条 委任单位代表资格",
+    "line_start": 162,
+    "line_end": 171,
+    "source_anchor": "第183.41条"
+  },
+  "article:183.43": {
+    "node_id": "article:183.43",
+    "type": "article",
+    "title": "第183.43条 申请",
+    "line_start": 172,
+    "line_end": 185,
+    "source_anchor": "第183.43条"
+  },
+  "article:183.45": {
+    "node_id": "article:183.45",
+    "type": "article",
+    "title": "第183.45条 颁发委任单位代表文书",
+    "line_start": 186,
+    "line_end": 201,
+    "source_anchor": "第183.45条"
+  },
+  "article:183.49": {
+    "node_id": "article:183.49",
+    "type": "article",
+    "title": "第183.49条 授权职责",
+    "line_start": 202,
+    "line_end": 211,
+    "source_anchor": "第183.49条"
+  },
+  "article:183.51": {
+    "node_id": "article:183.51",
+    "type": "article",
+    "title": "第183.51条 委任工作组成员",
+    "line_start": 212,
+    "line_end": 219,
+    "source_anchor": "第183.51条"
+  },
+  "article:183.53": {
+    "node_id": "article:183.53",
+    "type": "article",
+    "title": "第183.53条 程序手册",
+    "line_start": 220,
+    "line_end": 257,
+    "source_anchor": "第183.53条"
+  },
+  "article:183.55": {
+    "node_id": "article:183.55",
+    "type": "article",
+    "title": "第183.55条 限制",
+    "line_start": 258,
+    "line_end": 265,
+    "source_anchor": "第183.55条"
+  },
+  "article:183.57": {
+    "node_id": "article:183.57",
+    "type": "article",
+    "title": "第183.57条 委任单位代表的责任",
+    "line_start": 266,
+    "line_end": 279,
+    "source_anchor": "第183.57条"
+  },
+  "article:183.59": {
+    "node_id": "article:183.59",
+    "type": "article",
+    "title": "第183.59条 检查",
+    "line_start": 280,
+    "line_end": 283,
+    "source_anchor": "第183.59条"
+  },
+  "article:183.61": {
+    "node_id": "article:183.61",
+    "type": "article",
+    "title": "第183.61条 记录和报告",
+    "line_start": 284,
+    "line_end": 325,
+    "source_anchor": "第183.61条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 委任单位代表",
+    "line_start": 160,
+    "line_end": 325,
+    "source_anchor": "第四章"
+  },
+  "article:183.91": {
+    "node_id": "article:183.91",
+    "type": "article",
+    "title": "第183.91条 监督管理",
+    "line_start": 328,
+    "line_end": 337,
+    "source_anchor": "第183.91条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 监督管理",
+    "line_start": 326,
+    "line_end": 337,
+    "source_anchor": "第五章"
+  },
+  "article:183.101": {
+    "node_id": "article:183.101",
+    "type": "article",
+    "title": "第183.101条 附则",
+    "line_start": 340,
+    "line_end": 342,
+    "source_anchor": "第183.101条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 附则",
+    "line_start": 338,
+    "line_end": 342,
+    "source_anchor": "第六章"
+  }
+}

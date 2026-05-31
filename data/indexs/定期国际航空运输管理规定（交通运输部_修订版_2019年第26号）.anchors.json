@@ -1,0 +1,218 @@
+{
+  "law:定期国际航空运输管理规定(交通运输部_修订版_2019年第26号)": {
+    "node_id": "law:定期国际航空运输管理规定(交通运输部_修订版_2019年第26号)",
+    "type": "law",
+    "title": "«交通运输部关于修改‹定期国际航空运输管理规定›的决定»",
+    "line_start": 0,
+    "line_end": 194,
+    "source_anchor": "«交通运输部关于修改‹定期国际航空运输管理规定›的决定»"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了维护国家的航空权益,促进国际航空运输安全、",
+    "line_start": 29,
+    "line_end": 31,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规定适用于在中华人民共和国境内设立的公共航",
+    "line_start": 32,
+    "line_end": 34,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 申请国际航线经营许可的空运企业,应当具备以下",
+    "line_start": 35,
+    "line_end": 53,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 申请国际航线经营许可的空运企业(以下简称申请",
+    "line_start": 54,
+    "line_end": 77,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 民航局对申请人的申请,除按本规定第三条规定审",
+    "line_start": 78,
+    "line_end": 85,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 申请人应当在计划开航之日45日前,向民航局提交",
+    "line_start": 86,
+    "line_end": 91,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 民航局应当自受理申请之日起20日内作出批准或",
+    "line_start": 92,
+    "line_end": 98,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 民航局应当公开国际航线航权分配原则,并公示申",
+    "line_start": 99,
+    "line_end": 103,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 空运企业需要调整或补充航班计划的,按照民航局",
+    "line_start": 104,
+    "line_end": 105,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 申请人取得国际航线经营许可后,应当于国际航线",
+    "line_start": 106,
+    "line_end": 111,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 空运企业应当主动归还不能完全使用的航权.暂",
+    "line_start": 112,
+    "line_end": 115,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 空运企业暂停或终止经营国际航线,应当符合航",
+    "line_start": 116,
+    "line_end": 119,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 民航局在收到空运企业暂停或终止经营国际航线",
+    "line_start": 120,
+    "line_end": 128,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 民航局根据各空运企业现有航线的实际经营情",
+    "line_start": 129,
+    "line_end": 133,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 国际航线经营许可不得转让、买卖和交换.",
+    "line_start": 134,
+    "line_end": 134,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 经营国际航班的空运企业,应当遵守我国政府与",
+    "line_start": 135,
+    "line_end": 137,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 民航局和民航地区管理局依法对空运企业的国际",
+    "line_start": 138,
+    "line_end": 141,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 空运企业不能持续符合国际航线经营许可条件",
+    "line_start": 142,
+    "line_end": 143,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 对已经依法取得国际航线经营许可和国际航班经",
+    "line_start": 144,
+    "line_end": 151,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 空运企业有下列情形之一的,由民航局或民航地",
+    "line_start": 152,
+    "line_end": 160,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 空运企业隐瞒有关情况或者提供虚假材料申请",
+    "line_start": 161,
+    "line_end": 163,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 空运企业以欺骗、贿赂等不正当手段取得国际",
+    "line_start": 164,
+    "line_end": 167,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 对空运企业的撤销许可、行政处罚、行政强制等",
+    "line_start": 168,
+    "line_end": 170,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 本规定中实施行政许可的期限以工作日计算,",
+    "line_start": 171,
+    "line_end": 176,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 空运企业经营至中华人民共和国香港特别行政",
+    "line_start": 177,
+    "line_end": 179,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 本规定自2017年7月1日起施行.1993年7",
+    "line_start": 180,
+    "line_end": 194,
+    "source_anchor": "第二十六条"
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "law:中国民用航空应急管理规定": {
+    "node_id": "law:中国民用航空应急管理规定",
+    "type": "law",
+    "title": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+    "line_start": 0,
+    "line_end": 110,
+    "source_anchor": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为加强和规范民航应急工作,保障民用航空活动安全和有秩序地进行,依据《中华人民共和国突发事件应对法》、《中华人民共和国民用航空法》,制定本规定。",
+    "line_start": 1,
+    "line_end": 1,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 中国民用航空局(以下简称“民航局”)、民航地区管理局(以下统称为“民航管理部门”)和企事业单位为履行以下责任和义务而开展的预防与应急准备、预测与预警、应急处置、善后处理等民航应急工作遵守本规定:",
+    "line_start": 2,
+    "line_end": 5,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 民航建立应对突发事件分级响应制度。根据突发事件对民用航空活动的威胁与危害,民用航空活动发生、引发的突发事件性质、严重程度、可控性和影响范围,以及协助和配合国家、地方人民政府及相关部门应急处置工作的需要等因素,实行分级响应,在相应的范围内组织、指挥或协调民航相关单位采取相应的应急处置措施。",
+    "line_start": 6,
+    "line_end": 7,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 民航管理部门组织采取的应急处置措施,应当与突发事件危害的性质、程度和范围相适应。有多种措施可以选择时,应当选择有利于最大程度保护公民、法人和其他组织权益的措施。",
+    "line_start": 8,
+    "line_end": 8,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 民航应急工作建立统一领导、综合协调、分类管理、分级负责的管理体制。",
+    "line_start": 10,
+    "line_end": 10,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 民航管理部门成立应急工作领导机构,统一领导全国或所辖地区的民航应急工作,监督、检查和指导下级民航管理部门、企事业单位的民航应急工作。",
+    "line_start": 11,
+    "line_end": 12,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 民航管理部门设立应急工作办事机构,协助应急工作领导机构组织开展民航应急工作,与国家、地方人民政府及相关部门的应急工作办事机构建立必要的工作联系,履行信息汇总与综合协调职责。",
+    "line_start": 13,
+    "line_end": 14,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 民航管理部门设立或者指定应急值守机构,负责接报、报告和通报突发事件的预警与发生信息,协助组织、指挥和协调应急处置。",
+    "line_start": 15,
+    "line_end": 16,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 企事业单位应当设立或者指定应急工作机构,负责联系民航管理部门应急工作办事机构,向民航管理部门应急值守机构报送突发事件信息。",
+    "line_start": 17,
+    "line_end": 17,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 民航管理部门的各个职能部门根据工作职责负责具体管理相关民航应急工作。",
+    "line_start": 18,
+    "line_end": 18,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 突发事件对民用航空活动造成严重威胁、危害,民用航空活动发生、引发突发事件,或者国家、地方人民政府及相关部门要求民航协助和配合应急处置工作时,民航管理部门可以视情成立现场应急指挥机构,组织、指挥或协调应急处置。",
+    "line_start": 19,
+    "line_end": 20,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 民航管理部门可以聘请有关专家组成专家组,为民航应急工作提供决策建议,参与应急处置指挥。",
+    "line_start": 21,
+    "line_end": 21,
+    "source_anchor": "第十二条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 管理体制与组织机构",
+    "line_start": 9,
+    "line_end": 21,
+    "source_anchor": "第二章"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 民航管理部门应当根据有关法律、行政法规、规章,上级行政主管部门及相关部门的应急预案,结合民航运行实际情况,制定应急预案。",
+    "line_start": 23,
+    "line_end": 23,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 民航管理部门建立健全应急预案体系,主要包括总体应急预案、专项应急预案、地区应急预案。",
+    "line_start": 24,
+    "line_end": 24,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 企事业单位及其分支机构应当依据相关法律、法规、规章和民航管理部门应急预案的相关内容,制定相应的应急预案。",
+    "line_start": 25,
+    "line_end": 26,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 应急预案应当明确适用的情境条件,并根据其性质、特点、影响、应对需要,明确工作原则、组织体系与职责分工、指挥与运行机制,规定预防与应急准备、预测与预警、应急处置与救援、善后处理等工作环节的操作程序、相关标准和保障措施。",
+    "line_start": 27,
+    "line_end": 27,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 应急预案的制定单位在制定应急预案时应当加强与国家、地方人民政府及相关部门、相关民航管理部门、企事业单位的沟通、协调,确保相关应急预案之间形成良好的衔接。",
+    "line_start": 28,
+    "line_end": 29,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 应急预案的制定单位应当根据实际需要和情况变化,适时修订应急预案。",
+    "line_start": 30,
+    "line_end": 30,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 应急预案的制定单位应当定期组织预案演练,演练的周期应当在预案中明确规定。",
+    "line_start": 31,
+    "line_end": 32,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 民用机场与民航重要设施的规划应当符合预防、处置突发事件的需要。民航管理部门、企事业单位在制定规划时,应当统筹安排应对突发事件所必需的设备配备和基础设施建设,采取必要的容灾备份措施。",
+    "line_start": 33,
+    "line_end": 33,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 企事业单位应当保证重要保障系统的安全运行水平,加强运行管理,及时发现影响民用航空安全与正常的不利因素,采取措施及时消除可能导致突发事件发生的风险隐患,防止和减少由于民航原因导致的突发事件发生。",
+    "line_start": 34,
+    "line_end": 34,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 民航管理部门应当组织、协调相关部门和企事业单位,共同建立民航协助和配合国家、地方人民政府及相关部门应急处置的工作机制。",
+    "line_start": 35,
+    "line_end": 35,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 民航管理部门和企事业单位应当建立健全民航应急工作培训制度。",
+    "line_start": 36,
+    "line_end": 36,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 企事业单位应当根据民航有关法律、法规、规章要求,建立专职或者兼职应急救援队伍。",
+    "line_start": 37,
+    "line_end": 37,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 民航管理部门和企事业单位应当开展民航应急工作知识宣传普及活动。",
+    "line_start": 38,
+    "line_end": 38,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 民航局鼓励、扶持具备相应条件的科研教学机构组织开展民航应急工作教育、培训活动;鼓励、扶持教学科研机构和相关企事业单位研究、开发用于民航应急工作的新技术、新设备和新工具。",
+    "line_start": 39,
+    "line_end": 39,
+    "source_anchor": "第二十六条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 预防与应急准备",
+    "line_start": 22,
+    "line_end": 39,
+    "source_anchor": "第三章"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 民航局建立统一的民航应急工作信息系统,汇集、储存、分析和传输有关突发事件信息,并在上、下级之间,相关单位、部门之间实现互联互通,加强信息交流与情报合作。",
+    "line_start": 41,
+    "line_end": 41,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 民航管理部门应当及时收集对辖区内民用航空活动具有潜在重大影响的突发事件信息,分析影响民用航空安全与正常的主要因素。",
+    "line_start": 42,
+    "line_end": 42,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 民航管理部门在收到国家、地方人民政府及相关部门发布的突发事件预警信息,预计突发事件将对民用航空活动构成严重威胁时,应当及时向相关民航管理部门、企事业单位通报预警信息,并要求下级民航管理部门、相关企事业单位预先做好应对准备。",
+    "line_start": 43,
+    "line_end": 43,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 民航管理部门和企事业单位收到突发事件预警信息后,应当针对突发事件的特点、发展趋势和可能造成的危害,及时采取相关措施,避免或减少损失的发生。",
+    "line_start": 44,
+    "line_end": 44,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 民航管理部门收到突发事件预警信息后,可以组织相关部门和企事业单位采取下列部分或全部措施:",
+    "line_start": 45,
+    "line_end": 55,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 有事实证明突发事件对民用航空活动的危害不可能发生或者危险已经解除时,民航管理部门应当立即终止已经采取的有关措施,尽快恢复民用航空活动的正常。",
+    "line_start": 56,
+    "line_end": 56,
+    "source_anchor": "第三十二条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 预测与预警",
+    "line_start": 40,
+    "line_end": 56,
+    "source_anchor": "第四章"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 突发事件对民用航空活动造成严重危害,或者民用航空活动发生、引发突发事件时,获悉相关信息的企事业单位应当及时向民航管理部门报告,并依据事件的性质、严重程度和影响范围,及时采取应急处置措施控制事态发展。",
+    "line_start": 58,
+    "line_end": 60,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 报告与通报相关信息的内容应当包括突发事件发生的时间、地点、信息来源、突发事件的性质、危害程度、影响范围、突发事件发展趋势和已经采取的措施等内容。在时间紧迫的情况下,可以先报告部分内容,但应尽快补充、完善信息内容。",
+    "line_start": 61,
+    "line_end": 61,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 突发事件对民用航空活动造成严重危害,或者民用航空活动发生、引发突发事件时,民航管理部门应当依据职责、权限,突发事件的性质、严重程度与影响范围,立即启动相关等级应急响应,根据应急预案组织、指挥或协调应急处置。",
+    "line_start": 62,
+    "line_end": 64,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 民航管理部门在组织、指挥或协调应急处置时,可以组织相关企事业单位采取下列部分或全部应急处置措施:",
+    "line_start": 65,
+    "line_end": 75,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 国家、地方人民政府及相关部门要求民航管理部门协助和配合应急处置时,民航管理部门应当依据相关规定、应急处置所需要的行动规模、民航运行情况与相关应急预案,启动相关等级应急响应,组织、协调相关企事业单位给予协助和配合。",
+    "line_start": 76,
+    "line_end": 78,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 民航管理部门在组织、指挥或协调应急处置过程中,应当准确、及时地发布民航应急处置信息。",
+    "line_start": 79,
+    "line_end": 80,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 任何单位和个人不得编造、传播有关突发事件或者民航应急处置工作的虚假信息。发布的信息应当避免干扰或者妨碍民航应急处置工作。",
+    "line_start": 81,
+    "line_end": 81,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 参加应急处置的企事业单位应当及时向组织、指挥或协调应急处置的民航管理部门报告工作情况。组织、指挥或协调应急处置的民航管理部门应当及时向上级行政主管部门报告工作情况。",
+    "line_start": 82,
+    "line_end": 82,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 参加应急处置的民航管理部门、企事业单位应当详细记录应急处置工作过程。",
+    "line_start": 83,
+    "line_end": 83,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 突发事件的威胁和危害得到控制、消除,或者协助和配合国家、地方人民政府及相关部门的应急处置的任务完成时,负责组织、指挥或协调应急处置的民航管理部门应当根据应急预案的规定终止应急处置。",
+    "line_start": 84,
+    "line_end": 84,
+    "source_anchor": "第四十二条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 应急处置",
+    "line_start": 57,
+    "line_end": 84,
+    "source_anchor": "第五章"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 应急处置结束后,负责组织、指挥或协调应急处置的民航管理部门应当按照国家有关规定尽快组织、协调损失评估、受损设备与设施修复、受影响民用航空活动恢复、补助、补偿、抚恤和费用结算等工作。",
+    "line_start": 86,
+    "line_end": 86,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 民航局根据突发事件造成的损失,制定或向有关部门申请扶持受到突发事件危害的企事业单位发展的优惠政策。",
+    "line_start": 87,
+    "line_end": 87,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 应急处置结束后,负责组织、指挥或协调应急处置的民航管理部门应当组织开展总结、评估工作,查明突发事件发生的经过与原因,总结应急处置的经验教训,制定改进措施。",
+    "line_start": 88,
+    "line_end": 88,
+    "source_anchor": "第四十五条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 善后处理",
+    "line_start": 85,
+    "line_end": 88,
+    "source_anchor": "第六章"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 民航管理部门工作人员未按本规定履行职责的,由民航管理部门依法给予行政处分。",
+    "line_start": 90,
+    "line_end": 90,
+    "source_anchor": "第四十六条"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 企事业单位违反本规定,有下列行为之一的,由民航管理部门责令改正,并给予警告;拒不改正的,处以1000元以上10000元以下罚款:",
+    "line_start": 91,
+    "line_end": 94,
+    "source_anchor": "第四十七条"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 企事业单位违反本规定,有下列行为之一的,由民航管理部门给予警告;情节严重的,处以5,000元以上,30,000元以下罚款:",
+    "line_start": 95,
+    "line_end": 100,
+    "source_anchor": "第四十八条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 法律责任",
+    "line_start": 89,
+    "line_end": 100,
+    "source_anchor": "第七章"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 本规定部分用语定义如下:",
+    "line_start": 102,
+    "line_end": 108,
+    "source_anchor": "第四十九条"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 本规定颁布前施行的其他民用航空规章对民航应急工作的具体内容另有规定的,从其规定。",
+    "line_start": 109,
+    "line_end": 109,
+    "source_anchor": "第五十条"
+  },
+  "article:51": {
+    "node_id": "article:51",
+    "type": "article",
+    "title": "第五十一条 本规定自2016年4月17日起施行。",
+    "line_start": 110,
+    "line_end": 110,
+    "source_anchor": "第五十一条"
+  },
+  "chapter:8": {
+    "node_id": "chapter:8",
+    "type": "chapter",
+    "title": "第八章 附 则",
+    "line_start": 101,
+    "line_end": 110,
+    "source_anchor": "第八章"
+  }
+}

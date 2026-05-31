@@ -1,0 +1,370 @@
+{
+  "law:民用航空人员体检合格证管理规则(交通运输部_修订版_2016年第21号)": {
+    "node_id": "law:民用航空人员体检合格证管理规则(交通运输部_修订版_2016年第21号)",
+    "type": "law",
+    "title": "‹民用航空人员体检合格证管理规则›的决定",
+    "line_start": 0,
+    "line_end": 1577,
+    "source_anchor": "‹民用航空人员体检合格证管理规则›的决定"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 Ⅳ级体检合格证的医学标准",
+    "line_start": 1388,
+    "line_end": 1577,
+    "source_anchor": "第四章"
+  },
+  "article:67.1": {
+    "node_id": "article:67.1",
+    "type": "article",
+    "title": "第67.1条 目的和依据",
+    "line_start": 354,
+    "line_end": 357,
+    "source_anchor": "第67.1条"
+  },
+  "article:67.3": {
+    "node_id": "article:67.3",
+    "type": "article",
+    "title": "第67.3条 适用范围",
+    "line_start": 358,
+    "line_end": 360,
+    "source_anchor": "第67.3条"
+  },
+  "article:67.5": {
+    "node_id": "article:67.5",
+    "type": "article",
+    "title": "第67.5条 机构与职责",
+    "line_start": 361,
+    "line_end": 380,
+    "source_anchor": "第67.5条"
+  },
+  "article:67.7": {
+    "node_id": "article:67.7",
+    "type": "article",
+    "title": "第67.7条 体检合格证的要求",
+    "line_start": 381,
+    "line_end": 388,
+    "source_anchor": "第67.7条"
+  },
+  "article:67.9": {
+    "node_id": "article:67.9",
+    "type": "article",
+    "title": "第67.9条 定义",
+    "line_start": 389,
+    "line_end": 400,
+    "source_anchor": "第67.9条"
+  },
+  "chapter:A": {
+    "node_id": "chapter:A",
+    "type": "chapter",
+    "title": "A章 总  则",
+    "line_start": 353,
+    "line_end": 400,
+    "source_anchor": "A章"
+  },
+  "article:67.11": {
+    "node_id": "article:67.11",
+    "type": "article",
+    "title": "第67.11条 体检鉴定一般要求",
+    "line_start": 402,
+    "line_end": 439,
+    "source_anchor": "第67.11条"
+  },
+  "article:67.13": {
+    "node_id": "article:67.13",
+    "type": "article",
+    "title": "第67.13条 体检鉴定结论",
+    "line_start": 440,
+    "line_end": 470,
+    "source_anchor": "第67.13条"
+  },
+  "article:67.15": {
+    "node_id": "article:67.15",
+    "type": "article",
+    "title": "第67.15条 特许颁证体检鉴定",
+    "line_start": 471,
+    "line_end": 496,
+    "source_anchor": "第67.15条"
+  },
+  "article:67.17": {
+    "node_id": "article:67.17",
+    "type": "article",
+    "title": "第67.17条 疑难或特殊病例体检鉴定",
+    "line_start": 497,
+    "line_end": 507,
+    "source_anchor": "第67.17条"
+  },
+  "chapter:B": {
+    "node_id": "chapter:B",
+    "type": "chapter",
+    "title": "B章 体检鉴定",
+    "line_start": 401,
+    "line_end": 507,
+    "source_anchor": "B章"
+  },
+  "article:67.19": {
+    "node_id": "article:67.19",
+    "type": "article",
+    "title": "第67.19条 体检合格证类别",
+    "line_start": 509,
+    "line_end": 516,
+    "source_anchor": "第67.19条"
+  },
+  "article:67.21": {
+    "node_id": "article:67.21",
+    "type": "article",
+    "title": "第67.21条 体检合格证适用人员",
+    "line_start": 517,
+    "line_end": 533,
+    "source_anchor": "第67.21条"
+  },
+  "article:67.23": {
+    "node_id": "article:67.23",
+    "type": "article",
+    "title": "第67.23条 体检合格证申请条件",
+    "line_start": 534,
+    "line_end": 537,
+    "source_anchor": "第67.23条"
+  },
+  "article:67.25": {
+    "node_id": "article:67.25",
+    "type": "article",
+    "title": "第67.25条 申请与受理",
+    "line_start": 538,
+    "line_end": 562,
+    "source_anchor": "第67.25条"
+  },
+  "article:67.27": {
+    "node_id": "article:67.27",
+    "type": "article",
+    "title": "第67.27条 审查",
+    "line_start": 563,
+    "line_end": 591,
+    "source_anchor": "第67.27条"
+  },
+  "article:67.29": {
+    "node_id": "article:67.29",
+    "type": "article",
+    "title": "第67.29条 颁发",
+    "line_start": 592,
+    "line_end": 598,
+    "source_anchor": "第67.29条"
+  },
+  "article:67.31": {
+    "node_id": "article:67.31",
+    "type": "article",
+    "title": "第67.31条 送达",
+    "line_start": 599,
+    "line_end": 613,
+    "source_anchor": "第67.31条"
+  },
+  "article:67.33": {
+    "node_id": "article:67.33",
+    "type": "article",
+    "title": "第67.33条 有效期",
+    "line_start": 614,
+    "line_end": 630,
+    "source_anchor": "第67.33条"
+  },
+  "article:67.35": {
+    "node_id": "article:67.35",
+    "type": "article",
+    "title": "第67.35条 有效期的延长",
+    "line_start": 631,
+    "line_end": 650,
+    "source_anchor": "第67.35条"
+  },
+  "article:67.37": {
+    "node_id": "article:67.37",
+    "type": "article",
+    "title": "第67.37条 符合性要求",
+    "line_start": 651,
+    "line_end": 669,
+    "source_anchor": "第67.37条"
+  },
+  "article:67.39": {
+    "node_id": "article:67.39",
+    "type": "article",
+    "title": "第67.39条 补发",
+    "line_start": 670,
+    "line_end": 674,
+    "source_anchor": "第67.39条"
+  },
+  "article:67.41": {
+    "node_id": "article:67.41",
+    "type": "article",
+    "title": "第67.41条 信息变更",
+    "line_start": 675,
+    "line_end": 680,
+    "source_anchor": "第67.41条"
+  },
+  "article:67.43": {
+    "node_id": "article:67.43",
+    "type": "article",
+    "title": "第67.43条 特许颁发",
+    "line_start": 681,
+    "line_end": 714,
+    "source_anchor": "第67.43条"
+  },
+  "article:67.45": {
+    "node_id": "article:67.45",
+    "type": "article",
+    "title": "第67.45条 外籍飞行人员体检合格证管理",
+    "line_start": 715,
+    "line_end": 739,
+    "source_anchor": "第67.45条"
+  },
+  "chapter:C": {
+    "node_id": "chapter:C",
+    "type": "chapter",
+    "title": "C章 体检合格证",
+    "line_start": 508,
+    "line_end": 739,
+    "source_anchor": "C章"
+  },
+  "article:67.47": {
+    "node_id": "article:67.47",
+    "type": "article",
+    "title": "第67.47条 监督检查",
+    "line_start": 741,
+    "line_end": 755,
+    "source_anchor": "第67.47条"
+  },
+  "article:67.49": {
+    "node_id": "article:67.49",
+    "type": "article",
+    "title": "第67.49条 许可的撤销",
+    "line_start": 756,
+    "line_end": 774,
+    "source_anchor": "第67.49条"
+  },
+  "article:67.51": {
+    "node_id": "article:67.51",
+    "type": "article",
+    "title": "第67.51条 体检合格证的注销",
+    "line_start": 775,
+    "line_end": 782,
+    "source_anchor": "第67.51条"
+  },
+  "article:67.53": {
+    "node_id": "article:67.53",
+    "type": "article",
+    "title": "第67.53条 禁止行为",
+    "line_start": 783,
+    "line_end": 792,
+    "source_anchor": "第67.53条"
+  },
+  "chapter:D": {
+    "node_id": "chapter:D",
+    "type": "chapter",
+    "title": "D章 监督检查",
+    "line_start": 740,
+    "line_end": 792,
+    "source_anchor": "D章"
+  },
+  "article:67.55": {
+    "node_id": "article:67.55",
+    "type": "article",
+    "title": "第67.55条 体检合格证申请人违反本规则规定的行为",
+    "line_start": 794,
+    "line_end": 805,
+    "source_anchor": "第67.55条"
+  },
+  "article:67.57": {
+    "node_id": "article:67.57",
+    "type": "article",
+    "title": "第67.57条 体检合格证持有人违反本规则的行为",
+    "line_start": 806,
+    "line_end": 814,
+    "source_anchor": "第67.57条"
+  },
+  "article:67.59": {
+    "node_id": "article:67.59",
+    "type": "article",
+    "title": "第67.59条 其他违反本规则规定的行为",
+    "line_start": 815,
+    "line_end": 834,
+    "source_anchor": "第67.59条"
+  },
+  "article:67.61": {
+    "node_id": "article:67.61",
+    "type": "article",
+    "title": "第67.61条 颁证机关工作人员违反本规则规定的行为",
+    "line_start": 835,
+    "line_end": 840,
+    "source_anchor": "第67.61条"
+  },
+  "chapter:E": {
+    "node_id": "chapter:E",
+    "type": "chapter",
+    "title": "E章 法律责任",
+    "line_start": 793,
+    "line_end": 840,
+    "source_anchor": "E章"
+  },
+  "article:67.62": {
+    "node_id": "article:67.62",
+    "type": "article",
+    "title": "第67.62条 守法信用信息记录",
+    "line_start": 842,
+    "line_end": 844,
+    "source_anchor": "第67.62条"
+  },
+  "article:67.63": {
+    "node_id": "article:67.63",
+    "type": "article",
+    "title": "第67.63条 废止",
+    "line_start": 845,
+    "line_end": 855,
+    "source_anchor": "第67.63条"
+  },
+  "article:67.65": {
+    "node_id": "article:67.65",
+    "type": "article",
+    "title": "第67.65条 原体检合格证的有效期",
+    "line_start": 856,
+    "line_end": 857,
+    "source_anchor": "第67.65条"
+  },
+  "article:67.67": {
+    "node_id": "article:67.67",
+    "type": "article",
+    "title": "第67.67条 施行日期",
+    "line_start": 858,
+    "line_end": 867,
+    "source_anchor": "第67.67条"
+  },
+  "chapter:F": {
+    "node_id": "chapter:F",
+    "type": "chapter",
+    "title": "F章 附  则",
+    "line_start": 841,
+    "line_end": 867,
+    "source_anchor": "F章"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 Ⅰ级体检合格证的医学标准",
+    "line_start": 868,
+    "line_end": 1040,
+    "source_anchor": "第一章"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 Ⅱ级体检合格证的医学标准",
+    "line_start": 1041,
+    "line_end": 1215,
+    "source_anchor": "第二章"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 Ⅲ级体检合格证的医学标准",
+    "line_start": 1216,
+    "line_end": 1387,
+    "source_anchor": "第三章"
+  }
+}

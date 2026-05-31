@@ -1,0 +1,282 @@
+{
+  "law:外国公共航空运输承运人运行合格审定规则": {
+    "node_id": "law:外国公共航空运输承运人运行合格审定规则",
+    "type": "law",
+    "title": "外国公共航空运输承运人运行合格审定规则",
+    "line_start": 0,
+    "line_end": 413,
+    "source_anchor": "外国公共航空运输承运人运行合格审定规则"
+  },
+  "article:129.1": {
+    "node_id": "article:129.1",
+    "type": "article",
+    "title": "第129.1条 目的和依据",
+    "line_start": 2,
+    "line_end": 7,
+    "source_anchor": "第129.1条"
+  },
+  "article:129.3": {
+    "node_id": "article:129.3",
+    "type": "article",
+    "title": "第129.3条 适用范围",
+    "line_start": 8,
+    "line_end": 13,
+    "source_anchor": "第129.3条"
+  },
+  "article:129.5": {
+    "node_id": "article:129.5",
+    "type": "article",
+    "title": "第129.5条 定义",
+    "line_start": 14,
+    "line_end": 32,
+    "source_anchor": "第129.5条"
+  },
+  "article:129.7": {
+    "node_id": "article:129.7",
+    "type": "article",
+    "title": "第129.7条 运行合格审定和监督检查的基本要求",
+    "line_start": 33,
+    "line_end": 77,
+    "source_anchor": "第129.7条"
+  },
+  "article:129.9": {
+    "node_id": "article:129.9",
+    "type": "article",
+    "title": "第129.9条 豁免",
+    "line_start": 78,
+    "line_end": 104,
+    "source_anchor": "第129.9条"
+  },
+  "article:129.11": {
+    "node_id": "article:129.11",
+    "type": "article",
+    "title": "第129.11条 湿租的限制",
+    "line_start": 105,
+    "line_end": 110,
+    "source_anchor": "第129.11条"
+  },
+  "chapter:A": {
+    "node_id": "chapter:A",
+    "type": "chapter",
+    "title": "A章 总  则",
+    "line_start": 1,
+    "line_end": 110,
+    "source_anchor": "A章"
+  },
+  "article:129.21": {
+    "node_id": "article:129.21",
+    "type": "article",
+    "title": "第129.21条 运行规范的颁发条件",
+    "line_start": 112,
+    "line_end": 121,
+    "source_anchor": "第129.21条"
+  },
+  "article:129.23": {
+    "node_id": "article:129.23",
+    "type": "article",
+    "title": "第129.23条 申请运行规范需要提交的材料",
+    "line_start": 122,
+    "line_end": 144,
+    "source_anchor": "第129.23条"
+  },
+  "article:129.25": {
+    "node_id": "article:129.25",
+    "type": "article",
+    "title": "第129.25条 申请的受理",
+    "line_start": 145,
+    "line_end": 156,
+    "source_anchor": "第129.25条"
+  },
+  "article:129.27": {
+    "node_id": "article:129.27",
+    "type": "article",
+    "title": "第129.27条 审查和批准",
+    "line_start": 157,
+    "line_end": 191,
+    "source_anchor": "第129.27条"
+  },
+  "article:129.29": {
+    "node_id": "article:129.29",
+    "type": "article",
+    "title": "第129.29条 运行规范的内容",
+    "line_start": 192,
+    "line_end": 221,
+    "source_anchor": "第129.29条"
+  },
+  "article:129.31": {
+    "node_id": "article:129.31",
+    "type": "article",
+    "title": "第129.31条 运行规范的有效期限",
+    "line_start": 222,
+    "line_end": 237,
+    "source_anchor": "第129.31条"
+  },
+  "article:129.33": {
+    "node_id": "article:129.33",
+    "type": "article",
+    "title": "第129.33条 运行规范的保存和检查",
+    "line_start": 238,
+    "line_end": 242,
+    "source_anchor": "第129.33条"
+  },
+  "article:129.35": {
+    "node_id": "article:129.35",
+    "type": "article",
+    "title": "第129.35条 运行规范持有人申请变更的情形",
+    "line_start": 243,
+    "line_end": 249,
+    "source_anchor": "第129.35条"
+  },
+  "chapter:B": {
+    "node_id": "chapter:B",
+    "type": "chapter",
+    "title": "B章 运行合格审定的条件和程序",
+    "line_start": 111,
+    "line_end": 249,
+    "source_anchor": "B章"
+  },
+  "article:129.41": {
+    "node_id": "article:129.41",
+    "type": "article",
+    "title": "第129.41条 民用航空器和机组应当携带的文件资料",
+    "line_start": 251,
+    "line_end": 275,
+    "source_anchor": "第129.41条"
+  },
+  "article:129.43": {
+    "node_id": "article:129.43",
+    "type": "article",
+    "title": "第129.43条 按照运行手册实施运行",
+    "line_start": 276,
+    "line_end": 278,
+    "source_anchor": "第129.43条"
+  },
+  "article:129.45": {
+    "node_id": "article:129.45",
+    "type": "article",
+    "title": "第129.45条 飞行记录器和驾驶舱话音记录器数据的保留",
+    "line_start": 279,
+    "line_end": 287,
+    "source_anchor": "第129.45条"
+  },
+  "article:129.47": {
+    "node_id": "article:129.47",
+    "type": "article",
+    "title": "第129.47条 应急频率的监听",
+    "line_start": 288,
+    "line_end": 291,
+    "source_anchor": "第129.47条"
+  },
+  "article:129.49": {
+    "node_id": "article:129.49",
+    "type": "article",
+    "title": "第129.49条 地形警告系统和机载防撞系统的安装要求",
+    "line_start": 292,
+    "line_end": 295,
+    "source_anchor": "第129.49条"
+  },
+  "article:129.51": {
+    "node_id": "article:129.51",
+    "type": "article",
+    "title": "第129.51条 民用航空器与机场的使用",
+    "line_start": 296,
+    "line_end": 301,
+    "source_anchor": "第129.51条"
+  },
+  "chapter:C": {
+    "node_id": "chapter:C",
+    "type": "chapter",
+    "title": "C章 运行的一般要求",
+    "line_start": 250,
+    "line_end": 301,
+    "source_anchor": "C章"
+  },
+  "article:129.61": {
+    "node_id": "article:129.61",
+    "type": "article",
+    "title": "第129.61条 要求,拒绝、阻碍中国民用航空局或者民航地区管理",
+    "line_start": 381,
+    "line_end": 392,
+    "source_anchor": "第129.61条"
+  },
+  "article:129.63": {
+    "node_id": "article:129.63",
+    "type": "article",
+    "title": "第129.63条 对运行规范的撤销",
+    "line_start": 325,
+    "line_end": 328,
+    "source_anchor": "第129.63条"
+  },
+  "chapter:D": {
+    "node_id": "chapter:D",
+    "type": "chapter",
+    "title": "D章 监督检查",
+    "line_start": 302,
+    "line_end": 328,
+    "source_anchor": "D章"
+  },
+  "article:129.71": {
+    "node_id": "article:129.71",
+    "type": "article",
+    "title": "第129.71条 未取得本规则运行规范或者未按照第129.9",
+    "line_start": 330,
+    "line_end": 341,
+    "source_anchor": "第129.71条"
+  },
+  "article:129.73": {
+    "node_id": "article:129.73",
+    "type": "article",
+    "title": "第129.73条 存在弄虚作假情况的处罚",
+    "line_start": 342,
+    "line_end": 349,
+    "source_anchor": "第129.73条"
+  },
+  "article:129.75": {
+    "node_id": "article:129.75",
+    "type": "article",
+    "title": "第129.75条 违反本规则规定的运行的处罚",
+    "line_start": 350,
+    "line_end": 380,
+    "source_anchor": "第129.75条"
+  },
+  "chapter:E": {
+    "node_id": "chapter:E",
+    "type": "chapter",
+    "title": "E章 法律责任",
+    "line_start": 329,
+    "line_end": 392,
+    "source_anchor": "E章"
+  },
+  "article:129.81": {
+    "node_id": "article:129.81",
+    "type": "article",
+    "title": "第129.81条 香港、澳门特别行政区公共航空运输承运人的",
+    "line_start": 394,
+    "line_end": 399,
+    "source_anchor": "第129.81条"
+  },
+  "article:129.83": {
+    "node_id": "article:129.83",
+    "type": "article",
+    "title": "第129.83条 守法信用信息记录",
+    "line_start": 400,
+    "line_end": 403,
+    "source_anchor": "第129.83条"
+  },
+  "article:129.85": {
+    "node_id": "article:129.85",
+    "type": "article",
+    "title": "第129.85条 施行",
+    "line_start": 404,
+    "line_end": 413,
+    "source_anchor": "第129.85条"
+  },
+  "chapter:F": {
+    "node_id": "chapter:F",
+    "type": "chapter",
+    "title": "F章 附  则",
+    "line_start": 393,
+    "line_end": 413,
+    "source_anchor": "F章"
+  }
+}

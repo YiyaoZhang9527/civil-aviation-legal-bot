@@ -1,0 +1,346 @@
+{
+  "law:民用航空用化学产品适航规定": {
+    "node_id": "law:民用航空用化学产品适航规定",
+    "type": "law",
+    "title": "第131号",
+    "line_start": 0,
+    "line_end": 106,
+    "source_anchor": "第131号"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为加强对民用航空用化学产品的适航管理,保障民用航空安全,维护民用航空活动秩序,依据《国务院对确需保留的行政审批项目设定行政许可的决定》,制定本规定。",
+    "line_start": 6,
+    "line_end": 6,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规定适用于民用航空用化学产品的适航管理。",
+    "line_start": 7,
+    "line_end": 7,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 本规定中有关用语含义如下:",
+    "line_start": 8,
+    "line_end": 11,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 在中华人民共和国境内从事下列活动的法人,应当按照本规定的要求取得民用航空用化学产品设计/生产批准函(以下简称批准函):",
+    "line_start": 12,
+    "line_end": 14,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 凡在中华人民共和国境内注册的民用航空器,包括安装在该航空器上的发动机、螺旋桨、机载设备、零部件及航空材料,在其使用、维护、维修过程中,必须按规定使用下述产品:",
+    "line_start": 15,
+    "line_end": 17,
+    "source_anchor": "第五条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总  则",
+    "line_start": 5,
+    "line_end": 17,
+    "source_anchor": "第一章"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 批准函申请人应当按照局方规定的格式填写民用航空用化学产品设计/生产批准函申请书并提交下列文件:",
+    "line_start": 19,
+    "line_end": 25,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 申请人应当如实向局方提交要求的申请材料,并对其申请材料实质内容的真实性负责。",
+    "line_start": 26,
+    "line_end": 26,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 局方审查申请人提交的申请资料,若发现申请资料不齐全或不符合本规定要求的,应当在五日内告知申请人需要补正的全部内容,但局方认为有必要进行专家评审的不受上述期限限制;需要对申请材料的实质内容进行核实的,局方应当指派两名以上工作人员进行核查。",
+    "line_start": 27,
+    "line_end": 27,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 经局方审查认为申请资料齐全、符合本规定相应要求的,或申请人按照局方的要求提交全部补正申请资料的,局方予以受理,并以书面形式告知申请人。对于不予受理的申请,局方以书面形式通知申请人,并告知不予受理的理由。",
+    "line_start": 28,
+    "line_end": 28,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 申请人在接到申请受理通知后,应按照局方的规定缴纳审查费用。局方在确认收到审查费用后,开始进行审查。",
+    "line_start": 29,
+    "line_end": 29,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 申请书的有效期为两年。",
+    "line_start": 30,
+    "line_end": 30,
+    "source_anchor": "第十一条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 申请与受理",
+    "line_start": 18,
+    "line_end": 30,
+    "source_anchor": "第二章"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 申请人应当如实提供其民用航空用化学产品的设计资料供局方审查,并根据局方的要求进行必要的验证以确定其申请的航空用化学产品符合有关的适航要求。设计资料至少应包括:产品的配方、工艺、使用说明、原材料供应商清单、原材料及产品的检验规程等。",
+    "line_start": 32,
+    "line_end": 32,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 申请人应当建立必要的生产和检验设施,并接受局方的审查。",
+    "line_start": 33,
+    "line_end": 33,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 申请人应当向局方表明已经建立并能够保持质量保证系统,以确保所申请的航空用化学产品能够符合相关的适航要求并处于安全可用状态。",
+    "line_start": 34,
+    "line_end": 34,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 申请人应当向局方提交质量保证手册及相应的质量保证系统资料。应至少包括以下要素的控制程序,并需经局方批准:",
+    "line_start": 35,
+    "line_end": 50,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 局方自受理之日起二十日内作出审查决定,二十日内不能作出决定的,经局方负责人批准,可以延长十日;需要进行检验、检测、鉴定和专家评审的,所需时间不计算在规定的期限内。确认申请人满足相关要求后,在十日内颁发批准函。",
+    "line_start": 51,
+    "line_end": 51,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 局方审查认为申请人不满足相关要求的,不予颁发批准函,并以书面形式通知申请人,同时告知不予批准的理由。",
+    "line_start": 52,
+    "line_end": 52,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 民用航空用化学产品设计/生产批准函由如下内容组成:",
+    "line_start": 53,
+    "line_end": 59,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 批准函持有人可以在批准的范围内向使用人提供民用航空用化学产品。",
+    "line_start": 60,
+    "line_end": 60,
+    "source_anchor": "第十九条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 审查与决定",
+    "line_start": 31,
+    "line_end": 60,
+    "source_anchor": "第三章"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 批准函的有效期为两年。批准函持有人需要延续批准函有效期的,应当在批准函有效期届满前90天向局方提出申请。",
+    "line_start": 62,
+    "line_end": 62,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 局方按照本规定第三章的相关要求对申请延续的民用航空用化学产品设计/生产批准函持有人进行审查和批准。",
+    "line_start": 63,
+    "line_end": 63,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 批准函持有人,遇有下列情形之一时,应当向局方申请变更批准函:",
+    "line_start": 64,
+    "line_end": 70,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 除下列情况外,批准函在两年期内一直有效:",
+    "line_start": 71,
+    "line_end": 74,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 失效的批准函应当交还局方。批准函失效期间不得从事民用航空用化学产品的相关设计生产活动。",
+    "line_start": 75,
+    "line_end": 75,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 批准函不可转让。",
+    "line_start": 76,
+    "line_end": 76,
+    "source_anchor": "第二十五条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 延续与变更",
+    "line_start": 61,
+    "line_end": 76,
+    "source_anchor": "第四章"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 批准函持有人应当:",
+    "line_start": 78,
+    "line_end": 84,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 批准函持有人对其质量保证系统的更改应当书面报告局方,对其中影响航空用化学产品与相关适航审定要求符合性的任何更改,必须获得局方的批准。",
+    "line_start": 85,
+    "line_end": 85,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 局方根据本规定的要求对批准函持有人以及航空用化学产品使用人进行监督、检查,可以采用抽查、定期复查等方式进行。",
+    "line_start": 86,
+    "line_end": 86,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 局方依据本规定可以对批准函持有人的产品进行抽样检查、检验、检测,对其生产经营场所依法进行实地检查。检查时,局方可以依法查阅或者要求持证人报送有关材料,持证人应当如实提供有关情况和材料。",
+    "line_start": 87,
+    "line_end": 87,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 民用航空用化学产品使用人有责任监督航空用化学产品的质量状况,当认为持证人提供的航空用化学产品存在严重质量问题,可能危及飞行安全时,应当拒绝使用,并在发现问题后二十四小时内报告局方同时通知航空用化学产品批准函持有人。",
+    "line_start": 88,
+    "line_end": 88,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 局方根据报告情况对有关问题进行调查处理。",
+    "line_start": 89,
+    "line_end": 89,
+    "source_anchor": "第三十一条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 监督检查",
+    "line_start": 77,
+    "line_end": 89,
+    "source_anchor": "第五章"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 批准函持有人违反本规定,有下列情形之一的,由局方责令其限期整改并处以警告:",
+    "line_start": 91,
+    "line_end": 94,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 批准函持有人违反本规定,有下列情形之一的,由局方责令其限期整改,并处以5000元以上10000元以下的罚款:",
+    "line_start": 95,
+    "line_end": 99,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 批准函持有人违反本规定,有下列情形之一的,由局方责令其停止违法行为、限期整改并处10000元以上30000元以下的罚款:",
+    "line_start": 100,
+    "line_end": 104,
+    "source_anchor": "第三十四条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 罚  则",
+    "line_start": 90,
+    "line_end": 104,
+    "source_anchor": "第六章"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 本规定自2005年1月1日起施行。",
+    "line_start": 106,
+    "line_end": 106,
+    "source_anchor": "第三十五条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 附  则",
+    "line_start": 105,
+    "line_end": 106,
+    "source_anchor": "第七章"
+  }
+}

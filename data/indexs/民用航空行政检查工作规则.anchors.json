@@ -1,0 +1,426 @@
+{
+  "law:民用航空行政检查工作规则": {
+    "node_id": "law:民用航空行政检查工作规则",
+    "type": "law",
+    "title": "对从事民用航空活动的公民、法人或者其他组织实施的各类行政检查,适用本规则。但是法律、法规另有规定的除外。",
+    "line_start": 0,
+    "line_end": 104,
+    "source_anchor": "对从事民用航空活动的公民、法人或者其他组织实施的各类行政检查,适用本规则。但是法律、法规另有规定的除外。"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为规范民航行政检查行为,保证行政检查工作的有序开展,维护公民、法人和其他组织的合法权益,根据《中华人民共和国民用航空法》《中华人民共和国安全生产法》和有关法律、法规的规定,制定本规则。",
+    "line_start": 1,
+    "line_end": 1,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规则所称的行政检查是指民航行政机关及其委托的组织和法律法规授权的组织依据有关法律、法规和规章,对从事民用航空活动的公民、法人或者其他组织实施的察看、了解和掌握其遵守有关法律、法规、规章和规范性文件的情况,督促其履行义务的行为。",
+    "line_start": 2,
+    "line_end": 3,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 行政检查应当遵循依法、公开、便民、合理的原则。",
+    "line_start": 4,
+    "line_end": 4,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 从事民用航空活动的法人和其他组织,应当建立安全生产自查制度,定期对本单位安全生产状况进行检查和评价,在自查中发现不符合安全生产规定的,应当立即采取措施,及时消除事故隐患,并按照民航行政机关的要求,提交包含自查结果及采取整改措施内容的自查报告。",
+    "line_start": 5,
+    "line_end": 5,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 民航行政机关应当建立守法信用信息记录,记载辖区内从事民用航空活动的公民、法人和其他组织的违法情况。",
+    "line_start": 6,
+    "line_end": 6,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 在行政检查工作中依法采取随机确定检查人员和随机选择检查对象的行政执法方式。",
+    "line_start": 7,
+    "line_end": 7,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 民航局和民航地区管理局(以下简称管理局)可以自己的名义独立行使相应的行政检查权。",
+    "line_start": 9,
+    "line_end": 9,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 民航局制定行政检查规定和制度,指导监督全国的民航行政检查工作。",
+    "line_start": 10,
+    "line_end": 11,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 管理局制定落实民航局行政检查规定和制度的实施办法,在本辖区范围内组织、指导民航安全监督管理局(以下简称监管局)开展行政检查。监管局应当依据管理局的分工和授权实施行政检查。",
+    "line_start": 12,
+    "line_end": 12,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 管理局之间对行政检查范围或者检查事项有争议的,报民航局确定。",
+    "line_start": 13,
+    "line_end": 13,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 民航行政机关的职能部门,应当以本机关名义承办具体行政检查事项,不得以该部门名义实施行政检查。",
+    "line_start": 14,
+    "line_end": 14,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 依法接受民航行政机关委托实施行政处罚及其他行政管理事项的其他组织,应当依照本规则以委托机关的名义实施行政检查。",
+    "line_start": 15,
+    "line_end": 15,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 民航行政机关实施行政检查的工作人员应当具备监察员资格。不具备监察员资格的其他工作人员或者专业人员,可以在监察员的带领下,协助检查。",
+    "line_start": 16,
+    "line_end": 17,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 监察员在行政检查过程中发现现行法律、法规和规章存在问题的,应当向本级民航行政机关政策法规部门书面提出法律、法规和规章的立、改、废、释建议。",
+    "line_start": 18,
+    "line_end": 18,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 实施行政检查的工作人员对在行政检查中了解到的当事人的商业秘密或者个人隐私承担保密责任,不得擅自向他人披露。",
+    "line_start": 19,
+    "line_end": 19,
+    "source_anchor": "第十五条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 行政检查的实施机关、人员及职责",
+    "line_start": 8,
+    "line_end": 19,
+    "source_anchor": "第二章"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 民航行政机关组织实施行政检查,应当编制行政检查计划。",
+    "line_start": 21,
+    "line_end": 21,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 民航局各职能部门应当明确行政检查大纲或者其他类型的行政检查要求,指导管理局编制检查计划。",
+    "line_start": 22,
+    "line_end": 23,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 民航局各职能部门的年度行政检查大纲或者行政检查要求应当在每年的11月底之前下发管理局,本部门的行政检查计划的编制在每年的12月底之前完成。",
+    "line_start": 24,
+    "line_end": 25,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 管理局的职能部门、监管局认为确有需要,改变行政检查计划的,由本单位负责人批准。",
+    "line_start": 26,
+    "line_end": 27,
+    "source_anchor": "第十九条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 行政检查计划的制定",
+    "line_start": 20,
+    "line_end": 27,
+    "source_anchor": "第三章"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 民航行政机关及其监察员应当根据行政检查计划或者经本级行政机关负责人批准,实施行政检查。",
+    "line_start": 29,
+    "line_end": 29,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 行政检查应当依据法律、法规、规章的规定实施。",
+    "line_start": 30,
+    "line_end": 30,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 监察员实施行政检查,应当出示中国民用航空监察员证件,并向被检查人告知行政检查事项。",
+    "line_start": 31,
+    "line_end": 31,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 被检查人认为监察员与行政检查事项有直接利害关系的,可以申请其回避。",
+    "line_start": 32,
+    "line_end": 32,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 被检查人对监察员依法履行行政检查职责,应当予以配合,不得拒绝、阻挠。",
+    "line_start": 33,
+    "line_end": 33,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 监察员应当将行政检查的时间、地点、内容、发现的问题及其处理情况,作出书面记录,并由监察员和被检查的个人、单位的负责人或者单位负责人授权的人员签字;拒绝签字的,监察员应当将情况记录在案,并向本行政机关报告。",
+    "line_start": 34,
+    "line_end": 34,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 民航行政机关对行政检查中发现的问题,应当做如下处理:",
+    "line_start": 35,
+    "line_end": 43,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 民航行政机关应当对检查发现的问题进行跟踪,督促被检查人按期改正,并按照下列情况分别处理:",
+    "line_start": 44,
+    "line_end": 47,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 民航行政机关及其监察员对行政检查中发现的问题,已履行法定安全监管职责,依法进行处理的,行政检查程序终结。",
+    "line_start": 48,
+    "line_end": 48,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 民航行政机关应当按照民航行政机关执法案卷管理规定建立行政检查档案,对行政检查过程中形成或者收集的文件资料立卷归档。",
+    "line_start": 49,
+    "line_end": 50,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 民航行政机关及其监察员应当将行政检查中发现依法应当给予责令整改、行政处罚、行政强制或者撤销许可处理决定的违法行为记入其守法信用信息记录,并依法将受到行政处罚、行政强制或者撤销许可的违法主体的名单、行政处罚信息进行公示。",
+    "line_start": 51,
+    "line_end": 55,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 民航行政机关发现其公示的信息不准确的,应当及时更正。公民、法人或者其他组织有证据证明民航行政机关公示的信息不准确的,有权要求民航行政机关予以更正。",
+    "line_start": 56,
+    "line_end": 57,
+    "source_anchor": "第三十一条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 行政检查的实施",
+    "line_start": 28,
+    "line_end": 57,
+    "source_anchor": "第四章"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 民航行政机关在行政检查过程中针对发现的问题,依照法律、行政法规规定行使相应的行政强制权。",
+    "line_start": 59,
+    "line_end": 59,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 民航行政机关采取的行政强制措施,是指在行政管理过程中, 为制止违法行为、防止证据损毁、避免危害发生、控制危险扩大等情形,依法对公民、法人或者其他组织的财物实施暂时性控制的行为。",
+    "line_start": 60,
+    "line_end": 60,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 有下列情形之一的,民航行政机关应当依法采取行政强制措施:",
+    "line_start": 61,
+    "line_end": 65,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 实施行政强制措施应当遵守下列规定:",
+    "line_start": 66,
+    "line_end": 70,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 行政强制措施应当按照下列程序实施:",
+    "line_start": 71,
+    "line_end": 73,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 采取行政强制措施后,应当及时查清事实,在法律、行政法规规定的期限内作出处理决定。",
+    "line_start": 74,
+    "line_end": 76,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 民航行政机关解除行政强制措施应当按照下列程序实施:",
+    "line_start": 77,
+    "line_end": 80,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 行政强制措施的法律文书应当加盖本行政机关印章并送达当事人。当事人拒绝接收或者无法送达当事人的,应当依照《中华人民共和国民事诉讼法》的有关规定送达。",
+    "line_start": 81,
+    "line_end": 81,
+    "source_anchor": "第三十九条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 行政检查中的行政强制措施",
+    "line_start": 58,
+    "line_end": 81,
+    "source_anchor": "第五章"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 公民、法人或者其他组织认为民航行政机关或者监察员在行政检查中侵犯其合法权益的,有权向该级行政机关或者其上级行政机关投诉,该级行政机关或者其上级行政机关应依据有关规定调查处理。",
+    "line_start": 83,
+    "line_end": 83,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 民航行政机关实施行政检查,有下列情形之一,由上级行政机关或者有关部门责令改正,造成严重后果的,应当对直接负责的主管人员和其他责任人员依法给予行政处分:",
+    "line_start": 84,
+    "line_end": 89,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 有下列情形之一的,民航行政机关及监察员不承担责任;法律、法规对行政执法责任追究另有规定的,依照其规定:",
+    "line_start": 90,
+    "line_end": 99,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 实施行政检查的工作人员违反本规定,擅自将在行政检查工作中了解到的被检查人的商业秘密或者个人隐私向他人披露的,由上级行政机关或者有关部门依法追究行政责任。",
+    "line_start": 100,
+    "line_end": 100,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 从事民用航空活动的法人和其他组织未按要求向民航行政机关提交自查报告的,责令改正,并记入其守法信用信息记录;自查报告未完整、真实反映实际情况的,给予警告并可以处三万元以下罚款。",
+    "line_start": 101,
+    "line_end": 101,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 从事民用航空活动的法人或者其他组织拒绝、阻碍监察员依法实施监督检查的,责令改正;拒不改正的,处二万元以上二十万元以下的罚款;对其直接负责的主管人员和其他直接责任人员处一万元以上二万元以下的罚款;构成犯罪的,依照刑法有关规定追究刑事责任。",
+    "line_start": 102,
+    "line_end": 102,
+    "source_anchor": "第四十五条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 行政检查的监督和法律责任",
+    "line_start": 82,
+    "line_end": 102,
+    "source_anchor": "第六章"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 本规则自2016年5月14日起施行。《民用航空行政检查工作规则》(CCAR-13)同时废止。",
+    "line_start": 104,
+    "line_end": 104,
+    "source_anchor": "第四十六条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 附 则",
+    "line_start": 103,
+    "line_end": 104,
+    "source_anchor": "第七章"
+  }
+}

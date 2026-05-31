@@ -1,0 +1,434 @@
+{
+  "law:通用航空安全保卫规则": {
+    "node_id": "law:通用航空安全保卫规则",
+    "type": "law",
+    "title": "中国民用航空地区管理局负责本辖区内通用航空安保工作的监督管理。",
+    "line_start": 0,
+    "line_end": 208,
+    "source_anchor": "中国民用航空地区管理局负责本辖区内通用航空安保工作的监督管理。"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了防范针对通用航空活动的非法干扰行为,规范通用航空安全保卫(以下简称安保)工作,根据《中华人民共和国反恐怖主义法》《中华人民共和国民用航空安全保卫条例》,制定本规则。",
+    "line_start": 2,
+    "line_end": 3,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规则适用于在中华人民共和国境内依法设立的通用航空器运营人(以下简称运营人)在境内开展的除使用无人驾驶航空器之外的通用航空活动,以及与上述通用航空活动相关的单位和个人。",
+    "line_start": 4,
+    "line_end": 5,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 通用航空安保工作以放管结合、促进发展为原则,实施分类分级管理。",
+    "line_start": 6,
+    "line_end": 7,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 中国民用航空局负责全国范围通用航空安保工作的监督管理。",
+    "line_start": 8,
+    "line_end": 13,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 除本规则第四章另有规定外,运营人对通用航空安保工作承担主体责任。",
+    "line_start": 14,
+    "line_end": 15,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 运营人应当根据本规则制定航空安保方案。",
+    "line_start": 20,
+    "line_end": 23,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 航空安保方案应当至少包含下列内容:",
+    "line_start": 24,
+    "line_end": 35,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 发生下列情形时,运营人应当及时修订航空安保方案,以确保其持续有效:",
+    "line_start": 36,
+    "line_end": 45,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 航空安保方案为敏感信息文件,应当对其进行编号并做好登记,妥善保存。",
+    "line_start": 46,
+    "line_end": 49,
+    "source_anchor": "第九条"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 一般规定",
+    "line_start": 98,
+    "line_end": 115,
+    "source_anchor": "第一节"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 运营人应当对相关工作人员开展安保培训,培训记录应当至少保存2年。",
+    "line_start": 52,
+    "line_end": 53,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 运营人应当按照中国民用航空局安保信息管理规定报送相关安保信息。",
+    "line_start": 54,
+    "line_end": 55,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 航空器停场期间,运营人应当依照规定采取有效安保措施,防止未经授权的人员或者物品进入航空器。",
+    "line_start": 56,
+    "line_end": 57,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 运营人应当在航空器起飞前检查航空器是否被损坏或者放置不明物品,检查记录应当至少保存90日。",
+    "line_start": 58,
+    "line_end": 59,
+    "source_anchor": "第十三条"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 开展定期载客运输活动的特别规定",
+    "line_start": 116,
+    "line_end": 121,
+    "source_anchor": "第二节"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 经营性运营人应当对涉及安保相关人员开展背景调查。",
+    "line_start": 62,
+    "line_end": 63,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 经营性运营人开展通用航空活动,应当遵守《通用航空活动禁限带物品目录》(以下简称《目录》)的要求。",
+    "line_start": 64,
+    "line_end": 65,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 开展载客活动的经营性运营人不得承运依照国家有关规定禁止运输的旅客或者物品。",
+    "line_start": 66,
+    "line_end": 67,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 开展载客活动前,经营性运营人应当对乘机人员身份信息进行核实、登记及报送。",
+    "line_start": 68,
+    "line_end": 71,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 开展空中游览、体验飞行、跳伞服务等活动前,经营性运营人应当对乘机人员身份信息进行核实、登记及报送。",
+    "line_start": 72,
+    "line_end": 73,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 开展货运活动前,经营性运营人应当对客户身份进行查验,对客户身份信息、货物信息进行登记,并采用仪器检查或者开包验视等方式,对拟载货物进行安保查验。",
+    "line_start": 74,
+    "line_end": 77,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 本节中乘机人员身份登记信息、乘机人员及其行李物品安全检查信息、客户身份信息、货物信息及货物安保查验信息应当至少保存90日。",
+    "line_start": 78,
+    "line_end": 79,
+    "source_anchor": "第二十条"
+  },
+  "section:3": {
+    "node_id": "section:3",
+    "type": "section",
+    "title": "第三节 开展不定期载客运输活动的特别规定",
+    "line_start": 122,
+    "line_end": 139,
+    "source_anchor": "第三节"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 运营人的安保要求",
+    "line_start": 16,
+    "line_end": 79,
+    "source_anchor": "第二章"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 运营人委托通用机场、固定基地运营商或者其他类型服务商等提供安保服务的,应当与受托提供安保服务的机构签订安保协议,明确双方的安保职责划分和具体安保要求。",
+    "line_start": 82,
+    "line_end": 83,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 经营性运营人应当要求受托提供安保服务的机构:",
+    "line_start": 84,
+    "line_end": 95,
+    "source_anchor": "第二十二条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 委托安保业务的安保要求",
+    "line_start": 80,
+    "line_end": 95,
+    "source_anchor": "第三章"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 在运输机场降落的通用航空活动的人员、行李物品及货物,在机场控制区内不得与公共航空运输相混。",
+    "line_start": 100,
+    "line_end": 101,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 对需要进入机场控制区的通用航空活动的人员、行李物品及货物,运输机场应当按照公共航空运输的标准实施安全检查。",
+    "line_start": 102,
+    "line_end": 105,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 进入机场控制区的通用航空工作人员应当经过背景调查。",
+    "line_start": 106,
+    "line_end": 109,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 运营人工作人员因工作需要携带工具、物料或者器材进入机场控制区的,应当提前向运输机场提交载有工具物料器材信息并加盖公章的申请文件。",
+    "line_start": 110,
+    "line_end": 113,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 航空器在运输机场停放期间,运营人应当依照规定采取有效安保措施,或者委托运输机场对航空器进行看护,防止未经授权的人员或者物品进入航空器。",
+    "line_start": 114,
+    "line_end": 115,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 旅客进入机场控制区时,凭有效身份证件及登机凭证在指定通道接受查验。",
+    "line_start": 118,
+    "line_end": 119,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 旅客不得携带《目录》中所列禁、限带物品进入机场控制区。",
+    "line_start": 120,
+    "line_end": 121,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 在运输机场开展不定期载客运输活动时,经营性运营人应当提前将含有有效身份证件信息的旅客名单交起飞地运输机场备案。",
+    "line_start": 124,
+    "line_end": 125,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 旅客不得携带《目录》中所列禁带物品进入机场控制区。需要携带《目录》中所列限带物品的,应当提前向经营性运营人申报,经其同意后方可携带。",
+    "line_start": 126,
+    "line_end": 127,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 经营性运营人应当在安全检查前将已同意的限带物品清单交起飞地运输机场备案。",
+    "line_start": 128,
+    "line_end": 129,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 旅客进入机场控制区时,运输机场安全检查部门应当:",
+    "line_start": 130,
+    "line_end": 139,
+    "source_anchor": "第三十三条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 在运输机场开展通用航空活动的特别要求",
+    "line_start": 96,
+    "line_end": 139,
+    "source_anchor": "第四章"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 民航行政机关可以对运营人航空安保方案、安保措施的执行情况进行检查,运营人应当如实提供相关资料或者信息,不得拒绝、阻碍检查或者谎报、瞒报相关资料或者信息。",
+    "line_start": 142,
+    "line_end": 143,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 运营人有下列行为之一,情节严重的,依法作为严重失信行为记入民航行业信用记录:",
+    "line_start": 144,
+    "line_end": 151,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 运营人有下列情形之一的,由民航行政机关责令限期改正;逾期未改正的,处警告、通报批评或者1万元以下的罚款:",
+    "line_start": 152,
+    "line_end": 159,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 运营人有下列情形之一的,由民航行政机关责令限期改正,处警告、通报批评或者1万元以下的罚款:",
+    "line_start": 160,
+    "line_end": 169,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 运营人有下列情形之一的,由民航行政机关责令限期改正,处1万元以上2万元以下的罚款;情节严重的,处2万元以上3万元以下的罚款:",
+    "line_start": 170,
+    "line_end": 185,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 运输机场违反本规则第二十三条规定,未采取有效措施,导致运输机场降落的通用航空活动的人员、行李物品及货物在机场控制区内与公共航空运输相混的,由民航行政机关责令限期改正,处1万元以上2万元以下的罚款;情节严重的,处2万元以上3万元以下的罚款。",
+    "line_start": 186,
+    "line_end": 187,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 运输机场违反本规则第二十四条、第二十六条或者第三十三条规定,未按照要求对进入机场控制区的人员、物品、货物开展安全检查的,由民航行政机关处1万元以上2万元以下的罚款;情节严重的,处2万元以上3万元以下的罚款。",
+    "line_start": 188,
+    "line_end": 189,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 违反本规则规定,《中华人民共和国反恐怖主义法》《中华人民共和国民用航空安全保卫条例》等有关法律、行政法规对其处罚有明确规定的,从其规定。",
+    "line_start": 190,
+    "line_end": 191,
+    "source_anchor": "第四十一条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 监督管理及法律责任",
+    "line_start": 140,
+    "line_end": 191,
+    "source_anchor": "第五章"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 本规则中下列用语的含义是:",
+    "line_start": 194,
+    "line_end": 203,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 本规则第四章关于机场控制区通行管制、安全检查、航空器地面安保等要求与其他涉及民航管理的规章不一致的,按照本规则规定执行。",
+    "line_start": 204,
+    "line_end": 205,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 外国通用航空器运营人在中华人民共和国境内开展通用航空活动的,参照本规则执行。",
+    "line_start": 206,
+    "line_end": 207,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 本规则自2022年7月1日起施行。",
+    "line_start": 208,
+    "line_end": 208,
+    "source_anchor": "第四十五条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 附 则",
+    "line_start": 192,
+    "line_end": 208,
+    "source_anchor": "第六章"
+  }
+}

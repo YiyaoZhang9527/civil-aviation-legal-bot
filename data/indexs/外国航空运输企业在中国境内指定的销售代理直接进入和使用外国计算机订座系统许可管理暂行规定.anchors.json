@@ -1,0 +1,410 @@
+{
+  "law:外国航空运输企业在中国境内指定的销售代理直接进入和使用外国计算机订座系统许可管理暂行规定": {
+    "node_id": "law:外国航空运输企业在中国境内指定的销售代理直接进入和使用外国计算机订座系统许可管理暂行规定",
+    "type": "law",
+    "title": "中国民用航空地区管理局(以下简称民航地区管理局)依据授权对本辖区内的外国航空运输企业及其销售代理直接进入和使用外国计算机订座系统,以及外国计算机订座系统服务提供商提供服务进行监督检查。",
+    "line_start": 0,
+    "line_end": 137,
+    "source_anchor": "中国民用航空地区管理局(以下简称民航地区管理局)依据授权对本辖区内的外国航空运输企业及其销售代理直接进入和使用外国计算机订座系统,以及外国计算机订座系统服务提供商提供服务进行监督检查。"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为实施外国航空运输企业在中国境内指定的销售代理直接进入和使用外国计算机订座系统许可,维护计算机订座系统服务市场秩序,保障消费者、外国航空运输企业、销售代理和外国计算机订座系统服务提供商的合法权益,根据相关法律、法规,制定本规定。",
+    "line_start": 1,
+    "line_end": 1,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 外国航空运输企业及其在中国境内指定的销售代理直接进入和使用外国计算机订座系统以及外国计算机订座系统服务提供商提供服务时应当遵守本规定。",
+    "line_start": 2,
+    "line_end": 2,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 中国民用航空局(以下简称民航局)负责办理外国航空运输企业在中国境内指定的销售代理直接进入和使用外国计算机订座系统的许可,并对外国航空运输企业及其销售代理直接进入和使用外国计算机订座系统,以及外国计算机订座系统服务提供商提供服务进行监督检查。",
+    "line_start": 3,
+    "line_end": 4,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 本规定中下列用语的定义:",
+    "line_start": 5,
+    "line_end": 9,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 外航经过民航局许可,可以委托其销售代理直接进入和使用外国计算机订座系统并使用该外航票证销售以下国际客票:",
+    "line_start": 10,
+    "line_end": 12,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 外航为其在中国境内指定的销售代理申请直接进入和使用外国计算机订座系统应当具备下列条件:",
+    "line_start": 13,
+    "line_end": 30,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 外航、外航销售代理、外国系统提供商应当依照中国有关法律、法规和技术标准提供公开、公平、公正的服务,不得擅自提供直接进入和使用外国计算机订座系统的服务。",
+    "line_start": 31,
+    "line_end": 31,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 外航申请其销售代理直接进入和使用外国计算机订座系统的,应当以书面形式向民航局提交以下申请材料:",
+    "line_start": 33,
+    "line_end": 44,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 本规定第八条第十项规定的具体直接进入和使用方案应当包括以下内容:",
+    "line_start": 45,
+    "line_end": 53,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 外航应当对其所提交的全部申请材料的真实性负责。",
+    "line_start": 54,
+    "line_end": 54,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 民航局应当对外航提交的申请材料进行审查,申请材料齐全、符合法定形式的,民航局受理申请。",
+    "line_start": 55,
+    "line_end": 57,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 民航局应当在受理外航申请之日起五个工作日内,将该申请发送至销售代理所在地民航地区管理局征求意见,地区管理局应当于接到申请材料之日起五个工作日内反馈意见。",
+    "line_start": 58,
+    "line_end": 58,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 民航局和民航地区管理局在许可过程中应当遵循以下基本原则:",
+    "line_start": 59,
+    "line_end": 63,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 民航局应当自受理申请之日起二十个工作日内依法作出是否准予许可的书面决定。二十个工作日内不能作出决定的,经民航局负责人批准,可以延长十个工作日,并应当将延长期限的理由告知外航。",
+    "line_start": 64,
+    "line_end": 64,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 民航局依法作出准予许可决定的,应当自作出决定之日起十个工作日内向外航颁发许可证。",
+    "line_start": 65,
+    "line_end": 66,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 依法颁发的许可证应当载明下列内容:",
+    "line_start": 67,
+    "line_end": 74,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 获得许可证的外航应当向其销售代理提供由外航负责人签字并加盖公章的许可证复印件,并对复印件编号登记。",
+    "line_start": 75,
+    "line_end": 76,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 民航局定期对外公布许可证目录清单、允许直接进入和使用外国计算机订座系统的外航销售代理名单及其代理外航业务的范围。",
+    "line_start": 77,
+    "line_end": 77,
+    "source_anchor": "第十八条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 许可证的申请与颁发",
+    "line_start": 32,
+    "line_end": 77,
+    "source_anchor": "第二章"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 经许可核发的许可证有效期与外航在中国境内经营许可证有效期应保持一致。",
+    "line_start": 79,
+    "line_end": 80,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 一个许可证只适用于该许可证所列明的外航销售代理直接进入和使用该许可证上列明的外国计算机订座系统销售该外航客票的行为。",
+    "line_start": 81,
+    "line_end": 82,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 外航应当于许可证有效期满前三十日,以书面形式向民航局提出延期申请,并按本法第八条、第九条规定,提供有关材料。民航局经审查后,办理许可证延期手续。",
+    "line_start": 83,
+    "line_end": 84,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 许可事项发生变更的,外航应当就变更事项向民航局提出变更申请,经核准后办理许可证相应的变更手续,并交回原许可证。",
+    "line_start": 85,
+    "line_end": 85,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 民航局对外航提出延长或者变更许可的申请,在本规定第十四条、第十五条规定的期限内作出决定。",
+    "line_start": 86,
+    "line_end": 86,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 许可证有效期内,外航或外国系统提供商一年内累计受到2次(含)以上罚款处罚,或累计受到5次(含)以上罚款处罚的,许可证延期时,民航局可以作出不予延期的决定。",
+    "line_start": 87,
+    "line_end": 88,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 外航、外国系统提供商终止、解散或破产的,许可证自终止、解散或破产之日起自动失效,许可证持有人应当在十日内到民航局办理注销手续。",
+    "line_start": 89,
+    "line_end": 89,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 任何单位和个人不得涂改、出租、出借、转让、买卖、伪造和冒用许可证。",
+    "line_start": 90,
+    "line_end": 90,
+    "source_anchor": "第二十六条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 许可证管理",
+    "line_start": 78,
+    "line_end": 90,
+    "source_anchor": "第三章"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 外航、外航销售代理、外国系统提供商应保守旅客个人隐私等信息及相关材料,不得将涉及旅客个人信息及双方约定的其他内容泄露给任何第三方。",
+    "line_start": 92,
+    "line_end": 92,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 外航应当遵守以下行为规范:",
+    "line_start": 93,
+    "line_end": 99,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 外航销售代理应当遵守以下行为规范:",
+    "line_start": 100,
+    "line_end": 109,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 外国系统提供商应当遵守以下行为:",
+    "line_start": 110,
+    "line_end": 119,
+    "source_anchor": "第三十条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 行为规范",
+    "line_start": 91,
+    "line_end": 119,
+    "source_anchor": "第四章"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 民航局、民航地区管理局(以下统称为民航管理部门)依据职责对外航及其销售代理直接进入和使用外国计算机订座系统,以及外国系统提供商提供服务实施监督检查。",
+    "line_start": 121,
+    "line_end": 121,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 民航管理部门进行监督检查时,有权随时检查备份查询系统,外国系统提供商应当予以配合。必要时,外国系统商应当提供相应的检查手段协助检查其他相关系统。",
+    "line_start": 122,
+    "line_end": 122,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 民航管理部门实施监督检查,不得妨碍外航、外航销售代理和外国系统提供商正常的经营活动,不得泄漏商业秘密和旅客个人信息。",
+    "line_start": 123,
+    "line_end": 123,
+    "source_anchor": "第三十三条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 监督检查",
+    "line_start": 120,
+    "line_end": 123,
+    "source_anchor": "第五章"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 外国系统提供商违反本规定第七条的规定,擅自为外航销售代理提供直接进入和使用其系统服务的,民航局或民航地区管理局依法对该外国系统提供商给予警告,可以并处一万元以上三万元以下罚款。",
+    "line_start": 125,
+    "line_end": 125,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 外航违反本规定第八条、第九条、第十条的规定,隐瞒有关情况或者提供虚假材料申请许可,或者以欺骗、贿赂等不正当手段取得接入许可的,民航局依照《行政许可法》的有关规定予以处理。",
+    "line_start": 126,
+    "line_end": 126,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 外航违反本规定第九条的规定,擅自修改直接进入和使用外国计算机订座系统方案的,民航局或民航地区管理局应当依法对外航给予警告,可以并处一万元以上三万元以下的罚款。",
+    "line_start": 127,
+    "line_end": 127,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 外航销售代理违反本规定第十七条的规定,未将许可证复印件置于营业场所醒目位置的,民航局或民航地区管理局依法对外航销售代理给予警告,可以并处一万元以上三万元以下的罚款。",
+    "line_start": 128,
+    "line_end": 128,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 外航违反本规定第二十六条的规定,涂改、出租、出借、转让、买卖、伪造和冒用许可证的,由民航局按规定责令其停止违法行为,限期改正,并处以一万元以上三万元以下的罚款。",
+    "line_start": 129,
+    "line_end": 129,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 外航、外航销售代理、外国系统提供商违反本规定第二十七条的规定,向任何第三方泄露旅客个人隐私等信息及相关材料的,民航局或民航地区管理局依法对负有责任的外航、外航销售代理、外国系统提供商给予警告,可以并处一万元以上三万元以下罚款。构成犯罪的,依法追究刑事责任。",
+    "line_start": 130,
+    "line_end": 130,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 违反本规定第四章的第二十八条、第二十九条、第三十条的规定,未履行所规定的行为规范的,民航局或民航地区管理局依法对负有责任的外航、外航销售代理、外国系统提供商给予警告,可以并处一万元以上三万元以下罚款。",
+    "line_start": 131,
+    "line_end": 131,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 外国系统提供商违反本规定第三十二条的规定,拒不配合检查备份查询系统以及其他相关系统,或其他形式监督检查的,民航局或民航地区管理局应当依法责令其改正,予以警告;拒不改正的,处以一万元以上三万元以下的罚款。",
+    "line_start": 132,
+    "line_end": 132,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 民航局或民航地区管理局工作人员违反本规定行使职权的,由民航局监察部门责令改正;情节严重的,对直接负责的主管人员和其他直接责任人员依法给予行政处分。构成犯罪的,依法追究刑事责任。",
+    "line_start": 133,
+    "line_end": 133,
+    "source_anchor": "第四十二条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 法律责任",
+    "line_start": 124,
+    "line_end": 133,
+    "source_anchor": "第六章"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 香港特别行政区、澳门特别行政区、台湾地区的航空运输企业在中国境内指定的销售代理直接进入和使用外国计算机订座系统参照本规定执行。",
+    "line_start": 135,
+    "line_end": 136,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 本规定自2016年4月28日起施行。1995年颁布的《外国空运企业及其销售代理人在中国境内使用计算机旅客定座系统的暂行管理办法》(民航运发〔1995〕51号)自本规定施行之日起废止。",
+    "line_start": 137,
+    "line_end": 137,
+    "source_anchor": "第四十四条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 附 则",
+    "line_start": 134,
+    "line_end": 137,
+    "source_anchor": "第七章"
+  }
+}

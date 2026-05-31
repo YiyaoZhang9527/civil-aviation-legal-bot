@@ -1,0 +1,210 @@
+{
+  "law:中国民用航空计量技术委任代表和委任单位代表规定": {
+    "node_id": "law:中国民用航空计量技术委任代表和委任单位代表规定",
+    "type": "law",
+    "title": "中国民用航空计量技术委任代表和委任",
+    "line_start": 0,
+    "line_end": 144,
+    "source_anchor": "中国民用航空计量技术委任代表和委任"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了充分发挥民用航空企事业单位技术力量的作用,规范民用航空计",
+    "line_start": 6,
+    "line_end": 8,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规定适用于中国民用航空总局(以下简称民航总局)委任民用航空",
+    "line_start": 9,
+    "line_end": 10,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 本规定所称委任代表,是指接受民航总局委任、代表民航总局从事有",
+    "line_start": 11,
+    "line_end": 17,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 民航总局对委任代表和委任单位代表实行统一管理。",
+    "line_start": 18,
+    "line_end": 21,
+    "source_anchor": "第四条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总则",
+    "line_start": 4,
+    "line_end": 21,
+    "source_anchor": "第一章"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 民航总局按工作性质,审批下列民用航空计量技术委任代表:",
+    "line_start": 24,
+    "line_end": 29,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 民用航空计量技术委任代表必须具备的条件如下:",
+    "line_start": 30,
+    "line_end": 52,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 民用航空计量技术委任代表行使下列一项或者数项职责:",
+    "line_start": 53,
+    "line_end": 64,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 民用航空计量技术委任代表按下列程序委任:",
+    "line_start": 65,
+    "line_end": 71,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 委任代表证书的有效期为三年。",
+    "line_start": 72,
+    "line_end": 72,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 有下列情况之一的,由民航总局终止委任代表的任期:",
+    "line_start": 73,
+    "line_end": 78,
+    "source_anchor": "第十条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 委任代表",
+    "line_start": 22,
+    "line_end": 78,
+    "source_anchor": "第二章"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 民航总局按照下列专业范围,审批民用航空计量技术委任单位代表:",
+    "line_start": 81,
+    "line_end": 86,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 民用航空计量技术委任单位代表必须具备的条件如下:",
+    "line_start": 87,
+    "line_end": 102,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 民用航空计量技术委任单位代表行使下列一项或者数项职责:",
+    "line_start": 103,
+    "line_end": 113,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 民用航空计量技术委任单位代表按下列程序委任:",
+    "line_start": 114,
+    "line_end": 122,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 委任单位代表证书的有效期为三年。委任单位代表可以在证书有效",
+    "line_start": 123,
+    "line_end": 126,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 有下列情况之一的,由民航总局终止委任单位代表证书的有效期:",
+    "line_start": 127,
+    "line_end": 133,
+    "source_anchor": "第十六条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 委任单位代表",
+    "line_start": 79,
+    "line_end": 133,
+    "source_anchor": "第三章"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 申请委任代表、委任单位代表,应当缴纳技术审查考核和发证工本",
+    "line_start": 136,
+    "line_end": 137,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 本规定内有关申请书、证件、印章的式样,由民航总局计量管理部",
+    "line_start": 138,
+    "line_end": 139,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 委任代表、委任单位代表违反本规定,由民航总局根据情节轻重给",
+    "line_start": 140,
+    "line_end": 142,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 对境外计量技术机构的选定,参照本规定办理。",
+    "line_start": 143,
+    "line_end": 143,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 本规定自发布之日起施行。",
+    "line_start": 144,
+    "line_end": 144,
+    "source_anchor": "第二十一条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 附则",
+    "line_start": 134,
+    "line_end": 144,
+    "source_anchor": "第四章"
+  }
+}

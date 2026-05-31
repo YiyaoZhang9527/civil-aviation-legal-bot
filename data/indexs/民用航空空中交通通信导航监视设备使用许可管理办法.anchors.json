@@ -1,0 +1,250 @@
+{
+  "law:民用航空空中交通通信导航监视设备使用许可管理办法": {
+    "node_id": "law:民用航空空中交通通信导航监视设备使用许可管理办法",
+    "type": "law",
+    "title": "民用航空空中交通通信导航监视设备使用",
+    "line_start": 0,
+    "line_end": 313,
+    "source_anchor": "民用航空空中交通通信导航监视设备使用"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为保障飞行安全,加强对民用航空空中交通通",
+    "line_start": 7,
+    "line_end": 8,
+    "source_anchor": "第一条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 本办法所称通信导航监视设备是指提供民用",
+    "line_start": 17,
+    "line_end": 29,
+    "source_anchor": "第三条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 民用航空空中交通通信导航监视设备(以下",
+    "line_start": 10,
+    "line_end": 16,
+    "source_anchor": "第二条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 民航总局空管局对通信导航监视设备的使用",
+    "line_start": 30,
+    "line_end": 33,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 中国境内提供民用航空空中交通通信导航监",
+    "line_start": 34,
+    "line_end": 37,
+    "source_anchor": "第五条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总   则",
+    "line_start": 5,
+    "line_end": 37,
+    "source_anchor": "第一章"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 通信导航监视设备生产厂家申请临时使用许",
+    "line_start": 40,
+    "line_end": 50,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 设备生产厂家或者其授权的代理机构申请临",
+    "line_start": 51,
+    "line_end": 55,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 民航总局空管局在收到设备生产厂家申请之",
+    "line_start": 56,
+    "line_end": 61,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 临时使用许可证有效期为2 年。",
+    "line_start": 62,
+    "line_end": 64,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 在临时使用许可证有效期内,设备生产厂家",
+    "line_start": 65,
+    "line_end": 68,
+    "source_anchor": "第十条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 临时使用许可证的申请与颁发",
+    "line_start": 38,
+    "line_end": 68,
+    "source_anchor": "第二章"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 设备生产厂家申请使用许可证,应当出具",
+    "line_start": 71,
+    "line_end": 78,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 设备生产厂家或者其授权的代理机构申请",
+    "line_start": 79,
+    "line_end": 82,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 使用许可证依照下列程序取得:",
+    "line_start": 83,
+    "line_end": 101,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 使用许可证有效期为5 年。",
+    "line_start": 102,
+    "line_end": 102,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 使用许可证颁发后,设备生产厂家应当按",
+    "line_start": 103,
+    "line_end": 106,
+    "source_anchor": "第十五条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 使用许可证的申请与颁发",
+    "line_start": 69,
+    "line_end": 106,
+    "source_anchor": "第三章"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 出现下列情形之一的,由民航总局空管局",
+    "line_start": 109,
+    "line_end": 121,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 自临时使用许可证或者使用许可证注销之",
+    "line_start": 122,
+    "line_end": 127,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 除本办法第十六条第(一)项的情形外,",
+    "line_start": 128,
+    "line_end": 131,
+    "source_anchor": "第十八条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 临时使用许可证和使用许可证的注销",
+    "line_start": 107,
+    "line_end": 131,
+    "source_anchor": "第四章"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 设备生产厂家或者其授权的代理机构认为",
+    "line_start": 134,
+    "line_end": 141,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 设备生产厂家所有权发生变化或者生产状",
+    "line_start": 142,
+    "line_end": 155,
+    "source_anchor": "第二十条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 临时使用许可证和使用许可证的复审",
+    "line_start": 132,
+    "line_end": 155,
+    "source_anchor": "第五章"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 中国境内提供民用航空空中交通通信导",
+    "line_start": 158,
+    "line_end": 163,
+    "source_anchor": "第二十一条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 罚则",
+    "line_start": 156,
+    "line_end": 163,
+    "source_anchor": "第六章"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 设备生产厂家申请办理临时使用许可证",
+    "line_start": 166,
+    "line_end": 170,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 本办法自二ΟΟ二年八月一日起施行。",
+    "line_start": 178,
+    "line_end": 313,
+    "source_anchor": "第二十三条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 附则",
+    "line_start": 164,
+    "line_end": 313,
+    "source_anchor": "第七章"
+  }
+}

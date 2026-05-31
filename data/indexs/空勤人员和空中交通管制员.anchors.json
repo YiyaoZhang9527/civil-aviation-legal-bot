@@ -1,0 +1,42 @@
+{
+  "law:空勤人员和空中交通管制员": {
+    "node_id": "law:空勤人员和空中交通管制员",
+    "type": "law",
+    "title": "空勤人员和空中交通管制员",
+    "line_start": 0,
+    "line_end": 667,
+    "source_anchor": "空勤人员和空中交通管制员"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 第一章",
+    "line_start": 3,
+    "line_end": 176,
+    "source_anchor": "第一章"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 Ⅱ级体检合格证的医学标准",
+    "line_start": 177,
+    "line_end": 351,
+    "source_anchor": "第二章"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 Ⅲ级体检合格证的医学标准",
+    "line_start": 352,
+    "line_end": 523,
+    "source_anchor": "第三章"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 Ⅳ级体检合格证的医学标准",
+    "line_start": 524,
+    "line_end": 667,
+    "source_anchor": "第四章"
+  }
+}

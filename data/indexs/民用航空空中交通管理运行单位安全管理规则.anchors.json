@@ -1,0 +1,474 @@
+{
+  "law:民用航空空中交通管理运行单位安全管理规则": {
+    "node_id": "law:民用航空空中交通管理运行单位安全管理规则",
+    "type": "law",
+    "title": "本规则所指的民航空管运行单位包括中国民用航空局空中交通管理局及其所属的地区空中交通管理局、空中交通管理分局、空中交通管理站和机场管理机构及其下属的民航空管运行部门。",
+    "line_start": 0,
+    "line_end": 124,
+    "source_anchor": "本规则所指的民航空管运行单位包括中国民用航空局空中交通管理局及其所属的地区空中交通管理局、空中交通管理分局、空中交通管理站和机场管理机构及其下属的民航空管运行部门。"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了规范对民用航空空中交通管理(以下简称民航空管)运行单位的安全监督和管理,降低空中交通安全风险,提高空中交通运行安全水平,保障飞行安全,依据《中华人民共和国安全生产法》、《中华人民共和国民用航空法》和《中华人民共和国飞行基本规则》等法律法规,制定本规则。",
+    "line_start": 1,
+    "line_end": 1,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 在中华人民共和国领域内从事民用航空空中交通服务、航空情报服务、通信导航监视服务、航空气象服务的单位(以下简称民航空管运行单位)和个人,应当遵守本规则。",
+    "line_start": 2,
+    "line_end": 3,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 民航空管运行单位安全管理应当坚持安全第一、预防为主、综合治理的工作方针。",
+    "line_start": 4,
+    "line_end": 4,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 中国民用航空局(以下简称民航局)负责监督管理全国民航空管安全管理工作,民航地区管理局(以下简称地区管理局)负责监督管理本地区民航空管安全管理工作。",
+    "line_start": 5,
+    "line_end": 5,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 民航空管运行单位负责组织与实施本单位民航空管运行安全管理工作。",
+    "line_start": 6,
+    "line_end": 6,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 民航空管安全管理工作实行安全事故责任追究制度,依据有关法律、法规和本规则的规定,追究安全生产事故责任人的责任。",
+    "line_start": 7,
+    "line_end": 7,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 民航局鼓励和支持民航空管安全管理的科学技术研究、先进技术和先进管理方式的推广应用,提高民航空管安全管理水平。",
+    "line_start": 8,
+    "line_end": 8,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 民航局负责统一制定民航空管安全管理的政策、规章和标准,制定安全工作规划,确定安全管理目标,组织实施民航空管安全审计,指导监督民航空管安全管理体系建设,监督、检查和指导民航空管安全工作及安全管理措施的落实情况。",
+    "line_start": 10,
+    "line_end": 10,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 地区管理局负责监督检查本地区民航空管运行单位贯彻落实民航空管安全管理的政策、法规、规章和标准;监督检查安全工作规划和安全管理措施落实、安全管理目标执行和安全管理体系建设的情况,监督检查民航空管运行单位的安全评估工作,承办民航空管安全审计工作。",
+    "line_start": 11,
+    "line_end": 11,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 民航空管运行单位贯彻落实民航空管安全管理的政策、法规、规章和标准,落实安全工作规划、安全管理目标,建立健全安全管理体系,实施对本单位运行状况的经常性检查,定期评价安全状况,组织落实安全管理措施,收集、统计、分析本单位的安全信息,对民航空管不安全事件制定并落实整改措施,制定本单位安全培训计划,组织开展安全生产教育、培训工作,记录培训考核情况;组织实施民航空管安全评估;按规定上报本单位的安全状况和信息。",
+    "line_start": 12,
+    "line_end": 12,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 民航空管运行单位应当根据下列要求设置运行安全管理部门或者配备安全管理人员。",
+    "line_start": 13,
+    "line_end": 17,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 民航空管运行单位的主要负责人对本单位运行安全管理全面负责,组织实施下列安全管理工作:",
+    "line_start": 18,
+    "line_end": 24,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 民航空管运行单位应当倡导积极的安全文化,采取多种形式加强对民航空管安全的法律、法规、规章、标准和民航空管安全知识的宣传,向从业人员充分告知安全风险,教育和督促从业人员严格遵守安全生产规章制度,执行操作规程,提高职工的安全意识。",
+    "line_start": 25,
+    "line_end": 25,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 民用航空空中交通管制员、航空情报员、航空电信人员、航空气象人员等专业人员应当按照有关规定取得相应的专业人员执照,并保持有效。",
+    "line_start": 26,
+    "line_end": 27,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 民航空管运行单位的从业人员应当服从安全管理,严格遵守本单位的安全生产规章制度和操作规程,有权拒绝违章操作。",
+    "line_start": 28,
+    "line_end": 29,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 民航空管运行中凡涉及人员派遣、工作代理、设备租赁和信息服务的,相关单位和人员应当以协议的形式明确安全责任。",
+    "line_start": 30,
+    "line_end": 30,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 在同一运行区域内或在相邻运行区域运行时,各民航空管运行单位之间,民航空管运行单位与航空营运人、机场管理机构等有关单位之间,应当通过协议明确各自的安全职责和措施。",
+    "line_start": 31,
+    "line_end": 31,
+    "source_anchor": "第十七条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 机构和人员",
+    "line_start": 9,
+    "line_end": 31,
+    "source_anchor": "第二章"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 民航空管运行单位应当建立和健全民航空管安全管理体系。民航空管安全管理体系应当包括安全管理的组织机构、人员及其职责,安全管理的方针、政策和目标,安全管理的标准以及规章制度,安全绩效考核制度,安全监督和检查机制,安全评估制度,应急管理制度,安全教育和培训制度,安全信息报告制度,安全风险管理机制,安全奖惩机制,安全问责制度,文档管理要求等。民航空管安全管理体系应当做到有计划、有落实、有检查、有跟踪的闭环管理。",
+    "line_start": 33,
+    "line_end": 33,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 民航空管运行单位应当定期召开安全形势分析会,分析和判断安全生产形势,对前一阶段的工作进行总结,并对以后的工作进行部署。",
+    "line_start": 34,
+    "line_end": 35,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 民航空管运行单位应当建立安全评估机制。安全评估分为事前评估和跟踪评估。事前评估是对预计实施事项的可行性、安全性和可靠性以及安全应对措施是否满足可接受的安全风险水平的评估;跟踪评估是对评估事项实施后是否满足预定的安全指标水平以及未来的安全发展态势所进行的评估。",
+    "line_start": 36,
+    "line_end": 45,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 民航空管运行单位应当将评估情况报所在地的地区管理局备案。",
+    "line_start": 46,
+    "line_end": 46,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 民航空管运行单位应当建立定期和不定期的内部安全检查制度,对检查中发现的问题,制定切实可行的安全措施。",
+    "line_start": 47,
+    "line_end": 47,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 民航空管运行单位应当建立健全风险管理机制,将影响民航空管运行安全的风险降低到可接受的程度。民航空管运行单位应当对在运行中可能发生或者出现的下列情况进行分析和控制:",
+    "line_start": 48,
+    "line_end": 56,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 民航空管运行单位应当按照民航安全目标,确立民航空管运行安全指标。民航空管运行安全指标应当包括:",
+    "line_start": 57,
+    "line_end": 63,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 民航空管运行单位应当按照规定制定应急处置预案,并定期组织演练。",
+    "line_start": 64,
+    "line_end": 64,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 民航空管运行单位应当建立安全建议和意见的收集、分析及反馈制度,鼓励民航空管从业人员主动提出安全建议和意见。",
+    "line_start": 65,
+    "line_end": 65,
+    "source_anchor": "第二十六条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 民航空管安全管理",
+    "line_start": 32,
+    "line_end": 65,
+    "source_anchor": "第三章"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 发生或者发现民航空管不安全事件,事件发生地的民航空管运行单位应当按照规定及时报告。",
+    "line_start": 67,
+    "line_end": 67,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 民航空管运行单位应当按规定制定民航空管不安全事件的报告程序。",
+    "line_start": 68,
+    "line_end": 68,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 民航空管不安全事件调查应当客观公正,全面深入地查找、分析事件发生的原因,明确责任,提出并落实改进建议和措施,防止类似事件再次发生。",
+    "line_start": 69,
+    "line_end": 69,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 对民航局或者地区管理局组织的民航空管不安全事件调查,民航空管运行单位应当积极配合。民航空管运行单位应当将本单位组织的民航空管不安全事件的调查情况,按规定及时报告所在地的地区管理局。",
+    "line_start": 70,
+    "line_end": 70,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 未经民航局许可,民航空管运行单位及其从业人员不得对外发布民航空管不安全事件信息。",
+    "line_start": 71,
+    "line_end": 71,
+    "source_anchor": "第三十一条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 民航空管不安全事件的报告、调查和处理",
+    "line_start": 66,
+    "line_end": 71,
+    "source_anchor": "第四章"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 民航空管运行单位的主要负责人和安全管理人员应当经过相应的民航局安全管理培训,取得相应培训证书,具备相应的安全知识和安全管理能力。",
+    "line_start": 73,
+    "line_end": 73,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 民航空管运行单位应当制定安全教育和培训计划,对从业人员进行安全教育、培训和考核。",
+    "line_start": 74,
+    "line_end": 75,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 民航空管运行单位应当将安全教育和培训经费纳入本单位年度计划,为安全教育和培训提供所需条件。",
+    "line_start": 76,
+    "line_end": 76,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 民航空管从业人员应当接受安全教育和培训,未经安全教育和培训,或者经教育和培训后考核不合格的从业人员,不得上岗作业。",
+    "line_start": 77,
+    "line_end": 77,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 民航空管安全培训分为岗前、年度、专项培训。",
+    "line_start": 78,
+    "line_end": 80,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 对民航空管新从业人员和转岗人员应当进行岗前培训。岗前安全培训主要内容:",
+    "line_start": 81,
+    "line_end": 89,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 民航空管从业人员年度培训应当在岗前培训内容的基础上,根据年度安全管理工作特点和要求,结合本单位实际,增加有关风险管理、应急处置、案例分析、安全形势等培训事项。",
+    "line_start": 90,
+    "line_end": 90,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 当出现下列情况时,民航空管运行单位应当进行专项安全培训:",
+    "line_start": 91,
+    "line_end": 95,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 民航空管从业人员岗前安全培训的时间不得少于24小时,年度培训的时间不得少于12小时,专项培训时间根据实际情况确定。",
+    "line_start": 96,
+    "line_end": 96,
+    "source_anchor": "第四十条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 安全教育和培训",
+    "line_start": 72,
+    "line_end": 96,
+    "source_anchor": "第五章"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 民航空管运行单位应当建立安全信息和文档管理制度,对涉及安全管理工作的情况、运行状况和相关数据、民航空管不安全事件以及资料等应当分类归档,妥善保存。",
+    "line_start": 98,
+    "line_end": 99,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 民航空管运行单位应当对下列涉及民航空管安全管理工作的数据和文档保存不得少于6年:",
+    "line_start": 100,
+    "line_end": 106,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 民航空管运行单位对超过保存期限的安全信息和文档,应当按照规定处理。",
+    "line_start": 107,
+    "line_end": 107,
+    "source_anchor": "第四十三条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 安全信息和文档的管理",
+    "line_start": 97,
+    "line_end": 107,
+    "source_anchor": "第六章"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 地区管理局对民航空管运行单位遵守有关法律、法规、规章和标准等情况进行定期和不定期监督检查。",
+    "line_start": 109,
+    "line_end": 111,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 地区管理局履行监督检查职责时可以依法采取下列措施:",
+    "line_start": 112,
+    "line_end": 117,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 地区管理局对民航空管运行单位进行监督检查中发现的重大安全隐患,应当责令有关单位立即排除;对监督检查中发现的安全管理缺陷或安全隐患,应当向有关单位提出限期整改建议;对监督检查中发现的违法行为,应当立即制止,依法进行处罚。",
+    "line_start": 118,
+    "line_end": 118,
+    "source_anchor": "第四十六条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 监督检查",
+    "line_start": 108,
+    "line_end": 118,
+    "source_anchor": "第七章"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 民航空管运行单位违反本规则第十条规定的,由地区管理局责令限期改正;逾期未改正的,对其主要负责人处以警告或者人民币二百元以上一千元以下罚款,并对单位处以警告或者一万元以上三万元以下罚款。",
+    "line_start": 120,
+    "line_end": 120,
+    "source_anchor": "第四十七条"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 相关单位违反本规则第十六条、第十七条规定的,由地区管理局责令限期改正;逾期未改正的,对其主要负责人处以警告或者人民币二百元以上一千元以下罚款,并对单位处以警告或者一万元以上三万元以下罚款。",
+    "line_start": 121,
+    "line_end": 121,
+    "source_anchor": "第四十八条"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 民航空管运行单位违反本规则第四十一条规定的,由地区管理局责令限期改正;逾期未改正的,对单位处以警告或者五千元以上一万元以下罚款。",
+    "line_start": 122,
+    "line_end": 122,
+    "source_anchor": "第四十九条"
+  },
+  "chapter:8": {
+    "node_id": "chapter:8",
+    "type": "chapter",
+    "title": "第八章 法律责任",
+    "line_start": 119,
+    "line_end": 122,
+    "source_anchor": "第八章"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 本规则自2016年4月17日起施行。",
+    "line_start": 124,
+    "line_end": 124,
+    "source_anchor": "第五十条"
+  },
+  "chapter:9": {
+    "node_id": "chapter:9",
+    "type": "chapter",
+    "title": "第九章 附 则",
+    "line_start": 123,
+    "line_end": 124,
+    "source_anchor": "第九章"
+  }
+}

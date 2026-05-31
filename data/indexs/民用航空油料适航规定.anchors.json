@@ -1,0 +1,538 @@
+{
+  "law:民用航空油料适航规定": {
+    "node_id": "law:民用航空油料适航规定",
+    "type": "law",
+    "title": "第145 号",
+    "line_start": 0,
+    "line_end": 306,
+    "source_anchor": "第145 号"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为加强对民用航空油料的适航管理,保障民用航空安全,维",
+    "line_start": 16,
+    "line_end": 18,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规定适用于民用航空油料及其供应企业、民用航空油料检",
+    "line_start": 19,
+    "line_end": 20,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 本规定中有关用语含义如下:",
+    "line_start": 21,
+    "line_end": 30,
+    "source_anchor": "第三条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总   则",
+    "line_start": 15,
+    "line_end": 30,
+    "source_anchor": "第一章"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 本章适用于民用航空油料供应企业适航批准书(以下简称批",
+    "line_start": 32,
+    "line_end": 35,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 批准书包括主页和项目单。",
+    "line_start": 36,
+    "line_end": 36,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 凡在中华人民共和国境内,从事民用航空油料储运、检测并为",
+    "line_start": 37,
+    "line_end": 40,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 批准书申请人应当向局方提交民用航空油料供应企业适航批",
+    "line_start": 41,
+    "line_end": 47,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 申请人应当如实向局方提交规定的申请资料,并对其申请资",
+    "line_start": 48,
+    "line_end": 49,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 局方审查申请人提交的申请资料,发现申请资料不齐全或不",
+    "line_start": 50,
+    "line_end": 54,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 经局方审查认为申请资料齐全、符合本规定相应要求的,或",
+    "line_start": 55,
+    "line_end": 60,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 申请人在接到申请受理通知后,应按照局方的规定缴纳审",
+    "line_start": 61,
+    "line_end": 62,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 申请人应当向局方表明已建立并能够保持质量保证系统,",
+    "line_start": 63,
+    "line_end": 65,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 申请人应当向局方提交质量保证手册及相应的质量保证系",
+    "line_start": 66,
+    "line_end": 78,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 局方自开始审查之日起二十日内作出审查决定,二十日内",
+    "line_start": 79,
+    "line_end": 89,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 局方审查认为,申请人不满足相关要求的,不予颁发批准",
+    "line_start": 90,
+    "line_end": 91,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 批准书持有人应当:",
+    "line_start": 92,
+    "line_end": 100,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 持证人对其质量保证系统的更改应当书面报告局方,对其",
+    "line_start": 101,
+    "line_end": 105,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 除下列情况外,批准书在两年期内一直有效:",
+    "line_start": 106,
+    "line_end": 111,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 被放弃的批准书应当交还局方,批准书失效期间不得从事",
+    "line_start": 112,
+    "line_end": 113,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 批准书不可转让。",
+    "line_start": 114,
+    "line_end": 114,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 批准书的持有人,遇有下列情形之一时,应当向局方申请",
+    "line_start": 115,
+    "line_end": 120,
+    "source_anchor": "第二十一条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 民用航空油料供应企业适航批准书",
+    "line_start": 31,
+    "line_end": 120,
+    "source_anchor": "第二章"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 本章适用于批准书项目单的颁发、变更与管理。",
+    "line_start": 122,
+    "line_end": 122,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 批准书项目单是批准书的一部分。项目单包括准许批准",
+    "line_start": 123,
+    "line_end": 125,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 批准书项目单申请人应当按照局方规定的格式填写申请",
+    "line_start": 126,
+    "line_end": 135,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 局方按照本规定第八条、第九条、第十条的相关要求对",
+    "line_start": 136,
+    "line_end": 137,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 申请人应当向局方表明其申请的油料符合局方确定的审",
+    "line_start": 138,
+    "line_end": 139,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 局方对申请的油料进行审定,审定合格的,其油料牌号",
+    "line_start": 140,
+    "line_end": 141,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 批准书持有人,遇有下列情形之一时,应当向局方申请变",
+    "line_start": 142,
+    "line_end": 148,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 批准书项目单中全部项目失效后,批准书自动终止。",
+    "line_start": 149,
+    "line_end": 152,
+    "source_anchor": "第二十九条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 民用航空油料供应企业适航批准书项目单",
+    "line_start": 121,
+    "line_end": 152,
+    "source_anchor": "第三章"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 本章适用于民用航空油料检测单位的审定及管理。",
+    "line_start": 154,
+    "line_end": 154,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 在中华人民共和国境内,为民用航空油料储运、加注、",
+    "line_start": 155,
+    "line_end": 158,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 批准函项目单作为批准函的一部分与批准函同时颁发,",
+    "line_start": 159,
+    "line_end": 161,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 批准函申请人应当按照局方规定的格式填写民用航空油",
+    "line_start": 162,
+    "line_end": 168,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 局方按照本规定第八条、第九条、第十条的相关要求对",
+    "line_start": 169,
+    "line_end": 170,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 申请人在接到申请受理通知后,应按照局方的规定缴纳",
+    "line_start": 171,
+    "line_end": 174,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 申请人应具备合格的质量保证系统,其质量控制程序应",
+    "line_start": 175,
+    "line_end": 176,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 申请人应当提供质量保证手册,供局方审定并获得批准。",
+    "line_start": 177,
+    "line_end": 192,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 局方自受理之日起二十日内作出审查决定,二十日内不",
+    "line_start": 193,
+    "line_end": 201,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 局方审查认为,申请人不满足相关要求的,不予颁发批准",
+    "line_start": 202,
+    "line_end": 203,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 批准函持有人的义务:",
+    "line_start": 204,
+    "line_end": 215,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 除下列情况外,批准函两年期内一直有效:",
+    "line_start": 216,
+    "line_end": 223,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 失效的批准函应当交还局方,批准函持有人在批准函失",
+    "line_start": 224,
+    "line_end": 225,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 民用航空油料检测单位批准函不可转让。",
+    "line_start": 226,
+    "line_end": 226,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 批准函的持有人,遇有下列情况之一时,应当向局方申请",
+    "line_start": 227,
+    "line_end": 233,
+    "source_anchor": "第四十四条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 民用航空油料检测单位的审定和管理",
+    "line_start": 153,
+    "line_end": 233,
+    "source_anchor": "第四章"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 本章适用于民用航空油料试验委任单位代表的审定和管",
+    "line_start": 235,
+    "line_end": 236,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 局方依据《民用航空器适航委任代表和委任单位代表的",
+    "line_start": 237,
+    "line_end": 240,
+    "source_anchor": "第四十六条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 民用航空油料试验委任单位代表的审定和管理",
+    "line_start": 234,
+    "line_end": 240,
+    "source_anchor": "第五章"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 持证人应当建立质量监督和信息报告系统。",
+    "line_start": 242,
+    "line_end": 248,
+    "source_anchor": "第四十七条"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 对于存在质量问题的油料,批准书持有人除按其质量控",
+    "line_start": 249,
+    "line_end": 252,
+    "source_anchor": "第四十八条"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 当批准书持有人发现可能危及飞行安全的油料质量问题",
+    "line_start": 253,
+    "line_end": 255,
+    "source_anchor": "第四十九条"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 航空器营运人有责任监督民用航空油料的质量状况,当认",
+    "line_start": 256,
+    "line_end": 259,
+    "source_anchor": "第五十条"
+  },
+  "article:51": {
+    "node_id": "article:51",
+    "type": "article",
+    "title": "第五十一条 局方有权根据报告情况对有关问题进行调查处理。",
+    "line_start": 260,
+    "line_end": 260,
+    "source_anchor": "第五十一条"
+  },
+  "article:52": {
+    "node_id": "article:52",
+    "type": "article",
+    "title": "第五十二条 民用航空油料试验委任单位代表在局方批准的范围内,",
+    "line_start": 261,
+    "line_end": 269,
+    "source_anchor": "第五十二条"
+  },
+  "article:53": {
+    "node_id": "article:53",
+    "type": "article",
+    "title": "第五十三条 民用航空油料试验委任单位代表应按照局方批准的质量",
+    "line_start": 270,
+    "line_end": 273,
+    "source_anchor": "第五十三条"
+  },
+  "article:54": {
+    "node_id": "article:54",
+    "type": "article",
+    "title": "第五十四条 局方负责对批准书持有人、批准函持有人以及民用航空",
+    "line_start": 274,
+    "line_end": 276,
+    "source_anchor": "第五十四条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 报告、监督及调查处理",
+    "line_start": 241,
+    "line_end": 276,
+    "source_anchor": "第六章"
+  },
+  "article:55": {
+    "node_id": "article:55",
+    "type": "article",
+    "title": "第五十五条 批准书持有人或批准函持有人违反本规定,有下列情形",
+    "line_start": 278,
+    "line_end": 281,
+    "source_anchor": "第五十五条"
+  },
+  "article:56": {
+    "node_id": "article:56",
+    "type": "article",
+    "title": "第五十六条 批准书持有人或批准函持有人违反本规定,有下列情形",
+    "line_start": 282,
+    "line_end": 295,
+    "source_anchor": "第五十六条"
+  },
+  "article:57": {
+    "node_id": "article:57",
+    "type": "article",
+    "title": "第五十七条 批准书持有人或批准函持有人违反本规定,有下列情形",
+    "line_start": 296,
+    "line_end": 304,
+    "source_anchor": "第五十七条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 罚   则",
+    "line_start": 277,
+    "line_end": 304,
+    "source_anchor": "第七章"
+  },
+  "article:58": {
+    "node_id": "article:58",
+    "type": "article",
+    "title": "第五十八条 本规定自二00 五年十月一日起实施。",
+    "line_start": 306,
+    "line_end": 306,
+    "source_anchor": "第五十八条"
+  },
+  "chapter:8": {
+    "node_id": "chapter:8",
+    "type": "chapter",
+    "title": "第八章 附   则",
+    "line_start": 305,
+    "line_end": 306,
+    "source_anchor": "第八章"
+  }
+}

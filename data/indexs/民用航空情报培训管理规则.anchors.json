@@ -1,0 +1,434 @@
+{
+  "law:民用航空情报培训管理规则": {
+    "node_id": "law:民用航空情报培训管理规则",
+    "type": "law",
+    "title": "民用航空情报培训机构是指符合条件的担任基础培训的院校及其他民用航空情报培训机构。",
+    "line_start": 0,
+    "line_end": 298,
+    "source_anchor": "民用航空情报培训机构是指符合条件的担任基础培训的院校及其他民用航空情报培训机构。"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为规范民用航空情报人员培训工作,加强对民用航空情报培训工作的管理,根据《中华人民共和国民用航空法》,结合民用航空情报工作的实际情况,制定本规则。",
+    "line_start": 2,
+    "line_end": 3,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规则适用于从事民用航空情报工作以及民用航空情报培训工作的专业人员和机构。各民用航空情报服务机构和民用航空情报培训机构应当根据本规则,结合实际情况和需要,制定相应的培训、管理实施办法。",
+    "line_start": 4,
+    "line_end": 7,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 民用航空情报培训分为民用航空情报基础培训和民用航空情报岗位培训。",
+    "line_start": 8,
+    "line_end": 15,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 民用航空情报员执照申请人应当按照《民用航空情报员执照管理规则》的要求在申请前完成基础培训和岗位资格培训。",
+    "line_start": 16,
+    "line_end": 19,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 民航局负责全国民用航空情报培训工作的统一管理。民航地区管理局负责协调和监督管理本辖区民用航空情报培训工作。",
+    "line_start": 20,
+    "line_end": 21,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 民用航空情报培训机构负责基础培训工作的开展。",
+    "line_start": 22,
+    "line_end": 25,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 本规定中使用的部分术语含义见本规则附件一。",
+    "line_start": 26,
+    "line_end": 27,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 基础培训是为了使受训人了解掌握从事民用航空情报工作的基本知识和基本技能而进行的培训,是进入岗位培训和获得民用航空情报员执照的前提条件。",
+    "line_start": 30,
+    "line_end": 31,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 基础培训应当按照规定的培训大纲实施。",
+    "line_start": 32,
+    "line_end": 35,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 参加基础培训的受训人应当满足以下条件:",
+    "line_start": 36,
+    "line_end": 45,
+    "source_anchor": "第十条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 基础培训",
+    "line_start": 28,
+    "line_end": 45,
+    "source_anchor": "第二章"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 岗位资格培训是指为受训人掌握必需的业务知识和技能,取得在民用航空情报岗位独立工作的资格而进行的培训。",
+    "line_start": 48,
+    "line_end": 51,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 业务提高培训是对民用航空情报员提高业务知识和技能的培训。",
+    "line_start": 52,
+    "line_end": 55,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 新技术培训是指为掌握民用航空最新的科学技术、技术标准或者设备使用而进行的不定期培训。",
+    "line_start": 56,
+    "line_end": 57,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 岗位资格培训、业务提高培训和新技术培训完成后,应当通过相应的考核。",
+    "line_start": 58,
+    "line_end": 59,
+    "source_anchor": "第十四条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 岗位培训",
+    "line_start": 46,
+    "line_end": 59,
+    "source_anchor": "第三章"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 民用航空情报培训机构从事航空情报基础培训活动,应当符合下列条件:",
+    "line_start": 64,
+    "line_end": 79,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 从事基础培训的教员应当符合下列条件:",
+    "line_start": 80,
+    "line_end": 91,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 基础培训教员由民用航空情报培训机构统一聘任、管理。民用航空情报培训机构应当及时将教员聘任情况报民航局和所在地区管理局备案。",
+    "line_start": 92,
+    "line_end": 93,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 基础培训教员的职责如下:",
+    "line_start": 94,
+    "line_end": 105,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 基础培训教员的权利如下:",
+    "line_start": 106,
+    "line_end": 113,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 开展基础培训应当符合以下规定:",
+    "line_start": 114,
+    "line_end": 125,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 民用航空情报培训机构应当向完成培训并通过考试考核的受训人颁发民用航空情报基础培训合格证。",
+    "line_start": 126,
+    "line_end": 131,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 完成培训后,培训机构应当妥善保存基础培训记录。",
+    "line_start": 132,
+    "line_end": 135,
+    "source_anchor": "第二十二条"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 基础培训的组织与实施",
+    "line_start": 62,
+    "line_end": 135,
+    "source_anchor": "第一节"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 民用航空情报服务机构的岗位培训职责如下:",
+    "line_start": 138,
+    "line_end": 151,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 民用航空情报服务机构开展岗位培训应当具备以下条件:",
+    "line_start": 152,
+    "line_end": 163,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 岗位培训教员应当符合下列条件:",
+    "line_start": 164,
+    "line_end": 175,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 民用航空情报服务机构岗位培训教员由本单位聘任,报地区管理局备案。",
+    "line_start": 176,
+    "line_end": 179,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 岗位培训教员的职责如下:",
+    "line_start": 180,
+    "line_end": 189,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 岗位培训教员享有下列权利:",
+    "line_start": 190,
+    "line_end": 199,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 受训人在岗位培训期间未经教员允许,不得提供民用航空情报服务或操作各种设备。",
+    "line_start": 200,
+    "line_end": 203,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 开展岗位培训应当符合以下规定:",
+    "line_start": 204,
+    "line_end": 217,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 民用航空情报服务机构每年年底前应当将本单位的本年度培训完成情况和下一年度岗位培训计划报地区管理局。地区管理局每年1月份应当将本地区上一年度培训安排的总体情况上报民航局。",
+    "line_start": 218,
+    "line_end": 221,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 岗位培训应当在培训主管领导下按计划实施。",
+    "line_start": 222,
+    "line_end": 223,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 实施民用航空情报人员岗位培训,应当成立培训组。培训组应当为每一位受训人制定培训计划,培训计划应当包括培训的种类、内容、方式、时间、地点,受训人、培训机构、培训教员、培训主管、管理机构以及其他应当说明的事项。进行模拟操作和实际操作时,每名受训人应当有一名相应的岗位培训教员监督指导。",
+    "line_start": 224,
+    "line_end": 225,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 岗位培训结束后应当进行检查,检查工作由培训主管和培训教员共同实施。",
+    "line_start": 226,
+    "line_end": 229,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 岗位培训结束后,培训主管应当填写本规定附件三规定的《受训人岗位培训登记表》并存入民用航空情报人员技术档案。",
+    "line_start": 230,
+    "line_end": 231,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 完成培训后,受训人所在民用航空情报服务机构应当妥善保存每位受训人岗位培训记录。",
+    "line_start": 232,
+    "line_end": 235,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 民用航空情报服务机构应当为本单位民用航空情报人员在申请民用航空情报员执照或者执照注册时出具培训证明。",
+    "line_start": 236,
+    "line_end": 237,
+    "source_anchor": "第三十七条"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 岗位培训的组织与实施",
+    "line_start": 136,
+    "line_end": 237,
+    "source_anchor": "第二节"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 培训的组织与实施",
+    "line_start": 60,
+    "line_end": 237,
+    "source_anchor": "第四章"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 民航地区管理局对基础培训监督检查的内容包括:",
+    "line_start": 240,
+    "line_end": 253,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 民航地区管理局对岗位培训监督检查的内容包括:",
+    "line_start": 254,
+    "line_end": 265,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 民航地区管理局监督检查,可以采取现场检查、抽查培训记录和档案、要求书面报告、向受训人和教员征求意见等方式进行。",
+    "line_start": 266,
+    "line_end": 267,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 民航地区管理局通过检查发现民用航空情报培训机构有不满足第十五条规定条件的,地区管理局应当及时向民航局报告,民航局应当将其从已公布的培训机构目录中去除。",
+    "line_start": 268,
+    "line_end": 269,
+    "source_anchor": "第四十一条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 监督检查",
+    "line_start": 238,
+    "line_end": 269,
+    "source_anchor": "第五章"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 民用航空情报培训机构从事航空情报基础培训活动,未按第十五条规定进行备案的,由地区管理局责令停止培训,并对单位处以1万元以上3万元以下的罚款。",
+    "line_start": 272,
+    "line_end": 273,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 民用航空情报培训机构违反本规则规定有下列情形之一的,由民航地区管理局责令限期改正,并处以警告;情节严重或者逾期未整改的,责令停止培训,并对单位处以1万元以上3万元以下的罚款:",
+    "line_start": 274,
+    "line_end": 283,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 组织岗位培训的民用航空情报服务机构违反本规则规定有下列情形之一的,由民航地区管理局责令限期改正,并处以警告;情节严重或者逾期未整改的,对单位处以1万元以上3万元以下的罚款:",
+    "line_start": 284,
+    "line_end": 295,
+    "source_anchor": "第四十四条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 法律责任",
+    "line_start": 270,
+    "line_end": 295,
+    "source_anchor": "第六章"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 本规则自2017年1月1日起施行。2002年4月19日起施行的《民用航空航行情报人员岗位培训管理规定》(民航总局令第106号)同时废止。",
+    "line_start": 298,
+    "line_end": 298,
+    "source_anchor": "第四十五条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 附 则",
+    "line_start": 296,
+    "line_end": 298,
+    "source_anchor": "第七章"
+  }
+}

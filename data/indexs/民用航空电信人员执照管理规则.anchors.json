@@ -1,0 +1,506 @@
+{
+  "law:民用航空电信人员执照管理规则": {
+    "node_id": "law:民用航空电信人员执照管理规则",
+    "type": "law",
+    "title": "民用航空地区管理局(以下简称地区管理局)负责本辖区电信人员执照管理的具体工作。",
+    "line_start": 0,
+    "line_end": 125,
+    "source_anchor": "民用航空地区管理局(以下简称地区管理局)负责本辖区电信人员执照管理的具体工作。"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了规范民用航空电信人员执照的管理,根据《中华人民共和国行政许可法》和《国务院对确需保留的行政审批项目设定行政许可的决定》,制定本规则。",
+    "line_start": 1,
+    "line_end": 1,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规则适用于民用航空电信人员执照(以下简称电信人员执照)的申请、颁发、管理和监督。",
+    "line_start": 2,
+    "line_end": 2,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 民用航空电信人员(以下简称电信人员)实行执照管理制度,执照经注册方为有效执照。持有有效电信人员执照的,方可独立从事其执照载明的通信导航监视服务保障工作。",
+    "line_start": 3,
+    "line_end": 3,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 电信人员执照由中国民用航空局(以下简称民航局)统一颁发和管理。",
+    "line_start": 4,
+    "line_end": 6,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 电信人员执照分为通信专业、导航专业和监视专业等三类。各专业所对应的岗位参见附件一。",
+    "line_start": 7,
+    "line_end": 9,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 本规则中所用部分术语的含义如下:",
+    "line_start": 10,
+    "line_end": 16,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 执照申请人在提出申请前应当完成规定的培训,获得必要的申请经历,通过理论考试和技能考核,并取得相应的证明文件。",
+    "line_start": 18,
+    "line_end": 18,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 执照申请人和执照签注申请人的理论考试由其工作单位所在地的地区管理局组织。",
+    "line_start": 19,
+    "line_end": 19,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 理论考试的内容应当符合本规则对申请人应当具备知识的要求。",
+    "line_start": 20,
+    "line_end": 20,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 理论考试可以通过笔试或者计算机考试来实现。",
+    "line_start": 21,
+    "line_end": 22,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 理论考试合格证由地区管理局颁发并注明考试的专业类别。理论考试合格证有效期为3年。",
+    "line_start": 23,
+    "line_end": 23,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 执照申请人和执照签注申请人的技能考核由其工作单位所在地的地区管理局组织,并安排检查员进行考核。",
+    "line_start": 24,
+    "line_end": 24,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 技能考核针对申请人申请的专业类别和岗位进行。技能考核的内容应当符合本规则对申请人应当具备技能的要求。",
+    "line_start": 25,
+    "line_end": 25,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 技能考核应当通过在实际运行环境中或者模拟环境中演示操作的方式进行。",
+    "line_start": 26,
+    "line_end": 28,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 技能考核合格证由地区管理局签发。技能考核合格证应注明考核的专业类别和岗位。技能考核合格证有效期为2年。",
+    "line_start": 29,
+    "line_end": 29,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 电信人员执照申请人应当具备下列条件:",
+    "line_start": 30,
+    "line_end": 35,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 符合本规则第十六条规定条件的申请人应当按照所申请的执照类别及岗位,向地区管理局提交规定的下列申请材料:",
+    "line_start": 36,
+    "line_end": 44,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 对于申请材料不齐全或者不符合格式要求的,地区管理局应当在收到申请之后的5个工作日内一次性通知申请人需要补正的全部内容。逾期不通知视为在收到申请材料之日起受理。",
+    "line_start": 45,
+    "line_end": 45,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 地区管理局应当对申请人是否具备条件进行初步审查,并将申请材料及初步审查意见于受理之日起20个工作日内报送民航局。",
+    "line_start": 46,
+    "line_end": 46,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 民航局自收到地区管理局报送的执照申请材料及初步审查意见后20个工作日内,对申请材料进行审核并做出决定。符合条件的,应当予以批准,并自批准之日起10个工作日内颁发执照;不符合条件的,应当不予批准,并通知地区管理局和申请人,同时说明不予批准的原因。",
+    "line_start": 47,
+    "line_end": 47,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 电信人员执照由民航局局长或者其授权人员签署颁发。",
+    "line_start": 48,
+    "line_end": 48,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 持照人可以在现有执照的基础上申请增加或者变更专业类别签注和岗位签注。",
+    "line_start": 49,
+    "line_end": 49,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 持照人申请变更或增加执照专业类别签注的,申请条件、材料和程序按照本规则规定的执照申请条件、材料和程序办理。",
+    "line_start": 50,
+    "line_end": 50,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 持照人申请变更或增加执照岗位签注,不涉及执照专业类别发生变化的,应当向地区管理局提出申请,申请条件应当符合本规则第十六条(一)、(三)、(四)、(五)项要求,提交第十七条规定的除理论考试合格证之外的材料,并填写本规则附件三规定的《民用航空电信人员岗位签注申请表》。",
+    "line_start": 51,
+    "line_end": 52,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 电信人员执照基本信息(范围见附件二第I 项)的变更,由持照人向地区管理局提出申请并提交相关证明材料。对于需要在执照上体现的信息,由地区管理局审核后报民航局换发执照。",
+    "line_start": 53,
+    "line_end": 53,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 电信人员执照遗失或者损坏后,持照人应当向地区管理局以书面形式申请补发,由地区管理局审核后报民航局补发执照。",
+    "line_start": 54,
+    "line_end": 54,
+    "source_anchor": "第二十六条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 执照申请与颁发程序",
+    "line_start": 17,
+    "line_end": 54,
+    "source_anchor": "第二章"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 申请人应当具备与民用航空通信导航监视服务保障工作相关的下列知识:",
+    "line_start": 56,
+    "line_end": 64,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 申请人应当具备与民用航空通信导航监视服务保障工作相关的下列技能:",
+    "line_start": 65,
+    "line_end": 73,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 申请人应当符合下列申请经历要求:",
+    "line_start": 74,
+    "line_end": 77,
+    "source_anchor": "第二十九条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 申请人应当具备的知识、技能和经历",
+    "line_start": 55,
+    "line_end": 77,
+    "source_anchor": "第三章"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 已获得执照的电信人员应当满足下列近期经历要求:",
+    "line_start": 79,
+    "line_end": 82,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 持照人有下列情形之一的,不得从事通信导航监视服务保障岗位工作:",
+    "line_start": 83,
+    "line_end": 85,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 持照人所在单位应当为航空电信人员建立规范统一的人员技术档案,完整、如实地记录持照人岗位培训、理论考试、技能考核、执照检查、岗位工作等技术经历。",
+    "line_start": 86,
+    "line_end": 86,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 持照人从事执照载明的岗位工作时,应当随身携带执照或将执照保存在所在岗位,便于接受执照检查。",
+    "line_start": 87,
+    "line_end": 87,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 电信人员工作单位跨地区变更时,应当到变更后工作单位所在地的地区管理局重新注册。地区管理局办理相关的执照管理档案转移,并报民航局备案。重新注册后,执照仍适用原注册有效期。",
+    "line_start": 88,
+    "line_end": 88,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 变更、增加专业类别签注或岗位签注的申请获得批准的,持照人应当在20个工作日内将执照送回地区管理局,由地区管理局在执照上变更或者增加相应签注。",
+    "line_start": 89,
+    "line_end": 89,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 持照人所在单位每年应当对其进行培训和考核,做出是否掌握工作岗位所需知识和技能的结论,并将培训、考核情况记入人员技术档案。",
+    "line_start": 90,
+    "line_end": 90,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 电信人员应当在其工作单位所在地地区管理局进行执照注册,注册的有效期为3年。颁发执照时,地区管理局应当进行首次注册。",
+    "line_start": 91,
+    "line_end": 92,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 持照人符合以下条件的应当予以注册:",
+    "line_start": 93,
+    "line_end": 96,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 持照人应在执照注册有效期满前3个月内向地区管理局提交执照注册申请,并将持照人所在单位出具的岗位培训和近期经历证明、所在单位的知识考试和技能考核情况等注册材料提交地区管理局。",
+    "line_start": 97,
+    "line_end": 97,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 地区管理局对持照人执照注册材料进行审核,对于符合执照注册条件的,地区管理局应在执照注册有效期满前予以注册。",
+    "line_start": 98,
+    "line_end": 99,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 逾期未注册的持照人申请重新注册时,由管理局对其进行电信人员执照注册检查,对于符合条件的,予以重新注册。",
+    "line_start": 100,
+    "line_end": 100,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 本规则第四十条和第四十一条中的电信人员执照注册检查中技能考核由检查员具体实施。",
+    "line_start": 101,
+    "line_end": 101,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 地区管理局应当将执照注册的情况上报民航局备案。",
+    "line_start": 102,
+    "line_end": 102,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 在执照注册有效期内,持照人连续6个月以上未在签注的岗位工作的,返回该岗位前应当完成1个月以上的由持照人单位组织的岗位熟练培训。",
+    "line_start": 103,
+    "line_end": 103,
+    "source_anchor": "第四十四条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 执照管理",
+    "line_start": 78,
+    "line_end": 103,
+    "source_anchor": "第四章"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 从事执照管理工作的单位及其工作人员有下列情形之一的,对直接负责的主管人员和其他直接责任人员依法给予行政处分:",
+    "line_start": 105,
+    "line_end": 109,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 从事电信人员技能考核的检查员违反本规则规定不正确履行职责,情节严重的,由民航局取消其检查员资格。",
+    "line_start": 110,
+    "line_end": 110,
+    "source_anchor": "第四十六条"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 执照申请人以欺骗、贿赂等不正当手段取得执照的,由民航局撤销其执照,3年内不得再次申请。同时,由地区管理局对当事人处以警告或者500元以上1000元以下罚款。",
+    "line_start": 111,
+    "line_end": 111,
+    "source_anchor": "第四十七条"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 违反本规则规定,未取得电信人员执照而独立从事通信导航监视服务保障工作的,由地区管理局对当事人处以500元以上1000元以下罚款;情节严重的,2年内不得提出电信人员执照申请。",
+    "line_start": 112,
+    "line_end": 112,
+    "source_anchor": "第四十八条"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 违反本规则规定,持照人执照未经有效注册或者不具备相应签注而独立从事通信导航监视服务保障工作的,由地区管理局责令限期改正,并对当事人处以警告;情节严重的,处以200元以上1000元以下罚款或者暂停其执照权利3个月至6个月。",
+    "line_start": 113,
+    "line_end": 113,
+    "source_anchor": "第四十九条"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 通信导航监视服务保障单位违反本规则规定,安排未取得电信人员执照的人员独立从事通信导航监视服务保障工作的,由地区管理局责令改正,并处以1万元以上3万元以下罚款。",
+    "line_start": 114,
+    "line_end": 114,
+    "source_anchor": "第五十条"
+  },
+  "article:51": {
+    "node_id": "article:51",
+    "type": "article",
+    "title": "第五十一条 通信导航监视服务保障单位违反本规则规定,安排执照未经有效注册或者不具备相应签注的持照人独立从事通信导航监视服务保障工作的,由地区管理局责令改正,并且对通信导航监视服务保障单位处以警告;情节严重的,处以5000元以上1万元以下罚款。",
+    "line_start": 115,
+    "line_end": 115,
+    "source_anchor": "第五十一条"
+  },
+  "article:52": {
+    "node_id": "article:52",
+    "type": "article",
+    "title": "第五十二条 通信导航监视服务保障单位未按本规则规定管理持照人技术档案的,由地区管理局责令限期改正,情节严重的,对通信导航监视服务保障单位处以警告。",
+    "line_start": 116,
+    "line_end": 116,
+    "source_anchor": "第五十二条"
+  },
+  "article:53": {
+    "node_id": "article:53",
+    "type": "article",
+    "title": "第五十三条 持照人违反本规则第三十一条规定从事通信导航监视服务保障岗位工作的,由地区管理局责令改正,对持照人给予警告或者200元以上1000元以下罚款;情节严重的,暂停其执照权利3个月至6个月。",
+    "line_start": 117,
+    "line_end": 117,
+    "source_anchor": "第五十三条"
+  },
+  "article:54": {
+    "node_id": "article:54",
+    "type": "article",
+    "title": "第五十四条 持照人违反民用航空法律、法规、规章,未按规定履行职责,对事故征候、严重事故征候或者事故负有直接责任的,地区管理局应当取消其现行有效的注册,在3个月至1年内不予注册,并对违法当事人处以1000元以下罚款;造成严重后果的,应当取消现行有效的注册并不再予以注册。",
+    "line_start": 118,
+    "line_end": 118,
+    "source_anchor": "第五十四条"
+  },
+  "article:55": {
+    "node_id": "article:55",
+    "type": "article",
+    "title": "第五十五条 持照人与发生的安全生产责任事故有直接关系的,在事故调查期间,地区管理局可以暂停其执照权利。",
+    "line_start": 119,
+    "line_end": 119,
+    "source_anchor": "第五十五条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 法律责任",
+    "line_start": 104,
+    "line_end": 119,
+    "source_anchor": "第五章"
+  },
+  "article:56": {
+    "node_id": "article:56",
+    "type": "article",
+    "title": "第五十六条 本规则自2016年4月17日起施行。2006年12月31日发布,2007年5月1日起施行的《民用航空电信人员执照管理规则》(中国民航总局令第175号,CCAR-65TM-I-R2)同时废止。",
+    "line_start": 121,
+    "line_end": 121,
+    "source_anchor": "第五十六条"
+  },
+  "article:57": {
+    "node_id": "article:57",
+    "type": "article",
+    "title": "第五十七条 在本规则施行前按照《民用航空电信人员执照管理规则》(中国民航总局令第175号,CCAR-65TM-I-R2)获得的执照继续有效,其注册、换证和其他管理事项自本规则施行之日起按照本规则执行。",
+    "line_start": 122,
+    "line_end": 125,
+    "source_anchor": "第五十七条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 附 则",
+    "line_start": 120,
+    "line_end": 125,
+    "source_anchor": "第六章"
+  }
+}

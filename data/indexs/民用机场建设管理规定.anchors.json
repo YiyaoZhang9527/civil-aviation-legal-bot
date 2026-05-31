@@ -1,0 +1,970 @@
+{
+  "law:民用机场建设管理规定": {
+    "node_id": "law:民用机场建设管理规定",
+    "type": "law",
+    "title": "交通运输部决定对《民用机场建设管理规定》(交通运输部令2016年第47号)作如下修改:",
+    "line_start": 0,
+    "line_end": 634,
+    "source_anchor": "交通运输部决定对《民用机场建设管理规定》(交通运输部令2016年第47号)作如下修改:"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为加强运输机场建设监督管理,规范建设程序,保证工程质量和机场运行安全,维护建设市场秩序,根据《中华人民共和国民用航空法》《民用机场管理条例》《国务院对确需保留的行政审批项目设定行政许可的决定》等法律、法规,制定本规定。",
+    "line_start": 24,
+    "line_end": 25,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规定适用于运输机场(包括军民合用运输机场民用部分)及相关空管工程的规划与建设。",
+    "line_start": 26,
+    "line_end": 27,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 中国民用航空局(以下简称民航局)负责全国运输机场及相关空管工程规划与建设的监督管理,民航地区管理局负责所辖地区运输机场及相关空管工程规划与建设的监督管理。",
+    "line_start": 28,
+    "line_end": 29,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 运输机场的规划与建设应当符合全国民用机场布局规划。运输机场及相关空管工程的建设应当执行国家和行业有关建设法规和技术标准,履行建设程序。",
+    "line_start": 30,
+    "line_end": 35,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 运输机场工程按照机场飞行区指标划分为A类和B类。",
+    "line_start": 36,
+    "line_end": 41,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 运输机场专业工程是指用于保障民用航空器运行的、与飞行安全直接相关的运输机场建设工程以及相关空管工程,其目录由国务院民用航空主管部门会同国务院建设主管部门制定并公布。",
+    "line_start": 42,
+    "line_end": 43,
+    "source_anchor": "第六条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总则",
+    "line_start": 22,
+    "line_end": 43,
+    "source_anchor": "第一章"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 运输机场选址报告应当由具有相应资质的单位编制。选址报告应当符合《民用机场选址报告编制内容及深度要求》。",
+    "line_start": 46,
+    "line_end": 47,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 运输机场场址应当符合下列基本条件:",
+    "line_start": 48,
+    "line_end": 59,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 运输机场选址报告应当按照运输机场场址的基本条件提出两个或三个预选场址,并从中推荐一个场址。",
+    "line_start": 60,
+    "line_end": 61,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 违反本规定第二十二条,任何单位在运输机场内进行不符合运输机场总体规划的建设活动的,由民航管理部门责令其改正,处以10万元以上50万元以下的罚款。",
+    "line_start": 610,
+    "line_end": 611,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 违反本规定第三十四条,运输机场专业工程初步设计未按照本规定要求经过批准,就擅自组织实施的,由民航管理部门责令其改正,并处以10万元以上50万元以下的罚款。",
+    "line_start": 612,
+    "line_end": 617,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 违反本规定第四十四条、第四十五条、第八十六条、第八十七条,项目法人将运输机场工程或空管工程的施工和监理发包给不具有相应资质等级的单位承担的,由民航管理部门责令其改正,并处以1万元以上3万元以下的罚款。",
+    "line_start": 618,
+    "line_end": 619,
+    "source_anchor": "第十二条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 运输机场选址",
+    "line_start": 44,
+    "line_end": 77,
+    "source_anchor": "第二章"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 违反本规定第四十七条,在运输机场开放使用的情况下,未经批准在飞行区及与飞行区临近的航站区内进行施工的,由民航管理部门责令其改正,并处以10万元以上50万元以下的罚款。",
+    "line_start": 620,
+    "line_end": 621,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 违反本规定第五十九条,运输机场专业工程未经行业验收合格投入使用的,由民航管理部门责令其改正,并处以10万元以上50万元以下的罚款。",
+    "line_start": 622,
+    "line_end": 623,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 违反本规定第六十一条、第六十二条、第六十三条、第一百零三条、第一百零四条、第一百零五条,项目法人未履行建设项目信息管理义务的,由民航管理部门责令其改正,并处以警告;情节严重的,处以1万元以上3万元以下的罚款。",
+    "line_start": 624,
+    "line_end": 625,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 违反本规定第九十三条,空管工程未经民航管理部门验收即投入使用的,由民航管理部门责令其改正,处以1万元以上3万元以下的罚款。",
+    "line_start": 626,
+    "line_end": 627,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 民航管理部门工作人员在运输机场建设管理工作中滥用职权、玩忽职守、徇私舞弊的,由有关行政主管部门给予行政处分;构成犯罪的,依法追究刑事责任。",
+    "line_start": 628,
+    "line_end": 629,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 本规定对运输机场和空管工程建设未作出明确要求的,均按国家有关建设管理规定执行。",
+    "line_start": 632,
+    "line_end": 633,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 本规定自2016年5月22日起施行。2004年颁布的《民用机场建设管理规定》(民航总局令第129号)同时废止。",
+    "line_start": 634,
+    "line_end": 634,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 民航地区管理局负责所辖地区运输机场总体规划的监督管理。",
+    "line_start": 128,
+    "line_end": 129,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 运输机场建设项目法人(或机场管理机构)应当依据批准的机场总体规划组织编制机场近期建设详细规划,并报送所在地民航地区管理局备案。",
+    "line_start": 130,
+    "line_end": 131,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 运输机场内的建设项目应当符合运输机场总体规划。任何单位和个人不得在运输机场内擅自新建、改建、扩建建筑物或者构筑物。",
+    "line_start": 132,
+    "line_end": 135,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 运输机场范围内的建设项目,包括建设位置、高度等内容的建设方案应在预可行性研究报告报批前报民航地区管理局备案。",
+    "line_start": 136,
+    "line_end": 147,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 运输机场建设项目法人(或机场管理机构)应当对机场总体规划的实施情况进行经常性复核,根据机场的实际发展状况,适时组织修编机场总体规划。",
+    "line_start": 148,
+    "line_end": 151,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 运输机场所在地有关地方人民政府应当将运输机场总体规划纳入城乡规划,并根据运输机场的运营发展需要,对运输机场周边地区的土地利用和建设实行规划控制。",
+    "line_start": 152,
+    "line_end": 153,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 运输机场所在地有关地方人民政府在制定机场周边地区土地利用总体规划和城乡规划时,应当充分考虑航空器噪声对机场周边地区的影响,符合国家有关声环境质量标准。",
+    "line_start": 154,
+    "line_end": 155,
+    "source_anchor": "第二十六条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 运输机场总体规划",
+    "line_start": 78,
+    "line_end": 155,
+    "source_anchor": "第三章"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 运输机场工程初步设计应当由运输机场建设项目法人委托具有相应资质的单位编制。",
+    "line_start": 158,
+    "line_end": 159,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 运输机场工程初步设计应当符合以下基本要求:",
+    "line_start": 160,
+    "line_end": 169,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 中央政府直接投资、资本金注入或以资金补助方式投资的运输机场工程,其初步设计概算不得超出批准的可行性研究报告总投资。",
+    "line_start": 170,
+    "line_end": 173,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 中央政府直接投资、资本金注入或以资金补助方式投资的运输机场工程初步设计审批应当履行以下程序:",
+    "line_start": 174,
+    "line_end": 183,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 对于非中央政府直接投资、资本金注入或以资金补助方式投资的运输机场工程,如含有运输机场专业工程项目,其初步设计亦应当履行本规定第三十条规定的程序,由民航管理部门对运输机场专业工程初步设计出具行业意见。",
+    "line_start": 184,
+    "line_end": 185,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 运输机场工程的初步设计原则上一次报审,对于新建机场工程的初步设计可视情分两次报审。",
+    "line_start": 186,
+    "line_end": 187,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 运输机场建设项目法人报审运输机场工程初步设计时应当提交以下材料:",
+    "line_start": 188,
+    "line_end": 199,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 运输机场工程初步设计未按照本规定第三十条、第三十一条经过批准或者取得行业审查意见的,不得实施。",
+    "line_start": 200,
+    "line_end": 201,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 运输机场工程初步设计一经批准,应严格遵照执行,未经批准不得擅自修改、变更。",
+    "line_start": 202,
+    "line_end": 205,
+    "source_anchor": "第三十五条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 运输机场工程初步设计",
+    "line_start": 156,
+    "line_end": 205,
+    "source_anchor": "第四章"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 运输机场工程施工图设计应当由运输机场建设项目法人委托具有相应资质的单位编制。",
+    "line_start": 208,
+    "line_end": 209,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 运输机场工程施工图设计应当符合以下基本要求:",
+    "line_start": 210,
+    "line_end": 215,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 下列运输机场工程应由运输机场建设项目法人按照国家有关规定委托具有相应资质的单位进行施工图审查,并将审查报告报工程质量监督机构备案:",
+    "line_start": 216,
+    "line_end": 225,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 运输机场工程施工图设计的审查内容主要包括:",
+    "line_start": 226,
+    "line_end": 237,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 施工图设计审查报告应当包括以下内容:",
+    "line_start": 238,
+    "line_end": 251,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 其他运输机场工程施工图设计审查应当按国家有关规定执行。",
+    "line_start": 252,
+    "line_end": 253,
+    "source_anchor": "第四十一条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 运输机场工程施工图设计",
+    "line_start": 206,
+    "line_end": 253,
+    "source_anchor": "第五章"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 运输机场工程的建设实施应当执行国家规定的市场准入、招标投标、监理、质量监督等制度。",
+    "line_start": 256,
+    "line_end": 257,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 运输机场工程的招标活动按照国家有关法律、法规执行。",
+    "line_start": 258,
+    "line_end": 259,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 承担运输机场工程建设的施工单位应当具有相应的资质等级。",
+    "line_start": 260,
+    "line_end": 261,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 运输机场工程的监理单位应当具有相应的资质等级。",
+    "line_start": 262,
+    "line_end": 263,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 民航专业工程质量监督机构负责运输机场专业工程项目的质量监督工作。",
+    "line_start": 264,
+    "line_end": 267,
+    "source_anchor": "第四十六条"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 在机场内进行不停航施工,由机场管理机构负责统一向机场所在地民航地区管理局报批,未经批准不得在机场内进行不停航施工。",
+    "line_start": 268,
+    "line_end": 269,
+    "source_anchor": "第四十七条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 运输机场建设实施",
+    "line_start": 254,
+    "line_end": 269,
+    "source_anchor": "第六章"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 运输机场工程竣工后,运输机场建设项目法人应当组织勘察、设计、施工、监理等有关单位进行竣工验收。",
+    "line_start": 272,
+    "line_end": 275,
+    "source_anchor": "第四十八条"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 运输机场工程竣工验收应当具备下列条件:",
+    "line_start": 276,
+    "line_end": 287,
+    "source_anchor": "第四十九条"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 对于规定要求需进行飞行校验的通信、导航、监视、助航等设施设备,运输机场建设项目法人必须按有关规定办理飞行校验手续,并取得飞行校验结果报告。",
+    "line_start": 288,
+    "line_end": 289,
+    "source_anchor": "第五十条"
+  },
+  "article:51": {
+    "node_id": "article:51",
+    "type": "article",
+    "title": "第五十一条 对于规定要求需进行试飞的新建运输机场工程或飞行程序有重大变更的改建、扩建运输机场工程,在竣工验收和飞行校验合格后,运输机场建设项目法人必须按有关规定办理试飞手续,并取得试飞总结报告。",
+    "line_start": 290,
+    "line_end": 291,
+    "source_anchor": "第五十一条"
+  },
+  "article:52": {
+    "node_id": "article:52",
+    "type": "article",
+    "title": "第五十二条 运输机场专业工程应当履行行业验收程序。",
+    "line_start": 292,
+    "line_end": 293,
+    "source_anchor": "第五十二条"
+  },
+  "article:53": {
+    "node_id": "article:53",
+    "type": "article",
+    "title": "第五十三条 运输机场专业工程行业验收应当具备下列条件:",
+    "line_start": 294,
+    "line_end": 309,
+    "source_anchor": "第五十三条"
+  },
+  "article:54": {
+    "node_id": "article:54",
+    "type": "article",
+    "title": "第五十四条 运输机场建设项目法人在申请运输机场专业工程行业验收时,应当报送以下材料:",
+    "line_start": 310,
+    "line_end": 337,
+    "source_anchor": "第五十四条"
+  },
+  "article:55": {
+    "node_id": "article:55",
+    "type": "article",
+    "title": "第五十五条 运输机场专业工程行业验收应当履行以下程序:",
+    "line_start": 338,
+    "line_end": 343,
+    "source_anchor": "第五十五条"
+  },
+  "article:56": {
+    "node_id": "article:56",
+    "type": "article",
+    "title": "第五十六条 运输机场专业工程行业验收的内容包括:",
+    "line_start": 344,
+    "line_end": 359,
+    "source_anchor": "第五十六条"
+  },
+  "article:57": {
+    "node_id": "article:57",
+    "type": "article",
+    "title": "第五十七条 非运输机场专业工程应当按国家有关规定履行验收程序。",
+    "line_start": 360,
+    "line_end": 361,
+    "source_anchor": "第五十七条"
+  },
+  "article:58": {
+    "node_id": "article:58",
+    "type": "article",
+    "title": "第五十八条 运输机场建设项目法人应当按国家、民航及地方人民政府有关规定及时移交运输机场工程档案资料。",
+    "line_start": 362,
+    "line_end": 363,
+    "source_anchor": "第五十八条"
+  },
+  "article:59": {
+    "node_id": "article:59",
+    "type": "article",
+    "title": "第五十九条 未经行业验收合格的运输机场专业工程,不得投入使用。",
+    "line_start": 364,
+    "line_end": 365,
+    "source_anchor": "第五十九条"
+  },
+  "article:60": {
+    "node_id": "article:60",
+    "type": "article",
+    "title": "第六十条 运输机场建设项目法人应当在运输机场工程竣工后三个月内完成竣工财务决算的编制工作,并按有关规定及时上报。",
+    "line_start": 366,
+    "line_end": 367,
+    "source_anchor": "第六十条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 运输机场工程验收",
+    "line_start": 270,
+    "line_end": 367,
+    "source_anchor": "第七章"
+  },
+  "article:61": {
+    "node_id": "article:61",
+    "type": "article",
+    "title": "第六十一条 运输机场工程实行工程建设信息报告制度。新建运输机场工程建设信息报告期为自出具场址审查意见之日起,至投入使用止;改建、扩建运输机场工程建设信息报告期为自批准立项之日起,至投入使用止。",
+    "line_start": 370,
+    "line_end": 371,
+    "source_anchor": "第六十一条"
+  },
+  "article:62": {
+    "node_id": "article:62",
+    "type": "article",
+    "title": "第六十二条 运输机场建设项目法人应当指定项目信息员对其实施工程的建设信息及时进行收集、统计和整理,形成电子文本。电子文本通过中国民用航空安全信息网民航建设项目管理系统,按照本规定第六十一条、第六十三条规定的时间报所在地民航地区管理局。",
+    "line_start": 372,
+    "line_end": 373,
+    "source_anchor": "第六十二条"
+  },
+  "article:63": {
+    "node_id": "article:63",
+    "type": "article",
+    "title": "第六十三条 运输机场工程建设信息在开工建设前每季度报告一次,开工建设后每月报告一次。报告日期为次月的5日之前。",
+    "line_start": 374,
+    "line_end": 375,
+    "source_anchor": "第六十三条"
+  },
+  "article:64": {
+    "node_id": "article:64",
+    "type": "article",
+    "title": "第六十四条 民航地区管理局负责审核本地区的运输机场工程建设信息,并将审核后的工程建设信息电子文本通过中国民用航空安全信息网民航建设项目管理系统,于每月10日前报民航局。",
+    "line_start": 376,
+    "line_end": 377,
+    "source_anchor": "第六十四条"
+  },
+  "article:65": {
+    "node_id": "article:65",
+    "type": "article",
+    "title": "第六十五条 运输机场工程建设信息应当包括以下内容:",
+    "line_start": 378,
+    "line_end": 387,
+    "source_anchor": "第六十五条"
+  },
+  "article:66": {
+    "node_id": "article:66",
+    "type": "article",
+    "title": "第六十六条 当发生工程质量事故和安全事故时,运输机场建设项目法人必须按国家有关规定及时上报。",
+    "line_start": 388,
+    "line_end": 389,
+    "source_anchor": "第六十六条"
+  },
+  "chapter:8": {
+    "node_id": "chapter:8",
+    "type": "chapter",
+    "title": "第八章 运输机场工程建设信息",
+    "line_start": 368,
+    "line_end": 389,
+    "source_anchor": "第八章"
+  },
+  "article:67": {
+    "node_id": "article:67",
+    "type": "article",
+    "title": "第六十七条 本章的规定适用于项目法人为民航局空管局、地区空管局或者空管分局(站)的空管建设工程。",
+    "line_start": 392,
+    "line_end": 393,
+    "source_anchor": "第六十七条"
+  },
+  "article:68": {
+    "node_id": "article:68",
+    "type": "article",
+    "title": "第六十八条 空管工程预可行性研究、可行性研究应当按照国家及民航局的有关规定执行。",
+    "line_start": 394,
+    "line_end": 395,
+    "source_anchor": "第六十八条"
+  },
+  "article:69": {
+    "node_id": "article:69",
+    "type": "article",
+    "title": "第六十九条 空管工程初步设计应当由项目法人委托具有相应资质的单位编制。",
+    "line_start": 396,
+    "line_end": 397,
+    "source_anchor": "第六十九条"
+  },
+  "article:70": {
+    "node_id": "article:70",
+    "type": "article",
+    "title": "第七十条 空管工程初步设计应当符合以下基本要求:",
+    "line_start": 398,
+    "line_end": 403,
+    "source_anchor": "第七十条"
+  },
+  "article:71": {
+    "node_id": "article:71",
+    "type": "article",
+    "title": "第七十一条 空管工程在相应的通信、导航、监视、气象等的台(站)址得到批复后方可报审初步设计。",
+    "line_start": 404,
+    "line_end": 405,
+    "source_anchor": "第七十一条"
+  },
+  "article:72": {
+    "node_id": "article:72",
+    "type": "article",
+    "title": "第七十二条 空管工程初步设计概算不得超出批准的可行性研究报告中的总投资。",
+    "line_start": 406,
+    "line_end": 409,
+    "source_anchor": "第七十二条"
+  },
+  "article:73": {
+    "node_id": "article:73",
+    "type": "article",
+    "title": "第七十三条 空管工程的初步设计应当按照有关法律、行政法规的规定进行审批。",
+    "line_start": 410,
+    "line_end": 411,
+    "source_anchor": "第七十三条"
+  },
+  "article:74": {
+    "node_id": "article:74",
+    "type": "article",
+    "title": "第七十四条 空管工程初步设计的审批工作,按照民航局和民航地区管理局的有关规定执行。",
+    "line_start": 412,
+    "line_end": 413,
+    "source_anchor": "第七十四条"
+  },
+  "article:75": {
+    "node_id": "article:75",
+    "type": "article",
+    "title": "第七十五条 项目法人报批空管工程初步设计时应当报送以下资料:",
+    "line_start": 414,
+    "line_end": 425,
+    "source_anchor": "第七十五条"
+  },
+  "article:76": {
+    "node_id": "article:76",
+    "type": "article",
+    "title": "第七十六条 空管工程初步设计审批应当履行以下程序:",
+    "line_start": 426,
+    "line_end": 435,
+    "source_anchor": "第七十六条"
+  },
+  "article:77": {
+    "node_id": "article:77",
+    "type": "article",
+    "title": "第七十七条 空管工程初步设计未经批准的,不得实施。",
+    "line_start": 436,
+    "line_end": 437,
+    "source_anchor": "第七十七条"
+  },
+  "article:78": {
+    "node_id": "article:78",
+    "type": "article",
+    "title": "第七十八条 空管工程初步设计一经批准,应严格遵照执行,不得擅自修改、变更。",
+    "line_start": 438,
+    "line_end": 441,
+    "source_anchor": "第七十八条"
+  },
+  "article:79": {
+    "node_id": "article:79",
+    "type": "article",
+    "title": "第七十九条 空管工程施工图设计应当由项目法人委托具有相应资质的单位编制。",
+    "line_start": 442,
+    "line_end": 443,
+    "source_anchor": "第七十九条"
+  },
+  "article:80": {
+    "node_id": "article:80",
+    "type": "article",
+    "title": "第八十条 空管工程施工图设计应当符合以下基本要求:",
+    "line_start": 444,
+    "line_end": 449,
+    "source_anchor": "第八十条"
+  },
+  "article:81": {
+    "node_id": "article:81",
+    "type": "article",
+    "title": "第八十一条 空管工程中的土建部分应由项目法人按照国家有关规定委托具有相应资质的单位进行施工图审查,并将审查报告报工程质量监督机构备案。",
+    "line_start": 450,
+    "line_end": 453,
+    "source_anchor": "第八十一条"
+  },
+  "article:82": {
+    "node_id": "article:82",
+    "type": "article",
+    "title": "第八十二条 空管工程施工图设计的审查内容主要包括:",
+    "line_start": 454,
+    "line_end": 463,
+    "source_anchor": "第八十二条"
+  },
+  "article:83": {
+    "node_id": "article:83",
+    "type": "article",
+    "title": "第八十三条 审查报告应当包括以下内容:",
+    "line_start": 464,
+    "line_end": 477,
+    "source_anchor": "第八十三条"
+  },
+  "article:84": {
+    "node_id": "article:84",
+    "type": "article",
+    "title": "第八十四条 空管工程的建设实施应当执行国家规定的市场准入、招标投标、监理、质量监督等制度。",
+    "line_start": 478,
+    "line_end": 479,
+    "source_anchor": "第八十四条"
+  },
+  "article:85": {
+    "node_id": "article:85",
+    "type": "article",
+    "title": "第八十五条 空管工程的招标活动按照国家有关法律、法规执行。",
+    "line_start": 480,
+    "line_end": 481,
+    "source_anchor": "第八十五条"
+  },
+  "article:86": {
+    "node_id": "article:86",
+    "type": "article",
+    "title": "第八十六条 承担空管工程建设的施工单位应当具有相应的资质等级。",
+    "line_start": 482,
+    "line_end": 483,
+    "source_anchor": "第八十六条"
+  },
+  "article:87": {
+    "node_id": "article:87",
+    "type": "article",
+    "title": "第八十七条 空管工程的监理单位应当具有相应的资质等级。",
+    "line_start": 484,
+    "line_end": 485,
+    "source_anchor": "第八十七条"
+  },
+  "article:88": {
+    "node_id": "article:88",
+    "type": "article",
+    "title": "第八十八条 空管工程项目法人应在工程开工前向工程质量监督机构申报质量监督手续。",
+    "line_start": 486,
+    "line_end": 487,
+    "source_anchor": "第八十八条"
+  },
+  "article:89": {
+    "node_id": "article:89",
+    "type": "article",
+    "title": "第八十九条 机场工程配套的空管工程可与机场工程采用建设集中管理模式,统一组建工程建设指挥部,统一开展整体工程项目申报、用地预审、规划选址、环境影响评价、节能评估、征地拆迁、招投标等工作,统一组织工程建设。",
+    "line_start": 488,
+    "line_end": 489,
+    "source_anchor": "第八十九条"
+  },
+  "article:90": {
+    "node_id": "article:90",
+    "type": "article",
+    "title": "第九十条 空管工程竣工后,项目法人应当组织勘察、设计、施工、监理等有关单位进行竣工验收。",
+    "line_start": 490,
+    "line_end": 493,
+    "source_anchor": "第九十条"
+  },
+  "article:91": {
+    "node_id": "article:91",
+    "type": "article",
+    "title": "第九十一条 空管工程竣工验收应当具备下列条件:",
+    "line_start": 494,
+    "line_end": 505,
+    "source_anchor": "第九十一条"
+  },
+  "article:92": {
+    "node_id": "article:92",
+    "type": "article",
+    "title": "第九十二条 对于规定要求需进行飞行校验的通信、导航、监视等设施设备,项目法人必须按有关规定办理飞行校验手续,并取得飞行校验结果报告。",
+    "line_start": 506,
+    "line_end": 507,
+    "source_anchor": "第九十二条"
+  },
+  "article:93": {
+    "node_id": "article:93",
+    "type": "article",
+    "title": "第九十三条 空管工程经过民航管理部门验收后,方可投入使用。",
+    "line_start": 508,
+    "line_end": 509,
+    "source_anchor": "第九十三条"
+  },
+  "article:94": {
+    "node_id": "article:94",
+    "type": "article",
+    "title": "第九十四条 项目法人向民航管理部门申请验收空管工程应当具备下列条件:",
+    "line_start": 510,
+    "line_end": 523,
+    "source_anchor": "第九十四条"
+  },
+  "article:95": {
+    "node_id": "article:95",
+    "type": "article",
+    "title": "第九十五条 项目法人向民航管理部门申请验收空管工程,应当报送以下材料:",
+    "line_start": 524,
+    "line_end": 549,
+    "source_anchor": "第九十五条"
+  },
+  "article:96": {
+    "node_id": "article:96",
+    "type": "article",
+    "title": "第九十六条 下列空管工程由民航局组织验收:",
+    "line_start": 550,
+    "line_end": 555,
+    "source_anchor": "第九十六条"
+  },
+  "article:97": {
+    "node_id": "article:97",
+    "type": "article",
+    "title": "第九十七条 其他空管工程由所在地民航地区管理局组织验收。",
+    "line_start": 556,
+    "line_end": 557,
+    "source_anchor": "第九十七条"
+  },
+  "article:98": {
+    "node_id": "article:98",
+    "type": "article",
+    "title": "第九十八条 民航管理部门验收空管工程应当履行以下程序:",
+    "line_start": 558,
+    "line_end": 563,
+    "source_anchor": "第九十八条"
+  },
+  "article:99": {
+    "node_id": "article:99",
+    "type": "article",
+    "title": "第九十九条 民航管理部门验收空管工程的内容包括:",
+    "line_start": 564,
+    "line_end": 577,
+    "source_anchor": "第九十九条"
+  },
+  "article:100": {
+    "node_id": "article:100",
+    "type": "article",
+    "title": "第一百条 项目法人应当按国家、民航有关规定及时移交空管工程档案资料。",
+    "line_start": 578,
+    "line_end": 579,
+    "source_anchor": "第一百条"
+  },
+  "article:101": {
+    "node_id": "article:101",
+    "type": "article",
+    "title": "第一百一条 未经验收合格的空管工程,不得投入使用。",
+    "line_start": 580,
+    "line_end": 581,
+    "source_anchor": "第一百一条"
+  },
+  "article:102": {
+    "node_id": "article:102",
+    "type": "article",
+    "title": "第一百二条 空管工程项目法人应在空管工程竣工后三个月内完成竣工财务决算的编制工作,并上报主管部门。",
+    "line_start": 582,
+    "line_end": 583,
+    "source_anchor": "第一百二条"
+  },
+  "article:103": {
+    "node_id": "article:103",
+    "type": "article",
+    "title": "第一百三条 空管工程实行工程建设信息报告制度。工程建设信息报告期为自批准立项之日起,至投入使用止。",
+    "line_start": 584,
+    "line_end": 585,
+    "source_anchor": "第一百三条"
+  },
+  "article:104": {
+    "node_id": "article:104",
+    "type": "article",
+    "title": "第一百四条 项目法人应当指定项目信息员对其实施工程的建设信息及时进行收集、统计和整理,形成电子文本。",
+    "line_start": 586,
+    "line_end": 589,
+    "source_anchor": "第一百四条"
+  },
+  "article:105": {
+    "node_id": "article:105",
+    "type": "article",
+    "title": "第一百五条 空管工程建设信息在开工建设前每季度报告一次,开工建设后每月报告一次。报告日期为次月的5日之前。",
+    "line_start": 590,
+    "line_end": 591,
+    "source_anchor": "第一百五条"
+  },
+  "article:106": {
+    "node_id": "article:106",
+    "type": "article",
+    "title": "第一百六条 民航局空管局负责审核空管工程建设信息,并将审核后的工程建设信息电子文本通过中国民用航空安全信息网民航建设项目管理系统,于每月10日前报民航局。",
+    "line_start": 592,
+    "line_end": 593,
+    "source_anchor": "第一百六条"
+  },
+  "article:107": {
+    "node_id": "article:107",
+    "type": "article",
+    "title": "第一百七条 空管工程建设信息应当包括以下内容:",
+    "line_start": 594,
+    "line_end": 603,
+    "source_anchor": "第一百七条"
+  },
+  "article:108": {
+    "node_id": "article:108",
+    "type": "article",
+    "title": "第一百八条 当发生工程质量事故和安全事故时,项目法人必须按照国家有关规定及时上报。",
+    "line_start": 604,
+    "line_end": 605,
+    "source_anchor": "第一百八条"
+  },
+  "chapter:9": {
+    "node_id": "chapter:9",
+    "type": "chapter",
+    "title": "第九章 空管工程建设管理",
+    "line_start": 390,
+    "line_end": 605,
+    "source_anchor": "第九章"
+  },
+  "article:109": {
+    "node_id": "article:109",
+    "type": "article",
+    "title": "第一百九条 违反本规定第七条、第十三条、第二十七条、第三十六条、第六十九条、第七十九条,将选址、总体规划、初步设计及施工图设计发包给不具有相应资质等级的单位承担的,由民航管理部门责令其改正,并处以警告;情节严重的,处以1万元以上3万元以下罚款。",
+    "line_start": 608,
+    "line_end": 609,
+    "source_anchor": "第一百九条"
+  },
+  "chapter:10": {
+    "node_id": "chapter:10",
+    "type": "chapter",
+    "title": "第十章 法律责任",
+    "line_start": 606,
+    "line_end": 629,
+    "source_anchor": "第十章"
+  },
+  "chapter:11": {
+    "node_id": "chapter:11",
+    "type": "chapter",
+    "title": "第十一章 附则",
+    "line_start": 630,
+    "line_end": 634,
+    "source_anchor": "第十一章"
+  }
+}

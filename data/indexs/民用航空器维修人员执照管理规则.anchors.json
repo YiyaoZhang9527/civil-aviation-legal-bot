@@ -1,0 +1,298 @@
+{
+  "law:民用航空器维修人员执照管理规则": {
+    "node_id": "law:民用航空器维修人员执照管理规则",
+    "type": "law",
+    "title": "民用航空器维修人员执照管理规则",
+    "line_start": 0,
+    "line_end": 324,
+    "source_anchor": "民用航空器维修人员执照管理规则"
+  },
+  "article:66.1": {
+    "node_id": "article:66.1",
+    "type": "article",
+    "title": "第66.1条 目的和依据",
+    "line_start": 9,
+    "line_end": 14,
+    "source_anchor": "第66.1条"
+  },
+  "article:66.2": {
+    "node_id": "article:66.2",
+    "type": "article",
+    "title": "第66.2条 适用范围",
+    "line_start": 15,
+    "line_end": 19,
+    "source_anchor": "第66.2条"
+  },
+  "article:66.3": {
+    "node_id": "article:66.3",
+    "type": "article",
+    "title": "第66.3条 管理机构",
+    "line_start": 20,
+    "line_end": 27,
+    "source_anchor": "第66.3条"
+  },
+  "article:66.4": {
+    "node_id": "article:66.4",
+    "type": "article",
+    "title": "第66.4条 航空器维修人员执照类别",
+    "line_start": 28,
+    "line_end": 32,
+    "source_anchor": "第66.4条"
+  },
+  "article:66.5": {
+    "node_id": "article:66.5",
+    "type": "article",
+    "title": "第66.5条 航空器维修人员执照的权限",
+    "line_start": 33,
+    "line_end": 39,
+    "source_anchor": "第66.5条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总则",
+    "line_start": 7,
+    "line_end": 39,
+    "source_anchor": "第一章"
+  },
+  "article:66.6": {
+    "node_id": "article:66.6",
+    "type": "article",
+    "title": "第66.6条 航空器维修人员执照的申请条件",
+    "line_start": 42,
+    "line_end": 63,
+    "source_anchor": "第66.6条"
+  },
+  "article:66.7": {
+    "node_id": "article:66.7",
+    "type": "article",
+    "title": "第66.7条 航空器维修人员执照的申请材料",
+    "line_start": 64,
+    "line_end": 82,
+    "source_anchor": "第66.7条"
+  },
+  "article:66.8": {
+    "node_id": "article:66.8",
+    "type": "article",
+    "title": "第66.8条 航空器维修人员执照的颁发",
+    "line_start": 83,
+    "line_end": 89,
+    "source_anchor": "第66.8条"
+  },
+  "article:66.9": {
+    "node_id": "article:66.9",
+    "type": "article",
+    "title": "第66.9条 航空器维修人员执照的有效期",
+    "line_start": 90,
+    "line_end": 93,
+    "source_anchor": "第66.9条"
+  },
+  "article:66.10": {
+    "node_id": "article:66.10",
+    "type": "article",
+    "title": "第66.10条 航空器维修基础知识培训和实作培训",
+    "line_start": 94,
+    "line_end": 105,
+    "source_anchor": "第66.10条"
+  },
+  "article:66.11": {
+    "node_id": "article:66.11",
+    "type": "article",
+    "title": "第66.11条 航空器维修人员执照的考试",
+    "line_start": 106,
+    "line_end": 119,
+    "source_anchor": "第66.11条"
+  },
+  "article:66.12": {
+    "node_id": "article:66.12",
+    "type": "article",
+    "title": "第66.12条 航空维修技术英语等级测试",
+    "line_start": 120,
+    "line_end": 141,
+    "source_anchor": "第66.12条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 航空器维修人员执照的申请、颁发和管理",
+    "line_start": 40,
+    "line_end": 141,
+    "source_anchor": "第二章"
+  },
+  "article:66.13": {
+    "node_id": "article:66.13",
+    "type": "article",
+    "title": "第66.13条 机型签署的申请条件",
+    "line_start": 144,
+    "line_end": 153,
+    "source_anchor": "第66.13条"
+  },
+  "article:66.14": {
+    "node_id": "article:66.14",
+    "type": "article",
+    "title": "第66.14条 机型签署的申请材料",
+    "line_start": 154,
+    "line_end": 162,
+    "source_anchor": "第66.14条"
+  },
+  "article:66.15": {
+    "node_id": "article:66.15",
+    "type": "article",
+    "title": "第66.15条 机型签署的签发",
+    "line_start": 163,
+    "line_end": 167,
+    "source_anchor": "第66.15条"
+  },
+  "article:66.16": {
+    "node_id": "article:66.16",
+    "type": "article",
+    "title": "第66.16条 机型签署的规范",
+    "line_start": 168,
+    "line_end": 172,
+    "source_anchor": "第66.16条"
+  },
+  "article:66.17": {
+    "node_id": "article:66.17",
+    "type": "article",
+    "title": "第66.17条 机型签署的有效性和恢复",
+    "line_start": 173,
+    "line_end": 185,
+    "source_anchor": "第66.17条"
+  },
+  "article:66.18": {
+    "node_id": "article:66.18",
+    "type": "article",
+    "title": "第66.18条 机型维修培训和考试",
+    "line_start": 186,
+    "line_end": 191,
+    "source_anchor": "第66.18条"
+  },
+  "article:66.19": {
+    "node_id": "article:66.19",
+    "type": "article",
+    "title": "第66.19条 机型维修实习",
+    "line_start": 192,
+    "line_end": 199,
+    "source_anchor": "第66.19条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 航空器维修人员执照的机型签署",
+    "line_start": 142,
+    "line_end": 199,
+    "source_anchor": "第三章"
+  },
+  "article:66.20": {
+    "node_id": "article:66.20",
+    "type": "article",
+    "title": "第66.20条 航空器维修人员执照持有人的权利",
+    "line_start": 202,
+    "line_end": 214,
+    "source_anchor": "第66.20条"
+  },
+  "article:66.21": {
+    "node_id": "article:66.21",
+    "type": "article",
+    "title": "第66.21条 航空器维修人员执照持有人的义务",
+    "line_start": 215,
+    "line_end": 231,
+    "source_anchor": "第66.21条"
+  },
+  "article:66.22": {
+    "node_id": "article:66.22",
+    "type": "article",
+    "title": "第66.22条 信用管理",
+    "line_start": 232,
+    "line_end": 243,
+    "source_anchor": "第66.22条"
+  },
+  "article:66.23": {
+    "node_id": "article:66.23",
+    "type": "article",
+    "title": "第66.23条 违规行使执照权利",
+    "line_start": 244,
+    "line_end": 250,
+    "source_anchor": "第66.23条"
+  },
+  "article:66.24": {
+    "node_id": "article:66.24",
+    "type": "article",
+    "title": "第66.24条 不按标准维修或者放行",
+    "line_start": 251,
+    "line_end": 257,
+    "source_anchor": "第66.24条"
+  },
+  "article:66.25": {
+    "node_id": "article:66.25",
+    "type": "article",
+    "title": "第66.25条 不如实提交申请、调查信息和材料",
+    "line_start": 258,
+    "line_end": 267,
+    "source_anchor": "第66.25条"
+  },
+  "article:66.26": {
+    "node_id": "article:66.26",
+    "type": "article",
+    "title": "第66.26条 不及时报告发现的缺陷和不适航状况",
+    "line_start": 268,
+    "line_end": 274,
+    "source_anchor": "第66.26条"
+  },
+  "article:66.27": {
+    "node_id": "article:66.27",
+    "type": "article",
+    "title": "第66.27条 撤销证件",
+    "line_start": 275,
+    "line_end": 279,
+    "source_anchor": "第66.27条"
+  },
+  "article:66.28": {
+    "node_id": "article:66.28",
+    "type": "article",
+    "title": "第66.28条 航空器维修人员执照的注销",
+    "line_start": 280,
+    "line_end": 289,
+    "source_anchor": "第66.28条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 监督管理及法律责任",
+    "line_start": 200,
+    "line_end": 289,
+    "source_anchor": "第四章"
+  },
+  "article:66.29": {
+    "node_id": "article:66.29",
+    "type": "article",
+    "title": "第66.29条 术语和定义",
+    "line_start": 292,
+    "line_end": 315,
+    "source_anchor": "第66.29条"
+  },
+  "article:66.30": {
+    "node_id": "article:66.30",
+    "type": "article",
+    "title": "第66.30条 过渡期",
+    "line_start": 316,
+    "line_end": 320,
+    "source_anchor": "第66.30条"
+  },
+  "article:66.31": {
+    "node_id": "article:66.31",
+    "type": "article",
+    "title": "第66.31条 生效和废止",
+    "line_start": 321,
+    "line_end": 324,
+    "source_anchor": "第66.31条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 附则",
+    "line_start": 290,
+    "line_end": 324,
+    "source_anchor": "第五章"
+  }
+}

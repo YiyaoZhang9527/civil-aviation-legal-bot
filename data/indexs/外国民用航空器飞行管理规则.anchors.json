@@ -1,0 +1,362 @@
+{
+  "law:外国民用航空器飞行管理规则": {
+    "node_id": "law:外国民用航空器飞行管理规则",
+    "type": "law",
+    "title": "外国民用航空器飞行管理规则",
+    "line_start": 0,
+    "line_end": 402,
+    "source_anchor": "外国民用航空器飞行管理规则"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 外国民用航空器飞入或者飞出中华人民共和国国界和在中华人民",
+    "line_start": 6,
+    "line_end": 8,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 外国民用航空器只有根据中华人民共和国政府同该国政府签订的",
+    "line_start": 9,
+    "line_end": 13,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 外国民用航空器及其空勤组成员和乘客,在中华人民共和国境内",
+    "line_start": 14,
+    "line_end": 17,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 外国民用航空器飞入或者飞出中华人民共和国国界和在中华人民",
+    "line_start": 18,
+    "line_end": 21,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 外国民用航空器根据中华人民共和国政府同该国政府签订的航空",
+    "line_start": 22,
+    "line_end": 31,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 外国民用航空器在中华人民共和国境内进行定期航班飞行和加班",
+    "line_start": 32,
+    "line_end": 36,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 不定期飞行的申请,应当包括下列内容:",
+    "line_start": 37,
+    "line_end": 50,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 外国民用航空器在中华人民共和国境内进行不定期飞行时,由中",
+    "line_start": 51,
+    "line_end": 54,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 在中华人民共和国境内飞行的外国民用航空器,必须具有国籍标",
+    "line_start": 55,
+    "line_end": 58,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 在中华人民共和国境内飞行的外国民用航空器,应当具有下列文",
+    "line_start": 59,
+    "line_end": 70,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 外国民用航空器飞入或者飞出中华人民共和国国界,必须从规",
+    "line_start": 71,
+    "line_end": 73,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 外国民用航空器飞入或者飞出中华人民共和国国界前二十至十",
+    "line_start": 74,
+    "line_end": 78,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 外国民用航空器飞越中华人民共和国国界和中华人民共和国境",
+    "line_start": 79,
+    "line_end": 88,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 外国民用航空器飞入或者飞出中华人民共和国国界后,如果因",
+    "line_start": 89,
+    "line_end": 97,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 外国民用航空器在没有同中国民用航空总局有关的空中交通管",
+    "line_start": 98,
+    "line_end": 101,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 外国民用航空器在中华人民共和国境内飞行,如果与中国民用",
+    "line_start": 102,
+    "line_end": 116,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 中华人民共和国境内航空器飞行的目视气象条件:能见度不少",
+    "line_start": 117,
+    "line_end": 120,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 飞行的安全高度是保证航空器不致与地面障碍物相撞的最低的",
+    "line_start": 121,
+    "line_end": 126,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 外国民用航空器在中华人民共和国境内飞行,必须在规定的飞",
+    "line_start": 127,
+    "line_end": 137,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 外国民用航空器在中华人民共和国境内每次飞行的高度或者高",
+    "line_start": 138,
+    "line_end": 142,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 外国民用航空器在中华人民共和国境内必须沿规定的航路飞",
+    "line_start": 143,
+    "line_end": 146,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 在中华人民共和国境内飞行的外国民用航空器,其空勤组如",
+    "line_start": 147,
+    "line_end": 153,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 目视飞行时航空器相遇,应当按照下列规定避让:",
+    "line_start": 154,
+    "line_end": 163,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 外国民用航空器在中华人民共和国境内飞行时,应当按照中",
+    "line_start": 164,
+    "line_end": 177,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 在中华人民共和国境内飞行的外国民用航空器,应当在中国",
+    "line_start": 178,
+    "line_end": 183,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 外国民用航空器的空勤组必须在起飞前做好飞行准备工作,",
+    "line_start": 184,
+    "line_end": 189,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 中华人民共和国境内机场的起落航线飞行通常为左航线。起",
+    "line_start": 190,
+    "line_end": 198,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 外国民用航空器在航空站区域内目视气象条件下飞行时,其",
+    "line_start": 199,
+    "line_end": 202,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 外国民用航空器在中华人民共和国境内的机场起飞或者降",
+    "line_start": 203,
+    "line_end": 222,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 外国民用航空器在中华人民共和国境内起飞或者降落时,应当",
+    "line_start": 223,
+    "line_end": 229,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 在中华人民共和国境内的航路上或者起飞、降落机场附近有",
+    "line_start": 230,
+    "line_end": 234,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 在中华人民共和国境内飞行的外国民用航空器,如果发现可",
+    "line_start": 235,
+    "line_end": 238,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 外国民用航空器在中华人均民共和国境内飞行时,无论在任",
+    "line_start": 239,
+    "line_end": 243,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 在特殊情况下,中国民用航空总局公布临时关闭有关的航路",
+    "line_start": 244,
+    "line_end": 247,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 在中华人民共和国境内飞行的外国民用航空器,除遇险情况",
+    "line_start": 248,
+    "line_end": 251,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 在中华人民共和国境内飞行的外国民用航空器,如果发生严",
+    "line_start": 252,
+    "line_end": 261,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 在中华人民共和国境内飞行的外国民用航空器,如果发生可",
+    "line_start": 262,
+    "line_end": 272,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 飞入或者飞出中华人民共和国国界的外国民用航空器,必须",
+    "line_start": 273,
+    "line_end": 275,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 在中华人民共和国境内的外国民用航空器(包括其必须具备",
+    "line_start": 276,
+    "line_end": 279,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 在中华人民共和国境内飞行的外国民用航空器,禁止载运爆炸",
+    "line_start": 280,
+    "line_end": 282,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 外国民用航空器在飞行中,如果空勤组成员或者乘客患急病,",
+    "line_start": 283,
+    "line_end": 286,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 在中华人民共和国境内飞行的外国民用航空器,如果违反本",
+    "line_start": 287,
+    "line_end": 294,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 飞入或者飞出中华人民共和国国界和在中华人民共和国境内",
+    "line_start": 295,
+    "line_end": 299,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 本规则经中华人民共和国国务院批准后,由中国民用航空总",
+    "line_start": 300,
+    "line_end": 402,
+    "source_anchor": "第四十四条"
+  }
+}

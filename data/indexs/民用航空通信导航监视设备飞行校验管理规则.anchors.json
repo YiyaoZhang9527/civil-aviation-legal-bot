@@ -1,0 +1,714 @@
+{
+  "law:民用航空通信导航监视设备飞行校验管理规则": {
+    "node_id": "law:民用航空通信导航监视设备飞行校验管理规则",
+    "type": "law",
+    "title": "民用航空通信导航监视设备飞行校验管理规则",
+    "line_start": 0,
+    "line_end": 280,
+    "source_anchor": "民用航空通信导航监视设备飞行校验管理规则"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了规范民用航空通信导航监视设备飞行校验工作,根据《中华人民共和国民用航空法》《中华人民共和国飞行基本规则》等法律、行政法规,制定本规则。",
+    "line_start": 4,
+    "line_end": 5,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规则适用于对地面通信导航监视设备的飞行校验。",
+    "line_start": 6,
+    "line_end": 9,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 本规则所称飞行校验,是指为了保证飞行安全,使用装有专门校验设备的飞行校验航空器,按照飞行校验的有关标准、规范,检查、校准和分析通信、导航、监视设备(以下统称校验对象)的空间信号质量、容限及系统功能,并根据检查、校准和分析结果出具飞行校验报告的活动。",
+    "line_start": 10,
+    "line_end": 17,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 飞行校验应当以充分验证校验对象性能指标为基本原则。",
+    "line_start": 18,
+    "line_end": 19,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 中国民用航空局(以下简称民航局)负责飞行校验工作的统一监督管理。",
+    "line_start": 20,
+    "line_end": 25,
+    "source_anchor": "第五条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总 则",
+    "line_start": 2,
+    "line_end": 25,
+    "source_anchor": "第一章"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 飞行校验分为投产校验、监视性校验、定期校验、特殊校验四类。",
+    "line_start": 30,
+    "line_end": 39,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 通信设备和监视设备在投产使用前应当按照规定实施投产校验,投产使用后不进行监视性校验和定期校验,必要时进行特殊校验,本规则第六章另有规定的除外。",
+    "line_start": 40,
+    "line_end": 43,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 出现下列特殊情形之一的,应当对校验对象受影响部分进行有针对性的特殊校验:",
+    "line_start": 44,
+    "line_end": 59,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 飞行校验应当按照飞行校验种类的优先次序安排。飞行校验种类的优先次序由高至低依次为特殊校验、定期校验、监视性校验、投产校验。",
+    "line_start": 60,
+    "line_end": 61,
+    "source_anchor": "第九条"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 校验机构",
+    "line_start": 100,
+    "line_end": 113,
+    "source_anchor": "第一节"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 对于本规则第八条第一项、第二项、第四项至第七项所列的情形,校验机构和校验对象的运行管理单位应当根据具体情况制定相应的特殊校验方案,确定校验项目,以确保校验对象的安全运行。",
+    "line_start": 64,
+    "line_end": 69,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 定期校验时间由校验周期、校验周期起始日和时间窗口确定。",
+    "line_start": 70,
+    "line_end": 73,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 除本规则第六章或者民航局另有规定外,导航设备的校验周期如下:",
+    "line_start": 74,
+    "line_end": 95,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 为了确保突发紧急状况下或者特殊环境条件下校验对象持续安全稳定运行,或者为了支持鼓励新技术、新设备和新工艺等推广应用,民航局可以根据国际民航组织有关要求、所采用的设备情况以及我国飞行校验的实际情况等,结合机场整体运行情况和需求,对特定的校验对象、校验周期和校验项目做出必要调整。",
+    "line_start": 96,
+    "line_end": 97,
+    "source_anchor": "第十三条"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 校验对象的运行管理单位",
+    "line_start": 114,
+    "line_end": 125,
+    "source_anchor": "第二节"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 飞行校验的基本要求",
+    "line_start": 26,
+    "line_end": 97,
+    "source_anchor": "第二章"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 校验机构应当按照相关规定执行飞行校验任务,确保飞行校验顺利实施,并对出具的飞行校验数据和飞行校验结论负责。",
+    "line_start": 102,
+    "line_end": 103,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 校验机构应当配备满足飞行校验任务要求的飞行校验人员和校验航空器。校验航空器应当配备适合执行飞行校验任务的飞行校验设备。",
+    "line_start": 104,
+    "line_end": 107,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 校验机构应当按照相关规定,组织飞行校验人员培训和考核,确保满足飞行校验工作需要。",
+    "line_start": 108,
+    "line_end": 109,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 校验机构应当制定完备的校验实施程序,并建立相关的校验技术档案。",
+    "line_start": 110,
+    "line_end": 111,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 校验机构应当每年定期向民航局报告本年度飞行校验的执行情况和下一年度的飞行校验计划。",
+    "line_start": 112,
+    "line_end": 113,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 校验对象的运行管理单位负责飞行校验任务的组织、保障和协调,调试地面设备,联系并配合相关单位协调飞行校验所需的空域,以确保校验对象具备校验条件。",
+    "line_start": 116,
+    "line_end": 117,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 校验对象的运行管理单位应当安排人员积极配合校验机构共同完成飞行校验任务。",
+    "line_start": 118,
+    "line_end": 119,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 校验对象的运行管理单位应当针对飞行校验任务,协调各有关单位,明确协调程序和相关要求,共同保障飞行校验任务的顺利完成。",
+    "line_start": 120,
+    "line_end": 121,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 校验对象的运行管理单位应当向校验机构提供飞行校验所需的航空情报、设备、勘测、气象等资料,并确保其准确、有效。",
+    "line_start": 122,
+    "line_end": 123,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 校验对象的运行管理单位应当保持地面与飞行校验人员间的地空通信畅通,并且不得影响相关管制单位的正常通信。",
+    "line_start": 124,
+    "line_end": 125,
+    "source_anchor": "第二十三条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 飞行校验的实施机构",
+    "line_start": 98,
+    "line_end": 125,
+    "source_anchor": "第三章"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 校验机构应当与校验对象的运行管理单位建立协调机制,共同采取必要的措施,保障航空运行效率,安全、高效完成飞行校验任务。",
+    "line_start": 128,
+    "line_end": 131,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 校验对象进行投产校验前,应当已经具备相应的投产校验条件。",
+    "line_start": 132,
+    "line_end": 133,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 校验对象的运行管理单位应当在执行投产校验前至少10个工作日向校验机构提出校验需求,校验机构应当及时予以答复并合理安排投产校验。",
+    "line_start": 134,
+    "line_end": 135,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 校验机构应当按照校验周期和要求安排定期校验和监视性校验。",
+    "line_start": 136,
+    "line_end": 137,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 校验对象需进行特殊校验时,校验对象的运行管理单位应当及时向校验机构提出校验需求,校验机构应当及时予以答复。",
+    "line_start": 138,
+    "line_end": 139,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 校验机构应当在执行飞行校验前至少5个工作日将飞行计划和校验方案通知校验对象的运行管理单位。",
+    "line_start": 140,
+    "line_end": 141,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 校验对象的运行管理单位应当在飞行校验实施前确保设备和场地满足飞行校验的要求,并组织召开由校验机构、相关管制单位和其他有关单位参加的协调会议,确定飞行校验实施细节,指定专人负责协调飞行校验的实施并及时通知校验机构。",
+    "line_start": 142,
+    "line_end": 143,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 校验对象在实施飞行校验期间不得提供使用,其运行管理单位应当及时通知相关运行单位采取相应措施,并通知所在地的航空情报服务机构发布航行通告。",
+    "line_start": 144,
+    "line_end": 145,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 飞行校验期间,空中和地面人员应当加强配合,提高效率。飞行校验人员应当及时通报飞行校验情况,校验对象的运行管理单位应当及时调整设备,使飞行校验数据达到最佳值。",
+    "line_start": 146,
+    "line_end": 147,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 校验机构应当依据有关民用航空通信导航监视设备飞行校验要求执行飞行校验,并确保飞行校验数据准确。",
+    "line_start": 148,
+    "line_end": 149,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 飞行校验期间,出现下列情形之一的,可以中断飞行校验:",
+    "line_start": 150,
+    "line_end": 157,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 由于本规则第三十四条第一项规定的原因导致飞行校验中断的,校验对象的运行管理单位应当出具情况说明;由于第二项规定的原因导致飞行校验中断的,校验机构应当出具情况说明并尽快安排校验航空器继续飞行校验;由于第三项规定的原因导致飞行校验中断的,校验机构应当出具情况说明。",
+    "line_start": 158,
+    "line_end": 161,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 由于本规则第三十四条第一项规定的原因导致飞行校验中断的,校验对象应当立即停止提供使用,直至下次飞行校验完成。",
+    "line_start": 162,
+    "line_end": 165,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 校验机构发现校验对象存在安全隐患的,应当立即向校验对象的运行管理单位和民航地区管理局报告隐患情况与原因。",
+    "line_start": 166,
+    "line_end": 167,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 校验机构应当积极采用新的校验技术,优化校验项目和校验程序,改进校验方式,提升校验数据挖掘能力,提高校验效率。",
+    "line_start": 168,
+    "line_end": 169,
+    "source_anchor": "第三十八条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 飞行校验的实施",
+    "line_start": 126,
+    "line_end": 169,
+    "source_anchor": "第四章"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 飞行校验记录数据和飞行校验报告是每次飞行校验结果的基本证明文件。",
+    "line_start": 172,
+    "line_end": 173,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 校验对象为导航设备的,校验机构应当根据其种类、项目实施飞行校验,准确、如实记录每个测量参数的检查结果。",
+    "line_start": 174,
+    "line_end": 177,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 校验对象为通信设备或者监视设备的,校验机构和校验对象的运行管理单位应当结合设备运行需求确定校验项目并实施飞行校验,出具飞行校验数据。校验对象的运行管理单位汇总分析数据,明确飞行校验结论,提出飞行校验建议,出具飞行校验报告。",
+    "line_start": 178,
+    "line_end": 181,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 飞行校验结论分为合格、限用和不合格。",
+    "line_start": 182,
+    "line_end": 189,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 飞行校验结束后,飞行校验结论为限用或者不合格的,校验对象的运行管理单位应当及时通知相关运行单位,并依据飞行校验报告向所在地的航空情报服务机构通报;属于监视性校验且限用情况发生恶化或者参数发生恶化的,应当同时报告所在地的民航地区管理局。",
+    "line_start": 190,
+    "line_end": 193,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 校验机构和校验对象的运行管理单位应当妥善保存飞行校验记录数据和飞行校验报告,直至校验对象退出使用或者被撤除。",
+    "line_start": 194,
+    "line_end": 195,
+    "source_anchor": "第四十四条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 飞行校验结果管理",
+    "line_start": 170,
+    "line_end": 195,
+    "source_anchor": "第五章"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 通用机场设置N1级通用航空导航设备的,应当按照要求执行投产校验、定期校验和特殊校验。",
+    "line_start": 198,
+    "line_end": 199,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 通用机场设置N2级通用航空导航设备中仪表着陆系统的,应当按照要求执行投产校验、定期校验和特殊校验。",
+    "line_start": 200,
+    "line_end": 203,
+    "source_anchor": "第四十六条"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 通用机场设置N4级通用航空导航设备的,由通用机场自行决定是否进行飞行校验。",
+    "line_start": 204,
+    "line_end": 205,
+    "source_anchor": "第四十七条"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 通用机场设置通信设备和监视设备的,若不提供监视条件下的管制服务,可以不进行飞行校验。",
+    "line_start": 206,
+    "line_end": 207,
+    "source_anchor": "第四十八条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 通用航空设备飞行校验的特别规定",
+    "line_start": 196,
+    "line_end": 207,
+    "source_anchor": "第六章"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 民航局和民航地区管理局对校验机构、校验对象的运行管理单位飞行校验的执行情况进行监督检查。",
+    "line_start": 210,
+    "line_end": 211,
+    "source_anchor": "第四十九条"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 校验机构和校验对象的运行管理单位应当建立质量管理制度,分别对飞行校验过程和设备运行状况实施持续监控,对于发现的问题应当及时解决或者通报有关部门。",
+    "line_start": 212,
+    "line_end": 213,
+    "source_anchor": "第五十条"
+  },
+  "article:51": {
+    "node_id": "article:51",
+    "type": "article",
+    "title": "第五十一条 校验对象的运行管理单位有下列行为之一的,依法记入民航行业严重失信行为信用记录:",
+    "line_start": 214,
+    "line_end": 223,
+    "source_anchor": "第五十一条"
+  },
+  "article:52": {
+    "node_id": "article:52",
+    "type": "article",
+    "title": "第五十二条 校验机构隐瞒有关情况,提供虚假或者错误的飞行校验结果的,依法记入民航行业严重失信行为信用记录。",
+    "line_start": 224,
+    "line_end": 225,
+    "source_anchor": "第五十二条"
+  },
+  "article:53": {
+    "node_id": "article:53",
+    "type": "article",
+    "title": "第五十三条 任何单位和个人有权向民航局和民航地区管理局举报违反本规则的行为。",
+    "line_start": 226,
+    "line_end": 227,
+    "source_anchor": "第五十三条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 监督检查",
+    "line_start": 208,
+    "line_end": 227,
+    "source_anchor": "第七章"
+  },
+  "article:54": {
+    "node_id": "article:54",
+    "type": "article",
+    "title": "第五十四条 校验对象的运行管理单位违反本规则第七条规定,将未经飞行校验的设备投入使用的,由民航地区管理局责令改正,处1万元以上3万元以下的罚款。",
+    "line_start": 230,
+    "line_end": 231,
+    "source_anchor": "第五十四条"
+  },
+  "article:55": {
+    "node_id": "article:55",
+    "type": "article",
+    "title": "第五十五条 校验对象的运行管理单位违反本规则第八条规定,未按照要求进行特殊校验的,由民航地区管理局责令改正,处1万元以上3万元以下的罚款。",
+    "line_start": 232,
+    "line_end": 233,
+    "source_anchor": "第五十五条"
+  },
+  "article:56": {
+    "node_id": "article:56",
+    "type": "article",
+    "title": "第五十六条 校验机构、校验对象的运行管理单位违反本规则第十条规定,未按照要求确定特殊校验项目的,由民航地区管理局责令改正,给予警告;情节严重的,处1万元以上3万元以下的罚款。",
+    "line_start": 234,
+    "line_end": 235,
+    "source_anchor": "第五十六条"
+  },
+  "article:57": {
+    "node_id": "article:57",
+    "type": "article",
+    "title": "第五十七条 校验机构违反本规则第十五条,未配备满足飞行校验任务要求的飞行校验人员或者校验航空器,或者使用不符合要求的飞行校验系统、测试仪器、仪表的,由民航地区管理局责令改正,给予警告;情节严重的,处1万元以上3万元以下的罚款。",
+    "line_start": 236,
+    "line_end": 237,
+    "source_anchor": "第五十七条"
+  },
+  "article:58": {
+    "node_id": "article:58",
+    "type": "article",
+    "title": "第五十八条 校验机构违反本规则第十六条,未组织飞行校验人员培训和考核的,由民航地区管理局责令改正,给予警告;情节严重的,处1万元以上3万元以下的罚款。",
+    "line_start": 238,
+    "line_end": 239,
+    "source_anchor": "第五十八条"
+  },
+  "article:59": {
+    "node_id": "article:59",
+    "type": "article",
+    "title": "第五十九条 校验机构违反本规则第十七条、第十八条规定,未按照要求制定完备的校验实施程序并建立相关的校验技术档案,或者未按照要求向民航局报告飞行校验执行情况和飞行校验计划的,由民航地区管理局责令改正,给予警告;情节严重的,处1万元以上3万元以下的罚款。",
+    "line_start": 240,
+    "line_end": 241,
+    "source_anchor": "第五十九条"
+  },
+  "article:60": {
+    "node_id": "article:60",
+    "type": "article",
+    "title": "第六十条 校验对象的运行管理单位违反本规则第二十条规定,未安排人员积极配合校验机构,导致飞行校验任务无法顺利实施的,由民航地区管理局责令改正,给予警告;情节严重的,处1万元以上3万元以下的罚款。",
+    "line_start": 242,
+    "line_end": 243,
+    "source_anchor": "第六十条"
+  },
+  "article:61": {
+    "node_id": "article:61",
+    "type": "article",
+    "title": "第六十一条 校验对象的运行管理单位违反本规则第二十一条规定,未协调各有关单位或者未明确协调程序和相关要求,导致飞行校验任务无法顺利实施的,由民航地区管理局责令改正,给予警告;情节严重的,处1万元以上3万元以下的罚款。",
+    "line_start": 244,
+    "line_end": 245,
+    "source_anchor": "第六十一条"
+  },
+  "article:62": {
+    "node_id": "article:62",
+    "type": "article",
+    "title": "第六十二条 校验对象的运行管理单位违反本规则第二十二条规定,未向校验机构提供飞行校验所需的航空情报、设备、勘测、气象等资料,或者提供错误、无效资料的,由民航地区管理局责令改正,给予警告;情节严重的,处1万元以上3万元以下的罚款。",
+    "line_start": 246,
+    "line_end": 247,
+    "source_anchor": "第六十二条"
+  },
+  "article:63": {
+    "node_id": "article:63",
+    "type": "article",
+    "title": "第六十三条 校验对象的运行管理单位违反本规则第二十三条规定,因自身原因未保持地面与飞行校验人员间的地空通信畅通,或者影响相关管制单位正常通信,导致飞行校验任务无法顺利实施的,由民航地区管理局责令改正,给予警告;情节严重的,处1万元以上3万元以下的罚款。",
+    "line_start": 248,
+    "line_end": 249,
+    "source_anchor": "第六十三条"
+  },
+  "article:64": {
+    "node_id": "article:64",
+    "type": "article",
+    "title": "第六十四条 校验机构、校验对象的运行管理单位违反本规则第二十四条规定,未建立协调机制或者未采取必要的措施,或者未按照要求制定安全保障措施的,由民航地区管理局责令改正,给予警告;情节严重的,处1万元以上3万元以下的罚款。",
+    "line_start": 250,
+    "line_end": 251,
+    "source_anchor": "第六十四条"
+  },
+  "article:65": {
+    "node_id": "article:65",
+    "type": "article",
+    "title": "第六十五条 校验机构违反本规则第二十七条规定,未按照校验周期和要求安排定期校验和监视性校验的,由民航地区管理局责令改正,给予警告;情节严重的,处1万元以上3万元以下的罚款。",
+    "line_start": 252,
+    "line_end": 253,
+    "source_anchor": "第六十五条"
+  },
+  "article:66": {
+    "node_id": "article:66",
+    "type": "article",
+    "title": "第六十六条 校验机构违反本规则第二十九条规定,未在执行飞行校验前至少5个工作日将飞行计划和校验方案通知校验对象的运行管理单位,导致飞行校验任务无法顺利实施的,由民航地区管理局责令改正,给予警告;情节严重的,处1万元以上3万元以下的罚款。",
+    "line_start": 254,
+    "line_end": 255,
+    "source_anchor": "第六十六条"
+  },
+  "article:67": {
+    "node_id": "article:67",
+    "type": "article",
+    "title": "第六十七条 校验对象的运行管理单位违反本规则第三十条规定,未确保设备和场地满足飞行校验要求,或者未组织召开协调会议并确定飞行校验实施细节,或者未指定专人负责协调飞行校验的实施并及时通知校验机构,导致飞行校验任务无法顺利实施的,由民航地区管理局责令改正,给予警告;情节严重的,处1万元以上3万元以下的罚款。",
+    "line_start": 256,
+    "line_end": 257,
+    "source_anchor": "第六十七条"
+  },
+  "article:68": {
+    "node_id": "article:68",
+    "type": "article",
+    "title": "第六十八条 校验对象的运行管理单位违反本规则第三十一条规定,使用正在进行飞行校验的校验对象提供服务的,由民航地区管理局责令改正,处2万元以上3万元以下的罚款。",
+    "line_start": 258,
+    "line_end": 261,
+    "source_anchor": "第六十八条"
+  },
+  "article:69": {
+    "node_id": "article:69",
+    "type": "article",
+    "title": "第六十九条 校验机构违反本规则第三十三条规定,未依据有关民用航空通信导航监视设备飞行校验要求执行飞行校验,导致飞行校验数据不准确、飞行校验结论错误的,由民航地区管理局责令改正,给予警告;情节严重的,处1万元以上3万元以下的罚款。",
+    "line_start": 262,
+    "line_end": 263,
+    "source_anchor": "第六十九条"
+  },
+  "article:70": {
+    "node_id": "article:70",
+    "type": "article",
+    "title": "第七十条 校验机构、校验对象的运行管理单位违反本规则第三十五条、第三十六条规定,未按照要求出具说明、判断飞行校验数据可用性,或者未按照要求停止使用校验对象的,由民航地区管理局责令改正,给予警告;情节严重的,处1万元以上3万元以下的罚款。",
+    "line_start": 264,
+    "line_end": 265,
+    "source_anchor": "第七十条"
+  },
+  "article:71": {
+    "node_id": "article:71",
+    "type": "article",
+    "title": "第七十一条 校验机构违反本规则第三十七条规定,发现校验对象存在安全隐患未及时报告的,由民航地区管理局责令改正,给予警告;情节严重的,处1万元以上3万元以下的罚款。",
+    "line_start": 266,
+    "line_end": 267,
+    "source_anchor": "第七十一条"
+  },
+  "article:72": {
+    "node_id": "article:72",
+    "type": "article",
+    "title": "第七十二条 校验机构违反本规则第四十条规定,出具虚假的飞行校验数据或者错误的飞行校验结论,或者未及时出具飞行校验报告的,由民航地区管理局责令改正,处2万元以上3万元以下的罚款。",
+    "line_start": 268,
+    "line_end": 269,
+    "source_anchor": "第七十二条"
+  },
+  "article:73": {
+    "node_id": "article:73",
+    "type": "article",
+    "title": "第七十三条 校验机构、校验对象的运行管理单位违反本规则第四十一条规定,出具虚假的飞行校验数据或者错误的飞行校验结论的,由民航地区管理局责令改正,处2万元以上3万元以下的罚款。",
+    "line_start": 270,
+    "line_end": 271,
+    "source_anchor": "第七十三条"
+  },
+  "article:74": {
+    "node_id": "article:74",
+    "type": "article",
+    "title": "第七十四条 校验对象的运行管理单位违反本规则第四十三条规定,未及时通知、通报、报告有关情况的,由民航地区管理局责令改正,给予警告;逾期未改正或者造成严重后果的,处1万元以上2万元以下的罚款。",
+    "line_start": 272,
+    "line_end": 273,
+    "source_anchor": "第七十四条"
+  },
+  "article:75": {
+    "node_id": "article:75",
+    "type": "article",
+    "title": "第七十五条 校验机构、校验对象的运行管理单位违反本规则第四十四条规定,未妥善保存飞行校验记录数据和飞行校验报告的,由民航地区管理局责令改正,给予警告;逾期未改正或者造成严重后果的,处1万元以上2万元以下的罚款。",
+    "line_start": 274,
+    "line_end": 275,
+    "source_anchor": "第七十五条"
+  },
+  "article:76": {
+    "node_id": "article:76",
+    "type": "article",
+    "title": "第七十六条 校验机构、校验对象的运行管理单位违反本规则第四十五条、第四十六条规定,未按照要求进行飞行校验的,由民航地区管理局责令改正,处1万元以上3万元以下的罚款。",
+    "line_start": 276,
+    "line_end": 277,
+    "source_anchor": "第七十六条"
+  },
+  "chapter:8": {
+    "node_id": "chapter:8",
+    "type": "chapter",
+    "title": "第八章 法律责任",
+    "line_start": 228,
+    "line_end": 277,
+    "source_anchor": "第八章"
+  },
+  "article:77": {
+    "node_id": "article:77",
+    "type": "article",
+    "title": "第七十七条 本规则自2021年10月1日起施行。交通运输部于2016年3月28日以交通运输部令2016年第25号公布的《民用航空通信导航监视设备飞行校验管理规则》同时废止。",
+    "line_start": 280,
+    "line_end": 280,
+    "source_anchor": "第七十七条"
+  },
+  "chapter:9": {
+    "node_id": "chapter:9",
+    "type": "chapter",
+    "title": "第九章 附 则",
+    "line_start": 278,
+    "line_end": 280,
+    "source_anchor": "第九章"
+  }
+}

@@ -1,0 +1,2642 @@
+{
+  "law:运输类旋翼航空器适航规定": {
+    "node_id": "law:运输类旋翼航空器适航规定",
+    "type": "law",
+    "title": "《运输类旋翼航空器适航规定》已于2025 年11 月21 日经",
+    "line_start": 0,
+    "line_end": 7849,
+    "source_anchor": "《运输类旋翼航空器适航规定》已于2025 年11 月21 日经"
+  },
+  "chapter:A": {
+    "node_id": "chapter:A",
+    "type": "chapter",
+    "title": "A章 A章",
+    "line_start": 137,
+    "line_end": 162,
+    "source_anchor": "A章"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 第一节",
+    "line_start": 6687,
+    "line_end": 6699,
+    "source_anchor": "第一节"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 第一节",
+    "line_start": 6700,
+    "line_end": 6965,
+    "source_anchor": "第二节"
+  },
+  "section:3": {
+    "node_id": "section:3",
+    "type": "section",
+    "title": "第三节 第一节",
+    "line_start": 6966,
+    "line_end": 7124,
+    "source_anchor": "第三节"
+  },
+  "section:4": {
+    "node_id": "section:4",
+    "type": "section",
+    "title": "第四节 第一节",
+    "line_start": 7125,
+    "line_end": 7273,
+    "source_anchor": "第四节"
+  },
+  "section:5": {
+    "node_id": "section:5",
+    "type": "section",
+    "title": "第五节 第一节",
+    "line_start": 6382,
+    "line_end": 6467,
+    "source_anchor": "第五节"
+  },
+  "chapter:B": {
+    "node_id": "chapter:B",
+    "type": "chapter",
+    "title": "B章 B章",
+    "line_start": 194,
+    "line_end": 910,
+    "source_anchor": "B章"
+  },
+  "section:6": {
+    "node_id": "section:6",
+    "type": "section",
+    "title": "第六节 第一节",
+    "line_start": 6468,
+    "line_end": 6684,
+    "source_anchor": "第六节"
+  },
+  "section:7": {
+    "node_id": "section:7",
+    "type": "section",
+    "title": "第七节 第一节",
+    "line_start": 4921,
+    "line_end": 5044,
+    "source_anchor": "第七节"
+  },
+  "section:8": {
+    "node_id": "section:8",
+    "type": "section",
+    "title": "第八节 第一节",
+    "line_start": 5045,
+    "line_end": 5104,
+    "source_anchor": "第八节"
+  },
+  "chapter:C": {
+    "node_id": "chapter:C",
+    "type": "chapter",
+    "title": "C章 C章",
+    "line_start": 911,
+    "line_end": 1931,
+    "source_anchor": "C章"
+  },
+  "section:9": {
+    "node_id": "section:9",
+    "type": "section",
+    "title": "第九节 第一节",
+    "line_start": 5105,
+    "line_end": 5239,
+    "source_anchor": "第九节"
+  },
+  "chapter:D": {
+    "node_id": "chapter:D",
+    "type": "chapter",
+    "title": "D章 D章",
+    "line_start": 1932,
+    "line_end": 3592,
+    "source_anchor": "D章"
+  },
+  "section:10": {
+    "node_id": "section:10",
+    "type": "section",
+    "title": "第十节 第一节",
+    "line_start": 5240,
+    "line_end": 5482,
+    "source_anchor": "第十节"
+  },
+  "chapter:E": {
+    "node_id": "chapter:E",
+    "type": "chapter",
+    "title": "E章 E章",
+    "line_start": 3593,
+    "line_end": 5482,
+    "source_anchor": "E章"
+  },
+  "chapter:F": {
+    "node_id": "chapter:F",
+    "type": "chapter",
+    "title": "F章 F章",
+    "line_start": 5483,
+    "line_end": 6684,
+    "source_anchor": "F章"
+  },
+  "chapter:G": {
+    "node_id": "chapter:G",
+    "type": "chapter",
+    "title": "G章 G章",
+    "line_start": 6685,
+    "line_end": 7273,
+    "source_anchor": "G章"
+  },
+  "article:29.803": {
+    "node_id": "article:29.803",
+    "type": "article",
+    "title": "第29.803条 要求的应急撤离演示准则",
+    "line_start": 7626,
+    "line_end": 7849,
+    "source_anchor": "第29.803条"
+  },
+  "chapter:H": {
+    "node_id": "chapter:H",
+    "type": "chapter",
+    "title": "H章 H章",
+    "line_start": 7274,
+    "line_end": 7849,
+    "source_anchor": "H章"
+  },
+  "article:29.1": {
+    "node_id": "article:29.1",
+    "type": "article",
+    "title": "第29.1条",
+    "line_start": 140,
+    "line_end": 162,
+    "source_anchor": "第29.1条"
+  },
+  "article:29.2": {
+    "node_id": "article:29.2",
+    "type": "article",
+    "title": "第29.2条",
+    "line_start": 170,
+    "line_end": 193,
+    "source_anchor": "第29.2条"
+  },
+  "article:29.21": {
+    "node_id": "article:29.21",
+    "type": "article",
+    "title": "第29.21条",
+    "line_start": 199,
+    "line_end": 207,
+    "source_anchor": "第29.21条"
+  },
+  "article:29.25": {
+    "node_id": "article:29.25",
+    "type": "article",
+    "title": "第29.25条 条确定的最大和最小重量之间的可能装载情况会导致重",
+    "line_start": 7271,
+    "line_end": 7273,
+    "source_anchor": "第29.25条"
+  },
+  "article:29.865": {
+    "node_id": "article:29.865",
+    "type": "article",
+    "title": "第29.865条",
+    "line_start": 3496,
+    "line_end": 3504,
+    "source_anchor": "第29.865条"
+  },
+  "article:29.27": {
+    "node_id": "article:29.27",
+    "type": "article",
+    "title": "第29.27条",
+    "line_start": 253,
+    "line_end": 260,
+    "source_anchor": "第29.27条"
+  },
+  "article:29.29": {
+    "node_id": "article:29.29",
+    "type": "article",
+    "title": "第29.29条",
+    "line_start": 261,
+    "line_end": 278,
+    "source_anchor": "第29.29条"
+  },
+  "article:29.31": {
+    "node_id": "article:29.31",
+    "type": "article",
+    "title": "第29.31条",
+    "line_start": 279,
+    "line_end": 281,
+    "source_anchor": "第29.31条"
+  },
+  "article:29.33": {
+    "node_id": "article:29.33",
+    "type": "article",
+    "title": "第29.33条",
+    "line_start": 282,
+    "line_end": 332,
+    "source_anchor": "第29.33条"
+  },
+  "article:29.45": {
+    "node_id": "article:29.45",
+    "type": "article",
+    "title": "第29.45条",
+    "line_start": 336,
+    "line_end": 362,
+    "source_anchor": "第29.45条"
+  },
+  "article:29.49": {
+    "node_id": "article:29.49",
+    "type": "article",
+    "title": "第29.49条",
+    "line_start": 363,
+    "line_end": 387,
+    "source_anchor": "第29.49条"
+  },
+  "article:29.51": {
+    "node_id": "article:29.51",
+    "type": "article",
+    "title": "第29.51条",
+    "line_start": 388,
+    "line_end": 390,
+    "source_anchor": "第29.51条"
+  },
+  "article:29.60": {
+    "node_id": "article:29.60",
+    "type": "article",
+    "title": "第29.60条 条对停机场地边缘间距要求而且下降到起飞场地以下的",
+    "line_start": 662,
+    "line_end": 663,
+    "source_anchor": "第29.60条"
+  },
+  "article:29.53": {
+    "node_id": "article:29.53",
+    "type": "article",
+    "title": "第29.53条",
+    "line_start": 400,
+    "line_end": 410,
+    "source_anchor": "第29.53条"
+  },
+  "article:29.55": {
+    "node_id": "article:29.55",
+    "type": "article",
+    "title": "第29.55条",
+    "line_start": 411,
+    "line_end": 419,
+    "source_anchor": "第29.55条"
+  },
+  "article:29.59": {
+    "node_id": "article:29.59",
+    "type": "article",
+    "title": "第29.59条",
+    "line_start": 420,
+    "line_end": 452,
+    "source_anchor": "第29.59条"
+  },
+  "article:29.67": {
+    "node_id": "article:29.67",
+    "type": "article",
+    "title": "第29.67条 条(a)款(2)项或者第29.67 条(b)款所规定的速度值,爬",
+    "line_start": 4858,
+    "line_end": 4859,
+    "source_anchor": "第29.67条"
+  },
+  "article:29.61": {
+    "node_id": "article:29.61",
+    "type": "article",
+    "title": "第29.61条 条确定的起飞距离。",
+    "line_start": 7221,
+    "line_end": 7267,
+    "source_anchor": "第29.61条"
+  },
+  "article:29.62": {
+    "node_id": "article:29.62",
+    "type": "article",
+    "title": "第29.62条",
+    "line_start": 482,
+    "line_end": 498,
+    "source_anchor": "第29.62条"
+  },
+  "article:29.63": {
+    "node_id": "article:29.63",
+    "type": "article",
+    "title": "第29.63条",
+    "line_start": 499,
+    "line_end": 507,
+    "source_anchor": "第29.63条"
+  },
+  "article:29.64": {
+    "node_id": "article:29.64",
+    "type": "article",
+    "title": "第29.64条",
+    "line_start": 508,
+    "line_end": 514,
+    "source_anchor": "第29.64条"
+  },
+  "article:29.65": {
+    "node_id": "article:29.65",
+    "type": "article",
+    "title": "第29.65条",
+    "line_start": 515,
+    "line_end": 528,
+    "source_anchor": "第29.65条"
+  },
+  "article:29.71": {
+    "node_id": "article:29.71",
+    "type": "article",
+    "title": "第29.71条",
+    "line_start": 575,
+    "line_end": 583,
+    "source_anchor": "第29.71条"
+  },
+  "article:29.75": {
+    "node_id": "article:29.75",
+    "type": "article",
+    "title": "第29.75条",
+    "line_start": 584,
+    "line_end": 593,
+    "source_anchor": "第29.75条"
+  },
+  "article:29.83": {
+    "node_id": "article:29.83",
+    "type": "article",
+    "title": "第29.83条",
+    "line_start": 633,
+    "line_end": 646,
+    "source_anchor": "第29.83条"
+  },
+  "article:29.77": {
+    "node_id": "article:29.77",
+    "type": "article",
+    "title": "第29.77条",
+    "line_start": 603,
+    "line_end": 605,
+    "source_anchor": "第29.77条"
+  },
+  "article:29.85": {
+    "node_id": "article:29.85",
+    "type": "article",
+    "title": "第29.85条",
+    "line_start": 647,
+    "line_end": 661,
+    "source_anchor": "第29.85条"
+  },
+  "article:29.79": {
+    "node_id": "article:29.79",
+    "type": "article",
+    "title": "第29.79条",
+    "line_start": 609,
+    "line_end": 623,
+    "source_anchor": "第29.79条"
+  },
+  "article:29.81": {
+    "node_id": "article:29.81",
+    "type": "article",
+    "title": "第29.81条",
+    "line_start": 624,
+    "line_end": 632,
+    "source_anchor": "第29.81条"
+  },
+  "article:29.87": {
+    "node_id": "article:29.87",
+    "type": "article",
+    "title": "第29.87条",
+    "line_start": 664,
+    "line_end": 674,
+    "source_anchor": "第29.87条"
+  },
+  "article:29.141": {
+    "node_id": "article:29.141",
+    "type": "article",
+    "title": "第29.141条",
+    "line_start": 677,
+    "line_end": 704,
+    "source_anchor": "第29.141条"
+  },
+  "article:29.143": {
+    "node_id": "article:29.143",
+    "type": "article",
+    "title": "第29.143条",
+    "line_start": 705,
+    "line_end": 769,
+    "source_anchor": "第29.143条"
+  },
+  "article:29.151": {
+    "node_id": "article:29.151",
+    "type": "article",
+    "title": "第29.151条",
+    "line_start": 770,
+    "line_end": 775,
+    "source_anchor": "第29.151条"
+  },
+  "article:29.161": {
+    "node_id": "article:29.161",
+    "type": "article",
+    "title": "第29.161条",
+    "line_start": 776,
+    "line_end": 781,
+    "source_anchor": "第29.161条"
+  },
+  "article:29.171": {
+    "node_id": "article:29.171",
+    "type": "article",
+    "title": "第29.171条",
+    "line_start": 782,
+    "line_end": 786,
+    "source_anchor": "第29.171条"
+  },
+  "article:29.173": {
+    "node_id": "article:29.173",
+    "type": "article",
+    "title": "第29.173条",
+    "line_start": 787,
+    "line_end": 796,
+    "source_anchor": "第29.173条"
+  },
+  "article:29.175": {
+    "node_id": "article:29.175",
+    "type": "article",
+    "title": "第29.175条",
+    "line_start": 804,
+    "line_end": 855,
+    "source_anchor": "第29.175条"
+  },
+  "article:29.177": {
+    "node_id": "article:29.177",
+    "type": "article",
+    "title": "第29.177条",
+    "line_start": 856,
+    "line_end": 878,
+    "source_anchor": "第29.177条"
+  },
+  "article:29.181": {
+    "node_id": "article:29.181",
+    "type": "article",
+    "title": "第29.181条",
+    "line_start": 879,
+    "line_end": 882,
+    "source_anchor": "第29.181条"
+  },
+  "article:29.231": {
+    "node_id": "article:29.231",
+    "type": "article",
+    "title": "第29.231条",
+    "line_start": 885,
+    "line_end": 888,
+    "source_anchor": "第29.231条"
+  },
+  "article:29.235": {
+    "node_id": "article:29.235",
+    "type": "article",
+    "title": "第29.235条",
+    "line_start": 889,
+    "line_end": 892,
+    "source_anchor": "第29.235条"
+  },
+  "article:29.239": {
+    "node_id": "article:29.239",
+    "type": "article",
+    "title": "第29.239条",
+    "line_start": 893,
+    "line_end": 897,
+    "source_anchor": "第29.239条"
+  },
+  "article:29.241": {
+    "node_id": "article:29.241",
+    "type": "article",
+    "title": "第29.241条",
+    "line_start": 898,
+    "line_end": 904,
+    "source_anchor": "第29.241条"
+  },
+  "article:29.251": {
+    "node_id": "article:29.251",
+    "type": "article",
+    "title": "第29.251条",
+    "line_start": 907,
+    "line_end": 910,
+    "source_anchor": "第29.251条"
+  },
+  "article:29.301": {
+    "node_id": "article:29.301",
+    "type": "article",
+    "title": "第29.301条",
+    "line_start": 915,
+    "line_end": 924,
+    "source_anchor": "第29.301条"
+  },
+  "article:29.303": {
+    "node_id": "article:29.303",
+    "type": "article",
+    "title": "第29.303条",
+    "line_start": 925,
+    "line_end": 928,
+    "source_anchor": "第29.303条"
+  },
+  "article:29.305": {
+    "node_id": "article:29.305",
+    "type": "article",
+    "title": "第29.305条",
+    "line_start": 929,
+    "line_end": 942,
+    "source_anchor": "第29.305条"
+  },
+  "article:29.307": {
+    "node_id": "article:29.307",
+    "type": "article",
+    "title": "第29.307条",
+    "line_start": 943,
+    "line_end": 956,
+    "source_anchor": "第29.307条"
+  },
+  "article:29.309": {
+    "node_id": "article:29.309",
+    "type": "article",
+    "title": "第29.309条",
+    "line_start": 957,
+    "line_end": 972,
+    "source_anchor": "第29.309条"
+  },
+  "article:29.321": {
+    "node_id": "article:29.321",
+    "type": "article",
+    "title": "第29.321条",
+    "line_start": 975,
+    "line_end": 983,
+    "source_anchor": "第29.321条"
+  },
+  "article:29.337": {
+    "node_id": "article:29.337",
+    "type": "article",
+    "title": "第29.337条 条至第29.341 条规定的某一较小的载荷系数乘以经申",
+    "line_start": 3505,
+    "line_end": 3582,
+    "source_anchor": "第29.337条"
+  },
+  "article:29.339": {
+    "node_id": "article:29.339",
+    "type": "article",
+    "title": "第29.339条",
+    "line_start": 999,
+    "line_end": 1023,
+    "source_anchor": "第29.339条"
+  },
+  "article:29.341": {
+    "node_id": "article:29.341",
+    "type": "article",
+    "title": "第29.341条 条和第29.351 条中规定的下列载荷:",
+    "line_start": 1541,
+    "line_end": 1560,
+    "source_anchor": "第29.341条"
+  },
+  "article:29.351": {
+    "node_id": "article:29.351",
+    "type": "article",
+    "title": "第29.351条",
+    "line_start": 1029,
+    "line_end": 1057,
+    "source_anchor": "第29.351条"
+  },
+  "article:29.361": {
+    "node_id": "article:29.361",
+    "type": "article",
+    "title": "第29.361条",
+    "line_start": 1058,
+    "line_end": 1076,
+    "source_anchor": "第29.361条"
+  },
+  "article:29.391": {
+    "node_id": "article:29.391",
+    "type": "article",
+    "title": "第29.391条",
+    "line_start": 1079,
+    "line_end": 1082,
+    "source_anchor": "第29.391条"
+  },
+  "article:29.397": {
+    "node_id": "article:29.397",
+    "type": "article",
+    "title": "第29.397条",
+    "line_start": 1118,
+    "line_end": 1147,
+    "source_anchor": "第29.397条"
+  },
+  "article:29.395": {
+    "node_id": "article:29.395",
+    "type": "article",
+    "title": "第29.395条 条规定的驾驶员作用力的0.75 倍所产生的载荷,其操",
+    "line_start": 1151,
+    "line_end": 1154,
+    "source_anchor": "第29.395条"
+  },
+  "article:29.399": {
+    "node_id": "article:29.399",
+    "type": "article",
+    "title": "第29.399条",
+    "line_start": 1148,
+    "line_end": 1150,
+    "source_anchor": "第29.399条"
+  },
+  "article:29.411": {
+    "node_id": "article:29.411",
+    "type": "article",
+    "title": "第29.411条",
+    "line_start": 1155,
+    "line_end": 1161,
+    "source_anchor": "第29.411条"
+  },
+  "article:29.427": {
+    "node_id": "article:29.427",
+    "type": "article",
+    "title": "第29.427条",
+    "line_start": 1162,
+    "line_end": 1181,
+    "source_anchor": "第29.427条"
+  },
+  "article:29.471": {
+    "node_id": "article:29.471",
+    "type": "article",
+    "title": "第29.471条",
+    "line_start": 1184,
+    "line_end": 1198,
+    "source_anchor": "第29.471条"
+  },
+  "article:29.473": {
+    "node_id": "article:29.473",
+    "type": "article",
+    "title": "第29.473条",
+    "line_start": 1199,
+    "line_end": 1205,
+    "source_anchor": "第29.473条"
+  },
+  "article:29.725": {
+    "node_id": "article:29.725",
+    "type": "article",
+    "title": "第29.725条",
+    "line_start": 2388,
+    "line_end": 2451,
+    "source_anchor": "第29.725条"
+  },
+  "article:29.475": {
+    "node_id": "article:29.475",
+    "type": "article",
+    "title": "第29.475条",
+    "line_start": 1210,
+    "line_end": 1213,
+    "source_anchor": "第29.475条"
+  },
+  "article:29.477": {
+    "node_id": "article:29.477",
+    "type": "article",
+    "title": "第29.477条",
+    "line_start": 1214,
+    "line_end": 1216,
+    "source_anchor": "第29.477条"
+  },
+  "article:29.493": {
+    "node_id": "article:29.493",
+    "type": "article",
+    "title": "第29.493条 、第29.505 条和第29.521 条中规定的适用的地",
+    "line_start": 1598,
+    "line_end": 1600,
+    "source_anchor": "第29.493条"
+  },
+  "article:29.479": {
+    "node_id": "article:29.479",
+    "type": "article",
+    "title": "第29.479条",
+    "line_start": 1219,
+    "line_end": 1247,
+    "source_anchor": "第29.479条"
+  },
+  "article:29.481": {
+    "node_id": "article:29.481",
+    "type": "article",
+    "title": "第29.481条",
+    "line_start": 1248,
+    "line_end": 1256,
+    "source_anchor": "第29.481条"
+  },
+  "article:29.483": {
+    "node_id": "article:29.483",
+    "type": "article",
+    "title": "第29.483条",
+    "line_start": 1257,
+    "line_end": 1263,
+    "source_anchor": "第29.483条"
+  },
+  "article:29.485": {
+    "node_id": "article:29.485",
+    "type": "article",
+    "title": "第29.485条",
+    "line_start": 1264,
+    "line_end": 1284,
+    "source_anchor": "第29.485条"
+  },
+  "article:29.497": {
+    "node_id": "article:29.497",
+    "type": "article",
+    "title": "第29.497条",
+    "line_start": 1297,
+    "line_end": 1372,
+    "source_anchor": "第29.497条"
+  },
+  "article:29.501": {
+    "node_id": "article:29.501",
+    "type": "article",
+    "title": "第29.501条",
+    "line_start": 1373,
+    "line_end": 1445,
+    "source_anchor": "第29.501条"
+  },
+  "article:29.505": {
+    "node_id": "article:29.505",
+    "type": "article",
+    "title": "第29.505条",
+    "line_start": 1446,
+    "line_end": 1461,
+    "source_anchor": "第29.505条"
+  },
+  "article:29.511": {
+    "node_id": "article:29.511",
+    "type": "article",
+    "title": "第29.511条",
+    "line_start": 1462,
+    "line_end": 1474,
+    "source_anchor": "第29.511条"
+  },
+  "article:29.519": {
+    "node_id": "article:29.519",
+    "type": "article",
+    "title": "第29.519条 规定的水载荷,此载荷以局部和均布水压的形式,",
+    "line_start": 2591,
+    "line_end": 2592,
+    "source_anchor": "第29.519条"
+  },
+  "article:29.521": {
+    "node_id": "article:29.521",
+    "type": "article",
+    "title": "第29.521条",
+    "line_start": 1507,
+    "line_end": 1529,
+    "source_anchor": "第29.521条"
+  },
+  "article:29.547": {
+    "node_id": "article:29.547",
+    "type": "article",
+    "title": "第29.547条",
+    "line_start": 1532,
+    "line_end": 1540,
+    "source_anchor": "第29.547条"
+  },
+  "article:29.549": {
+    "node_id": "article:29.549",
+    "type": "article",
+    "title": "第29.549条",
+    "line_start": 1561,
+    "line_end": 1566,
+    "source_anchor": "第29.549条"
+  },
+  "article:29.551": {
+    "node_id": "article:29.551",
+    "type": "article",
+    "title": "第29.551条",
+    "line_start": 1592,
+    "line_end": 1597,
+    "source_anchor": "第29.551条"
+  },
+  "article:29.561": {
+    "node_id": "article:29.561",
+    "type": "article",
+    "title": "第29.561条",
+    "line_start": 1603,
+    "line_end": 1642,
+    "source_anchor": "第29.561条"
+  },
+  "article:29.562": {
+    "node_id": "article:29.562",
+    "type": "article",
+    "title": "第29.562条 条(c)款(5)项规定的情况除外。用肩带(约束上部躯体)",
+    "line_start": 2730,
+    "line_end": 2795,
+    "source_anchor": "第29.562条"
+  },
+  "article:29.563": {
+    "node_id": "article:29.563",
+    "type": "article",
+    "title": "第29.563条",
+    "line_start": 1741,
+    "line_end": 1782,
+    "source_anchor": "第29.563条"
+  },
+  "article:29.571": {
+    "node_id": "article:29.571",
+    "type": "article",
+    "title": "第29.571条 疲劳评定的要求。",
+    "line_start": 4170,
+    "line_end": 4178,
+    "source_anchor": "第29.571条"
+  },
+  "article:29.573": {
+    "node_id": "article:29.573",
+    "type": "article",
+    "title": "第29.573条",
+    "line_start": 1840,
+    "line_end": 1894,
+    "source_anchor": "第29.573条"
+  },
+  "article:29.1529": {
+    "node_id": "article:29.1529",
+    "type": "article",
+    "title": "第29.1529条",
+    "line_start": 6960,
+    "line_end": 6965,
+    "source_anchor": "第29.1529条"
+  },
+  "article:29.601": {
+    "node_id": "article:29.601",
+    "type": "article",
+    "title": "第29.601条",
+    "line_start": 1936,
+    "line_end": 1945,
+    "source_anchor": "第29.601条"
+  },
+  "article:29.602": {
+    "node_id": "article:29.602",
+    "type": "article",
+    "title": "第29.602条",
+    "line_start": 1946,
+    "line_end": 1955,
+    "source_anchor": "第29.602条"
+  },
+  "article:29.603": {
+    "node_id": "article:29.603",
+    "type": "article",
+    "title": "第29.603条",
+    "line_start": 1956,
+    "line_end": 1963,
+    "source_anchor": "第29.603条"
+  },
+  "article:29.605": {
+    "node_id": "article:29.605",
+    "type": "article",
+    "title": "第29.605条",
+    "line_start": 1964,
+    "line_end": 1974,
+    "source_anchor": "第29.605条"
+  },
+  "article:29.607": {
+    "node_id": "article:29.607",
+    "type": "article",
+    "title": "第29.607条",
+    "line_start": 1975,
+    "line_end": 1982,
+    "source_anchor": "第29.607条"
+  },
+  "article:29.609": {
+    "node_id": "article:29.609",
+    "type": "article",
+    "title": "第29.609条",
+    "line_start": 1983,
+    "line_end": 1992,
+    "source_anchor": "第29.609条"
+  },
+  "article:29.610": {
+    "node_id": "article:29.610",
+    "type": "article",
+    "title": "第29.610条",
+    "line_start": 1993,
+    "line_end": 2017,
+    "source_anchor": "第29.610条"
+  },
+  "article:29.611": {
+    "node_id": "article:29.611",
+    "type": "article",
+    "title": "第29.611条",
+    "line_start": 2018,
+    "line_end": 2028,
+    "source_anchor": "第29.611条"
+  },
+  "article:29.613": {
+    "node_id": "article:29.613",
+    "type": "article",
+    "title": "第29.613条",
+    "line_start": 2029,
+    "line_end": 2048,
+    "source_anchor": "第29.613条"
+  },
+  "article:29.619": {
+    "node_id": "article:29.619",
+    "type": "article",
+    "title": "第29.619条",
+    "line_start": 2049,
+    "line_end": 2068,
+    "source_anchor": "第29.619条"
+  },
+  "article:29.621": {
+    "node_id": "article:29.621",
+    "type": "article",
+    "title": "第29.621条",
+    "line_start": 2069,
+    "line_end": 2130,
+    "source_anchor": "第29.621条"
+  },
+  "article:29.623": {
+    "node_id": "article:29.623",
+    "type": "article",
+    "title": "第29.623条",
+    "line_start": 2131,
+    "line_end": 2146,
+    "source_anchor": "第29.623条"
+  },
+  "article:29.625": {
+    "node_id": "article:29.625",
+    "type": "article",
+    "title": "第29.625条",
+    "line_start": 2147,
+    "line_end": 2166,
+    "source_anchor": "第29.625条"
+  },
+  "article:29.629": {
+    "node_id": "article:29.629",
+    "type": "article",
+    "title": "第29.629条",
+    "line_start": 2167,
+    "line_end": 2174,
+    "source_anchor": "第29.629条"
+  },
+  "article:29.631": {
+    "node_id": "article:29.631",
+    "type": "article",
+    "title": "第29.631条",
+    "line_start": 2178,
+    "line_end": 2184,
+    "source_anchor": "第29.631条"
+  },
+  "article:29.653": {
+    "node_id": "article:29.653",
+    "type": "article",
+    "title": "第29.653条",
+    "line_start": 2185,
+    "line_end": 2192,
+    "source_anchor": "第29.653条"
+  },
+  "article:29.659": {
+    "node_id": "article:29.659",
+    "type": "article",
+    "title": "第29.659条",
+    "line_start": 2193,
+    "line_end": 2202,
+    "source_anchor": "第29.659条"
+  },
+  "article:29.661": {
+    "node_id": "article:29.661",
+    "type": "article",
+    "title": "第29.661条",
+    "line_start": 2203,
+    "line_end": 2206,
+    "source_anchor": "第29.661条"
+  },
+  "article:29.663": {
+    "node_id": "article:29.663",
+    "type": "article",
+    "title": "第29.663条",
+    "line_start": 2207,
+    "line_end": 2214,
+    "source_anchor": "第29.663条"
+  },
+  "article:29.671": {
+    "node_id": "article:29.671",
+    "type": "article",
+    "title": "第29.671条",
+    "line_start": 2217,
+    "line_end": 2230,
+    "source_anchor": "第29.671条"
+  },
+  "article:29.672": {
+    "node_id": "article:29.672",
+    "type": "article",
+    "title": "第29.672条",
+    "line_start": 2231,
+    "line_end": 2257,
+    "source_anchor": "第29.672条"
+  },
+  "article:29.673": {
+    "node_id": "article:29.673",
+    "type": "article",
+    "title": "第29.673条",
+    "line_start": 2258,
+    "line_end": 2261,
+    "source_anchor": "第29.673条"
+  },
+  "article:29.674": {
+    "node_id": "article:29.674",
+    "type": "article",
+    "title": "第29.674条",
+    "line_start": 2262,
+    "line_end": 2266,
+    "source_anchor": "第29.674条"
+  },
+  "article:29.675": {
+    "node_id": "article:29.675",
+    "type": "article",
+    "title": "第29.675条",
+    "line_start": 2267,
+    "line_end": 2286,
+    "source_anchor": "第29.675条"
+  },
+  "article:29.679": {
+    "node_id": "article:29.679",
+    "type": "article",
+    "title": "第29.679条",
+    "line_start": 2287,
+    "line_end": 2294,
+    "source_anchor": "第29.679条"
+  },
+  "article:29.681": {
+    "node_id": "article:29.681",
+    "type": "article",
+    "title": "第29.681条",
+    "line_start": 2295,
+    "line_end": 2304,
+    "source_anchor": "第29.681条"
+  },
+  "article:29.683": {
+    "node_id": "article:29.683",
+    "type": "article",
+    "title": "第29.683条",
+    "line_start": 2305,
+    "line_end": 2316,
+    "source_anchor": "第29.683条"
+  },
+  "article:29.685": {
+    "node_id": "article:29.685",
+    "type": "article",
+    "title": "第29.685条",
+    "line_start": 2317,
+    "line_end": 2353,
+    "source_anchor": "第29.685条"
+  },
+  "article:29.687": {
+    "node_id": "article:29.687",
+    "type": "article",
+    "title": "第29.687条",
+    "line_start": 2354,
+    "line_end": 2359,
+    "source_anchor": "第29.687条"
+  },
+  "article:29.691": {
+    "node_id": "article:29.691",
+    "type": "article",
+    "title": "第29.691条",
+    "line_start": 2360,
+    "line_end": 2363,
+    "source_anchor": "第29.691条"
+  },
+  "article:29.695": {
+    "node_id": "article:29.695",
+    "type": "article",
+    "title": "第29.695条",
+    "line_start": 2364,
+    "line_end": 2379,
+    "source_anchor": "第29.695条"
+  },
+  "article:29.723": {
+    "node_id": "article:29.723",
+    "type": "article",
+    "title": "第29.723条",
+    "line_start": 2382,
+    "line_end": 2387,
+    "source_anchor": "第29.723条"
+  },
+  "article:29.727": {
+    "node_id": "article:29.727",
+    "type": "article",
+    "title": "第29.727条",
+    "line_start": 2452,
+    "line_end": 2462,
+    "source_anchor": "第29.727条"
+  },
+  "article:29.729": {
+    "node_id": "article:29.729",
+    "type": "article",
+    "title": "第29.729条",
+    "line_start": 2463,
+    "line_end": 2490,
+    "source_anchor": "第29.729条"
+  },
+  "article:29.779": {
+    "node_id": "article:29.779",
+    "type": "article",
+    "title": "第29.779条",
+    "line_start": 2663,
+    "line_end": 2674,
+    "source_anchor": "第29.779条"
+  },
+  "article:29.731": {
+    "node_id": "article:29.731",
+    "type": "article",
+    "title": "第29.731条",
+    "line_start": 2501,
+    "line_end": 2509,
+    "source_anchor": "第29.731条"
+  },
+  "article:29.733": {
+    "node_id": "article:29.733",
+    "type": "article",
+    "title": "第29.733条",
+    "line_start": 2510,
+    "line_end": 2531,
+    "source_anchor": "第29.733条"
+  },
+  "article:29.735": {
+    "node_id": "article:29.735",
+    "type": "article",
+    "title": "第29.735条",
+    "line_start": 2532,
+    "line_end": 2541,
+    "source_anchor": "第29.735条"
+  },
+  "article:29.737": {
+    "node_id": "article:29.737",
+    "type": "article",
+    "title": "第29.737条",
+    "line_start": 2542,
+    "line_end": 2552,
+    "source_anchor": "第29.737条"
+  },
+  "article:29.751": {
+    "node_id": "article:29.751",
+    "type": "article",
+    "title": "第29.751条",
+    "line_start": 2555,
+    "line_end": 2564,
+    "source_anchor": "第29.751条"
+  },
+  "article:29.753": {
+    "node_id": "article:29.753",
+    "type": "article",
+    "title": "第29.753条",
+    "line_start": 2565,
+    "line_end": 2579,
+    "source_anchor": "第29.753条"
+  },
+  "article:29.755": {
+    "node_id": "article:29.755",
+    "type": "article",
+    "title": "第29.755条",
+    "line_start": 2580,
+    "line_end": 2587,
+    "source_anchor": "第29.755条"
+  },
+  "article:29.757": {
+    "node_id": "article:29.757",
+    "type": "article",
+    "title": "第29.757条",
+    "line_start": 2588,
+    "line_end": 2590,
+    "source_anchor": "第29.757条"
+  },
+  "article:29.771": {
+    "node_id": "article:29.771",
+    "type": "article",
+    "title": "第29.771条",
+    "line_start": 2595,
+    "line_end": 2609,
+    "source_anchor": "第29.771条"
+  },
+  "article:29.773": {
+    "node_id": "article:29.773",
+    "type": "article",
+    "title": "第29.773条",
+    "line_start": 2610,
+    "line_end": 2647,
+    "source_anchor": "第29.773条"
+  },
+  "article:29.775": {
+    "node_id": "article:29.775",
+    "type": "article",
+    "title": "第29.775条",
+    "line_start": 2648,
+    "line_end": 2650,
+    "source_anchor": "第29.775条"
+  },
+  "article:29.777": {
+    "node_id": "article:29.777",
+    "type": "article",
+    "title": "第29.777条 条的规定,并按照第29.1555 条的要求作标记。",
+    "line_start": 5110,
+    "line_end": 5131,
+    "source_anchor": "第29.777条"
+  },
+  "article:29.783": {
+    "node_id": "article:29.783",
+    "type": "article",
+    "title": "第29.783条 条(d)款规定的极限惯性力造成的机身变形而被卡住的",
+    "line_start": 2981,
+    "line_end": 3019,
+    "source_anchor": "第29.783条"
+  },
+  "article:29.785": {
+    "node_id": "article:29.785",
+    "type": "article",
+    "title": "第29.785条",
+    "line_start": 2720,
+    "line_end": 2729,
+    "source_anchor": "第29.785条"
+  },
+  "article:29.787": {
+    "node_id": "article:29.787",
+    "type": "article",
+    "title": "第29.787条",
+    "line_start": 2796,
+    "line_end": 2811,
+    "source_anchor": "第29.787条"
+  },
+  "article:29.801": {
+    "node_id": "article:29.801",
+    "type": "article",
+    "title": "第29.801条",
+    "line_start": 2812,
+    "line_end": 2815,
+    "source_anchor": "第29.801条"
+  },
+  "article:29.1415": {
+    "node_id": "article:29.1415",
+    "type": "article",
+    "title": "第29.1415条",
+    "line_start": 6425,
+    "line_end": 6438,
+    "source_anchor": "第29.1415条"
+  },
+  "article:29.805": {
+    "node_id": "article:29.805",
+    "type": "article",
+    "title": "第29.805条",
+    "line_start": 2868,
+    "line_end": 2880,
+    "source_anchor": "第29.805条"
+  },
+  "article:29.807": {
+    "node_id": "article:29.807",
+    "type": "article",
+    "title": "第29.807条",
+    "line_start": 2881,
+    "line_end": 2966,
+    "source_anchor": "第29.807条"
+  },
+  "article:29.809": {
+    "node_id": "article:29.809",
+    "type": "article",
+    "title": "第29.809条",
+    "line_start": 2967,
+    "line_end": 2980,
+    "source_anchor": "第29.809条"
+  },
+  "article:29.811": {
+    "node_id": "article:29.811",
+    "type": "article",
+    "title": "第29.811条",
+    "line_start": 3032,
+    "line_end": 3086,
+    "source_anchor": "第29.811条"
+  },
+  "article:29.812": {
+    "node_id": "article:29.812",
+    "type": "article",
+    "title": "第29.812条",
+    "line_start": 3087,
+    "line_end": 3162,
+    "source_anchor": "第29.812条"
+  },
+  "article:29.815": {
+    "node_id": "article:29.815",
+    "type": "article",
+    "title": "第29.815条",
+    "line_start": 3163,
+    "line_end": 3186,
+    "source_anchor": "第29.815条"
+  },
+  "article:29.831": {
+    "node_id": "article:29.831",
+    "type": "article",
+    "title": "第29.831条",
+    "line_start": 3187,
+    "line_end": 3217,
+    "source_anchor": "第29.831条"
+  },
+  "article:29.833": {
+    "node_id": "article:29.833",
+    "type": "article",
+    "title": "第29.833条",
+    "line_start": 3218,
+    "line_end": 3220,
+    "source_anchor": "第29.833条"
+  },
+  "article:29.851": {
+    "node_id": "article:29.851",
+    "type": "article",
+    "title": "第29.851条",
+    "line_start": 3224,
+    "line_end": 3239,
+    "source_anchor": "第29.851条"
+  },
+  "article:29.853": {
+    "node_id": "article:29.853",
+    "type": "article",
+    "title": "第29.853条",
+    "line_start": 3240,
+    "line_end": 3316,
+    "source_anchor": "第29.853条"
+  },
+  "article:29.855": {
+    "node_id": "article:29.855",
+    "type": "article",
+    "title": "第29.855条",
+    "line_start": 3317,
+    "line_end": 3369,
+    "source_anchor": "第29.855条"
+  },
+  "article:29.859": {
+    "node_id": "article:29.859",
+    "type": "article",
+    "title": "第29.859条",
+    "line_start": 3370,
+    "line_end": 3373,
+    "source_anchor": "第29.859条"
+  },
+  "article:29.1191": {
+    "node_id": "article:29.1191",
+    "type": "article",
+    "title": "第29.1191条",
+    "line_start": 5339,
+    "line_end": 5360,
+    "source_anchor": "第29.1191条"
+  },
+  "article:29.1123": {
+    "node_id": "article:29.1123",
+    "type": "article",
+    "title": "第29.1123条",
+    "line_start": 5076,
+    "line_end": 5083,
+    "source_anchor": "第29.1123条"
+  },
+  "article:29.861": {
+    "node_id": "article:29.861",
+    "type": "article",
+    "title": "第29.861条",
+    "line_start": 3459,
+    "line_end": 3468,
+    "source_anchor": "第29.861条"
+  },
+  "article:29.863": {
+    "node_id": "article:29.863",
+    "type": "article",
+    "title": "第29.863条 条中有关的防火和防烟要求。",
+    "line_start": 6062,
+    "line_end": 6067,
+    "source_anchor": "第29.863条"
+  },
+  "article:29.871": {
+    "node_id": "article:29.871",
+    "type": "article",
+    "title": "第29.871条",
+    "line_start": 3586,
+    "line_end": 3588,
+    "source_anchor": "第29.871条"
+  },
+  "article:29.873": {
+    "node_id": "article:29.873",
+    "type": "article",
+    "title": "第29.873条",
+    "line_start": 3589,
+    "line_end": 3592,
+    "source_anchor": "第29.873条"
+  },
+  "article:29.901": {
+    "node_id": "article:29.901",
+    "type": "article",
+    "title": "第29.901条",
+    "line_start": 3597,
+    "line_end": 3630,
+    "source_anchor": "第29.901条"
+  },
+  "article:29.903": {
+    "node_id": "article:29.903",
+    "type": "article",
+    "title": "第29.903条",
+    "line_start": 3631,
+    "line_end": 3639,
+    "source_anchor": "第29.903条"
+  },
+  "article:33.49": {
+    "node_id": "article:33.49",
+    "type": "article",
+    "title": "第33.49条 条(d)款的要求,或者按其预定的用途以其他方式批准。",
+    "line_start": 3640,
+    "line_end": 3674,
+    "source_anchor": "第33.49条"
+  },
+  "article:29.907": {
+    "node_id": "article:29.907",
+    "type": "article",
+    "title": "第29.907条",
+    "line_start": 3675,
+    "line_end": 3681,
+    "source_anchor": "第29.907条"
+  },
+  "article:29.908": {
+    "node_id": "article:29.908",
+    "type": "article",
+    "title": "第29.908条",
+    "line_start": 3682,
+    "line_end": 3707,
+    "source_anchor": "第29.908条"
+  },
+  "article:29.917": {
+    "node_id": "article:29.917",
+    "type": "article",
+    "title": "第29.917条",
+    "line_start": 3710,
+    "line_end": 3745,
+    "source_anchor": "第29.917条"
+  },
+  "article:29.921": {
+    "node_id": "article:29.921",
+    "type": "article",
+    "title": "第29.921条",
+    "line_start": 3746,
+    "line_end": 3750,
+    "source_anchor": "第29.921条"
+  },
+  "article:29.923": {
+    "node_id": "article:29.923",
+    "type": "article",
+    "title": "第29.923条",
+    "line_start": 3751,
+    "line_end": 3961,
+    "source_anchor": "第29.923条"
+  },
+  "article:29.927": {
+    "node_id": "article:29.927",
+    "type": "article",
+    "title": "第29.927条",
+    "line_start": 3962,
+    "line_end": 4019,
+    "source_anchor": "第29.927条"
+  },
+  "article:29.931": {
+    "node_id": "article:29.931",
+    "type": "article",
+    "title": "第29.931条",
+    "line_start": 4020,
+    "line_end": 4033,
+    "source_anchor": "第29.931条"
+  },
+  "article:29.935": {
+    "node_id": "article:29.935",
+    "type": "article",
+    "title": "第29.935条",
+    "line_start": 4034,
+    "line_end": 4037,
+    "source_anchor": "第29.935条"
+  },
+  "article:29.939": {
+    "node_id": "article:29.939",
+    "type": "article",
+    "title": "第29.939条",
+    "line_start": 4038,
+    "line_end": 4047,
+    "source_anchor": "第29.939条"
+  },
+  "article:29.951": {
+    "node_id": "article:29.951",
+    "type": "article",
+    "title": "第29.951条",
+    "line_start": 4050,
+    "line_end": 4067,
+    "source_anchor": "第29.951条"
+  },
+  "article:29.952": {
+    "node_id": "article:29.952",
+    "type": "article",
+    "title": "第29.952条 条(c)款所述的可生存撞击中必须是抗坠撞的。此外,",
+    "line_start": 4397,
+    "line_end": 4410,
+    "source_anchor": "第29.952条"
+  },
+  "article:29.953": {
+    "node_id": "article:29.953",
+    "type": "article",
+    "title": "第29.953条",
+    "line_start": 4179,
+    "line_end": 4191,
+    "source_anchor": "第29.953条"
+  },
+  "article:29.954": {
+    "node_id": "article:29.954",
+    "type": "article",
+    "title": "第29.954条",
+    "line_start": 4192,
+    "line_end": 4198,
+    "source_anchor": "第29.954条"
+  },
+  "article:29.955": {
+    "node_id": "article:29.955",
+    "type": "article",
+    "title": "第29.955条",
+    "line_start": 4199,
+    "line_end": 4238,
+    "source_anchor": "第29.955条"
+  },
+  "article:29.957": {
+    "node_id": "article:29.957",
+    "type": "article",
+    "title": "第29.957条",
+    "line_start": 4239,
+    "line_end": 4252,
+    "source_anchor": "第29.957条"
+  },
+  "article:29.959": {
+    "node_id": "article:29.959",
+    "type": "article",
+    "title": "第29.959条",
+    "line_start": 4253,
+    "line_end": 4257,
+    "source_anchor": "第29.959条"
+  },
+  "article:29.961": {
+    "node_id": "article:29.961",
+    "type": "article",
+    "title": "第29.961条",
+    "line_start": 4258,
+    "line_end": 4264,
+    "source_anchor": "第29.961条"
+  },
+  "article:29.963": {
+    "node_id": "article:29.963",
+    "type": "article",
+    "title": "第29.963条",
+    "line_start": 4265,
+    "line_end": 4284,
+    "source_anchor": "第29.963条"
+  },
+  "article:29.965": {
+    "node_id": "article:29.965",
+    "type": "article",
+    "title": "第29.965条",
+    "line_start": 4287,
+    "line_end": 4342,
+    "source_anchor": "第29.965条"
+  },
+  "article:29.967": {
+    "node_id": "article:29.967",
+    "type": "article",
+    "title": "第29.967条",
+    "line_start": 4343,
+    "line_end": 4369,
+    "source_anchor": "第29.967条"
+  },
+  "article:29.969": {
+    "node_id": "article:29.969",
+    "type": "article",
+    "title": "第29.969条",
+    "line_start": 4370,
+    "line_end": 4374,
+    "source_anchor": "第29.969条"
+  },
+  "article:29.971": {
+    "node_id": "article:29.971",
+    "type": "article",
+    "title": "第29.971条",
+    "line_start": 4375,
+    "line_end": 4392,
+    "source_anchor": "第29.971条"
+  },
+  "article:29.973": {
+    "node_id": "article:29.973",
+    "type": "article",
+    "title": "第29.973条",
+    "line_start": 4393,
+    "line_end": 4396,
+    "source_anchor": "第29.973条"
+  },
+  "article:29.975": {
+    "node_id": "article:29.975",
+    "type": "article",
+    "title": "第29.975条",
+    "line_start": 4411,
+    "line_end": 4443,
+    "source_anchor": "第29.975条"
+  },
+  "article:29.977": {
+    "node_id": "article:29.977",
+    "type": "article",
+    "title": "第29.977条",
+    "line_start": 4444,
+    "line_end": 4455,
+    "source_anchor": "第29.977条"
+  },
+  "article:29.979": {
+    "node_id": "article:29.979",
+    "type": "article",
+    "title": "第29.979条",
+    "line_start": 4456,
+    "line_end": 4472,
+    "source_anchor": "第29.979条"
+  },
+  "article:29.991": {
+    "node_id": "article:29.991",
+    "type": "article",
+    "title": "第29.991条",
+    "line_start": 4475,
+    "line_end": 4496,
+    "source_anchor": "第29.991条"
+  },
+  "article:29.993": {
+    "node_id": "article:29.993",
+    "type": "article",
+    "title": "第29.993条",
+    "line_start": 4497,
+    "line_end": 4507,
+    "source_anchor": "第29.993条"
+  },
+  "article:29.995": {
+    "node_id": "article:29.995",
+    "type": "article",
+    "title": "第29.995条",
+    "line_start": 4508,
+    "line_end": 4518,
+    "source_anchor": "第29.995条"
+  },
+  "article:29.997": {
+    "node_id": "article:29.997",
+    "type": "article",
+    "title": "第29.997条",
+    "line_start": 4519,
+    "line_end": 4533,
+    "source_anchor": "第29.997条"
+  },
+  "article:29.999": {
+    "node_id": "article:29.999",
+    "type": "article",
+    "title": "第29.999条",
+    "line_start": 4534,
+    "line_end": 4550,
+    "source_anchor": "第29.999条"
+  },
+  "article:29.1001": {
+    "node_id": "article:29.1001",
+    "type": "article",
+    "title": "第29.1001条",
+    "line_start": 4551,
+    "line_end": 4576,
+    "source_anchor": "第29.1001条"
+  },
+  "article:29.1011": {
+    "node_id": "article:29.1011",
+    "type": "article",
+    "title": "第29.1011条",
+    "line_start": 4579,
+    "line_end": 4592,
+    "source_anchor": "第29.1011条"
+  },
+  "article:29.1013": {
+    "node_id": "article:29.1013",
+    "type": "article",
+    "title": "第29.1013条 条(c)款、(d)款和(f)款,第29.1015 条,第29.1017",
+    "line_start": 4727,
+    "line_end": 4749,
+    "source_anchor": "第29.1013条"
+  },
+  "article:29.1015": {
+    "node_id": "article:29.1015",
+    "type": "article",
+    "title": "第29.1015条",
+    "line_start": 4641,
+    "line_end": 4655,
+    "source_anchor": "第29.1015条"
+  },
+  "article:29.1017": {
+    "node_id": "article:29.1017",
+    "type": "article",
+    "title": "第29.1017条",
+    "line_start": 4656,
+    "line_end": 4664,
+    "source_anchor": "第29.1017条"
+  },
+  "article:29.1019": {
+    "node_id": "article:29.1019",
+    "type": "article",
+    "title": "第29.1019条",
+    "line_start": 4665,
+    "line_end": 4691,
+    "source_anchor": "第29.1019条"
+  },
+  "article:29.1021": {
+    "node_id": "article:29.1021",
+    "type": "article",
+    "title": "第29.1021条 和第29.1337 条(d)款的要求。",
+    "line_start": 4750,
+    "line_end": 4750,
+    "source_anchor": "第29.1021条"
+  },
+  "article:29.1023": {
+    "node_id": "article:29.1023",
+    "type": "article",
+    "title": "第29.1023条",
+    "line_start": 4699,
+    "line_end": 4709,
+    "source_anchor": "第29.1023条"
+  },
+  "article:29.1025": {
+    "node_id": "article:29.1025",
+    "type": "article",
+    "title": "第29.1025条",
+    "line_start": 4710,
+    "line_end": 4718,
+    "source_anchor": "第29.1025条"
+  },
+  "article:29.1027": {
+    "node_id": "article:29.1027",
+    "type": "article",
+    "title": "第29.1027条",
+    "line_start": 4719,
+    "line_end": 4726,
+    "source_anchor": "第29.1027条"
+  },
+  "article:29.1041": {
+    "node_id": "article:29.1041",
+    "type": "article",
+    "title": "第29.1041条",
+    "line_start": 4754,
+    "line_end": 4771,
+    "source_anchor": "第29.1041条"
+  },
+  "article:29.1043": {
+    "node_id": "article:29.1043",
+    "type": "article",
+    "title": "第29.1043条",
+    "line_start": 4772,
+    "line_end": 4814,
+    "source_anchor": "第29.1043条"
+  },
+  "article:29.1045": {
+    "node_id": "article:29.1045",
+    "type": "article",
+    "title": "第29.1045条",
+    "line_start": 4815,
+    "line_end": 4857,
+    "source_anchor": "第29.1045条"
+  },
+  "article:29.1047": {
+    "node_id": "article:29.1047",
+    "type": "article",
+    "title": "第29.1047条",
+    "line_start": 4860,
+    "line_end": 4909,
+    "source_anchor": "第29.1047条"
+  },
+  "article:29.1049": {
+    "node_id": "article:29.1049",
+    "type": "article",
+    "title": "第29.1049条 条有关冷却规定时的最高外界大气温",
+    "line_start": 6850,
+    "line_end": 6933,
+    "source_anchor": "第29.1049条"
+  },
+  "article:29.1091": {
+    "node_id": "article:29.1091",
+    "type": "article",
+    "title": "第29.1091条",
+    "line_start": 4923,
+    "line_end": 4946,
+    "source_anchor": "第29.1091条"
+  },
+  "article:29.1093": {
+    "node_id": "article:29.1093",
+    "type": "article",
+    "title": "第29.1093条",
+    "line_start": 4947,
+    "line_end": 4989,
+    "source_anchor": "第29.1093条"
+  },
+  "article:29.1101": {
+    "node_id": "article:29.1101",
+    "type": "article",
+    "title": "第29.1101条",
+    "line_start": 4990,
+    "line_end": 4995,
+    "source_anchor": "第29.1101条"
+  },
+  "article:29.1103": {
+    "node_id": "article:29.1103",
+    "type": "article",
+    "title": "第29.1103条",
+    "line_start": 4996,
+    "line_end": 5023,
+    "source_anchor": "第29.1103条"
+  },
+  "article:29.1105": {
+    "node_id": "article:29.1105",
+    "type": "article",
+    "title": "第29.1105条",
+    "line_start": 5024,
+    "line_end": 5031,
+    "source_anchor": "第29.1105条"
+  },
+  "article:29.1107": {
+    "node_id": "article:29.1107",
+    "type": "article",
+    "title": "第29.1107条",
+    "line_start": 5032,
+    "line_end": 5039,
+    "source_anchor": "第29.1107条"
+  },
+  "article:29.1109": {
+    "node_id": "article:29.1109",
+    "type": "article",
+    "title": "第29.1109条",
+    "line_start": 5040,
+    "line_end": 5044,
+    "source_anchor": "第29.1109条"
+  },
+  "article:29.1121": {
+    "node_id": "article:29.1121",
+    "type": "article",
+    "title": "第29.1121条",
+    "line_start": 5047,
+    "line_end": 5075,
+    "source_anchor": "第29.1121条"
+  },
+  "article:29.1125": {
+    "node_id": "article:29.1125",
+    "type": "article",
+    "title": "第29.1125条",
+    "line_start": 5084,
+    "line_end": 5104,
+    "source_anchor": "第29.1125条"
+  },
+  "article:29.1141": {
+    "node_id": "article:29.1141",
+    "type": "article",
+    "title": "第29.1141条",
+    "line_start": 5107,
+    "line_end": 5109,
+    "source_anchor": "第29.1141条"
+  },
+  "article:29.1142": {
+    "node_id": "article:29.1142",
+    "type": "article",
+    "title": "第29.1142条",
+    "line_start": 5132,
+    "line_end": 5135,
+    "source_anchor": "第29.1142条"
+  },
+  "article:29.1143": {
+    "node_id": "article:29.1143",
+    "type": "article",
+    "title": "第29.1143条",
+    "line_start": 5136,
+    "line_end": 5161,
+    "source_anchor": "第29.1143条"
+  },
+  "article:29.1145": {
+    "node_id": "article:29.1145",
+    "type": "article",
+    "title": "第29.1145条",
+    "line_start": 5162,
+    "line_end": 5168,
+    "source_anchor": "第29.1145条"
+  },
+  "article:29.1147": {
+    "node_id": "article:29.1147",
+    "type": "article",
+    "title": "第29.1147条",
+    "line_start": 5169,
+    "line_end": 5180,
+    "source_anchor": "第29.1147条"
+  },
+  "article:29.1151": {
+    "node_id": "article:29.1151",
+    "type": "article",
+    "title": "第29.1151条",
+    "line_start": 5181,
+    "line_end": 5185,
+    "source_anchor": "第29.1151条"
+  },
+  "article:29.1157": {
+    "node_id": "article:29.1157",
+    "type": "article",
+    "title": "第29.1157条",
+    "line_start": 5186,
+    "line_end": 5188,
+    "source_anchor": "第29.1157条"
+  },
+  "article:29.1159": {
+    "node_id": "article:29.1159",
+    "type": "article",
+    "title": "第29.1159条",
+    "line_start": 5189,
+    "line_end": 5194,
+    "source_anchor": "第29.1159条"
+  },
+  "article:29.1163": {
+    "node_id": "article:29.1163",
+    "type": "article",
+    "title": "第29.1163条",
+    "line_start": 5195,
+    "line_end": 5213,
+    "source_anchor": "第29.1163条"
+  },
+  "article:29.1165": {
+    "node_id": "article:29.1165",
+    "type": "article",
+    "title": "第29.1165条",
+    "line_start": 5214,
+    "line_end": 5239,
+    "source_anchor": "第29.1165条"
+  },
+  "article:29.1181": {
+    "node_id": "article:29.1181",
+    "type": "article",
+    "title": "第29.1181条",
+    "line_start": 5242,
+    "line_end": 5254,
+    "source_anchor": "第29.1181条"
+  },
+  "article:29.1203": {
+    "node_id": "article:29.1203",
+    "type": "article",
+    "title": "第29.1203条",
+    "line_start": 5457,
+    "line_end": 5482,
+    "source_anchor": "第29.1203条"
+  },
+  "article:29.1183": {
+    "node_id": "article:29.1183",
+    "type": "article",
+    "title": "第29.1183条",
+    "line_start": 5263,
+    "line_end": 5277,
+    "source_anchor": "第29.1183条"
+  },
+  "article:29.1185": {
+    "node_id": "article:29.1185",
+    "type": "article",
+    "title": "第29.1185条",
+    "line_start": 5278,
+    "line_end": 5294,
+    "source_anchor": "第29.1185条"
+  },
+  "article:29.1187": {
+    "node_id": "article:29.1187",
+    "type": "article",
+    "title": "第29.1187条",
+    "line_start": 5295,
+    "line_end": 5311,
+    "source_anchor": "第29.1187条"
+  },
+  "article:29.1189": {
+    "node_id": "article:29.1189",
+    "type": "article",
+    "title": "第29.1189条",
+    "line_start": 5312,
+    "line_end": 5338,
+    "source_anchor": "第29.1189条"
+  },
+  "article:29.1193": {
+    "node_id": "article:29.1193",
+    "type": "article",
+    "title": "第29.1193条",
+    "line_start": 5361,
+    "line_end": 5392,
+    "source_anchor": "第29.1193条"
+  },
+  "article:29.1194": {
+    "node_id": "article:29.1194",
+    "type": "article",
+    "title": "第29.1194条",
+    "line_start": 5393,
+    "line_end": 5401,
+    "source_anchor": "第29.1194条"
+  },
+  "article:29.1195": {
+    "node_id": "article:29.1195",
+    "type": "article",
+    "title": "第29.1195条",
+    "line_start": 5402,
+    "line_end": 5419,
+    "source_anchor": "第29.1195条"
+  },
+  "article:29.1197": {
+    "node_id": "article:29.1197",
+    "type": "article",
+    "title": "第29.1197条",
+    "line_start": 5420,
+    "line_end": 5434,
+    "source_anchor": "第29.1197条"
+  },
+  "article:29.1199": {
+    "node_id": "article:29.1199",
+    "type": "article",
+    "title": "第29.1199条",
+    "line_start": 5435,
+    "line_end": 5447,
+    "source_anchor": "第29.1199条"
+  },
+  "article:29.1201": {
+    "node_id": "article:29.1201",
+    "type": "article",
+    "title": "第29.1201条",
+    "line_start": 5448,
+    "line_end": 5456,
+    "source_anchor": "第29.1201条"
+  },
+  "article:29.1301": {
+    "node_id": "article:29.1301",
+    "type": "article",
+    "title": "第29.1301条",
+    "line_start": 5488,
+    "line_end": 5495,
+    "source_anchor": "第29.1301条"
+  },
+  "article:29.1303": {
+    "node_id": "article:29.1303",
+    "type": "article",
+    "title": "第29.1303条 条(h)款要求的陀螺航向指示器。",
+    "line_start": 7505,
+    "line_end": 7625,
+    "source_anchor": "第29.1303条"
+  },
+  "article:29.1305": {
+    "node_id": "article:29.1305",
+    "type": "article",
+    "title": "第29.1305条",
+    "line_start": 5533,
+    "line_end": 5634,
+    "source_anchor": "第29.1305条"
+  },
+  "article:29.1307": {
+    "node_id": "article:29.1307",
+    "type": "article",
+    "title": "第29.1307条",
+    "line_start": 5635,
+    "line_end": 5646,
+    "source_anchor": "第29.1307条"
+  },
+  "article:29.1309": {
+    "node_id": "article:29.1309",
+    "type": "article",
+    "title": "第29.1309条",
+    "line_start": 5647,
+    "line_end": 5676,
+    "source_anchor": "第29.1309条"
+  },
+  "article:29.1316": {
+    "node_id": "article:29.1316",
+    "type": "article",
+    "title": "第29.1316条 电子电气系统的闪电防护",
+    "line_start": 5677,
+    "line_end": 5687,
+    "source_anchor": "第29.1316条"
+  },
+  "article:29.1317": {
+    "node_id": "article:29.1317",
+    "type": "article",
+    "title": "第29.1317条 高强辐射场(HIRF)保护",
+    "line_start": 5688,
+    "line_end": 5712,
+    "source_anchor": "第29.1317条"
+  },
+  "article:29.1321": {
+    "node_id": "article:29.1321",
+    "type": "article",
+    "title": "第29.1321条",
+    "line_start": 5715,
+    "line_end": 5749,
+    "source_anchor": "第29.1321条"
+  },
+  "article:29.1322": {
+    "node_id": "article:29.1322",
+    "type": "article",
+    "title": "第29.1322条",
+    "line_start": 5750,
+    "line_end": 5761,
+    "source_anchor": "第29.1322条"
+  },
+  "article:29.1323": {
+    "node_id": "article:29.1323",
+    "type": "article",
+    "title": "第29.1323条",
+    "line_start": 5762,
+    "line_end": 5796,
+    "source_anchor": "第29.1323条"
+  },
+  "article:29.1325": {
+    "node_id": "article:29.1325",
+    "type": "article",
+    "title": "第29.1325条",
+    "line_start": 5797,
+    "line_end": 5818,
+    "source_anchor": "第29.1325条"
+  },
+  "article:185.2": {
+    "node_id": "article:185.2",
+    "type": "article",
+    "title": "第185.2条 千米/小时(100 节)不超过±10 米(30 英尺),速度",
+    "line_start": 5819,
+    "line_end": 5833,
+    "source_anchor": "第185.2条"
+  },
+  "article:29.1327": {
+    "node_id": "article:29.1327",
+    "type": "article",
+    "title": "第29.1327条 条适用精度要求的信号源,获取空速、高度和航向数",
+    "line_start": 6629,
+    "line_end": 6669,
+    "source_anchor": "第29.1327条"
+  },
+  "article:29.1329": {
+    "node_id": "article:29.1329",
+    "type": "article",
+    "title": "第29.1329条",
+    "line_start": 5839,
+    "line_end": 5868,
+    "source_anchor": "第29.1329条"
+  },
+  "article:29.1331": {
+    "node_id": "article:29.1331",
+    "type": "article",
+    "title": "第29.1331条",
+    "line_start": 5869,
+    "line_end": 5886,
+    "source_anchor": "第29.1331条"
+  },
+  "article:29.1333": {
+    "node_id": "article:29.1333",
+    "type": "article",
+    "title": "第29.1333条",
+    "line_start": 5887,
+    "line_end": 5901,
+    "source_anchor": "第29.1333条"
+  },
+  "article:29.1337": {
+    "node_id": "article:29.1337",
+    "type": "article",
+    "title": "第29.1337条",
+    "line_start": 5902,
+    "line_end": 5947,
+    "source_anchor": "第29.1337条"
+  },
+  "article:29.1351": {
+    "node_id": "article:29.1351",
+    "type": "article",
+    "title": "第29.1351条",
+    "line_start": 5950,
+    "line_end": 6005,
+    "source_anchor": "第29.1351条"
+  },
+  "article:29.1353": {
+    "node_id": "article:29.1353",
+    "type": "article",
+    "title": "第29.1353条",
+    "line_start": 6006,
+    "line_end": 6025,
+    "source_anchor": "第29.1353条"
+  },
+  "article:29.1355": {
+    "node_id": "article:29.1355",
+    "type": "article",
+    "title": "第29.1355条",
+    "line_start": 6026,
+    "line_end": 6033,
+    "source_anchor": "第29.1355条"
+  },
+  "article:29.1357": {
+    "node_id": "article:29.1357",
+    "type": "article",
+    "title": "第29.1357条",
+    "line_start": 6034,
+    "line_end": 6058,
+    "source_anchor": "第29.1357条"
+  },
+  "article:29.1359": {
+    "node_id": "article:29.1359",
+    "type": "article",
+    "title": "第29.1359条",
+    "line_start": 6059,
+    "line_end": 6061,
+    "source_anchor": "第29.1359条"
+  },
+  "article:29.1363": {
+    "node_id": "article:29.1363",
+    "type": "article",
+    "title": "第29.1363条",
+    "line_start": 6068,
+    "line_end": 6082,
+    "source_anchor": "第29.1363条"
+  },
+  "article:29.1381": {
+    "node_id": "article:29.1381",
+    "type": "article",
+    "title": "第29.1381条",
+    "line_start": 6085,
+    "line_end": 6091,
+    "source_anchor": "第29.1381条"
+  },
+  "article:29.1383": {
+    "node_id": "article:29.1383",
+    "type": "article",
+    "title": "第29.1383条",
+    "line_start": 6092,
+    "line_end": 6106,
+    "source_anchor": "第29.1383条"
+  },
+  "article:29.1385": {
+    "node_id": "article:29.1385",
+    "type": "article",
+    "title": "第29.1385条",
+    "line_start": 6107,
+    "line_end": 6124,
+    "source_anchor": "第29.1385条"
+  },
+  "article:29.1387": {
+    "node_id": "article:29.1387",
+    "type": "article",
+    "title": "第29.1387条",
+    "line_start": 6125,
+    "line_end": 6146,
+    "source_anchor": "第29.1387条"
+  },
+  "article:29.1389": {
+    "node_id": "article:29.1389",
+    "type": "article",
+    "title": "第29.1389条",
+    "line_start": 6147,
+    "line_end": 6167,
+    "source_anchor": "第29.1389条"
+  },
+  "article:29.1391": {
+    "node_id": "article:29.1391",
+    "type": "article",
+    "title": "第29.1391条",
+    "line_start": 6190,
+    "line_end": 6207,
+    "source_anchor": "第29.1391条"
+  },
+  "article:29.1393": {
+    "node_id": "article:29.1393",
+    "type": "article",
+    "title": "第29.1393条",
+    "line_start": 6208,
+    "line_end": 6223,
+    "source_anchor": "第29.1393条"
+  },
+  "article:29.1395": {
+    "node_id": "article:29.1395",
+    "type": "article",
+    "title": "第29.1395条",
+    "line_start": 6224,
+    "line_end": 6254,
+    "source_anchor": "第29.1395条"
+  },
+  "article:29.1397": {
+    "node_id": "article:29.1397",
+    "type": "article",
+    "title": "第29.1397条",
+    "line_start": 6255,
+    "line_end": 6284,
+    "source_anchor": "第29.1397条"
+  },
+  "article:29.1399": {
+    "node_id": "article:29.1399",
+    "type": "article",
+    "title": "第29.1399条",
+    "line_start": 6285,
+    "line_end": 6293,
+    "source_anchor": "第29.1399条"
+  },
+  "article:29.1401": {
+    "node_id": "article:29.1401",
+    "type": "article",
+    "title": "第29.1401条",
+    "line_start": 6294,
+    "line_end": 6381,
+    "source_anchor": "第29.1401条"
+  },
+  "article:29.1411": {
+    "node_id": "article:29.1411",
+    "type": "article",
+    "title": "第29.1411条",
+    "line_start": 6385,
+    "line_end": 6415,
+    "source_anchor": "第29.1411条"
+  },
+  "article:29.1413": {
+    "node_id": "article:29.1413",
+    "type": "article",
+    "title": "第29.1413条",
+    "line_start": 6416,
+    "line_end": 6424,
+    "source_anchor": "第29.1413条"
+  },
+  "article:29.1419": {
+    "node_id": "article:29.1419",
+    "type": "article",
+    "title": "第29.1419条",
+    "line_start": 6439,
+    "line_end": 6467,
+    "source_anchor": "第29.1419条"
+  },
+  "article:29.1431": {
+    "node_id": "article:29.1431",
+    "type": "article",
+    "title": "第29.1431条 条和第29.1433 条及下列例外和补充要求:",
+    "line_start": 7502,
+    "line_end": 7504,
+    "source_anchor": "第29.1431条"
+  },
+  "article:29.1433": {
+    "node_id": "article:29.1433",
+    "type": "article",
+    "title": "第29.1433条",
+    "line_start": 6483,
+    "line_end": 6490,
+    "source_anchor": "第29.1433条"
+  },
+  "article:29.1435": {
+    "node_id": "article:29.1435",
+    "type": "article",
+    "title": "第29.1435条",
+    "line_start": 6491,
+    "line_end": 6521,
+    "source_anchor": "第29.1435条"
+  },
+  "article:29.1439": {
+    "node_id": "article:29.1439",
+    "type": "article",
+    "title": "第29.1439条",
+    "line_start": 6522,
+    "line_end": 6540,
+    "source_anchor": "第29.1439条"
+  },
+  "article:29.1457": {
+    "node_id": "article:29.1457",
+    "type": "article",
+    "title": "第29.1457条",
+    "line_start": 6541,
+    "line_end": 6623,
+    "source_anchor": "第29.1457条"
+  },
+  "article:29.1459": {
+    "node_id": "article:29.1459",
+    "type": "article",
+    "title": "第29.1459条",
+    "line_start": 6624,
+    "line_end": 6628,
+    "source_anchor": "第29.1459条"
+  },
+  "article:29.1461": {
+    "node_id": "article:29.1461",
+    "type": "article",
+    "title": "第29.1461条",
+    "line_start": 6670,
+    "line_end": 6684,
+    "source_anchor": "第29.1461条"
+  },
+  "article:29.1501": {
+    "node_id": "article:29.1501",
+    "type": "article",
+    "title": "第29.1501条",
+    "line_start": 6689,
+    "line_end": 6699,
+    "source_anchor": "第29.1501条"
+  },
+  "article:29.1503": {
+    "node_id": "article:29.1503",
+    "type": "article",
+    "title": "第29.1503条",
+    "line_start": 6702,
+    "line_end": 6707,
+    "source_anchor": "第29.1503条"
+  },
+  "article:29.1505": {
+    "node_id": "article:29.1505",
+    "type": "article",
+    "title": "第29.1505条",
+    "line_start": 6708,
+    "line_end": 6743,
+    "source_anchor": "第29.1505条"
+  },
+  "article:29.1509": {
+    "node_id": "article:29.1509",
+    "type": "article",
+    "title": "第29.1509条",
+    "line_start": 6744,
+    "line_end": 6766,
+    "source_anchor": "第29.1509条"
+  },
+  "article:29.1517": {
+    "node_id": "article:29.1517",
+    "type": "article",
+    "title": "第29.1517条",
+    "line_start": 6767,
+    "line_end": 6776,
+    "source_anchor": "第29.1517条"
+  },
+  "article:29.1519": {
+    "node_id": "article:29.1519",
+    "type": "article",
+    "title": "第29.1519条",
+    "line_start": 6777,
+    "line_end": 6780,
+    "source_anchor": "第29.1519条"
+  },
+  "article:29.1521": {
+    "node_id": "article:29.1521",
+    "type": "article",
+    "title": "第29.1521条",
+    "line_start": 6781,
+    "line_end": 6849,
+    "source_anchor": "第29.1521条"
+  },
+  "article:29.1522": {
+    "node_id": "article:29.1522",
+    "type": "article",
+    "title": "第29.1522条",
+    "line_start": 6934,
+    "line_end": 6938,
+    "source_anchor": "第29.1522条"
+  },
+  "article:29.1523": {
+    "node_id": "article:29.1523",
+    "type": "article",
+    "title": "第29.1523条 条确定的最小飞行机组的人数及其职能。",
+    "line_start": 7165,
+    "line_end": 7182,
+    "source_anchor": "第29.1523条"
+  },
+  "article:29.1525": {
+    "node_id": "article:29.1525",
+    "type": "article",
+    "title": "第29.1525条",
+    "line_start": 6947,
+    "line_end": 6955,
+    "source_anchor": "第29.1525条"
+  },
+  "article:29.1527": {
+    "node_id": "article:29.1527",
+    "type": "article",
+    "title": "第29.1527条",
+    "line_start": 6956,
+    "line_end": 6959,
+    "source_anchor": "第29.1527条"
+  },
+  "article:29.1541": {
+    "node_id": "article:29.1541",
+    "type": "article",
+    "title": "第29.1541条",
+    "line_start": 6968,
+    "line_end": 6978,
+    "source_anchor": "第29.1541条"
+  },
+  "article:29.1543": {
+    "node_id": "article:29.1543",
+    "type": "article",
+    "title": "第29.1543条",
+    "line_start": 6979,
+    "line_end": 6989,
+    "source_anchor": "第29.1543条"
+  },
+  "article:29.1545": {
+    "node_id": "article:29.1545",
+    "type": "article",
+    "title": "第29.1545条",
+    "line_start": 6990,
+    "line_end": 7003,
+    "source_anchor": "第29.1545条"
+  },
+  "article:29.1547": {
+    "node_id": "article:29.1547",
+    "type": "article",
+    "title": "第29.1547条",
+    "line_start": 7004,
+    "line_end": 7016,
+    "source_anchor": "第29.1547条"
+  },
+  "article:29.1549": {
+    "node_id": "article:29.1549",
+    "type": "article",
+    "title": "第29.1549条",
+    "line_start": 7017,
+    "line_end": 7029,
+    "source_anchor": "第29.1549条"
+  },
+  "article:29.1551": {
+    "node_id": "article:29.1551",
+    "type": "article",
+    "title": "第29.1551条",
+    "line_start": 7030,
+    "line_end": 7033,
+    "source_anchor": "第29.1551条"
+  },
+  "article:29.1553": {
+    "node_id": "article:29.1553",
+    "type": "article",
+    "title": "第29.1553条",
+    "line_start": 7034,
+    "line_end": 7042,
+    "source_anchor": "第29.1553条"
+  },
+  "article:29.1555": {
+    "node_id": "article:29.1555",
+    "type": "article",
+    "title": "第29.1555条",
+    "line_start": 7043,
+    "line_end": 7073,
+    "source_anchor": "第29.1555条"
+  },
+  "article:29.1557": {
+    "node_id": "article:29.1557",
+    "type": "article",
+    "title": "第29.1557条",
+    "line_start": 7074,
+    "line_end": 7100,
+    "source_anchor": "第29.1557条"
+  },
+  "article:29.1559": {
+    "node_id": "article:29.1559",
+    "type": "article",
+    "title": "第29.1559条",
+    "line_start": 7101,
+    "line_end": 7105,
+    "source_anchor": "第29.1559条"
+  },
+  "article:29.1561": {
+    "node_id": "article:29.1561",
+    "type": "article",
+    "title": "第29.1561条",
+    "line_start": 7106,
+    "line_end": 7116,
+    "source_anchor": "第29.1561条"
+  },
+  "article:29.1565": {
+    "node_id": "article:29.1565",
+    "type": "article",
+    "title": "第29.1565条",
+    "line_start": 7117,
+    "line_end": 7124,
+    "source_anchor": "第29.1565条"
+  },
+  "article:29.1581": {
+    "node_id": "article:29.1581",
+    "type": "article",
+    "title": "第29.1581条",
+    "line_start": 7127,
+    "line_end": 7143,
+    "source_anchor": "第29.1581条"
+  },
+  "article:29.1583": {
+    "node_id": "article:29.1583",
+    "type": "article",
+    "title": "第29.1583条",
+    "line_start": 7144,
+    "line_end": 7164,
+    "source_anchor": "第29.1583条"
+  },
+  "article:29.1585": {
+    "node_id": "article:29.1585",
+    "type": "article",
+    "title": "第29.1585条",
+    "line_start": 7183,
+    "line_end": 7205,
+    "source_anchor": "第29.1585条"
+  },
+  "article:29.1587": {
+    "node_id": "article:29.1587",
+    "type": "article",
+    "title": "第29.1587条",
+    "line_start": 7206,
+    "line_end": 7220,
+    "source_anchor": "第29.1587条"
+  },
+  "article:29.1589": {
+    "node_id": "article:29.1589",
+    "type": "article",
+    "title": "第29.1589条",
+    "line_start": 7268,
+    "line_end": 7270,
+    "source_anchor": "第29.1589条"
+  },
+  "article:29.2001": {
+    "node_id": "article:29.2001",
+    "type": "article",
+    "title": "第29.2001条",
+    "line_start": 7277,
+    "line_end": 7437,
+    "source_anchor": "第29.2001条"
+  },
+  "article:37.04": {
+    "node_id": "article:37.04",
+    "type": "article",
+    "title": "第37.04条 千米/小时(20 节)的整个速度范围内,表明稳定性。",
+    "line_start": 7438,
+    "line_end": 7501,
+    "source_anchor": "第37.04条"
+  }
+}

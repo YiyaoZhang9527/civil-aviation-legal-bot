@@ -1,0 +1,34 @@
+{
+  "law:运输类飞机的持续适航和安全改进规定": {
+    "node_id": "law:运输类飞机的持续适航和安全改进规定",
+    "type": "law",
+    "title": "第 26.1条 目的和范围",
+    "line_start": 0,
+    "line_end": 811,
+    "source_anchor": "第 26.1条 目的和范围"
+  },
+  "chapter:B": {
+    "node_id": "chapter:B",
+    "type": "chapter",
+    "title": "B章 飞机系统的增强型适航项目",
+    "line_start": 72,
+    "line_end": 165,
+    "source_anchor": "B章"
+  },
+  "article:26.11": {
+    "node_id": "article:26.11",
+    "type": "article",
+    "title": "第26.11条 26. 35",
+    "line_start": 55,
+    "line_end": 71,
+    "source_anchor": "第26.11条"
+  },
+  "chapter:D": {
+    "node_id": "chapter:D",
+    "type": "chapter",
+    "title": "D章 ”燃油箱可燃性",
+    "line_start": 166,
+    "line_end": 811,
+    "source_anchor": "D章"
+  }
+}

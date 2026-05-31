@@ -1,0 +1,2282 @@
+{
+  "law:小型商业运输和空中游览运营人运行合格审定规则": {
+    "node_id": "law:小型商业运输和空中游览运营人运行合格审定规则",
+    "type": "law",
+    "title": "小型商业运输和空中游览运营人运行",
+    "line_start": 0,
+    "line_end": 6630,
+    "source_anchor": "小型商业运输和空中游览运营人运行"
+  },
+  "article:135.1": {
+    "node_id": "article:135.1",
+    "type": "article",
+    "title": "第135.1条 目的和依据",
+    "line_start": 6,
+    "line_end": 10,
+    "source_anchor": "第135.1条"
+  },
+  "article:135.3": {
+    "node_id": "article:135.3",
+    "type": "article",
+    "title": "第135.3条 适用范围",
+    "line_start": 11,
+    "line_end": 38,
+    "source_anchor": "第135.3条"
+  },
+  "article:135.5": {
+    "node_id": "article:135.5",
+    "type": "article",
+    "title": "第135.5条 职责划分",
+    "line_start": 39,
+    "line_end": 51,
+    "source_anchor": "第135.5条"
+  },
+  "article:135.7": {
+    "node_id": "article:135.7",
+    "type": "article",
+    "title": "第135.7条 小型商业运输和空中游览运营人的基本要求",
+    "line_start": 52,
+    "line_end": 62,
+    "source_anchor": "第135.7条"
+  },
+  "article:135.9": {
+    "node_id": "article:135.9",
+    "type": "article",
+    "title": "第135.9条 遵守的法律、规章和程序",
+    "line_start": 63,
+    "line_end": 90,
+    "source_anchor": "第135.9条"
+  },
+  "article:135.11": {
+    "node_id": "article:135.11",
+    "type": "article",
+    "title": "第135.11条 按照军方要求实施运行的偏离批准",
+    "line_start": 91,
+    "line_end": 96,
+    "source_anchor": "第135.11条"
+  },
+  "article:135.13": {
+    "node_id": "article:135.13",
+    "type": "article",
+    "title": "第135.13条 实施应急运行的偏离批准",
+    "line_start": 97,
+    "line_end": 109,
+    "source_anchor": "第135.13条"
+  },
+  "article:135.15": {
+    "node_id": "article:135.15",
+    "type": "article",
+    "title": "第135.15条 需要立即决断和处置的紧急情况",
+    "line_start": 110,
+    "line_end": 119,
+    "source_anchor": "第135.15条"
+  },
+  "article:135.17": {
+    "node_id": "article:135.17",
+    "type": "article",
+    "title": "第135.17条 航空器的湿租",
+    "line_start": 120,
+    "line_end": 149,
+    "source_anchor": "第135.17条"
+  },
+  "article:135.19": {
+    "node_id": "article:135.19",
+    "type": "article",
+    "title": "第135.19条 安全管理体系",
+    "line_start": 150,
+    "line_end": 166,
+    "source_anchor": "第135.19条"
+  },
+  "article:135.21": {
+    "node_id": "article:135.21",
+    "type": "article",
+    "title": "第135.21条 监督和检查的实施",
+    "line_start": 167,
+    "line_end": 184,
+    "source_anchor": "第135.21条"
+  },
+  "chapter:A": {
+    "node_id": "chapter:A",
+    "type": "chapter",
+    "title": "A章 A章",
+    "line_start": 3,
+    "line_end": 184,
+    "source_anchor": "A章"
+  },
+  "article:135.23": {
+    "node_id": "article:135.23",
+    "type": "article",
+    "title": "第135.23条 条(5)项规定的飞行活动。",
+    "line_start": 6018,
+    "line_end": 6630,
+    "source_anchor": "第135.23条"
+  },
+  "article:135.25": {
+    "node_id": "article:135.25",
+    "type": "article",
+    "title": "第135.25条 颁发条件",
+    "line_start": 199,
+    "line_end": 224,
+    "source_anchor": "第135.25条"
+  },
+  "article:135.27": {
+    "node_id": "article:135.27",
+    "type": "article",
+    "title": "第135.27条 按照本规则实施运行所必需的管理机构和人员",
+    "line_start": 225,
+    "line_end": 314,
+    "source_anchor": "第135.27条"
+  },
+  "article:135.29": {
+    "node_id": "article:135.29",
+    "type": "article",
+    "title": "第135.29条 主运行基地、飞行基地和维修基地",
+    "line_start": 315,
+    "line_end": 320,
+    "source_anchor": "第135.29条"
+  },
+  "article:135.31": {
+    "node_id": "article:135.31",
+    "type": "article",
+    "title": "第135.31条 申请材料",
+    "line_start": 321,
+    "line_end": 334,
+    "source_anchor": "第135.31条"
+  },
+  "article:135.33": {
+    "node_id": "article:135.33",
+    "type": "article",
+    "title": "第135.33条 局方审查",
+    "line_start": 335,
+    "line_end": 348,
+    "source_anchor": "第135.33条"
+  },
+  "article:135.35": {
+    "node_id": "article:135.35",
+    "type": "article",
+    "title": "第135.35条 证件颁发",
+    "line_start": 349,
+    "line_end": 359,
+    "source_anchor": "第135.35条"
+  },
+  "article:135.37": {
+    "node_id": "article:135.37",
+    "type": "article",
+    "title": "第135.37条 证件内容",
+    "line_start": 360,
+    "line_end": 385,
+    "source_anchor": "第135.37条"
+  },
+  "article:135.39": {
+    "node_id": "article:135.39",
+    "type": "article",
+    "title": "第135.39条 有效期限及运行间断",
+    "line_start": 386,
+    "line_end": 395,
+    "source_anchor": "第135.39条"
+  },
+  "article:135.41": {
+    "node_id": "article:135.41",
+    "type": "article",
+    "title": "第135.41条 撤销和注销",
+    "line_start": 396,
+    "line_end": 403,
+    "source_anchor": "第135.41条"
+  },
+  "article:135.43": {
+    "node_id": "article:135.43",
+    "type": "article",
+    "title": "第135.43条 保存和使用",
+    "line_start": 404,
+    "line_end": 416,
+    "source_anchor": "第135.43条"
+  },
+  "article:135.45": {
+    "node_id": "article:135.45",
+    "type": "article",
+    "title": "第135.45条 运行合格证的修改",
+    "line_start": 417,
+    "line_end": 430,
+    "source_anchor": "第135.45条"
+  },
+  "article:135.47": {
+    "node_id": "article:135.47",
+    "type": "article",
+    "title": "第135.47条 运行规范的修改",
+    "line_start": 431,
+    "line_end": 494,
+    "source_anchor": "第135.47条"
+  },
+  "chapter:B": {
+    "node_id": "chapter:B",
+    "type": "chapter",
+    "title": "B章 B章",
+    "line_start": 185,
+    "line_end": 494,
+    "source_anchor": "B章"
+  },
+  "article:135.51": {
+    "node_id": "article:135.51",
+    "type": "article",
+    "title": "第135.51条 航空器要求",
+    "line_start": 499,
+    "line_end": 515,
+    "source_anchor": "第135.51条"
+  },
+  "article:135.53": {
+    "node_id": "article:135.53",
+    "type": "article",
+    "title": "第135.53条 基本飞行仪表和设备",
+    "line_start": 516,
+    "line_end": 530,
+    "source_anchor": "第135.53条"
+  },
+  "article:135.55": {
+    "node_id": "article:135.55",
+    "type": "article",
+    "title": "第135.55条 应急和救生设备",
+    "line_start": 531,
+    "line_end": 605,
+    "source_anchor": "第135.55条"
+  },
+  "article:135.57": {
+    "node_id": "article:135.57",
+    "type": "article",
+    "title": "第135.57条 通信、导航和监视设备",
+    "line_start": 606,
+    "line_end": 637,
+    "source_anchor": "第135.57条"
+  },
+  "article:135.59": {
+    "node_id": "article:135.59",
+    "type": "article",
+    "title": "第135.59条 记录设备",
+    "line_start": 638,
+    "line_end": 652,
+    "source_anchor": "第135.59条"
+  },
+  "article:135.61": {
+    "node_id": "article:135.61",
+    "type": "article",
+    "title": "第135.61条 其他设备",
+    "line_start": 653,
+    "line_end": 664,
+    "source_anchor": "第135.61条"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 第一节",
+    "line_start": 4200,
+    "line_end": 4326,
+    "source_anchor": "第一节"
+  },
+  "article:135.63": {
+    "node_id": "article:135.63",
+    "type": "article",
+    "title": "第135.63条 飞行机组成员的组成",
+    "line_start": 667,
+    "line_end": 670,
+    "source_anchor": "第135.63条"
+  },
+  "article:135.65": {
+    "node_id": "article:135.65",
+    "type": "article",
+    "title": "第135.65条 机长或者副驾驶的指派要求",
+    "line_start": 671,
+    "line_end": 680,
+    "source_anchor": "第135.65条"
+  },
+  "article:135.67": {
+    "node_id": "article:135.67",
+    "type": "article",
+    "title": "第135.67条 要求配备副驾驶的运行中,担任副驾驶的驾驶员应当",
+    "line_start": 772,
+    "line_end": 786,
+    "source_anchor": "第135.67条"
+  },
+  "article:135.69": {
+    "node_id": "article:135.69",
+    "type": "article",
+    "title": "第135.69条 紧急情况和应急撤离职责",
+    "line_start": 702,
+    "line_end": 710,
+    "source_anchor": "第135.69条"
+  },
+  "article:135.71": {
+    "node_id": "article:135.71",
+    "type": "article",
+    "title": "第135.71条 酒精和药物的使用限制",
+    "line_start": 711,
+    "line_end": 736,
+    "source_anchor": "第135.71条"
+  },
+  "article:135.73": {
+    "node_id": "article:135.73",
+    "type": "article",
+    "title": "第135.73条 机长的资格要求",
+    "line_start": 737,
+    "line_end": 769,
+    "source_anchor": "第135.73条"
+  },
+  "article:135.75": {
+    "node_id": "article:135.75",
+    "type": "article",
+    "title": "第135.75条 副驾驶资格要求",
+    "line_start": 770,
+    "line_end": 771,
+    "source_anchor": "第135.75条"
+  },
+  "article:135.77": {
+    "node_id": "article:135.77",
+    "type": "article",
+    "title": "第135.77条 运行经历",
+    "line_start": 787,
+    "line_end": 811,
+    "source_anchor": "第135.77条"
+  },
+  "article:135.79": {
+    "node_id": "article:135.79",
+    "type": "article",
+    "title": "第135.79条 近期经历",
+    "line_start": 812,
+    "line_end": 823,
+    "source_anchor": "第135.79条"
+  },
+  "article:135.81": {
+    "node_id": "article:135.81",
+    "type": "article",
+    "title": "第135.81条 用于满足近期飞行经历的航空器和设施",
+    "line_start": 824,
+    "line_end": 827,
+    "source_anchor": "第135.81条"
+  },
+  "article:135.83": {
+    "node_id": "article:135.83",
+    "type": "article",
+    "title": "第135.83条 熟练检查要求",
+    "line_start": 828,
+    "line_end": 845,
+    "source_anchor": "第135.83条"
+  },
+  "article:135.85": {
+    "node_id": "article:135.85",
+    "type": "article",
+    "title": "第135.85条 机长航线检查",
+    "line_start": 846,
+    "line_end": 860,
+    "source_anchor": "第135.85条"
+  },
+  "article:135.87": {
+    "node_id": "article:135.87",
+    "type": "article",
+    "title": "第135.87条 考试和检查的附加规定",
+    "line_start": 861,
+    "line_end": 872,
+    "source_anchor": "第135.87条"
+  },
+  "article:135.89": {
+    "node_id": "article:135.89",
+    "type": "article",
+    "title": "第135.89条 训练的管理政策",
+    "line_start": 873,
+    "line_end": 910,
+    "source_anchor": "第135.89条"
+  },
+  "article:135.91": {
+    "node_id": "article:135.91",
+    "type": "article",
+    "title": "第135.91条 驾驶员的训练要求",
+    "line_start": 911,
+    "line_end": 929,
+    "source_anchor": "第135.91条"
+  },
+  "article:135.93": {
+    "node_id": "article:135.93",
+    "type": "article",
+    "title": "第135.93条 驾驶员训练大纲",
+    "line_start": 930,
+    "line_end": 945,
+    "source_anchor": "第135.93条"
+  },
+  "article:135.95": {
+    "node_id": "article:135.95",
+    "type": "article",
+    "title": "第135.95条 训练大纲制定、修订及批准",
+    "line_start": 946,
+    "line_end": 968,
+    "source_anchor": "第135.95条"
+  },
+  "article:135.97": {
+    "node_id": "article:135.97",
+    "type": "article",
+    "title": "第135.97条 定期复训",
+    "line_start": 969,
+    "line_end": 1040,
+    "source_anchor": "第135.97条"
+  },
+  "article:135.99": {
+    "node_id": "article:135.99",
+    "type": "article",
+    "title": "第135.99条 机组成员应急生存训练",
+    "line_start": 1041,
+    "line_end": 1059,
+    "source_anchor": "第135.99条"
+  },
+  "article:135.101": {
+    "node_id": "article:135.101",
+    "type": "article",
+    "title": "第135.101条 飞行教员的资格审定",
+    "line_start": 1060,
+    "line_end": 1080,
+    "source_anchor": "第135.101条"
+  },
+  "article:135.103": {
+    "node_id": "article:135.103",
+    "type": "article",
+    "title": "第135.103条 飞行教员的初始和转机型训练要求",
+    "line_start": 1081,
+    "line_end": 1108,
+    "source_anchor": "第135.103条"
+  },
+  "article:135.105": {
+    "node_id": "article:135.105",
+    "type": "article",
+    "title": "第135.105条 飞行检查员的资格审定",
+    "line_start": 1109,
+    "line_end": 1129,
+    "source_anchor": "第135.105条"
+  },
+  "article:135.107": {
+    "node_id": "article:135.107",
+    "type": "article",
+    "title": "第135.107条 飞行检查员的初始和转机型训练要求",
+    "line_start": 1130,
+    "line_end": 1155,
+    "source_anchor": "第135.107条"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 第一节",
+    "line_start": 4327,
+    "line_end": 5003,
+    "source_anchor": "第二节"
+  },
+  "article:135.121": {
+    "node_id": "article:135.121",
+    "type": "article",
+    "title": "第135.121条 条要求的手册中包含这一程序。",
+    "line_start": 2224,
+    "line_end": 2224,
+    "source_anchor": "第135.121条"
+  },
+  "article:135.123": {
+    "node_id": "article:135.123",
+    "type": "article",
+    "title": "第135.123条 手册内容",
+    "line_start": 1190,
+    "line_end": 1235,
+    "source_anchor": "第135.123条"
+  },
+  "article:135.125": {
+    "node_id": "article:135.125",
+    "type": "article",
+    "title": "第135.125条 合格证持有人名称的使用",
+    "line_start": 1236,
+    "line_end": 1241,
+    "source_anchor": "第135.125条"
+  },
+  "article:135.127": {
+    "node_id": "article:135.127",
+    "type": "article",
+    "title": "第135.127条 为运行人员提供的航空信息资料",
+    "line_start": 1242,
+    "line_end": 1252,
+    "source_anchor": "第135.127条"
+  },
+  "article:135.129": {
+    "node_id": "article:135.129",
+    "type": "article",
+    "title": "第135.129条 驾驶舱中必需配备的资料",
+    "line_start": 1253,
+    "line_end": 1283,
+    "source_anchor": "第135.129条"
+  },
+  "article:135.131": {
+    "node_id": "article:135.131",
+    "type": "article",
+    "title": "第135.131条 陆上航空器跨水运行的性能要求",
+    "line_start": 1284,
+    "line_end": 1291,
+    "source_anchor": "第135.131条"
+  },
+  "article:135.133": {
+    "node_id": "article:135.133",
+    "type": "article",
+    "title": "第135.133条 目视飞行规则飞行的最低高度要求",
+    "line_start": 1292,
+    "line_end": 1305,
+    "source_anchor": "第135.133条"
+  },
+  "article:135.135": {
+    "node_id": "article:135.135",
+    "type": "article",
+    "title": "第135.135条 目视飞行规则飞行的能见度要求",
+    "line_start": 1306,
+    "line_end": 1313,
+    "source_anchor": "第135.135条"
+  },
+  "article:135.137": {
+    "node_id": "article:135.137",
+    "type": "article",
+    "title": "第135.137条 直升机目视飞行规则飞行中的目视参考要求",
+    "line_start": 1314,
+    "line_end": 1317,
+    "source_anchor": "第135.137条"
+  },
+  "article:135.139": {
+    "node_id": "article:135.139",
+    "type": "article",
+    "title": "第135.139条 目视飞行规则云上载客飞行的运行限制",
+    "line_start": 1318,
+    "line_end": 1335,
+    "source_anchor": "第135.139条"
+  },
+  "article:135.141": {
+    "node_id": "article:135.141",
+    "type": "article",
+    "title": "第135.141条 天气报告和预报",
+    "line_start": 1336,
+    "line_end": 1347,
+    "source_anchor": "第135.141条"
+  },
+  "article:135.143": {
+    "node_id": "article:135.143",
+    "type": "article",
+    "title": "第135.143条 结冰条件下的运行限制",
+    "line_start": 1348,
+    "line_end": 1390,
+    "source_anchor": "第135.143条"
+  },
+  "article:135.145": {
+    "node_id": "article:135.145",
+    "type": "article",
+    "title": "第135.145条 目视飞行规则飞行的燃油供应要求",
+    "line_start": 1391,
+    "line_end": 1399,
+    "source_anchor": "第135.145条"
+  },
+  "article:135.147": {
+    "node_id": "article:135.147",
+    "type": "article",
+    "title": "第135.147条 机场要求",
+    "line_start": 1400,
+    "line_end": 1415,
+    "source_anchor": "第135.147条"
+  },
+  "article:135.149": {
+    "node_id": "article:135.149",
+    "type": "article",
+    "title": "第135.149条 关键阶段飞行机组成员的值勤要求",
+    "line_start": 1416,
+    "line_end": 1431,
+    "source_anchor": "第135.149条"
+  },
+  "article:135.151": {
+    "node_id": "article:135.151",
+    "type": "article",
+    "title": "第135.151条 乘客占用驾驶员座位",
+    "line_start": 1432,
+    "line_end": 1436,
+    "source_anchor": "第135.151条"
+  },
+  "article:135.153": {
+    "node_id": "article:135.153",
+    "type": "article",
+    "title": "第135.153条 禁止干扰机组成员",
+    "line_start": 1437,
+    "line_end": 1439,
+    "source_anchor": "第135.153条"
+  },
+  "article:135.155": {
+    "node_id": "article:135.155",
+    "type": "article",
+    "title": "第135.155条 飞行机组成员工作位肩带的要求",
+    "line_start": 1440,
+    "line_end": 1442,
+    "source_anchor": "第135.155条"
+  },
+  "article:135.157": {
+    "node_id": "article:135.157",
+    "type": "article",
+    "title": "第135.157条 飞行前对乘客的简介",
+    "line_start": 1443,
+    "line_end": 1487,
+    "source_anchor": "第135.157条"
+  },
+  "article:135.159": {
+    "node_id": "article:135.159",
+    "type": "article",
+    "title": "第135.159条 飞行前检查",
+    "line_start": 1488,
+    "line_end": 1492,
+    "source_anchor": "第135.159条"
+  },
+  "article:135.161": {
+    "node_id": "article:135.161",
+    "type": "article",
+    "title": "第135.161条 操纵装置的控制",
+    "line_start": 1493,
+    "line_end": 1499,
+    "source_anchor": "第135.161条"
+  },
+  "article:135.163": {
+    "node_id": "article:135.163",
+    "type": "article",
+    "title": "第135.163条 机械不正常情况信息的控制",
+    "line_start": 1500,
+    "line_end": 1502,
+    "source_anchor": "第135.163条"
+  },
+  "article:135.165": {
+    "node_id": "article:135.165",
+    "type": "article",
+    "title": "第135.165条 报告潜在的危险气象条件和通信或者导航设施",
+    "line_start": 1503,
+    "line_end": 1509,
+    "source_anchor": "第135.165条"
+  },
+  "article:135.167": {
+    "node_id": "article:135.167",
+    "type": "article",
+    "title": "第135.167条 紧急情况下有限制的继续或者中止飞行",
+    "line_start": 1510,
+    "line_end": 1521,
+    "source_anchor": "第135.167条"
+  },
+  "article:135.169": {
+    "node_id": "article:135.169",
+    "type": "article",
+    "title": "第135.169条 安全带和儿童限制装置的使用",
+    "line_start": 1522,
+    "line_end": 1538,
+    "source_anchor": "第135.169条"
+  },
+  "article:135.171": {
+    "node_id": "article:135.171",
+    "type": "article",
+    "title": "第135.171条 行李和货物的载运",
+    "line_start": 1539,
+    "line_end": 1569,
+    "source_anchor": "第135.171条"
+  },
+  "article:135.173": {
+    "node_id": "article:135.173",
+    "type": "article",
+    "title": "第135.173条 驾驶员使用氧气的要求",
+    "line_start": 1570,
+    "line_end": 1591,
+    "source_anchor": "第135.173条"
+  },
+  "article:135.175": {
+    "node_id": "article:135.175",
+    "type": "article",
+    "title": "第135.175条 乘客医用氧气",
+    "line_start": 1592,
+    "line_end": 1634,
+    "source_anchor": "第135.175条"
+  },
+  "article:135.177": {
+    "node_id": "article:135.177",
+    "type": "article",
+    "title": "第135.177条 禁止载运武器",
+    "line_start": 1635,
+    "line_end": 1640,
+    "source_anchor": "第135.177条"
+  },
+  "article:135.179": {
+    "node_id": "article:135.179",
+    "type": "article",
+    "title": "第135.179条 酒精饮料",
+    "line_start": 1641,
+    "line_end": 1647,
+    "source_anchor": "第135.179条"
+  },
+  "article:135.181": {
+    "node_id": "article:135.181",
+    "type": "article",
+    "title": "第135.181条 仪表飞行规则运行的限制",
+    "line_start": 1648,
+    "line_end": 1663,
+    "source_anchor": "第135.181条"
+  },
+  "article:135.183": {
+    "node_id": "article:135.183",
+    "type": "article",
+    "title": "第135.183条 仪表飞行规则起飞限制",
+    "line_start": 1664,
+    "line_end": 1668,
+    "source_anchor": "第135.183条"
+  },
+  "article:135.185": {
+    "node_id": "article:135.185",
+    "type": "article",
+    "title": "第135.185条 仪表飞行规则目的地机场最低天气标准",
+    "line_start": 1669,
+    "line_end": 1673,
+    "source_anchor": "第135.185条"
+  },
+  "article:135.187": {
+    "node_id": "article:135.187",
+    "type": "article",
+    "title": "第135.187条 仪表飞行规则备降机场最低天气标准",
+    "line_start": 1674,
+    "line_end": 1695,
+    "source_anchor": "第135.187条"
+  },
+  "article:135.189": {
+    "node_id": "article:135.189",
+    "type": "article",
+    "title": "第135.189条 仪表飞行规则燃油及备降机场要求",
+    "line_start": 1696,
+    "line_end": 1719,
+    "source_anchor": "第135.189条"
+  },
+  "article:135.191": {
+    "node_id": "article:135.191",
+    "type": "article",
+    "title": "第135.191条 仪表飞行规则起飞、进近和着陆最低标准",
+    "line_start": 1720,
+    "line_end": 1780,
+    "source_anchor": "第135.191条"
+  },
+  "article:135.193": {
+    "node_id": "article:135.193",
+    "type": "article",
+    "title": "第135.193条 驾驶员值勤期限制、飞行时间限制和休息要求",
+    "line_start": 1781,
+    "line_end": 1805,
+    "source_anchor": "第135.193条"
+  },
+  "article:135.195": {
+    "node_id": "article:135.195",
+    "type": "article",
+    "title": "第135.195条 机组成员的周、月、年飞行时间限制",
+    "line_start": 1806,
+    "line_end": 1813,
+    "source_anchor": "第135.195条"
+  },
+  "article:135.197": {
+    "node_id": "article:135.197",
+    "type": "article",
+    "title": "第135.197条 机组成员值勤期和飞行时间安排的附加限制",
+    "line_start": 1814,
+    "line_end": 1830,
+    "source_anchor": "第135.197条"
+  },
+  "article:135.199": {
+    "node_id": "article:135.199",
+    "type": "article",
+    "title": "第135.199条 机组成员休息时间的附加要求",
+    "line_start": 1831,
+    "line_end": 1844,
+    "source_anchor": "第135.199条"
+  },
+  "section:3": {
+    "node_id": "section:3",
+    "type": "section",
+    "title": "第三节 第一节",
+    "line_start": 5004,
+    "line_end": 5594,
+    "source_anchor": "第三节"
+  },
+  "article:135.211": {
+    "node_id": "article:135.211",
+    "type": "article",
+    "title": "第135.211条 适用范围",
+    "line_start": 1847,
+    "line_end": 1849,
+    "source_anchor": "第135.211条"
+  },
+  "article:135.213": {
+    "node_id": "article:135.213",
+    "type": "article",
+    "title": "第135.213条 通勤类飞机的性能使用限制",
+    "line_start": 1850,
+    "line_end": 1905,
+    "source_anchor": "第135.213条"
+  },
+  "article:135.215": {
+    "node_id": "article:135.215",
+    "type": "article",
+    "title": "第135.215条 航空器云上或者仪表飞行规则条件下运行的性",
+    "line_start": 1906,
+    "line_end": 1947,
+    "source_anchor": "第135.215条"
+  },
+  "section:4": {
+    "node_id": "section:4",
+    "type": "section",
+    "title": "第四节 第一节",
+    "line_start": 5595,
+    "line_end": 5670,
+    "source_anchor": "第四节"
+  },
+  "article:135.217": {
+    "node_id": "article:135.217",
+    "type": "article",
+    "title": "第135.217条 总则",
+    "line_start": 1950,
+    "line_end": 1971,
+    "source_anchor": "第135.217条"
+  },
+  "article:135.219": {
+    "node_id": "article:135.219",
+    "type": "article",
+    "title": "第135.219条 维修要求",
+    "line_start": 1972,
+    "line_end": 2007,
+    "source_anchor": "第135.219条"
+  },
+  "article:135.221": {
+    "node_id": "article:135.221",
+    "type": "article",
+    "title": "第135.221条 维修管理要求",
+    "line_start": 2008,
+    "line_end": 2048,
+    "source_anchor": "第135.221条"
+  },
+  "article:135.223": {
+    "node_id": "article:135.223",
+    "type": "article",
+    "title": "第135.223条 维修管理手册",
+    "line_start": 2049,
+    "line_end": 2067,
+    "source_anchor": "第135.223条"
+  },
+  "article:135.225": {
+    "node_id": "article:135.225",
+    "type": "article",
+    "title": "第135.225条 维修工作准则",
+    "line_start": 2068,
+    "line_end": 2091,
+    "source_anchor": "第135.225条"
+  },
+  "article:135.227": {
+    "node_id": "article:135.227",
+    "type": "article",
+    "title": "第135.227条 维修记录和放行证明",
+    "line_start": 2092,
+    "line_end": 2117,
+    "source_anchor": "第135.227条"
+  },
+  "article:135.229": {
+    "node_id": "article:135.229",
+    "type": "article",
+    "title": "第135.229条 航空器技术档案",
+    "line_start": 2118,
+    "line_end": 2135,
+    "source_anchor": "第135.229条"
+  },
+  "article:135.231": {
+    "node_id": "article:135.231",
+    "type": "article",
+    "title": "第135.231条 年度适航性检查",
+    "line_start": 2136,
+    "line_end": 2155,
+    "source_anchor": "第135.231条"
+  },
+  "section:5": {
+    "node_id": "section:5",
+    "type": "section",
+    "title": "第五节 第一节",
+    "line_start": 5671,
+    "line_end": 5804,
+    "source_anchor": "第五节"
+  },
+  "article:135.233": {
+    "node_id": "article:135.233",
+    "type": "article",
+    "title": "第135.233条 记录保持要求",
+    "line_start": 2158,
+    "line_end": 2199,
+    "source_anchor": "第135.233条"
+  },
+  "article:135.235": {
+    "node_id": "article:135.235",
+    "type": "article",
+    "title": "第135.235条 飞行记录本",
+    "line_start": 2200,
+    "line_end": 2223,
+    "source_anchor": "第135.235条"
+  },
+  "article:135.237": {
+    "node_id": "article:135.237",
+    "type": "article",
+    "title": "第135.237条 使用困难报告",
+    "line_start": 2225,
+    "line_end": 2274,
+    "source_anchor": "第135.237条"
+  },
+  "section:6": {
+    "node_id": "section:6",
+    "type": "section",
+    "title": "第六节 第一节",
+    "line_start": 5805,
+    "line_end": 5934,
+    "source_anchor": "第六节"
+  },
+  "chapter:C": {
+    "node_id": "chapter:C",
+    "type": "chapter",
+    "title": "C章 C章",
+    "line_start": 495,
+    "line_end": 2274,
+    "source_anchor": "C章"
+  },
+  "article:135.251": {
+    "node_id": "article:135.251",
+    "type": "article",
+    "title": "第135.251条 飞机要求",
+    "line_start": 2279,
+    "line_end": 2294,
+    "source_anchor": "第135.251条"
+  },
+  "article:135.253": {
+    "node_id": "article:135.253",
+    "type": "article",
+    "title": "第135.253条 基本飞行仪表和设备",
+    "line_start": 2295,
+    "line_end": 2309,
+    "source_anchor": "第135.253条"
+  },
+  "article:135.255": {
+    "node_id": "article:135.255",
+    "type": "article",
+    "title": "第135.255条 应急和救生设备",
+    "line_start": 2310,
+    "line_end": 2384,
+    "source_anchor": "第135.255条"
+  },
+  "article:135.257": {
+    "node_id": "article:135.257",
+    "type": "article",
+    "title": "第135.257条 通信、导航和监视设备",
+    "line_start": 2385,
+    "line_end": 2416,
+    "source_anchor": "第135.257条"
+  },
+  "article:135.259": {
+    "node_id": "article:135.259",
+    "type": "article",
+    "title": "第135.259条 记录设备",
+    "line_start": 2417,
+    "line_end": 2430,
+    "source_anchor": "第135.259条"
+  },
+  "article:135.261": {
+    "node_id": "article:135.261",
+    "type": "article",
+    "title": "第135.261条 其他设备",
+    "line_start": 2431,
+    "line_end": 2441,
+    "source_anchor": "第135.261条"
+  },
+  "article:135.263": {
+    "node_id": "article:135.263",
+    "type": "article",
+    "title": "第135.263条 机组成员的组成",
+    "line_start": 2444,
+    "line_end": 2450,
+    "source_anchor": "第135.263条"
+  },
+  "article:135.265": {
+    "node_id": "article:135.265",
+    "type": "article",
+    "title": "第135.265条 机长或者副驾驶的指派要求",
+    "line_start": 2451,
+    "line_end": 2460,
+    "source_anchor": "第135.265条"
+  },
+  "article:135.267": {
+    "node_id": "article:135.267",
+    "type": "article",
+    "title": "第135.267条 条要求配备副驾驶的运行中,担任副驾驶的驾驶员应当至",
+    "line_start": 2523,
+    "line_end": 2534,
+    "source_anchor": "第135.267条"
+  },
+  "article:135.269": {
+    "node_id": "article:135.269",
+    "type": "article",
+    "title": "第135.269条 紧急情况和应急撤离职责",
+    "line_start": 2482,
+    "line_end": 2490,
+    "source_anchor": "第135.269条"
+  },
+  "article:135.271": {
+    "node_id": "article:135.271",
+    "type": "article",
+    "title": "第135.271条 酒精和药物的使用限制",
+    "line_start": 2491,
+    "line_end": 2516,
+    "source_anchor": "第135.271条"
+  },
+  "article:135.273": {
+    "node_id": "article:135.273",
+    "type": "article",
+    "title": "第135.273条 机长资格要求",
+    "line_start": 2517,
+    "line_end": 2520,
+    "source_anchor": "第135.273条"
+  },
+  "article:135.275": {
+    "node_id": "article:135.275",
+    "type": "article",
+    "title": "第135.275条 副驾驶资格要求",
+    "line_start": 2521,
+    "line_end": 2522,
+    "source_anchor": "第135.275条"
+  },
+  "article:135.277": {
+    "node_id": "article:135.277",
+    "type": "article",
+    "title": "第135.277条 运行经历",
+    "line_start": 2535,
+    "line_end": 2558,
+    "source_anchor": "第135.277条"
+  },
+  "article:135.279": {
+    "node_id": "article:135.279",
+    "type": "article",
+    "title": "第135.279条 近期经历",
+    "line_start": 2559,
+    "line_end": 2566,
+    "source_anchor": "第135.279条"
+  },
+  "article:135.281": {
+    "node_id": "article:135.281",
+    "type": "article",
+    "title": "第135.281条 用于满足近期飞行经历的飞机和设施",
+    "line_start": 2567,
+    "line_end": 2570,
+    "source_anchor": "第135.281条"
+  },
+  "article:135.283": {
+    "node_id": "article:135.283",
+    "type": "article",
+    "title": "第135.283条 熟练检查要求",
+    "line_start": 2571,
+    "line_end": 2584,
+    "source_anchor": "第135.283条"
+  },
+  "article:135.285": {
+    "node_id": "article:135.285",
+    "type": "article",
+    "title": "第135.285条 机长的地区、航路和机场资格",
+    "line_start": 2585,
+    "line_end": 2620,
+    "source_anchor": "第135.285条"
+  },
+  "article:135.287": {
+    "node_id": "article:135.287",
+    "type": "article",
+    "title": "第135.287条 机长航线检查",
+    "line_start": 2621,
+    "line_end": 2639,
+    "source_anchor": "第135.287条"
+  },
+  "article:135.289": {
+    "node_id": "article:135.289",
+    "type": "article",
+    "title": "第135.289条 考试和检查的附加规定",
+    "line_start": 2640,
+    "line_end": 2651,
+    "source_anchor": "第135.289条"
+  },
+  "article:135.291": {
+    "node_id": "article:135.291",
+    "type": "article",
+    "title": "第135.291条 (a)款(1)项和(c)款(3)项以及(f)款相应职能。",
+    "line_start": 3095,
+    "line_end": 3145,
+    "source_anchor": "第135.291条"
+  },
+  "article:135.293": {
+    "node_id": "article:135.293",
+    "type": "article",
+    "title": "第135.293条 机组成员训练要求",
+    "line_start": 2693,
+    "line_end": 2727,
+    "source_anchor": "第135.293条"
+  },
+  "article:135.295": {
+    "node_id": "article:135.295",
+    "type": "article",
+    "title": "第135.295条 机组的训练大纲",
+    "line_start": 2728,
+    "line_end": 2773,
+    "source_anchor": "第135.295条"
+  },
+  "article:135.297": {
+    "node_id": "article:135.297",
+    "type": "article",
+    "title": "第135.297条 训练大纲制定、修订及批准",
+    "line_start": 2774,
+    "line_end": 2796,
+    "source_anchor": "第135.297条"
+  },
+  "article:135.299": {
+    "node_id": "article:135.299",
+    "type": "article",
+    "title": "第135.299条 驾驶员初始增加型别等级、转机型和升级地面",
+    "line_start": 2797,
+    "line_end": 2849,
+    "source_anchor": "第135.299条"
+  },
+  "article:135.301": {
+    "node_id": "article:135.301",
+    "type": "article",
+    "title": "第135.301条 驾驶员初始增加型别等级、转机型、升级和差",
+    "line_start": 2850,
+    "line_end": 2864,
+    "source_anchor": "第135.301条"
+  },
+  "article:135.303": {
+    "node_id": "article:135.303",
+    "type": "article",
+    "title": "第135.303条 定期复训",
+    "line_start": 2865,
+    "line_end": 2943,
+    "source_anchor": "第135.303条"
+  },
+  "article:135.305": {
+    "node_id": "article:135.305",
+    "type": "article",
+    "title": "第135.305条 机组成员应急生存训练",
+    "line_start": 2944,
+    "line_end": 2987,
+    "source_anchor": "第135.305条"
+  },
+  "article:135.307": {
+    "node_id": "article:135.307",
+    "type": "article",
+    "title": "第135.307条 飞行教员的资格审定",
+    "line_start": 2988,
+    "line_end": 2994,
+    "source_anchor": "第135.307条"
+  },
+  "article:135.309": {
+    "node_id": "article:135.309",
+    "type": "article",
+    "title": "第135.309条 飞行教员的初始和转机型训练要求",
+    "line_start": 3045,
+    "line_end": 3085,
+    "source_anchor": "第135.309条"
+  },
+  "article:135.311": {
+    "node_id": "article:135.311",
+    "type": "article",
+    "title": "第135.311条 飞行检查员的资格审定",
+    "line_start": 3086,
+    "line_end": 3094,
+    "source_anchor": "第135.311条"
+  },
+  "article:135.313": {
+    "node_id": "article:135.313",
+    "type": "article",
+    "title": "第135.313条 飞行检查员的初始和转机型训练要求",
+    "line_start": 3146,
+    "line_end": 3181,
+    "source_anchor": "第135.313条"
+  },
+  "article:135.321": {
+    "node_id": "article:135.321",
+    "type": "article",
+    "title": "第135.321条 运行设施",
+    "line_start": 3184,
+    "line_end": 3192,
+    "source_anchor": "第135.321条"
+  },
+  "article:135.323": {
+    "node_id": "article:135.323",
+    "type": "article",
+    "title": "第135.323条 运行手册",
+    "line_start": 3193,
+    "line_end": 3221,
+    "source_anchor": "第135.323条"
+  },
+  "article:135.325": {
+    "node_id": "article:135.325",
+    "type": "article",
+    "title": "第135.325条 合格证持有人名称的使用",
+    "line_start": 3222,
+    "line_end": 3227,
+    "source_anchor": "第135.325条"
+  },
+  "article:135.327": {
+    "node_id": "article:135.327",
+    "type": "article",
+    "title": "第135.327条 基本运行指令",
+    "line_start": 3228,
+    "line_end": 3259,
+    "source_anchor": "第135.327条"
+  },
+  "article:135.329": {
+    "node_id": "article:135.329",
+    "type": "article",
+    "title": "第135.329条 飞行中模拟紧急情况",
+    "line_start": 3260,
+    "line_end": 3262,
+    "source_anchor": "第135.329条"
+  },
+  "article:135.331": {
+    "node_id": "article:135.331",
+    "type": "article",
+    "title": "第135.331条 检查单",
+    "line_start": 3263,
+    "line_end": 3285,
+    "source_anchor": "第135.331条"
+  },
+  "article:135.333": {
+    "node_id": "article:135.333",
+    "type": "article",
+    "title": "第135.333条 最低飞行高度",
+    "line_start": 3286,
+    "line_end": 3290,
+    "source_anchor": "第135.333条"
+  },
+  "article:135.335": {
+    "node_id": "article:135.335",
+    "type": "article",
+    "title": "第135.335条 乘客及飞行前简介",
+    "line_start": 3291,
+    "line_end": 3349,
+    "source_anchor": "第135.335条"
+  },
+  "article:135.337": {
+    "node_id": "article:135.337",
+    "type": "article",
+    "title": "第135.337条 为运行人员提供的航空信息资料",
+    "line_start": 3350,
+    "line_end": 3362,
+    "source_anchor": "第135.337条"
+  },
+  "article:135.339": {
+    "node_id": "article:135.339",
+    "type": "article",
+    "title": "第135.339条 飞行准备",
+    "line_start": 3363,
+    "line_end": 3372,
+    "source_anchor": "第135.339条"
+  },
+  "article:135.341": {
+    "node_id": "article:135.341",
+    "type": "article",
+    "title": "第135.341条 关键阶段飞行机组成员的值勤要求",
+    "line_start": 3373,
+    "line_end": 3384,
+    "source_anchor": "第135.341条"
+  },
+  "article:135.343": {
+    "node_id": "article:135.343",
+    "type": "article",
+    "title": "第135.343条 禁止干扰机组成员",
+    "line_start": 3385,
+    "line_end": 3389,
+    "source_anchor": "第135.343条"
+  },
+  "article:135.345": {
+    "node_id": "article:135.345",
+    "type": "article",
+    "title": "第135.345条 运行飞行计划",
+    "line_start": 3390,
+    "line_end": 3393,
+    "source_anchor": "第135.345条"
+  },
+  "article:135.347": {
+    "node_id": "article:135.347",
+    "type": "article",
+    "title": "第135.347条 备降机场",
+    "line_start": 3394,
+    "line_end": 3425,
+    "source_anchor": "第135.347条"
+  },
+  "article:135.349": {
+    "node_id": "article:135.349",
+    "type": "article",
+    "title": "第135.349条 气象条件",
+    "line_start": 3426,
+    "line_end": 3457,
+    "source_anchor": "第135.349条"
+  },
+  "article:135.351": {
+    "node_id": "article:135.351",
+    "type": "article",
+    "title": "第135.351条 (c)款(6)项对额外燃油储备的要求。",
+    "line_start": 3785,
+    "line_end": 3790,
+    "source_anchor": "第135.351条"
+  },
+  "article:135.353": {
+    "node_id": "article:135.353",
+    "type": "article",
+    "title": "第135.353条 条的要求。合格证持有人应当至少将燃油记录保存3 个月。",
+    "line_start": 4112,
+    "line_end": 4118,
+    "source_anchor": "第135.353条"
+  },
+  "article:135.355": {
+    "node_id": "article:135.355",
+    "type": "article",
+    "title": "第135.355条 乘客在飞机上时的加油",
+    "line_start": 3552,
+    "line_end": 3558,
+    "source_anchor": "第135.355条"
+  },
+  "article:135.357": {
+    "node_id": "article:135.357",
+    "type": "article",
+    "title": "第135.357条 仪表飞行规则起飞、进近和着陆最低标准",
+    "line_start": 3559,
+    "line_end": 3619,
+    "source_anchor": "第135.357条"
+  },
+  "article:135.359": {
+    "node_id": "article:135.359",
+    "type": "article",
+    "title": "第135.359条 机场运行最低标准",
+    "line_start": 3620,
+    "line_end": 3635,
+    "source_anchor": "第135.359条"
+  },
+  "article:135.361": {
+    "node_id": "article:135.361",
+    "type": "article",
+    "title": "第135.361条 报告潜在的危险气象和飞行条件、通信或者导",
+    "line_start": 3636,
+    "line_end": 3647,
+    "source_anchor": "第135.361条"
+  },
+  "article:135.363": {
+    "node_id": "article:135.363",
+    "type": "article",
+    "title": "第135.363条 值勤岗位上的飞行机组成员",
+    "line_start": 3648,
+    "line_end": 3658,
+    "source_anchor": "第135.363条"
+  },
+  "article:135.365": {
+    "node_id": "article:135.365",
+    "type": "article",
+    "title": "第135.365条 驾驶员使用氧气的要求",
+    "line_start": 3659,
+    "line_end": 3675,
+    "source_anchor": "第135.365条"
+  },
+  "article:135.367": {
+    "node_id": "article:135.367",
+    "type": "article",
+    "title": "第135.367条 乘客医用氧气",
+    "line_start": 3676,
+    "line_end": 3718,
+    "source_anchor": "第135.367条"
+  },
+  "article:135.369": {
+    "node_id": "article:135.369",
+    "type": "article",
+    "title": "第135.369条 禁止载运武器",
+    "line_start": 3719,
+    "line_end": 3724,
+    "source_anchor": "第135.369条"
+  },
+  "article:135.371": {
+    "node_id": "article:135.371",
+    "type": "article",
+    "title": "第135.371条 仪表飞行程序",
+    "line_start": 3725,
+    "line_end": 3727,
+    "source_anchor": "第135.371条"
+  },
+  "article:135.373": {
+    "node_id": "article:135.373",
+    "type": "article",
+    "title": "第135.373条 机长职责",
+    "line_start": 3728,
+    "line_end": 3739,
+    "source_anchor": "第135.373条"
+  },
+  "article:135.375": {
+    "node_id": "article:135.375",
+    "type": "article",
+    "title": "第135.375条 对飞往航路备降机场的运行超过60 分钟的要",
+    "line_start": 3740,
+    "line_end": 3756,
+    "source_anchor": "第135.375条"
+  },
+  "article:135.377": {
+    "node_id": "article:135.377",
+    "type": "article",
+    "title": "第135.377条 对延长改航时间运行的要求",
+    "line_start": 3757,
+    "line_end": 3784,
+    "source_anchor": "第135.377条"
+  },
+  "article:135.379": {
+    "node_id": "article:135.379",
+    "type": "article",
+    "title": "第135.379条 行李和货物载运",
+    "line_start": 3791,
+    "line_end": 3820,
+    "source_anchor": "第135.379条"
+  },
+  "article:135.381": {
+    "node_id": "article:135.381",
+    "type": "article",
+    "title": "第135.381条 对单一驾驶员按照仪表飞行规则或者在夜间运",
+    "line_start": 3821,
+    "line_end": 3832,
+    "source_anchor": "第135.381条"
+  },
+  "article:135.383": {
+    "node_id": "article:135.383",
+    "type": "article",
+    "title": "第135.383条 机组成员的周、月、年飞行时间限制",
+    "line_start": 3833,
+    "line_end": 3840,
+    "source_anchor": "第135.383条"
+  },
+  "article:135.385": {
+    "node_id": "article:135.385",
+    "type": "article",
+    "title": "第135.385条 疲劳管理",
+    "line_start": 3841,
+    "line_end": 3862,
+    "source_anchor": "第135.385条"
+  },
+  "article:135.401": {
+    "node_id": "article:135.401",
+    "type": "article",
+    "title": "第135.401条 一般规定",
+    "line_start": 3865,
+    "line_end": 3914,
+    "source_anchor": "第135.401条"
+  },
+  "article:135.403": {
+    "node_id": "article:135.403",
+    "type": "article",
+    "title": "第135.403条 障碍物数据",
+    "line_start": 3915,
+    "line_end": 3919,
+    "source_anchor": "第135.403条"
+  },
+  "article:135.409": {
+    "node_id": "article:135.409",
+    "type": "article",
+    "title": "第135.409条 总则",
+    "line_start": 3922,
+    "line_end": 3938,
+    "source_anchor": "第135.409条"
+  },
+  "article:135.411": {
+    "node_id": "article:135.411",
+    "type": "article",
+    "title": "第135.411条 维修方案",
+    "line_start": 3939,
+    "line_end": 3963,
+    "source_anchor": "第135.411条"
+  },
+  "article:135.413": {
+    "node_id": "article:135.413",
+    "type": "article",
+    "title": "第135.413条 维修管理要求",
+    "line_start": 3964,
+    "line_end": 4007,
+    "source_anchor": "第135.413条"
+  },
+  "article:135.415": {
+    "node_id": "article:135.415",
+    "type": "article",
+    "title": "第135.415条 维修工程管理手册",
+    "line_start": 4008,
+    "line_end": 4018,
+    "source_anchor": "第135.415条"
+  },
+  "article:135.417": {
+    "node_id": "article:135.417",
+    "type": "article",
+    "title": "第135.417条 飞机技术档案",
+    "line_start": 4019,
+    "line_end": 4035,
+    "source_anchor": "第135.417条"
+  },
+  "article:135.419": {
+    "node_id": "article:135.419",
+    "type": "article",
+    "title": "第135.419条 年度适航性检查",
+    "line_start": 4036,
+    "line_end": 4055,
+    "source_anchor": "第135.419条"
+  },
+  "article:135.421": {
+    "node_id": "article:135.421",
+    "type": "article",
+    "title": "第135.421条 记录保持要求",
+    "line_start": 4058,
+    "line_end": 4111,
+    "source_anchor": "第135.421条"
+  },
+  "article:135.423": {
+    "node_id": "article:135.423",
+    "type": "article",
+    "title": "第135.423条 飞行记录本",
+    "line_start": 4119,
+    "line_end": 4133,
+    "source_anchor": "第135.423条"
+  },
+  "article:135.425": {
+    "node_id": "article:135.425",
+    "type": "article",
+    "title": "第135.425条 使用困难报告",
+    "line_start": 4134,
+    "line_end": 4184,
+    "source_anchor": "第135.425条"
+  },
+  "article:135.427": {
+    "node_id": "article:135.427",
+    "type": "article",
+    "title": "第135.427条 携带的应急和救生设备记录",
+    "line_start": 4185,
+    "line_end": 4190,
+    "source_anchor": "第135.427条"
+  },
+  "article:135.429": {
+    "node_id": "article:135.429",
+    "type": "article",
+    "title": "第135.429条 飞行记录器的记录",
+    "line_start": 4191,
+    "line_end": 4197,
+    "source_anchor": "第135.429条"
+  },
+  "chapter:D": {
+    "node_id": "chapter:D",
+    "type": "chapter",
+    "title": "D章 D章",
+    "line_start": 2275,
+    "line_end": 4197,
+    "source_anchor": "D章"
+  },
+  "article:135.451": {
+    "node_id": "article:135.451",
+    "type": "article",
+    "title": "第135.451条 直升机要求",
+    "line_start": 4202,
+    "line_end": 4215,
+    "source_anchor": "第135.451条"
+  },
+  "article:135.453": {
+    "node_id": "article:135.453",
+    "type": "article",
+    "title": "第135.453条 基本飞行仪表和设备",
+    "line_start": 4216,
+    "line_end": 4232,
+    "source_anchor": "第135.453条"
+  },
+  "article:135.455": {
+    "node_id": "article:135.455",
+    "type": "article",
+    "title": "第135.455条 应急和救生设备",
+    "line_start": 4233,
+    "line_end": 4284,
+    "source_anchor": "第135.455条"
+  },
+  "article:135.457": {
+    "node_id": "article:135.457",
+    "type": "article",
+    "title": "第135.457条 通信、导航和监视设备",
+    "line_start": 4285,
+    "line_end": 4304,
+    "source_anchor": "第135.457条"
+  },
+  "article:135.459": {
+    "node_id": "article:135.459",
+    "type": "article",
+    "title": "第135.459条 记录设备",
+    "line_start": 4305,
+    "line_end": 4316,
+    "source_anchor": "第135.459条"
+  },
+  "article:135.460": {
+    "node_id": "article:135.460",
+    "type": "article",
+    "title": "第135.460条 其他设备",
+    "line_start": 4317,
+    "line_end": 4326,
+    "source_anchor": "第135.460条"
+  },
+  "article:135.461": {
+    "node_id": "article:135.461",
+    "type": "article",
+    "title": "第135.461条 飞行机组成员的组成",
+    "line_start": 4329,
+    "line_end": 4333,
+    "source_anchor": "第135.461条"
+  },
+  "article:135.463": {
+    "node_id": "article:135.463",
+    "type": "article",
+    "title": "第135.463条 机长或者副驾驶的指派要求",
+    "line_start": 4334,
+    "line_end": 4341,
+    "source_anchor": "第135.463条"
+  },
+  "article:135.465": {
+    "node_id": "article:135.465",
+    "type": "article",
+    "title": "第135.465条 条要求配备副驾驶的运行中,担任副驾驶的驾驶员应当至",
+    "line_start": 4426,
+    "line_end": 4436,
+    "source_anchor": "第135.465条"
+  },
+  "article:135.467": {
+    "node_id": "article:135.467",
+    "type": "article",
+    "title": "第135.467条 应急职责",
+    "line_start": 4363,
+    "line_end": 4370,
+    "source_anchor": "第135.467条"
+  },
+  "article:135.469": {
+    "node_id": "article:135.469",
+    "type": "article",
+    "title": "第135.469条 酒精和药物的使用限制",
+    "line_start": 4371,
+    "line_end": 4396,
+    "source_anchor": "第135.469条"
+  },
+  "article:135.471": {
+    "node_id": "article:135.471",
+    "type": "article",
+    "title": "第135.471条 机长资格要求",
+    "line_start": 4397,
+    "line_end": 4423,
+    "source_anchor": "第135.471条"
+  },
+  "article:135.473": {
+    "node_id": "article:135.473",
+    "type": "article",
+    "title": "第135.473条 副驾驶资格要求",
+    "line_start": 4424,
+    "line_end": 4425,
+    "source_anchor": "第135.473条"
+  },
+  "article:135.475": {
+    "node_id": "article:135.475",
+    "type": "article",
+    "title": "第135.475条 运行经历",
+    "line_start": 4437,
+    "line_end": 4460,
+    "source_anchor": "第135.475条"
+  },
+  "article:135.477": {
+    "node_id": "article:135.477",
+    "type": "article",
+    "title": "第135.477条 近期经历",
+    "line_start": 4461,
+    "line_end": 4468,
+    "source_anchor": "第135.477条"
+  },
+  "article:135.479": {
+    "node_id": "article:135.479",
+    "type": "article",
+    "title": "第135.479条 用于满足近期飞行经历的直升机和设施",
+    "line_start": 4469,
+    "line_end": 4472,
+    "source_anchor": "第135.479条"
+  },
+  "article:135.481": {
+    "node_id": "article:135.481",
+    "type": "article",
+    "title": "第135.481条 熟练检查要求",
+    "line_start": 4473,
+    "line_end": 4486,
+    "source_anchor": "第135.481条"
+  },
+  "article:135.483": {
+    "node_id": "article:135.483",
+    "type": "article",
+    "title": "第135.483条 机长航线检查",
+    "line_start": 4487,
+    "line_end": 4503,
+    "source_anchor": "第135.483条"
+  },
+  "article:135.485": {
+    "node_id": "article:135.485",
+    "type": "article",
+    "title": "第135.485条 考试和检查的附加规定",
+    "line_start": 4504,
+    "line_end": 4517,
+    "source_anchor": "第135.485条"
+  },
+  "article:135.487": {
+    "node_id": "article:135.487",
+    "type": "article",
+    "title": "第135.487条 条(a)款(1)项和(c)款(3)项以及(f)款相应职能。",
+    "line_start": 4818,
+    "line_end": 4832,
+    "source_anchor": "第135.487条"
+  },
+  "article:135.489": {
+    "node_id": "article:135.489",
+    "type": "article",
+    "title": "第135.489条 机组成员训练要求",
+    "line_start": 4555,
+    "line_end": 4591,
+    "source_anchor": "第135.489条"
+  },
+  "article:135.491": {
+    "node_id": "article:135.491",
+    "type": "article",
+    "title": "第135.491条 机组的训练大纲",
+    "line_start": 4592,
+    "line_end": 4627,
+    "source_anchor": "第135.491条"
+  },
+  "article:135.493": {
+    "node_id": "article:135.493",
+    "type": "article",
+    "title": "第135.493条 训练大纲制定、修订及批准",
+    "line_start": 4628,
+    "line_end": 4650,
+    "source_anchor": "第135.493条"
+  },
+  "article:135.495": {
+    "node_id": "article:135.495",
+    "type": "article",
+    "title": "第135.495条 驾驶员初始增加型别等级、转机型和升级地面",
+    "line_start": 4651,
+    "line_end": 4704,
+    "source_anchor": "第135.495条"
+  },
+  "article:135.497": {
+    "node_id": "article:135.497",
+    "type": "article",
+    "title": "第135.497条 驾驶员初始增加型别等级、转机型、升级和差",
+    "line_start": 4705,
+    "line_end": 4721,
+    "source_anchor": "第135.497条"
+  },
+  "article:135.499": {
+    "node_id": "article:135.499",
+    "type": "article",
+    "title": "第135.499条 定期复训",
+    "line_start": 4722,
+    "line_end": 4768,
+    "source_anchor": "第135.499条"
+  },
+  "article:135.501": {
+    "node_id": "article:135.501",
+    "type": "article",
+    "title": "第135.501条 机组成员应急生存训练",
+    "line_start": 4769,
+    "line_end": 4810,
+    "source_anchor": "第135.501条"
+  },
+  "article:135.503": {
+    "node_id": "article:135.503",
+    "type": "article",
+    "title": "第135.503条 飞行教员的资格审定",
+    "line_start": 4811,
+    "line_end": 4817,
+    "source_anchor": "第135.503条"
+  },
+  "article:135.505": {
+    "node_id": "article:135.505",
+    "type": "article",
+    "title": "第135.505条 飞行教员的初始和转机型训练要求",
+    "line_start": 4867,
+    "line_end": 4907,
+    "source_anchor": "第135.505条"
+  },
+  "article:135.507": {
+    "node_id": "article:135.507",
+    "type": "article",
+    "title": "第135.507条 飞行检查员的资格审定",
+    "line_start": 4908,
+    "line_end": 4966,
+    "source_anchor": "第135.507条"
+  },
+  "article:135.509": {
+    "node_id": "article:135.509",
+    "type": "article",
+    "title": "第135.509条 飞行检查员的初始和转机型训练要求",
+    "line_start": 4967,
+    "line_end": 5003,
+    "source_anchor": "第135.509条"
+  },
+  "article:135.511": {
+    "node_id": "article:135.511",
+    "type": "article",
+    "title": "第135.511条 运行设施",
+    "line_start": 5006,
+    "line_end": 5012,
+    "source_anchor": "第135.511条"
+  },
+  "article:135.513": {
+    "node_id": "article:135.513",
+    "type": "article",
+    "title": "第135.513条 运行手册",
+    "line_start": 5013,
+    "line_end": 5041,
+    "source_anchor": "第135.513条"
+  },
+  "article:135.515": {
+    "node_id": "article:135.515",
+    "type": "article",
+    "title": "第135.515条 合格证持有人名称的使用",
+    "line_start": 5042,
+    "line_end": 5047,
+    "source_anchor": "第135.515条"
+  },
+  "article:135.517": {
+    "node_id": "article:135.517",
+    "type": "article",
+    "title": "第135.517条 基本运行指令",
+    "line_start": 5048,
+    "line_end": 5074,
+    "source_anchor": "第135.517条"
+  },
+  "article:135.519": {
+    "node_id": "article:135.519",
+    "type": "article",
+    "title": "第135.519条 飞行中模拟紧急情况",
+    "line_start": 5075,
+    "line_end": 5079,
+    "source_anchor": "第135.519条"
+  },
+  "article:135.521": {
+    "node_id": "article:135.521",
+    "type": "article",
+    "title": "第135.521条 检查单",
+    "line_start": 5080,
+    "line_end": 5100,
+    "source_anchor": "第135.521条"
+  },
+  "article:135.523": {
+    "node_id": "article:135.523",
+    "type": "article",
+    "title": "第135.523条 最低飞行高度",
+    "line_start": 5101,
+    "line_end": 5115,
+    "source_anchor": "第135.523条"
+  },
+  "article:135.525": {
+    "node_id": "article:135.525",
+    "type": "article",
+    "title": "第135.525条 乘客及飞行前简介",
+    "line_start": 5116,
+    "line_end": 5175,
+    "source_anchor": "第135.525条"
+  },
+  "article:135.527": {
+    "node_id": "article:135.527",
+    "type": "article",
+    "title": "第135.527条 跨水飞行",
+    "line_start": 5176,
+    "line_end": 5180,
+    "source_anchor": "第135.527条"
+  },
+  "article:135.529": {
+    "node_id": "article:135.529",
+    "type": "article",
+    "title": "第135.529条 为运行人员提供的航空信息资料",
+    "line_start": 5181,
+    "line_end": 5191,
+    "source_anchor": "第135.529条"
+  },
+  "article:135.531": {
+    "node_id": "article:135.531",
+    "type": "article",
+    "title": "第135.531条 飞行准备",
+    "line_start": 5192,
+    "line_end": 5201,
+    "source_anchor": "第135.531条"
+  },
+  "article:135.533": {
+    "node_id": "article:135.533",
+    "type": "article",
+    "title": "第135.533条 关键阶段飞行机组成员的值勤要求",
+    "line_start": 5202,
+    "line_end": 5215,
+    "source_anchor": "第135.533条"
+  },
+  "article:135.535": {
+    "node_id": "article:135.535",
+    "type": "article",
+    "title": "第135.535条 禁止干扰机组成员",
+    "line_start": 5216,
+    "line_end": 5218,
+    "source_anchor": "第135.535条"
+  },
+  "article:135.537": {
+    "node_id": "article:135.537",
+    "type": "article",
+    "title": "第135.537条 运行飞行计划",
+    "line_start": 5219,
+    "line_end": 5222,
+    "source_anchor": "第135.537条"
+  },
+  "article:135.539": {
+    "node_id": "article:135.539",
+    "type": "article",
+    "title": "第135.539条 备降机场",
+    "line_start": 5223,
+    "line_end": 5252,
+    "source_anchor": "第135.539条"
+  },
+  "article:135.541": {
+    "node_id": "article:135.541",
+    "type": "article",
+    "title": "第135.541条 气象条件",
+    "line_start": 5253,
+    "line_end": 5275,
+    "source_anchor": "第135.541条"
+  },
+  "article:135.543": {
+    "node_id": "article:135.543",
+    "type": "article",
+    "title": "第135.543条 燃油和滑油供应",
+    "line_start": 5276,
+    "line_end": 5317,
+    "source_anchor": "第135.543条"
+  },
+  "article:135.545": {
+    "node_id": "article:135.545",
+    "type": "article",
+    "title": "第135.545条 仪表飞行规则起飞、进近和着陆最低标准",
+    "line_start": 5318,
+    "line_end": 5369,
+    "source_anchor": "第135.545条"
+  },
+  "article:135.547": {
+    "node_id": "article:135.547",
+    "type": "article",
+    "title": "第135.547条 报告潜在的危险气象和飞行条件、通信或者导",
+    "line_start": 5370,
+    "line_end": 5379,
+    "source_anchor": "第135.547条"
+  },
+  "article:135.549": {
+    "node_id": "article:135.549",
+    "type": "article",
+    "title": "第135.549条 值勤岗位上的飞行机组成员",
+    "line_start": 5380,
+    "line_end": 5392,
+    "source_anchor": "第135.549条"
+  },
+  "article:135.551": {
+    "node_id": "article:135.551",
+    "type": "article",
+    "title": "第135.551条 驾驶员使用氧气的要求",
+    "line_start": 5393,
+    "line_end": 5410,
+    "source_anchor": "第135.551条"
+  },
+  "article:135.553": {
+    "node_id": "article:135.553",
+    "type": "article",
+    "title": "第135.553条 乘客医用氧气",
+    "line_start": 5411,
+    "line_end": 5453,
+    "source_anchor": "第135.553条"
+  },
+  "article:135.555": {
+    "node_id": "article:135.555",
+    "type": "article",
+    "title": "第135.555条 禁止载运武器",
+    "line_start": 5454,
+    "line_end": 5457,
+    "source_anchor": "第135.555条"
+  },
+  "article:135.557": {
+    "node_id": "article:135.557",
+    "type": "article",
+    "title": "第135.557条 条的要求。合格证持有人应当至少保存燃油记录3 个月。",
+    "line_start": 5857,
+    "line_end": 5860,
+    "source_anchor": "第135.557条"
+  },
+  "article:135.559": {
+    "node_id": "article:135.559",
+    "type": "article",
+    "title": "第135.559条 机长职责",
+    "line_start": 5472,
+    "line_end": 5482,
+    "source_anchor": "第135.559条"
+  },
+  "article:135.561": {
+    "node_id": "article:135.561",
+    "type": "article",
+    "title": "第135.561条 行李和货物的载运",
+    "line_start": 5483,
+    "line_end": 5515,
+    "source_anchor": "第135.561条"
+  },
+  "article:135.563": {
+    "node_id": "article:135.563",
+    "type": "article",
+    "title": "第135.563条 驾驶员值勤期限制、飞行时间限制和休息要求",
+    "line_start": 5516,
+    "line_end": 5540,
+    "source_anchor": "第135.563条"
+  },
+  "article:135.565": {
+    "node_id": "article:135.565",
+    "type": "article",
+    "title": "第135.565条 机组成员的周、月、年飞行时间限制",
+    "line_start": 5541,
+    "line_end": 5548,
+    "source_anchor": "第135.565条"
+  },
+  "article:135.567": {
+    "node_id": "article:135.567",
+    "type": "article",
+    "title": "第135.567条 机组成员值勤期和飞行时间安排的附加限制",
+    "line_start": 5549,
+    "line_end": 5565,
+    "source_anchor": "第135.567条"
+  },
+  "article:135.569": {
+    "node_id": "article:135.569",
+    "type": "article",
+    "title": "第135.569条 机组成员休息时间的附加要求",
+    "line_start": 5566,
+    "line_end": 5577,
+    "source_anchor": "第135.569条"
+  },
+  "article:135.571": {
+    "node_id": "article:135.571",
+    "type": "article",
+    "title": "第135.571条 机场要求",
+    "line_start": 5578,
+    "line_end": 5590,
+    "source_anchor": "第135.571条"
+  },
+  "article:135.573": {
+    "node_id": "article:135.573",
+    "type": "article",
+    "title": "第135.573条 水上平台运行",
+    "line_start": 5591,
+    "line_end": 5594,
+    "source_anchor": "第135.573条"
+  },
+  "article:135.581": {
+    "node_id": "article:135.581",
+    "type": "article",
+    "title": "第135.581条 一般规定",
+    "line_start": 5597,
+    "line_end": 5617,
+    "source_anchor": "第135.581条"
+  },
+  "article:135.583": {
+    "node_id": "article:135.583",
+    "type": "article",
+    "title": "第135.583条 重量限制",
+    "line_start": 5618,
+    "line_end": 5667,
+    "source_anchor": "第135.583条"
+  },
+  "article:135.585": {
+    "node_id": "article:135.585",
+    "type": "article",
+    "title": "第135.585条 障碍物数据",
+    "line_start": 5668,
+    "line_end": 5670,
+    "source_anchor": "第135.585条"
+  },
+  "article:135.587": {
+    "node_id": "article:135.587",
+    "type": "article",
+    "title": "第135.587条 总则",
+    "line_start": 5673,
+    "line_end": 5687,
+    "source_anchor": "第135.587条"
+  },
+  "article:135.589": {
+    "node_id": "article:135.589",
+    "type": "article",
+    "title": "第135.589条 维修方案",
+    "line_start": 5688,
+    "line_end": 5712,
+    "source_anchor": "第135.589条"
+  },
+  "article:135.591": {
+    "node_id": "article:135.591",
+    "type": "article",
+    "title": "第135.591条 维修管理要求",
+    "line_start": 5713,
+    "line_end": 5756,
+    "source_anchor": "第135.591条"
+  },
+  "article:135.593": {
+    "node_id": "article:135.593",
+    "type": "article",
+    "title": "第135.593条 维修工程管理手册",
+    "line_start": 5757,
+    "line_end": 5769,
+    "source_anchor": "第135.593条"
+  },
+  "article:135.595": {
+    "node_id": "article:135.595",
+    "type": "article",
+    "title": "第135.595条 直升机技术档案",
+    "line_start": 5770,
+    "line_end": 5784,
+    "source_anchor": "第135.595条"
+  },
+  "article:135.597": {
+    "node_id": "article:135.597",
+    "type": "article",
+    "title": "第135.597条 年度适航性检查",
+    "line_start": 5785,
+    "line_end": 5804,
+    "source_anchor": "第135.597条"
+  },
+  "article:135.599": {
+    "node_id": "article:135.599",
+    "type": "article",
+    "title": "第135.599条 记录保持要求",
+    "line_start": 5807,
+    "line_end": 5856,
+    "source_anchor": "第135.599条"
+  },
+  "article:135.601": {
+    "node_id": "article:135.601",
+    "type": "article",
+    "title": "第135.601条 飞行记录本",
+    "line_start": 5861,
+    "line_end": 5875,
+    "source_anchor": "第135.601条"
+  },
+  "article:135.603": {
+    "node_id": "article:135.603",
+    "type": "article",
+    "title": "第135.603条 使用困难报告",
+    "line_start": 5876,
+    "line_end": 5919,
+    "source_anchor": "第135.603条"
+  },
+  "article:135.605": {
+    "node_id": "article:135.605",
+    "type": "article",
+    "title": "第135.605条 机载应急和救生设备记录",
+    "line_start": 5920,
+    "line_end": 5927,
+    "source_anchor": "第135.605条"
+  },
+  "article:135.607": {
+    "node_id": "article:135.607",
+    "type": "article",
+    "title": "第135.607条 飞行记录器记录",
+    "line_start": 5928,
+    "line_end": 5934,
+    "source_anchor": "第135.607条"
+  },
+  "chapter:E": {
+    "node_id": "chapter:E",
+    "type": "chapter",
+    "title": "E章 E章",
+    "line_start": 4198,
+    "line_end": 5934,
+    "source_anchor": "E章"
+  },
+  "article:136.701": {
+    "node_id": "article:136.701",
+    "type": "article",
+    "title": "第136.701条 一般规定",
+    "line_start": 5937,
+    "line_end": 5941,
+    "source_anchor": "第136.701条"
+  },
+  "article:135.703": {
+    "node_id": "article:135.703",
+    "type": "article",
+    "title": "第135.703条 未取得相应证件的处罚",
+    "line_start": 5942,
+    "line_end": 5946,
+    "source_anchor": "第135.703条"
+  },
+  "article:135.705": {
+    "node_id": "article:135.705",
+    "type": "article",
+    "title": "第135.705条 提供虚假信息的处罚",
+    "line_start": 5947,
+    "line_end": 5950,
+    "source_anchor": "第135.705条"
+  },
+  "article:135.707": {
+    "node_id": "article:135.707",
+    "type": "article",
+    "title": "第135.707条 欺骗贿赂取得许可的处罚",
+    "line_start": 5951,
+    "line_end": 5956,
+    "source_anchor": "第135.707条"
+  },
+  "article:135.709": {
+    "node_id": "article:135.709",
+    "type": "article",
+    "title": "第135.709条 对违反本规定实施运行的处罚(一)",
+    "line_start": 5957,
+    "line_end": 5965,
+    "source_anchor": "第135.709条"
+  },
+  "article:135.711": {
+    "node_id": "article:135.711",
+    "type": "article",
+    "title": "第135.711条 对违反本规定实施运行的处罚(二)",
+    "line_start": 5966,
+    "line_end": 5970,
+    "source_anchor": "第135.711条"
+  },
+  "article:135.713": {
+    "node_id": "article:135.713",
+    "type": "article",
+    "title": "第135.713条 航空人员的责任处罚",
+    "line_start": 5971,
+    "line_end": 5975,
+    "source_anchor": "第135.713条"
+  },
+  "article:135.715": {
+    "node_id": "article:135.715",
+    "type": "article",
+    "title": "第135.715条 信用管理",
+    "line_start": 5976,
+    "line_end": 5985,
+    "source_anchor": "第135.715条"
+  },
+  "chapter:F": {
+    "node_id": "chapter:F",
+    "type": "chapter",
+    "title": "F章 F章",
+    "line_start": 5935,
+    "line_end": 5985,
+    "source_anchor": "F章"
+  },
+  "article:135.801": {
+    "node_id": "article:135.801",
+    "type": "article",
+    "title": "第135.801条 施行和废止",
+    "line_start": 5988,
+    "line_end": 6017,
+    "source_anchor": "第135.801条"
+  },
+  "chapter:G": {
+    "node_id": "chapter:G",
+    "type": "chapter",
+    "title": "G章 G章",
+    "line_start": 5986,
+    "line_end": 6630,
+    "source_anchor": "G章"
+  }
+}

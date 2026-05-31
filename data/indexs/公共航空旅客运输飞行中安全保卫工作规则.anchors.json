@@ -1,0 +1,450 @@
+{
+  "law:公共航空旅客运输飞行中安全保卫工作规则": {
+    "node_id": "law:公共航空旅客运输飞行中安全保卫工作规则",
+    "type": "law",
+    "title": "前款规定的公共航空运输企业及其工作人员和旅客应当遵守本规则。",
+    "line_start": 0,
+    "line_end": 276,
+    "source_anchor": "前款规定的公共航空运输企业及其工作人员和旅客应当遵守本规则。"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了规范公共航空旅客运输飞行中的安全保卫工作,加强民航反恐怖主义工作,保障民用航空安全和秩序,根据《中华人民共和国民用航空法》《中华人民共和国安全生产法》《中华人民共和国反恐怖主义法》和《中华人民共和国民用航空安全保卫条例》的有关规定,制定本规则。",
+    "line_start": 2,
+    "line_end": 3,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规则适用于中华人民共和国境内设立的公共航空运输企业从事公共航空旅客运输的航空器飞行中驾驶舱和客舱的安全保卫工作。",
+    "line_start": 4,
+    "line_end": 7,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 中国民用航空局(以下简称民航局)对全国范围内公共航空旅客运输飞行中的安全保卫工作实施指导、监督和检查。",
+    "line_start": 8,
+    "line_end": 11,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 公共航空运输企业对其从事旅客运输的航空器飞行中安全保卫工作承担主体责任。",
+    "line_start": 12,
+    "line_end": 13,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 公共航空运输企业应当设立或指定专门的航空安保机构,负责飞行中安全保卫工作。",
+    "line_start": 16,
+    "line_end": 19,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 公共航空运输企业应当按照相关规定配备和管理航空安全员队伍。",
+    "line_start": 20,
+    "line_end": 23,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 公共航空运输企业应当按照相关规定派遣航空安全员。",
+    "line_start": 24,
+    "line_end": 27,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 公共航空运输企业应当建立并严格执行飞行中安全保卫工作经费保障制度。经费保障应当满足飞行中安全保卫工作运行、培训、质量控制以及设施设备等方面的需要。",
+    "line_start": 28,
+    "line_end": 31,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 公共航空运输企业应当按照相关规定,为航空安全员配备装备,并对装备实施统一管理,明确管理责任,建立管理工作制度,确保装备齐全有效。",
+    "line_start": 32,
+    "line_end": 35,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 机长在履行飞行中安全保卫职责时,行使下列权力:",
+    "line_start": 36,
+    "line_end": 47,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 机长统一负责飞行中的安全保卫工作。航空安全员在机长领导下,承担飞行中安全保卫的具体工作。机组其他成员应当协助机长、航空安全员共同做好飞行中安全保卫工作。",
+    "line_start": 48,
+    "line_end": 65,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 旅客应当遵守相关规定,保持航空器内的良好秩序;发现航空器上可疑情况时,可以向机组成员举报。旅客在协助机组成员处置扰乱行为或者非法干扰行为时,应当听从机组成员指挥。",
+    "line_start": 66,
+    "line_end": 67,
+    "source_anchor": "第十二条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 工作职责",
+    "line_start": 14,
+    "line_end": 67,
+    "source_anchor": "第二章"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 公共航空运输企业应当根据本规则及其他相关规定,制定飞行中安全保卫措施,明确机组成员飞行中安全保卫职责,并纳入本单位航空安全保卫方案。",
+    "line_start": 70,
+    "line_end": 71,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 公共航空运输企业应当建立并严格执行飞行中安全保卫工作值班制度和备勤制度,保证信息传递畅通,确保可以根据飞行中安全保卫工作的需要调整和增派人员。",
+    "line_start": 72,
+    "line_end": 73,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 公共航空运输企业应当按照相关规定,在飞行中的航空器内配备安保资料,包括:",
+    "line_start": 74,
+    "line_end": 89,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 公共航空运输企业应当为航空安全员在航空器上预留座位,座位的安排应当紧邻过道以便于航空安全员执勤为原则,固定位置最长不得超过6个月。",
+    "line_start": 90,
+    "line_end": 91,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 公共航空运输企业应当建立航前协同会制度。",
+    "line_start": 92,
+    "line_end": 95,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 公共航空运输企业应当建立并严格执行飞行中安全保卫工作执勤日志管理制度。",
+    "line_start": 96,
+    "line_end": 97,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 国家警卫对象乘机时,公共航空运输企业应当按照国家相关规定采取飞行中安全保卫措施。",
+    "line_start": 98,
+    "line_end": 99,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 携带武器人员、押解犯罪嫌疑人或遣返人员乘机的,公共航空运输企业应当按照国家相关规定,采取飞行中安全保卫措施。",
+    "line_start": 100,
+    "line_end": 101,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 公共航空运输企业应当严格控制航空器上含酒精饮料的供应量,避免机上人员饮酒过量。",
+    "line_start": 102,
+    "line_end": 103,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 航空器驾驶舱和客舱的安保检查由机组成员在旅客登机前、下机后共同实施,防止航空器上留有未经授权的人员和武器、爆炸物等危险违禁物品。",
+    "line_start": 104,
+    "line_end": 105,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 机组成员应当对飞行中的航空器驾驶舱采取保护措施,除下列人员外,任何人不得进入飞行中的航空器驾驶舱:",
+    "line_start": 106,
+    "line_end": 115,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 机组成员应当按照机长授权处置扰乱行为和非法干扰行为。",
+    "line_start": 116,
+    "line_end": 119,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 出现严重危害航空器及所载人员生命安全的紧急情况,机组成员无法与机长联系时,应当立即采取必要处置措施。",
+    "line_start": 120,
+    "line_end": 121,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 机组成员对扰乱行为或非法干扰行为处置,应当依照规定及时报案,移交证据材料。",
+    "line_start": 122,
+    "line_end": 123,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 国内民用航空旅客运输中发生非法干扰行为时,公共航空运输企业应当立即向民航局、企业所在地和事发地民航地区管理局报告,并在处置结束后15个工作日内按照相关规定书面报告民航地区管理局。",
+    "line_start": 124,
+    "line_end": 129,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 航空安全员应当按照相关规定,携带齐全并妥善保管执勤装备、证件及安保资料。",
+    "line_start": 130,
+    "line_end": 131,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 航空安全员在饮用含酒精饮料之后的8小时之内,或其呼出气体中所含酒精浓度达到或者超过0.04克/210升,或处在酒精作用状态之下,或受到药物影响损及工作能力时,不得在航空器上履行职责。",
+    "line_start": 132,
+    "line_end": 135,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 航空安全员值勤、飞行值勤期、休息期的定义,飞行值勤期限制、累积飞行时间、值勤时间限制和休息时间的附加要求,依照《大型飞机公共航空运输承运人运行合格审定规则》中对客舱乘务员的规定执行。",
+    "line_start": 136,
+    "line_end": 139,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 公共航空运输企业不得派遣航空安全员在超出本规定的值勤期限制、飞行时间限制或不符合休息期要求的情况下执勤。",
+    "line_start": 140,
+    "line_end": 143,
+    "source_anchor": "第三十一条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 工作措施",
+    "line_start": 68,
+    "line_end": 143,
+    "source_anchor": "第三章"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 公共航空运输企业应当按照国家民用航空安全保卫培训方案和国家民用航空安全保卫质量控制计划,落实飞行中安全保卫工作的培训和质量控制要求。",
+    "line_start": 146,
+    "line_end": 149,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 公共航空运输企业应当按照相关规定,提供满足机组成员飞行中安全保卫工作培训需要的场所、装备器械、设施、设备、教材、人员及其他保障。",
+    "line_start": 150,
+    "line_end": 151,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 公共航空运输企业应当按照相关规定,组织新招录航空安全员进行实习飞行。",
+    "line_start": 152,
+    "line_end": 155,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 公共航空运输企业应当建立飞行中安全保卫业务培训考核机制,并为机组成员建立和保存飞行中安全保卫业务培训记录,该培训记录保存至少36个日历月。",
+    "line_start": 156,
+    "line_end": 159,
+    "source_anchor": "第三十五条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 培训质量控制",
+    "line_start": 144,
+    "line_end": 159,
+    "source_anchor": "第四章"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 公共航空运输企业有下列行为之一的,由地区管理局责令限期改正;逾期未改正的,处以警告或一万元以下罚款:",
+    "line_start": 162,
+    "line_end": 177,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 公共航空运输企业有下列行为之一的,由地区管理局责令限期改正;逾期未改正的,处以一万元以上三万元以下罚款:",
+    "line_start": 178,
+    "line_end": 191,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 公共航空运输企业违反本规则第七条第二款,在航空安全员飞行值勤期间,安排其从事其他岗位工作的;由地区管理局责令其停止违法行为,并处以警告或者一万元以下罚款。",
+    "line_start": 192,
+    "line_end": 193,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 公共航空运输企业有下列行为之一的,由地区管理局责令其停止违法行为,处以一万元以上三万元以下罚款:",
+    "line_start": 194,
+    "line_end": 199,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 公共航空运输企业违反本规则第二十七条,迟报、漏报或者隐瞒不报信息的,由民航行政机关予以警告并处以一万元以上三万元以下罚款。",
+    "line_start": 200,
+    "line_end": 201,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 公共航空运输企业违反本规则第七条第一款,未按规定派遣航空安全员的,处以一万元以上三万元以下罚款;未按规定派遣航空安全员,且造成事故隐患的,由民航行政机关依据《中华人民共和国安全生产法》第九十九条责令公共航空运输企业立即消除或者限期消除;公共航空运输企业拒不执行的,责令停产停业整顿,并处十万元以上五十万元以下的罚款,对其直接负责的主管人员和其他直接责任人员处二万元以上五万元以下的罚款。",
+    "line_start": 202,
+    "line_end": 203,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 公共航空运输企业违反本规则第八条第一款,不能保证飞行中安全保卫工作经费,致使公共航空运输企业不具备安全运行条件的,由民航行政机关依据《中华人民共和国安全生产法》第九十条责令限期改正,提供必需的资金;逾期未改正的,责令停产停业整顿。",
+    "line_start": 204,
+    "line_end": 205,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 公共航空运输企业违反本规则第八条第二款、第九条第一款,安保经费保障未达到反恐怖主义工作专项经费保障制度相关要求的,或未按规定配备安保人员和相应设备设施,由具有管辖权公安机关,按照《中华人民共和国反恐怖主义法》第八十八条给予警告、并责令改正,拒不改正的,处十万元以下罚款,并对其直接负责的主管人员和其他直接责任人员处一万元以下罚款。",
+    "line_start": 206,
+    "line_end": 207,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 公共航空运输企业有下列情形之一的,由民航行政机关依据《中华人民共和国安全生产法》第九十四条责令公共航空运输企业限期改正,可以处五万元以下罚款;逾期未改正的,责令停产停业整顿,并处五万元以上十万元以下罚款,对其直接负责的主管人员和其他直接责任人员处一万元以上二万元以下罚款:",
+    "line_start": 208,
+    "line_end": 215,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 机组成员违反本规则第十一条、第十五条第二款、第十七条第二款、第二十二条、第二十三条、第二十九条第一款,未按照本规则规定履行安全保卫职责的,由地区管理局处以警告或一千元以下罚款。",
+    "line_start": 216,
+    "line_end": 217,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 航空安全员有下列行为之一的,由地区管理局处以一千元以下罚款:",
+    "line_start": 218,
+    "line_end": 225,
+    "source_anchor": "第四十六条"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 旅客违反本规则有关规定,由具有管辖权的公安机关依据《中华人民共和国治安管理处罚法》给予处罚。",
+    "line_start": 226,
+    "line_end": 227,
+    "source_anchor": "第四十七条"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 对公共航空运输企业的行政处罚、行政强制等处理措施及其执行情况记入守法信用信息记录,并按照有关规定进行公示。",
+    "line_start": 228,
+    "line_end": 229,
+    "source_anchor": "第四十八条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 法律责任",
+    "line_start": 160,
+    "line_end": 229,
+    "source_anchor": "第五章"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 本规则使用的部分术语定义如下:",
+    "line_start": 232,
+    "line_end": 275,
+    "source_anchor": "第四十九条"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 本规则自2017年3月10日起施行。2016年4月4日起施行的《公共航空旅客运输飞行中安全保卫工作规则》(交通运输部令2016年第5号)同时废止。",
+    "line_start": 276,
+    "line_end": 276,
+    "source_anchor": "第五十条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 附则",
+    "line_start": 230,
+    "line_end": 276,
+    "source_anchor": "第六章"
+  }
+}

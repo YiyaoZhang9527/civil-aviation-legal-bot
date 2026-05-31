@@ -1,0 +1,1114 @@
+{
+  "law:运输机场运行安全管理规定": {
+    "node_id": "law:运输机场运行安全管理规定",
+    "type": "law",
+    "title": "《运输机场运行安全管理规定》已于2025 年10 月31",
+    "line_start": 0,
+    "line_end": 1702,
+    "source_anchor": "《运输机场运行安全管理规定》已于2025 年10 月31"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总   则",
+    "line_start": 70,
+    "line_end": 129,
+    "source_anchor": "第一章"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 基本要求",
+    "line_start": 1373,
+    "line_end": 1396,
+    "source_anchor": "第一节"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 机场运行安全信息报告制度",
+    "line_start": 1397,
+    "line_end": 1461,
+    "source_anchor": "第二节"
+  },
+  "section:3": {
+    "node_id": "section:3",
+    "type": "section",
+    "title": "第三节 巡视和驱除",
+    "line_start": 1108,
+    "line_end": 1136,
+    "source_anchor": "第三节"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 机场运行安全保障",
+    "line_start": 130,
+    "line_end": 339,
+    "source_anchor": "第二章"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 地面车辆和人员跑道侵入防范管理",
+    "line_start": 340,
+    "line_end": 388,
+    "source_anchor": "第三章"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 飞行区场地运维管理",
+    "line_start": 389,
+    "line_end": 593,
+    "source_anchor": "第四章"
+  },
+  "section:4": {
+    "node_id": "section:4",
+    "type": "section",
+    "title": "第四节 鸟击及其他动物撞击航空器事件确认和报告",
+    "line_start": 1137,
+    "line_end": 1157,
+    "source_anchor": "第四节"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 外来物防范管理",
+    "line_start": 594,
+    "line_end": 672,
+    "source_anchor": "第五章"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 目视助航设施运维管理",
+    "line_start": 673,
+    "line_end": 805,
+    "source_anchor": "第六章"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 机坪运行管理",
+    "line_start": 806,
+    "line_end": 968,
+    "source_anchor": "第七章"
+  },
+  "chapter:8": {
+    "node_id": "chapter:8",
+    "type": "chapter",
+    "title": "第八章 机场净空保护管理",
+    "line_start": 969,
+    "line_end": 1043,
+    "source_anchor": "第八章"
+  },
+  "section:5": {
+    "node_id": "section:5",
+    "type": "section",
+    "title": "第五节 鸟类及其他动物活动信息的收集、分析与利用",
+    "line_start": 1158,
+    "line_end": 1174,
+    "source_anchor": "第五节"
+  },
+  "chapter:9": {
+    "node_id": "chapter:9",
+    "type": "chapter",
+    "title": "第九章 鸟击及动物侵入防范管理",
+    "line_start": 1044,
+    "line_end": 1174,
+    "source_anchor": "第九章"
+  },
+  "chapter:10": {
+    "node_id": "chapter:10",
+    "type": "chapter",
+    "title": "第十章 场道除冰雪管理",
+    "line_start": 1175,
+    "line_end": 1270,
+    "source_anchor": "第十章"
+  },
+  "chapter:11": {
+    "node_id": "chapter:11",
+    "type": "chapter",
+    "title": "第十一章 不停航施工管理",
+    "line_start": 1271,
+    "line_end": 1371,
+    "source_anchor": "第十一章"
+  },
+  "chapter:12": {
+    "node_id": "chapter:12",
+    "type": "chapter",
+    "title": "第十二章 机场运行安全信息管理",
+    "line_start": 1372,
+    "line_end": 1461,
+    "source_anchor": "第十二章"
+  },
+  "chapter:13": {
+    "node_id": "chapter:13",
+    "type": "chapter",
+    "title": "第十三章 法律责任",
+    "line_start": 1462,
+    "line_end": 1689,
+    "source_anchor": "第十三章"
+  },
+  "chapter:14": {
+    "node_id": "chapter:14",
+    "type": "chapter",
+    "title": "第十四章 附    则",
+    "line_start": 1690,
+    "line_end": 1702,
+    "source_anchor": "第十四章"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了保障运输机场安全、有序运行,根据《中",
+    "line_start": 71,
+    "line_end": 73,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 运输机场(含军民合用机场民用部分,以下简",
+    "line_start": 74,
+    "line_end": 80,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 中国民用航空局(以下简称中国民航局)负责",
+    "line_start": 81,
+    "line_end": 85,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 机场运营人负责对机场的运行安全实施统一",
+    "line_start": 86,
+    "line_end": 90,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 机场运营人与公共航空运输企业、空中交通管",
+    "line_start": 91,
+    "line_end": 95,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 机场运营人、公共航空运输企业、空中交通管",
+    "line_start": 96,
+    "line_end": 105,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 在机场飞行区范围内的任何单位和个人,应当遵",
+    "line_start": 106,
+    "line_end": 115,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 组建机场集团(公司)的,机场集团(公司)",
+    "line_start": 116,
+    "line_end": 129,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 机场运营人应当组织成立机场运行安全管理",
+    "line_start": 132,
+    "line_end": 155,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 本规定自2026 年7 月1 日起施行。原",
+    "line_start": 1693,
+    "line_end": 1702,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 机场运营人违反本规定第三十条,未",
+    "line_start": 1513,
+    "line_end": 1516,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 违反本规定第三十八条,跑道开放运",
+    "line_start": 1517,
+    "line_end": 1522,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 机场运营人有下列行为之一的,由民",
+    "line_start": 1523,
+    "line_end": 1539,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 有下列行为之一的,由民航地区管理",
+    "line_start": 1540,
+    "line_end": 1548,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 有下列行为之一的,由民航地区管理",
+    "line_start": 1549,
+    "line_end": 1562,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 机场运营人、公共航空运输企业、航",
+    "line_start": 1563,
+    "line_end": 1568,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 机场运营人有下列行为之一的,由民",
+    "line_start": 1569,
+    "line_end": 1585,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 机场运营人有下列行为之一的,由民",
+    "line_start": 1586,
+    "line_end": 1598,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 、第一百三十条,未按照要求开展净空巡查",
+    "line_start": 1615,
+    "line_end": 1616,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 机场集团(公司)、机场运营人的主要负责",
+    "line_start": 236,
+    "line_end": 259,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 机场内从事与运行安全有关的岗位人员",
+    "line_start": 260,
+    "line_end": 268,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 机场运营人、公共航空运输企业、空中交通",
+    "line_start": 269,
+    "line_end": 282,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 机场运营人应当会同有关驻场单位建立",
+    "line_start": 283,
+    "line_end": 285,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 飞行区从业人员应当佩带控制区通行证,",
+    "line_start": 286,
+    "line_end": 294,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 机场运营人应当会同空中交通管理机构、",
+    "line_start": 296,
+    "line_end": 299,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 实施低能见度运行的机场,机场运营人应",
+    "line_start": 300,
+    "line_end": 304,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 机场运营人应当会同有关驻场单位结合",
+    "line_start": 305,
+    "line_end": 307,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 航班备降时,机场运营人、公共航空运输",
+    "line_start": 308,
+    "line_end": 317,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 除按照中国民航局有关规定和标准实施",
+    "line_start": 318,
+    "line_end": 321,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 机场运营人应当制定跑道、滑行道、机坪或",
+    "line_start": 322,
+    "line_end": 331,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 新建或者改(扩)建的跑道、平行滑行道",
+    "line_start": 332,
+    "line_end": 339,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 机场运营人负责地面车辆和人员跑道侵",
+    "line_start": 342,
+    "line_end": 346,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 机场运营人应当组织成立跑道安全小组,",
+    "line_start": 347,
+    "line_end": 356,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 机场运营人应当组织制定地面车辆和人",
+    "line_start": 357,
+    "line_end": 359,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 在地面保护区或者机动区的作业人员经",
+    "line_start": 360,
+    "line_end": 365,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 机场运营人应当定期开展跑道侵入防范",
+    "line_start": 366,
+    "line_end": 367,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 机场运营人应当会同空中交通管理机构,",
+    "line_start": 369,
+    "line_end": 372,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 跑道开放运行期间,任何车辆和人员进入",
+    "line_start": 373,
+    "line_end": 380,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 车辆和人员应当在管制员限定的时间内,",
+    "line_start": 381,
+    "line_end": 388,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 机场跑道、滑行道、机坪等飞行区场地设施",
+    "line_start": 391,
+    "line_end": 395,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 机场运营人应当确保跑道、滑行道和机坪",
+    "line_start": 396,
+    "line_end": 398,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 机场运营人应当设立或者指定部门负责",
+    "line_start": 399,
+    "line_end": 402,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 机场运营人应当制定飞行区场地运维管",
+    "line_start": 403,
+    "line_end": 404,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 机场运营人应当定期对跑道、滑行道、机",
+    "line_start": 405,
+    "line_end": 415,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 机场运营人应当按照本规定及中国民航",
+    "line_start": 417,
+    "line_end": 420,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 跑道、滑行道和机坪道面的巡查包括每日",
+    "line_start": 421,
+    "line_end": 423,
+    "source_anchor": "第四十六条"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 跑道、滑行道和机坪道面的每日全面巡查",
+    "line_start": 424,
+    "line_end": 451,
+    "source_anchor": "第四十七条"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 跑道、滑行道和机坪道面的定期全面步行",
+    "line_start": 452,
+    "line_end": 455,
+    "source_anchor": "第四十八条"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 升降带、跑道端安全区和滑行带内的土面",
+    "line_start": 456,
+    "line_end": 457,
+    "source_anchor": "第四十九条"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 雨季来临之前,应当至少对飞行区排水设施",
+    "line_start": 458,
+    "line_end": 464,
+    "source_anchor": "第五十条"
+  },
+  "article:51": {
+    "node_id": "article:51",
+    "type": "article",
+    "title": "第五十一条 当出现高温、大风及其他不利天气条件",
+    "line_start": 465,
+    "line_end": 469,
+    "source_anchor": "第五十一条"
+  },
+  "article:52": {
+    "node_id": "article:52",
+    "type": "article",
+    "title": "第五十二条 飞行区内不停航施工、维护作业和其他可",
+    "line_start": 470,
+    "line_end": 472,
+    "source_anchor": "第五十二条"
+  },
+  "article:53": {
+    "node_id": "article:53",
+    "type": "article",
+    "title": "第五十三条 出现下列情形之一时,应当立即对飞行区",
+    "line_start": 473,
+    "line_end": 478,
+    "source_anchor": "第五十三条"
+  },
+  "article:54": {
+    "node_id": "article:54",
+    "type": "article",
+    "title": "第五十四条 在跑道巡查过程中发现下列情形的,巡查",
+    "line_start": 479,
+    "line_end": 496,
+    "source_anchor": "第五十四条"
+  },
+  "article:55": {
+    "node_id": "article:55",
+    "type": "article",
+    "title": "第五十五条 在跑道巡查过程中发现下列需要处理但",
+    "line_start": 497,
+    "line_end": 506,
+    "source_anchor": "第五十五条"
+  },
+  "article:56": {
+    "node_id": "article:56",
+    "type": "article",
+    "title": "第五十六条 机场运营人应当充分考虑飞行区场地规",
+    "line_start": 507,
+    "line_end": 509,
+    "source_anchor": "第五十六条"
+  },
+  "article:57": {
+    "node_id": "article:57",
+    "type": "article",
+    "title": "第五十七条 机场运营人应当对机场活动区道面实施",
+    "line_start": 510,
+    "line_end": 517,
+    "source_anchor": "第五十七条"
+  },
+  "article:58": {
+    "node_id": "article:58",
+    "type": "article",
+    "title": "第五十八条 跑道道面出现本规定第五十四条所述的",
+    "line_start": 518,
+    "line_end": 526,
+    "source_anchor": "第五十八条"
+  },
+  "article:59": {
+    "node_id": "article:59",
+    "type": "article",
+    "title": "第五十九条 活动区道面嵌缝料、升降带平整区、跑道",
+    "line_start": 527,
+    "line_end": 529,
+    "source_anchor": "第五十九条"
+  },
+  "article:60": {
+    "node_id": "article:60",
+    "type": "article",
+    "title": "第六十条 机场运营人应当定期评估干跑道表面橡胶",
+    "line_start": 531,
+    "line_end": 534,
+    "source_anchor": "第六十条"
+  },
+  "article:61": {
+    "node_id": "article:61",
+    "type": "article",
+    "title": "第六十一条 机场运营人应当通过测试跑道摩擦系数",
+    "line_start": 535,
+    "line_end": 543,
+    "source_anchor": "第六十一条"
+  },
+  "article:62": {
+    "node_id": "article:62",
+    "type": "article",
+    "title": "第六十二条 存在下列情形之一的,机场运营人应当",
+    "line_start": 544,
+    "line_end": 552,
+    "source_anchor": "第六十二条"
+  },
+  "article:63": {
+    "node_id": "article:63",
+    "type": "article",
+    "title": "第六十三条 机场运营人应当按照中国民航局有关规",
+    "line_start": 553,
+    "line_end": 557,
+    "source_anchor": "第六十三条"
+  },
+  "article:64": {
+    "node_id": "article:64",
+    "type": "article",
+    "title": "第六十四条 机场运营人应当以跑道表面每三分之一",
+    "line_start": 558,
+    "line_end": 571,
+    "source_anchor": "第六十四条"
+  },
+  "article:65": {
+    "node_id": "article:65",
+    "type": "article",
+    "title": "第六十五条 湿和污染跑道运行期间,机场运营人应当",
+    "line_start": 572,
+    "line_end": 573,
+    "source_anchor": "第六十五条"
+  },
+  "article:66": {
+    "node_id": "article:66",
+    "type": "article",
+    "title": "第六十六条 出现下列情形之一时,应当按程序暂停航",
+    "line_start": 574,
+    "line_end": 593,
+    "source_anchor": "第六十六条"
+  },
+  "article:67": {
+    "node_id": "article:67",
+    "type": "article",
+    "title": "第六十七条 机场运营人负责统一协调、管理机场外来",
+    "line_start": 596,
+    "line_end": 603,
+    "source_anchor": "第六十七条"
+  },
+  "article:68": {
+    "node_id": "article:68",
+    "type": "article",
+    "title": "第六十八条 机场运营人应当组织制定外来物防范管",
+    "line_start": 604,
+    "line_end": 606,
+    "source_anchor": "第六十八条"
+  },
+  "article:69": {
+    "node_id": "article:69",
+    "type": "article",
+    "title": "第六十九条 机场运营人及有关驻场单位应当系统识",
+    "line_start": 608,
+    "line_end": 613,
+    "source_anchor": "第六十九条"
+  },
+  "article:70": {
+    "node_id": "article:70",
+    "type": "article",
+    "title": "第七十条 机场运营人、公共航空运输企业、空中交通",
+    "line_start": 614,
+    "line_end": 622,
+    "source_anchor": "第七十条"
+  },
+  "article:71": {
+    "node_id": "article:71",
+    "type": "article",
+    "title": "第七十一条 机场运营人,有自用机坪、滑行道的公共",
+    "line_start": 623,
+    "line_end": 631,
+    "source_anchor": "第七十一条"
+  },
+  "article:72": {
+    "node_id": "article:72",
+    "type": "article",
+    "title": "第七十二条 机场运营人应当组织有关驻场单位划定",
+    "line_start": 632,
+    "line_end": 637,
+    "source_anchor": "第七十二条"
+  },
+  "article:73": {
+    "node_id": "article:73",
+    "type": "article",
+    "title": "第七十三条 所有飞行区从业人员应当主动移除活动",
+    "line_start": 638,
+    "line_end": 642,
+    "source_anchor": "第七十三条"
+  },
+  "article:74": {
+    "node_id": "article:74",
+    "type": "article",
+    "title": "第七十四条 机场运营人人工巡查发现外来物后,应当",
+    "line_start": 643,
+    "line_end": 646,
+    "source_anchor": "第七十四条"
+  },
+  "article:75": {
+    "node_id": "article:75",
+    "type": "article",
+    "title": "第七十五条 发现航空器被外来物损伤或者疑似损伤",
+    "line_start": 648,
+    "line_end": 650,
+    "source_anchor": "第七十五条"
+  },
+  "article:76": {
+    "node_id": "article:76",
+    "type": "article",
+    "title": "第七十六条 接报或者发现外来物损伤航空器事件后,",
+    "line_start": 651,
+    "line_end": 661,
+    "source_anchor": "第七十六条"
+  },
+  "article:77": {
+    "node_id": "article:77",
+    "type": "article",
+    "title": "第七十七条 机场运营人应当会同外来物防范管理委",
+    "line_start": 663,
+    "line_end": 666,
+    "source_anchor": "第七十七条"
+  },
+  "article:78": {
+    "node_id": "article:78",
+    "type": "article",
+    "title": "第七十八条 机场运营人应当组织制定机场外来物信",
+    "line_start": 667,
+    "line_end": 669,
+    "source_anchor": "第七十八条"
+  },
+  "article:79": {
+    "node_id": "article:79",
+    "type": "article",
+    "title": "第七十九条 机场运营人应当及时将外来物信息分析",
+    "line_start": 670,
+    "line_end": 672,
+    "source_anchor": "第七十九条"
+  },
+  "article:80": {
+    "node_id": "article:80",
+    "type": "article",
+    "title": "第八十条 目视助航设施的设置应当符合《民用机场飞",
+    "line_start": 675,
+    "line_end": 681,
+    "source_anchor": "第八十条"
+  },
+  "article:81": {
+    "node_id": "article:81",
+    "type": "article",
+    "title": "第八十一条 机场运营人应当设立或者指定部门负责",
+    "line_start": 682,
+    "line_end": 691,
+    "source_anchor": "第八十一条"
+  },
+  "article:82": {
+    "node_id": "article:82",
+    "type": "article",
+    "title": "第八十二条 机场运营人应当制定目视助航设施运维",
+    "line_start": 692,
+    "line_end": 693,
+    "source_anchor": "第八十二条"
+  },
+  "article:83": {
+    "node_id": "article:83",
+    "type": "article",
+    "title": "第八十三条 机场运营人与空中交通管制单位应当在",
+    "line_start": 694,
+    "line_end": 696,
+    "source_anchor": "第八十三条"
+  },
+  "article:84": {
+    "node_id": "article:84",
+    "type": "article",
+    "title": "第八十四条 机场开放运行期间,目视助航设施应当符",
+    "line_start": 698,
+    "line_end": 713,
+    "source_anchor": "第八十四条"
+  },
+  "article:85": {
+    "node_id": "article:85",
+    "type": "article",
+    "title": "第八十五条 机场运营人应当按照中国民航局有关规",
+    "line_start": 714,
+    "line_end": 716,
+    "source_anchor": "第八十五条"
+  },
+  "article:86": {
+    "node_id": "article:86",
+    "type": "article",
+    "title": "第八十六条 机场运营人应当按照中国民航局有关规",
+    "line_start": 717,
+    "line_end": 720,
+    "source_anchor": "第八十六条"
+  },
+  "article:87": {
+    "node_id": "article:87",
+    "type": "article",
+    "title": "第八十七条 实施低能见度运行时,机场运营人应当加",
+    "line_start": 721,
+    "line_end": 724,
+    "source_anchor": "第八十七条"
+  },
+  "article:88": {
+    "node_id": "article:88",
+    "type": "article",
+    "title": "第八十八条 机场运营人应当采取措施保护飞行区外",
+    "line_start": 725,
+    "line_end": 735,
+    "source_anchor": "第八十八条"
+  },
+  "article:89": {
+    "node_id": "article:89",
+    "type": "article",
+    "title": "第八十九条 机场运营人应当至少每3年对目视助航设",
+    "line_start": 736,
+    "line_end": 750,
+    "source_anchor": "第八十九条"
+  },
+  "article:90": {
+    "node_id": "article:90",
+    "type": "article",
+    "title": "第九十条 机场运营人应当按照本规定及中国民航局",
+    "line_start": 752,
+    "line_end": 755,
+    "source_anchor": "第九十条"
+  },
+  "article:91": {
+    "node_id": "article:91",
+    "type": "article",
+    "title": "第九十一条 目视助航设施的巡查主要包括每日全面",
+    "line_start": 756,
+    "line_end": 769,
+    "source_anchor": "第九十一条"
+  },
+  "article:92": {
+    "node_id": "article:92",
+    "type": "article",
+    "title": "第九十二条 目视助航设施每日全面巡查按照下列要",
+    "line_start": 770,
+    "line_end": 790,
+    "source_anchor": "第九十二条"
+  },
+  "article:93": {
+    "node_id": "article:93",
+    "type": "article",
+    "title": "第九十三条 目视助航设施的定期全面步行检查应当",
+    "line_start": 791,
+    "line_end": 792,
+    "source_anchor": "第九十三条"
+  },
+  "article:94": {
+    "node_id": "article:94",
+    "type": "article",
+    "title": "第九十四条 出现本规定第五十三条所述情形时,机场",
+    "line_start": 793,
+    "line_end": 798,
+    "source_anchor": "第九十四条"
+  },
+  "article:95": {
+    "node_id": "article:95",
+    "type": "article",
+    "title": "第九十五条 机场运营人应当根据机场运行量、目视助",
+    "line_start": 799,
+    "line_end": 805,
+    "source_anchor": "第九十五条"
+  },
+  "article:96": {
+    "node_id": "article:96",
+    "type": "article",
+    "title": "第九十六条 机场运营人应当设立或者指定部门具体",
+    "line_start": 811,
+    "line_end": 812,
+    "source_anchor": "第九十六条"
+  },
+  "article:97": {
+    "node_id": "article:97",
+    "type": "article",
+    "title": "第九十七条 机场运营人应当与公共航空运输企业及",
+    "line_start": 813,
+    "line_end": 815,
+    "source_anchor": "第九十七条"
+  },
+  "article:98": {
+    "node_id": "article:98",
+    "type": "article",
+    "title": "第九十八条 机场运营人应当组织成立机坪运行管理",
+    "line_start": 816,
+    "line_end": 822,
+    "source_anchor": "第九十八条"
+  },
+  "article:99": {
+    "node_id": "article:99",
+    "type": "article",
+    "title": "第九十九条 机场运营人应当按照管理要求统一、作业",
+    "line_start": 823,
+    "line_end": 825,
+    "source_anchor": "第九十九条"
+  },
+  "article:100": {
+    "node_id": "article:100",
+    "type": "article",
+    "title": "第一百条 机场运营人应当组织建立机坪运行的全区",
+    "line_start": 826,
+    "line_end": 829,
+    "source_anchor": "第一百条"
+  },
+  "article:101": {
+    "node_id": "article:101",
+    "type": "article",
+    "title": "第一百一条 机场运营人应当组织建立机坪车辆及",
+    "line_start": 830,
+    "line_end": 836,
+    "source_anchor": "第一百一条"
+  },
+  "article:102": {
+    "node_id": "article:102",
+    "type": "article",
+    "title": "第一百二条 机场运营人应当合理调配机位,充分利",
+    "line_start": 838,
+    "line_end": 841,
+    "source_anchor": "第一百二条"
+  },
+  "article:103": {
+    "node_id": "article:103",
+    "type": "article",
+    "title": "第一百三条 年旅客吞吐量1000 万人次以上的机场",
+    "line_start": 842,
+    "line_end": 847,
+    "source_anchor": "第一百三条"
+  },
+  "article:104": {
+    "node_id": "article:104",
+    "type": "article",
+    "title": "第一百四条 当机场发生突发事件应急救援、航班大",
+    "line_start": 848,
+    "line_end": 852,
+    "source_anchor": "第一百四条"
+  },
+  "article:105": {
+    "node_id": "article:105",
+    "type": "article",
+    "title": "第一百五条 航空器长时间停放、过夜停放,以及在",
+    "line_start": 853,
+    "line_end": 855,
+    "source_anchor": "第一百五条"
+  },
+  "article:106": {
+    "node_id": "article:106",
+    "type": "article",
+    "title": "第一百六条 机场运营人应当按照中国民航局有关",
+    "line_start": 856,
+    "line_end": 860,
+    "source_anchor": "第一百六条"
+  },
+  "article:107": {
+    "node_id": "article:107",
+    "type": "article",
+    "title": "第一百七条 接机人员应当至少在航空器入位前5分",
+    "line_start": 861,
+    "line_end": 871,
+    "source_anchor": "第一百七条"
+  },
+  "article:108": {
+    "node_id": "article:108",
+    "type": "article",
+    "title": "第一百八条 在航空器处于安全靠泊状态后,航空器",
+    "line_start": 872,
+    "line_end": 886,
+    "source_anchor": "第一百八条"
+  },
+  "article:109": {
+    "node_id": "article:109",
+    "type": "article",
+    "title": "第一百九条 旅客登机桥操作人员进行靠桥、撤桥作",
+    "line_start": 887,
+    "line_end": 904,
+    "source_anchor": "第一百九条"
+  },
+  "article:200": {
+    "node_id": "article:200",
+    "type": "article",
+    "title": "第二百条 机场运营人有下列行为之一的,由民航地区",
+    "line_start": 1609,
+    "line_end": 1614,
+    "source_anchor": "第二百条"
+  },
+  "article:201": {
+    "node_id": "article:201",
+    "type": "article",
+    "title": "第二百一条 机场运营人有下列行为之一的,由民航",
+    "line_start": 1617,
+    "line_end": 1633,
+    "source_anchor": "第二百一条"
+  },
+  "article:202": {
+    "node_id": "article:202",
+    "type": "article",
+    "title": "第二百二条 航空货物运输单位违反本规定第一百",
+    "line_start": 1634,
+    "line_end": 1639,
+    "source_anchor": "第二百二条"
+  },
+  "article:203": {
+    "node_id": "article:203",
+    "type": "article",
+    "title": "第二百三条 机场运营人有下列行为之一的,由民航",
+    "line_start": 1640,
+    "line_end": 1650,
+    "source_anchor": "第二百三条"
+  },
+  "article:204": {
+    "node_id": "article:204",
+    "type": "article",
+    "title": "第二百四条 违反本规定第一百六十三条,未经民航",
+    "line_start": 1651,
+    "line_end": 1656,
+    "source_anchor": "第二百四条"
+  },
+  "article:205": {
+    "node_id": "article:205",
+    "type": "article",
+    "title": "第二百五条 机场运营人有下列行为之一的,由民",
+    "line_start": 1657,
+    "line_end": 1666,
+    "source_anchor": "第二百五条"
+  },
+  "article:206": {
+    "node_id": "article:206",
+    "type": "article",
+    "title": "第二百六条 建设单位、施工单位(或者工程总承包",
+    "line_start": 1667,
+    "line_end": 1679,
+    "source_anchor": "第二百六条"
+  },
+  "article:207": {
+    "node_id": "article:207",
+    "type": "article",
+    "title": "第二百七条 机场运营人违反本规定第一百七十八",
+    "line_start": 1680,
+    "line_end": 1683,
+    "source_anchor": "第二百七条"
+  },
+  "article:208": {
+    "node_id": "article:208",
+    "type": "article",
+    "title": "第二百八条 公共航空运输企业、空中交通管理机",
+    "line_start": 1684,
+    "line_end": 1689,
+    "source_anchor": "第二百八条"
+  },
+  "article:209": {
+    "node_id": "article:209",
+    "type": "article",
+    "title": "第二百九条 本规定关于公共航空运输企业的要求,",
+    "line_start": 1691,
+    "line_end": 1692,
+    "source_anchor": "第二百九条"
+  }
+}

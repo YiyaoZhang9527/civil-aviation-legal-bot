@@ -1,0 +1,1490 @@
+{
+  "law:民用航空产品和零部件合格审定规定(交通运输部_修订版_2024年第5号)": {
+    "node_id": "law:民用航空产品和零部件合格审定规定(交通运输部_修订版_2024年第5号)",
+    "type": "law",
+    "title": "《交通运输部关于修改<民用航空产品和零部件合格审",
+    "line_start": 0,
+    "line_end": 2499,
+    "source_anchor": "《交通运输部关于修改<民用航空产品和零部件合格审"
+  },
+  "article:21.1": {
+    "node_id": "article:21.1",
+    "type": "article",
+    "title": "第21.1条 目的和依据",
+    "line_start": 76,
+    "line_end": 243,
+    "source_anchor": "第21.1条"
+  },
+  "article:21.3": {
+    "node_id": "article:21.3",
+    "type": "article",
+    "title": "第21.3条 豁免",
+    "line_start": 244,
+    "line_end": 260,
+    "source_anchor": "第21.3条"
+  },
+  "article:21.4": {
+    "node_id": "article:21.4",
+    "type": "article",
+    "title": "第21.4条 飞行手册",
+    "line_start": 261,
+    "line_end": 265,
+    "source_anchor": "第21.4条"
+  },
+  "article:21.5": {
+    "node_id": "article:21.5",
+    "type": "article",
+    "title": "第21.5条 故障、失效和缺陷的报告",
+    "line_start": 266,
+    "line_end": 335,
+    "source_anchor": "第21.5条"
+  },
+  "article:21.6": {
+    "node_id": "article:21.6",
+    "type": "article",
+    "title": "第21.6条 ETOPS 报告要求",
+    "line_start": 336,
+    "line_end": 426,
+    "source_anchor": "第21.6条"
+  },
+  "article:21.7": {
+    "node_id": "article:21.7",
+    "type": "article",
+    "title": "第21.7条 生产航空器、航空发动机和螺旋桨",
+    "line_start": 427,
+    "line_end": 434,
+    "source_anchor": "第21.7条"
+  },
+  "article:21.8": {
+    "node_id": "article:21.8",
+    "type": "article",
+    "title": "第21.8条 运输类飞机的持续适航和安全改进",
+    "line_start": 435,
+    "line_end": 442,
+    "source_anchor": "第21.8条"
+  },
+  "article:21.9": {
+    "node_id": "article:21.9",
+    "type": "article",
+    "title": "第21.9条 零部件的批准",
+    "line_start": 443,
+    "line_end": 457,
+    "source_anchor": "第21.9条"
+  },
+  "article:21.10": {
+    "node_id": "article:21.10",
+    "type": "article",
+    "title": "第21.10条 替换件和改装件",
+    "line_start": 458,
+    "line_end": 472,
+    "source_anchor": "第21.10条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总",
+    "line_start": 74,
+    "line_end": 472,
+    "source_anchor": "第一章"
+  },
+  "article:21.11": {
+    "node_id": "article:21.11",
+    "type": "article",
+    "title": "第21.11条 适用范围",
+    "line_start": 476,
+    "line_end": 478,
+    "source_anchor": "第21.11条"
+  },
+  "article:21.13": {
+    "node_id": "article:21.13",
+    "type": "article",
+    "title": "第21.13条 型号合格证申请人的资格",
+    "line_start": 479,
+    "line_end": 481,
+    "source_anchor": "第21.13条"
+  },
+  "article:21.15": {
+    "node_id": "article:21.15",
+    "type": "article",
+    "title": "第21.15条 型号合格证申请书和申请文件",
+    "line_start": 482,
+    "line_end": 491,
+    "source_anchor": "第21.15条"
+  },
+  "article:21.16": {
+    "node_id": "article:21.16",
+    "type": "article",
+    "title": "第21.16条 专用条件",
+    "line_start": 492,
+    "line_end": 504,
+    "source_anchor": "第21.16条"
+  },
+  "article:21.17": {
+    "node_id": "article:21.17",
+    "type": "article",
+    "title": "第21.17条 适用规章的确定",
+    "line_start": 505,
+    "line_end": 561,
+    "source_anchor": "第21.17条"
+  },
+  "article:21.19": {
+    "node_id": "article:21.19",
+    "type": "article",
+    "title": "第21.19条 需要申请新型号合格证或者型号认可证的",
+    "line_start": 562,
+    "line_end": 567,
+    "source_anchor": "第21.19条"
+  },
+  "article:21.20": {
+    "node_id": "article:21.20",
+    "type": "article",
+    "title": "第21.20条 适用要求的符合性",
+    "line_start": 568,
+    "line_end": 575,
+    "source_anchor": "第21.20条"
+  },
+  "article:21.21": {
+    "node_id": "article:21.21",
+    "type": "article",
+    "title": "第21.21条 型号合格证的颁发:正常类、实用类、特",
+    "line_start": 576,
+    "line_end": 600,
+    "source_anchor": "第21.21条"
+  },
+  "article:21.24": {
+    "node_id": "article:21.24",
+    "type": "article",
+    "title": "第21.24条 型号合格证的颁发:初级类航空器",
+    "line_start": 601,
+    "line_end": 607,
+    "source_anchor": "第21.24条"
+  },
+  "article:29.3": {
+    "node_id": "article:29.3",
+    "type": "article",
+    "title": "第29.3条 公斤/平方米(6 磅/平方英尺)的旋翼航空器;",
+    "line_start": 608,
+    "line_end": 623,
+    "source_anchor": "第29.3条"
+  },
+  "article:21.25": {
+    "node_id": "article:21.25",
+    "type": "article",
+    "title": "第21.25条 条或者第21.26 条的型号合格证或者第21.29 条的型",
+    "line_start": 1416,
+    "line_end": 1419,
+    "source_anchor": "第21.25条"
+  },
+  "article:21.26": {
+    "node_id": "article:21.26",
+    "type": "article",
+    "title": "第21.26条 型号合格证的颁发:轻型运动类航空器",
+    "line_start": 647,
+    "line_end": 687,
+    "source_anchor": "第21.26条"
+  },
+  "article:21.29": {
+    "node_id": "article:21.29",
+    "type": "article",
+    "title": "第21.29条 条的型号认可证的正常类、实用类、特技类、通勤类、",
+    "line_start": 1411,
+    "line_end": 1415,
+    "source_anchor": "第21.29条"
+  },
+  "article:21.31": {
+    "node_id": "article:21.31",
+    "type": "article",
+    "title": "第21.31条 型号设计",
+    "line_start": 730,
+    "line_end": 747,
+    "source_anchor": "第21.31条"
+  },
+  "article:21.33": {
+    "node_id": "article:21.33",
+    "type": "article",
+    "title": "第21.33条 条和第21.53 条的规定。",
+    "line_start": 1030,
+    "line_end": 1030,
+    "source_anchor": "第21.33条"
+  },
+  "article:21.35": {
+    "node_id": "article:21.35",
+    "type": "article",
+    "title": "第21.35条 飞行试验",
+    "line_start": 765,
+    "line_end": 801,
+    "source_anchor": "第21.35条"
+  },
+  "article:21.37": {
+    "node_id": "article:21.37",
+    "type": "article",
+    "title": "第21.37条 试飞驾驶员",
+    "line_start": 802,
+    "line_end": 804,
+    "source_anchor": "第21.37条"
+  },
+  "article:21.39": {
+    "node_id": "article:21.39",
+    "type": "article",
+    "title": "第21.39条 试飞仪器校准和修正报告",
+    "line_start": 805,
+    "line_end": 812,
+    "source_anchor": "第21.39条"
+  },
+  "article:21.41": {
+    "node_id": "article:21.41",
+    "type": "article",
+    "title": "第21.41条 型号合格证和型号认可证",
+    "line_start": 813,
+    "line_end": 819,
+    "source_anchor": "第21.41条"
+  },
+  "article:21.44": {
+    "node_id": "article:21.44",
+    "type": "article",
+    "title": "第21.44条 持证人的责任",
+    "line_start": 820,
+    "line_end": 823,
+    "source_anchor": "第21.44条"
+  },
+  "article:21.99": {
+    "node_id": "article:21.99",
+    "type": "article",
+    "title": "第21.99条 要求的设计更改",
+    "line_start": 911,
+    "line_end": 923,
+    "source_anchor": "第21.99条"
+  },
+  "article:21.45": {
+    "node_id": "article:21.45",
+    "type": "article",
+    "title": "第21.45条 持证人的权利",
+    "line_start": 827,
+    "line_end": 839,
+    "source_anchor": "第21.45条"
+  },
+  "article:21.47": {
+    "node_id": "article:21.47",
+    "type": "article",
+    "title": "第21.47条 转让性",
+    "line_start": 840,
+    "line_end": 845,
+    "source_anchor": "第21.47条"
+  },
+  "article:21.50": {
+    "node_id": "article:21.50",
+    "type": "article",
+    "title": "第21.50条 持续适航文件",
+    "line_start": 846,
+    "line_end": 851,
+    "source_anchor": "第21.50条"
+  },
+  "article:23.2625": {
+    "node_id": "article:23.2625",
+    "type": "article",
+    "title": "第23.2625条 条,《运输类飞机适航标准》(CCAR25)的第25.1529",
+    "line_start": 852,
+    "line_end": 855,
+    "source_anchor": "第23.2625条"
+  },
+  "article:31.82": {
+    "node_id": "article:31.82",
+    "type": "article",
+    "title": "第31.82条 条,《航空发动机适航规定》(CCAR33)的第33.4 条,",
+    "line_start": 856,
+    "line_end": 863,
+    "source_anchor": "第31.82条"
+  },
+  "article:21.51": {
+    "node_id": "article:21.51",
+    "type": "article",
+    "title": "第21.51条 有效期和证件检查",
+    "line_start": 864,
+    "line_end": 867,
+    "source_anchor": "第21.51条"
+  },
+  "article:21.53": {
+    "node_id": "article:21.53",
+    "type": "article",
+    "title": "第21.53条 制造符合性声明",
+    "line_start": 868,
+    "line_end": 871,
+    "source_anchor": "第21.53条"
+  },
+  "article:21.55": {
+    "node_id": "article:21.55",
+    "type": "article",
+    "title": "第21.55条 型号合格证持有人提供书面权益转让协议",
+    "line_start": 872,
+    "line_end": 876,
+    "source_anchor": "第21.55条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 型号合格证和型号认可证",
+    "line_start": 473,
+    "line_end": 876,
+    "source_anchor": "第二章"
+  },
+  "article:21.91": {
+    "node_id": "article:21.91",
+    "type": "article",
+    "title": "第21.91条 适用范围",
+    "line_start": 878,
+    "line_end": 882,
+    "source_anchor": "第21.91条"
+  },
+  "article:21.93": {
+    "node_id": "article:21.93",
+    "type": "article",
+    "title": "第21.93条 型号设计更改的分类",
+    "line_start": 883,
+    "line_end": 899,
+    "source_anchor": "第21.93条"
+  },
+  "article:21.95": {
+    "node_id": "article:21.95",
+    "type": "article",
+    "title": "第21.95条 型号设计小改的批准",
+    "line_start": 900,
+    "line_end": 902,
+    "source_anchor": "第21.95条"
+  },
+  "article:21.97": {
+    "node_id": "article:21.97",
+    "type": "article",
+    "title": "第21.97条 型号设计大改的批准",
+    "line_start": 903,
+    "line_end": 910,
+    "source_anchor": "第21.97条"
+  },
+  "article:21.101": {
+    "node_id": "article:21.101",
+    "type": "article",
+    "title": "第21.101条 条规定的适用要求;对于第21.93 条第(二)款规定",
+    "line_start": 1020,
+    "line_end": 1029,
+    "source_anchor": "第21.101条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 型号合格证和型号认可证更改",
+    "line_start": 877,
+    "line_end": 990,
+    "source_anchor": "第三章"
+  },
+  "article:21.111": {
+    "node_id": "article:21.111",
+    "type": "article",
+    "title": "第21.111条 适用范围",
+    "line_start": 993,
+    "line_end": 995,
+    "source_anchor": "第21.111条"
+  },
+  "article:21.112": {
+    "node_id": "article:21.112",
+    "type": "article",
+    "title": "第21.112条 补充型号合格证、改装设计批准书和补充",
+    "line_start": 996,
+    "line_end": 1016,
+    "source_anchor": "第21.112条"
+  },
+  "article:21.113": {
+    "node_id": "article:21.113",
+    "type": "article",
+    "title": "第21.113条 条的规定而提出的任何其他要求;",
+    "line_start": 1067,
+    "line_end": 1092,
+    "source_anchor": "第21.113条"
+  },
+  "article:21.114": {
+    "node_id": "article:21.114",
+    "type": "article",
+    "title": "第21.114条 补充型号合格证和改装设计批准书的颁发",
+    "line_start": 1031,
+    "line_end": 1048,
+    "source_anchor": "第21.114条"
+  },
+  "article:21.115": {
+    "node_id": "article:21.115",
+    "type": "article",
+    "title": "第21.115条 补充型号认可证的颁发",
+    "line_start": 1049,
+    "line_end": 1066,
+    "source_anchor": "第21.115条"
+  },
+  "article:21.116": {
+    "node_id": "article:21.116",
+    "type": "article",
+    "title": "第21.116条 转让性和持续适航文件",
+    "line_start": 1093,
+    "line_end": 1107,
+    "source_anchor": "第21.116条"
+  },
+  "article:21.117": {
+    "node_id": "article:21.117",
+    "type": "article",
+    "title": "第21.117条 持证人的责任",
+    "line_start": 1108,
+    "line_end": 1115,
+    "source_anchor": "第21.117条"
+  },
+  "article:21.118": {
+    "node_id": "article:21.118",
+    "type": "article",
+    "title": "第21.118条 持证人的权利",
+    "line_start": 1116,
+    "line_end": 1127,
+    "source_anchor": "第21.118条"
+  },
+  "article:21.119": {
+    "node_id": "article:21.119",
+    "type": "article",
+    "title": "第21.119条 补充型号合格证或者改装设计批准书持有",
+    "line_start": 1128,
+    "line_end": 1132,
+    "source_anchor": "第21.119条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 补充型号合格证、改装设计批准书和补充型号认可",
+    "line_start": 991,
+    "line_end": 1132,
+    "source_anchor": "第四章"
+  },
+  "article:21.121": {
+    "node_id": "article:21.121",
+    "type": "article",
+    "title": "第21.121条 适用范围",
+    "line_start": 1134,
+    "line_end": 1135,
+    "source_anchor": "第21.121条"
+  },
+  "article:21.123": {
+    "node_id": "article:21.123",
+    "type": "article",
+    "title": "第21.123条 依据型号合格证生产",
+    "line_start": 1136,
+    "line_end": 1155,
+    "source_anchor": "第21.123条"
+  },
+  "article:21.127": {
+    "node_id": "article:21.127",
+    "type": "article",
+    "title": "第21.127条 航空器的试验",
+    "line_start": 1156,
+    "line_end": 1172,
+    "source_anchor": "第21.127条"
+  },
+  "article:21.128": {
+    "node_id": "article:21.128",
+    "type": "article",
+    "title": "第21.128条 发动机和螺旋桨的试验",
+    "line_start": 1173,
+    "line_end": 1190,
+    "source_anchor": "第21.128条"
+  },
+  "article:21.130": {
+    "node_id": "article:21.130",
+    "type": "article",
+    "title": "第21.130条 制造符合性声明",
+    "line_start": 1191,
+    "line_end": 1200,
+    "source_anchor": "第21.130条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 依据型号合格证进行生产",
+    "line_start": 1133,
+    "line_end": 1200,
+    "source_anchor": "第五章"
+  },
+  "article:21.131": {
+    "node_id": "article:21.131",
+    "type": "article",
+    "title": "第21.131条 适用范围",
+    "line_start": 1202,
+    "line_end": 1212,
+    "source_anchor": "第21.131条"
+  },
+  "article:21.133": {
+    "node_id": "article:21.133",
+    "type": "article",
+    "title": "第21.133条 申请人的资格",
+    "line_start": 1213,
+    "line_end": 1230,
+    "source_anchor": "第21.133条"
+  },
+  "article:21.135": {
+    "node_id": "article:21.135",
+    "type": "article",
+    "title": "第21.135条 机构",
+    "line_start": 1231,
+    "line_end": 1238,
+    "source_anchor": "第21.135条"
+  },
+  "article:21.137": {
+    "node_id": "article:21.137",
+    "type": "article",
+    "title": "第21.137条 的质量系统。",
+    "line_start": 1707,
+    "line_end": 1709,
+    "source_anchor": "第21.137条"
+  },
+  "article:21.138": {
+    "node_id": "article:21.138",
+    "type": "article",
+    "title": "第21.138条 质量手册",
+    "line_start": 1315,
+    "line_end": 1318,
+    "source_anchor": "第21.138条"
+  },
+  "article:21.139": {
+    "node_id": "article:21.139",
+    "type": "article",
+    "title": "第21.139条 生产地点或者生产设施的变更",
+    "line_start": 1319,
+    "line_end": 1328,
+    "source_anchor": "第21.139条"
+  },
+  "article:21.140": {
+    "node_id": "article:21.140",
+    "type": "article",
+    "title": "第21.140条 检查和试验",
+    "line_start": 1329,
+    "line_end": 1335,
+    "source_anchor": "第21.140条"
+  },
+  "article:21.141": {
+    "node_id": "article:21.141",
+    "type": "article",
+    "title": "第21.141条 生产许可证的颁发",
+    "line_start": 1336,
+    "line_end": 1340,
+    "source_anchor": "第21.141条"
+  },
+  "article:21.142": {
+    "node_id": "article:21.142",
+    "type": "article",
+    "title": "第21.142条 许可生产项目单",
+    "line_start": 1341,
+    "line_end": 1345,
+    "source_anchor": "第21.142条"
+  },
+  "article:21.143": {
+    "node_id": "article:21.143",
+    "type": "article",
+    "title": "第21.143条 生产许可证的有效期",
+    "line_start": 1346,
+    "line_end": 1347,
+    "source_anchor": "第21.143条"
+  },
+  "article:21.144": {
+    "node_id": "article:21.144",
+    "type": "article",
+    "title": "第21.144条 生产许可证的转让性",
+    "line_start": 1348,
+    "line_end": 1349,
+    "source_anchor": "第21.144条"
+  },
+  "article:21.145": {
+    "node_id": "article:21.145",
+    "type": "article",
+    "title": "第21.145条 持证人的权利",
+    "line_start": 1350,
+    "line_end": 1360,
+    "source_anchor": "第21.145条"
+  },
+  "article:21.146": {
+    "node_id": "article:21.146",
+    "type": "article",
+    "title": "第21.146条 持证人的责任",
+    "line_start": 1361,
+    "line_end": 1382,
+    "source_anchor": "第21.146条"
+  },
+  "article:21.147": {
+    "node_id": "article:21.147",
+    "type": "article",
+    "title": "第21.147条 生产许可证更改",
+    "line_start": 1383,
+    "line_end": 1389,
+    "source_anchor": "第21.147条"
+  },
+  "article:21.150": {
+    "node_id": "article:21.150",
+    "type": "article",
+    "title": "第21.150条 质量系统的更改",
+    "line_start": 1390,
+    "line_end": 1396,
+    "source_anchor": "第21.150条"
+  },
+  "article:21.151": {
+    "node_id": "article:21.151",
+    "type": "article",
+    "title": "第21.151条 展示",
+    "line_start": 1397,
+    "line_end": 1399,
+    "source_anchor": "第21.151条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 生产许可证",
+    "line_start": 1201,
+    "line_end": 1399,
+    "source_anchor": "第六章"
+  },
+  "article:21.170": {
+    "node_id": "article:21.170",
+    "type": "article",
+    "title": "第21.170条 适用范围",
+    "line_start": 1403,
+    "line_end": 1406,
+    "source_anchor": "第21.170条"
+  },
+  "article:21.171": {
+    "node_id": "article:21.171",
+    "type": "article",
+    "title": "第21.171条 适航证的类别",
+    "line_start": 1407,
+    "line_end": 1410,
+    "source_anchor": "第21.171条"
+  },
+  "article:21.172": {
+    "node_id": "article:21.172",
+    "type": "article",
+    "title": "第21.172条 条第(三)款所列的有关文件外,还应当确认:",
+    "line_start": 1495,
+    "line_end": 1524,
+    "source_anchor": "第21.172条"
+  },
+  "article:21.173": {
+    "node_id": "article:21.173",
+    "type": "article",
+    "title": "第21.173条 适航检查",
+    "line_start": 1454,
+    "line_end": 1474,
+    "source_anchor": "第21.173条"
+  },
+  "article:21.174": {
+    "node_id": "article:21.174",
+    "type": "article",
+    "title": "第21.174条 适航证和外国适航证认可书的颁发",
+    "line_start": 1475,
+    "line_end": 1494,
+    "source_anchor": "第21.174条"
+  },
+  "article:21.175": {
+    "node_id": "article:21.175",
+    "type": "article",
+    "title": "第21.175条 对获得特殊适航证的航空器的基本要求和",
+    "line_start": 1525,
+    "line_end": 1539,
+    "source_anchor": "第21.175条"
+  },
+  "article:21.176": {
+    "node_id": "article:21.176",
+    "type": "article",
+    "title": "第21.176条 适航证的更换及重新颁发",
+    "line_start": 1540,
+    "line_end": 1571,
+    "source_anchor": "第21.176条"
+  },
+  "article:21.179": {
+    "node_id": "article:21.179",
+    "type": "article",
+    "title": "第21.179条 适航证的有效期",
+    "line_start": 1572,
+    "line_end": 1580,
+    "source_anchor": "第21.179条"
+  },
+  "article:21.180": {
+    "node_id": "article:21.180",
+    "type": "article",
+    "title": "第21.180条 适航证的展示",
+    "line_start": 1581,
+    "line_end": 1583,
+    "source_anchor": "第21.180条"
+  },
+  "article:21.181": {
+    "node_id": "article:21.181",
+    "type": "article",
+    "title": "第21.181条 适航证的转让性",
+    "line_start": 1584,
+    "line_end": 1585,
+    "source_anchor": "第21.181条"
+  },
+  "article:21.182": {
+    "node_id": "article:21.182",
+    "type": "article",
+    "title": "第21.182条 适航证或者外国适航证认可书的更改",
+    "line_start": 1586,
+    "line_end": 1588,
+    "source_anchor": "第21.182条"
+  },
+  "article:21.183": {
+    "node_id": "article:21.183",
+    "type": "article",
+    "title": "第21.183条 航空发动机和螺旋桨适航批准标签的申请",
+    "line_start": 1589,
+    "line_end": 1596,
+    "source_anchor": "第21.183条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 适航证、适航批准标签和外国适航证认可书",
+    "line_start": 1400,
+    "line_end": 1596,
+    "source_anchor": "第七章"
+  },
+  "article:21.211": {
+    "node_id": "article:21.211",
+    "type": "article",
+    "title": "第21.211条 适用范围",
+    "line_start": 1598,
+    "line_end": 1600,
+    "source_anchor": "第21.211条"
+  },
+  "article:21.212": {
+    "node_id": "article:21.212",
+    "type": "article",
+    "title": "第21.212条 特许飞行证分类",
+    "line_start": 1601,
+    "line_end": 1629,
+    "source_anchor": "第21.212条"
+  },
+  "article:21.213": {
+    "node_id": "article:21.213",
+    "type": "article",
+    "title": "第21.213条 特许飞行证的申请和颁发",
+    "line_start": 1630,
+    "line_end": 1635,
+    "source_anchor": "第21.213条"
+  },
+  "article:21.214": {
+    "node_id": "article:21.214",
+    "type": "article",
+    "title": "第21.214条 特许飞行的基本要求和限制",
+    "line_start": 1636,
+    "line_end": 1655,
+    "source_anchor": "第21.214条"
+  },
+  "article:21.215": {
+    "node_id": "article:21.215",
+    "type": "article",
+    "title": "第21.215条 特许飞行证的有效期",
+    "line_start": 1656,
+    "line_end": 1657,
+    "source_anchor": "第21.215条"
+  },
+  "chapter:8": {
+    "node_id": "chapter:8",
+    "type": "chapter",
+    "title": "第八章 特许飞行证",
+    "line_start": 1597,
+    "line_end": 1657,
+    "source_anchor": "第八章"
+  },
+  "article:21.301": {
+    "node_id": "article:21.301",
+    "type": "article",
+    "title": "第21.301条 适用范围",
+    "line_start": 1659,
+    "line_end": 1663,
+    "source_anchor": "第21.301条"
+  },
+  "article:21.302": {
+    "node_id": "article:21.302",
+    "type": "article",
+    "title": "第21.302条 零部件制造人批准书申请人的资格",
+    "line_start": 1664,
+    "line_end": 1666,
+    "source_anchor": "第21.302条"
+  },
+  "article:21.303": {
+    "node_id": "article:21.303",
+    "type": "article",
+    "title": "第21.303条 零部件制造人批准书的申请",
+    "line_start": 1667,
+    "line_end": 1697,
+    "source_anchor": "第21.303条"
+  },
+  "article:21.308": {
+    "node_id": "article:21.308",
+    "type": "article",
+    "title": "第21.308条 质量手册",
+    "line_start": 1710,
+    "line_end": 1713,
+    "source_anchor": "第21.308条"
+  },
+  "article:21.305": {
+    "node_id": "article:21.305",
+    "type": "article",
+    "title": "第21.305条 机构",
+    "line_start": 1699,
+    "line_end": 1704,
+    "source_anchor": "第21.305条"
+  },
+  "article:21.307": {
+    "node_id": "article:21.307",
+    "type": "article",
+    "title": "第21.307条 质量系统",
+    "line_start": 1705,
+    "line_end": 1706,
+    "source_anchor": "第21.307条"
+  },
+  "article:21.309": {
+    "node_id": "article:21.309",
+    "type": "article",
+    "title": "第21.309条 生产地点或者生产设施的变更",
+    "line_start": 1714,
+    "line_end": 1723,
+    "source_anchor": "第21.309条"
+  },
+  "article:21.310": {
+    "node_id": "article:21.310",
+    "type": "article",
+    "title": "第21.310条 检查和试验",
+    "line_start": 1724,
+    "line_end": 1738,
+    "source_anchor": "第21.310条"
+  },
+  "article:21.311": {
+    "node_id": "article:21.311",
+    "type": "article",
+    "title": "第21.311条 零部件制造人批准书的颁发",
+    "line_start": 1739,
+    "line_end": 1749,
+    "source_anchor": "第21.311条"
+  },
+  "article:21.313": {
+    "node_id": "article:21.313",
+    "type": "article",
+    "title": "第21.313条 有效期和转让性",
+    "line_start": 1750,
+    "line_end": 1753,
+    "source_anchor": "第21.313条"
+  },
+  "article:21.314": {
+    "node_id": "article:21.314",
+    "type": "article",
+    "title": "第21.314条 适航批准",
+    "line_start": 1754,
+    "line_end": 1760,
+    "source_anchor": "第21.314条"
+  },
+  "article:21.316": {
+    "node_id": "article:21.316",
+    "type": "article",
+    "title": "第21.316条 零部件制造人批准书持有人的责任",
+    "line_start": 1761,
+    "line_end": 1777,
+    "source_anchor": "第21.316条"
+  },
+  "article:21.319": {
+    "node_id": "article:21.319",
+    "type": "article",
+    "title": "第21.319条 设计更改",
+    "line_start": 1778,
+    "line_end": 1793,
+    "source_anchor": "第21.319条"
+  },
+  "article:21.320": {
+    "node_id": "article:21.320",
+    "type": "article",
+    "title": "第21.320条 质量系统的更改",
+    "line_start": 1794,
+    "line_end": 1800,
+    "source_anchor": "第21.320条"
+  },
+  "chapter:9": {
+    "node_id": "chapter:9",
+    "type": "chapter",
+    "title": "第九章 零部件制造人批准书",
+    "line_start": 1658,
+    "line_end": 1800,
+    "source_anchor": "第九章"
+  },
+  "article:21.351": {
+    "node_id": "article:21.351",
+    "type": "article",
+    "title": "第21.351条 适用范围和定义",
+    "line_start": 1804,
+    "line_end": 1824,
+    "source_anchor": "第21.351条"
+  },
+  "article:21.352": {
+    "node_id": "article:21.352",
+    "type": "article",
+    "title": "第21.352条 技术标准规定项目批准书申请人的资格",
+    "line_start": 1825,
+    "line_end": 1829,
+    "source_anchor": "第21.352条"
+  },
+  "article:21.353": {
+    "node_id": "article:21.353",
+    "type": "article",
+    "title": "第21.353条 技术标准规定项目批准书的申请",
+    "line_start": 1830,
+    "line_end": 1844,
+    "source_anchor": "第21.353条"
+  },
+  "article:21.358": {
+    "node_id": "article:21.358",
+    "type": "article",
+    "title": "第21.358条 条所规定的质量手册生产该CTSO 件。",
+    "line_start": 1884,
+    "line_end": 1887,
+    "source_anchor": "第21.358条"
+  },
+  "article:21.355": {
+    "node_id": "article:21.355",
+    "type": "article",
+    "title": "第21.355条 机构",
+    "line_start": 1846,
+    "line_end": 1853,
+    "source_anchor": "第21.355条"
+  },
+  "article:21.357": {
+    "node_id": "article:21.357",
+    "type": "article",
+    "title": "第21.357条 质量系统",
+    "line_start": 1854,
+    "line_end": 1856,
+    "source_anchor": "第21.357条"
+  },
+  "article:21.359": {
+    "node_id": "article:21.359",
+    "type": "article",
+    "title": "第21.359条 生产地点或者生产设施的变更",
+    "line_start": 1861,
+    "line_end": 1870,
+    "source_anchor": "第21.359条"
+  },
+  "article:21.360": {
+    "node_id": "article:21.360",
+    "type": "article",
+    "title": "第21.360条 检查和试验",
+    "line_start": 1871,
+    "line_end": 1878,
+    "source_anchor": "第21.360条"
+  },
+  "article:21.361": {
+    "node_id": "article:21.361",
+    "type": "article",
+    "title": "第21.361条 技术标准规定项目批准书的颁发",
+    "line_start": 1879,
+    "line_end": 1883,
+    "source_anchor": "第21.361条"
+  },
+  "article:21.363": {
+    "node_id": "article:21.363",
+    "type": "article",
+    "title": "第21.363条 有效期和转让性",
+    "line_start": 1888,
+    "line_end": 1896,
+    "source_anchor": "第21.363条"
+  },
+  "article:21.364": {
+    "node_id": "article:21.364",
+    "type": "article",
+    "title": "第21.364条 适航批准",
+    "line_start": 1897,
+    "line_end": 1903,
+    "source_anchor": "第21.364条"
+  },
+  "article:21.366": {
+    "node_id": "article:21.366",
+    "type": "article",
+    "title": "第21.366条 技术标准规定项目批准书持有人的责任",
+    "line_start": 1904,
+    "line_end": 1927,
+    "source_anchor": "第21.366条"
+  },
+  "article:21.368": {
+    "node_id": "article:21.368",
+    "type": "article",
+    "title": "第21.368条 偏离批准",
+    "line_start": 1928,
+    "line_end": 1934,
+    "source_anchor": "第21.368条"
+  },
+  "article:21.369": {
+    "node_id": "article:21.369",
+    "type": "article",
+    "title": "第21.369条 设计更改",
+    "line_start": 1935,
+    "line_end": 1954,
+    "source_anchor": "第21.369条"
+  },
+  "article:21.370": {
+    "node_id": "article:21.370",
+    "type": "article",
+    "title": "第21.370条 质量系统的更改",
+    "line_start": 1955,
+    "line_end": 1961,
+    "source_anchor": "第21.370条"
+  },
+  "article:21.371": {
+    "node_id": "article:21.371",
+    "type": "article",
+    "title": "第21.371条 进口零部件的设计批准认可证",
+    "line_start": 1962,
+    "line_end": 1984,
+    "source_anchor": "第21.371条"
+  },
+  "chapter:10": {
+    "node_id": "chapter:10",
+    "type": "chapter",
+    "title": "第十章 技术标准规定项目批准书和设计批准认可证",
+    "line_start": 1801,
+    "line_end": 1984,
+    "source_anchor": "第十章"
+  },
+  "article:21.401": {
+    "node_id": "article:21.401",
+    "type": "article",
+    "title": "第21.401条 适用范围",
+    "line_start": 1986,
+    "line_end": 1988,
+    "source_anchor": "第21.401条"
+  },
+  "article:21.403": {
+    "node_id": "article:21.403",
+    "type": "article",
+    "title": "第21.403条 出口适航批准申请人的资格",
+    "line_start": 1989,
+    "line_end": 1999,
+    "source_anchor": "第21.403条"
+  },
+  "article:21.405": {
+    "node_id": "article:21.405",
+    "type": "article",
+    "title": "第21.405条 出口适航批准的形式",
+    "line_start": 2000,
+    "line_end": 2005,
+    "source_anchor": "第21.405条"
+  },
+  "article:21.407": {
+    "node_id": "article:21.407",
+    "type": "article",
+    "title": "第21.407条 出口适航批准的申请",
+    "line_start": 2006,
+    "line_end": 2013,
+    "source_anchor": "第21.407条"
+  },
+  "article:21.411": {
+    "node_id": "article:21.411",
+    "type": "article",
+    "title": "第21.411条 适航批准标签的颁发",
+    "line_start": 2029,
+    "line_end": 2048,
+    "source_anchor": "第21.411条"
+  },
+  "article:21.409": {
+    "node_id": "article:21.409",
+    "type": "article",
+    "title": "第21.409条 出口适航证的颁发",
+    "line_start": 2015,
+    "line_end": 2028,
+    "source_anchor": "第21.409条"
+  },
+  "article:21.415": {
+    "node_id": "article:21.415",
+    "type": "article",
+    "title": "第21.415条 出口人的责任",
+    "line_start": 2049,
+    "line_end": 2070,
+    "source_anchor": "第21.415条"
+  },
+  "chapter:11": {
+    "node_id": "chapter:11",
+    "type": "chapter",
+    "title": "第十一章 出口适航批准",
+    "line_start": 1985,
+    "line_end": 2070,
+    "source_anchor": "第十一章"
+  },
+  "article:21.421": {
+    "node_id": "article:21.421",
+    "type": "article",
+    "title": "第21.421条 民用航空产品的标牌或者标记",
+    "line_start": 2072,
+    "line_end": 2090,
+    "source_anchor": "第21.421条"
+  },
+  "article:21.423": {
+    "node_id": "article:21.423",
+    "type": "article",
+    "title": "第21.423条 规定的辅助动力装置的标牌或者标记。",
+    "line_start": 2120,
+    "line_end": 2122,
+    "source_anchor": "第21.423条"
+  },
+  "article:21.425": {
+    "node_id": "article:21.425",
+    "type": "article",
+    "title": "第21.425条 条,未按规定设置标牌或者标记的;",
+    "line_start": 2373,
+    "line_end": 2375,
+    "source_anchor": "第21.425条"
+  },
+  "chapter:12": {
+    "node_id": "chapter:12",
+    "type": "chapter",
+    "title": "第十二章 标牌或者标记",
+    "line_start": 2071,
+    "line_end": 2122,
+    "source_anchor": "第十二章"
+  },
+  "article:21.431": {
+    "node_id": "article:21.431",
+    "type": "article",
+    "title": "第21.431条 适用范围和定义",
+    "line_start": 2124,
+    "line_end": 2129,
+    "source_anchor": "第21.431条"
+  },
+  "article:21.433": {
+    "node_id": "article:21.433",
+    "type": "article",
+    "title": "第21.433条 修理方案",
+    "line_start": 2130,
+    "line_end": 2164,
+    "source_anchor": "第21.433条"
+  },
+  "article:21.435": {
+    "node_id": "article:21.435",
+    "type": "article",
+    "title": "第21.435条 修理件的生产",
+    "line_start": 2165,
+    "line_end": 2172,
+    "source_anchor": "第21.435条"
+  },
+  "article:21.437": {
+    "node_id": "article:21.437",
+    "type": "article",
+    "title": "第21.437条 颁发的要求和限制以及批准证据都应当由修理",
+    "line_start": 2182,
+    "line_end": 2185,
+    "source_anchor": "第21.437条"
+  },
+  "article:21.439": {
+    "node_id": "article:21.439",
+    "type": "article",
+    "title": "第21.439条 记录保存",
+    "line_start": 2178,
+    "line_end": 2181,
+    "source_anchor": "第21.439条"
+  },
+  "article:21.441": {
+    "node_id": "article:21.441",
+    "type": "article",
+    "title": "第21.441条 持续适航文件",
+    "line_start": 2186,
+    "line_end": 2198,
+    "source_anchor": "第21.441条"
+  },
+  "chapter:13": {
+    "node_id": "chapter:13",
+    "type": "chapter",
+    "title": "第十三章 修理",
+    "line_start": 2123,
+    "line_end": 2198,
+    "source_anchor": "第十三章"
+  },
+  "article:21.471": {
+    "node_id": "article:21.471",
+    "type": "article",
+    "title": "第21.471条 适用范围和定义",
+    "line_start": 2200,
+    "line_end": 2212,
+    "source_anchor": "第21.471条"
+  },
+  "article:21.473": {
+    "node_id": "article:21.473",
+    "type": "article",
+    "title": "第21.473条 条第(二)款提交的符合性声明的有效性。",
+    "line_start": 2285,
+    "line_end": 2285,
+    "source_anchor": "第21.473条"
+  },
+  "article:21.475": {
+    "node_id": "article:21.475",
+    "type": "article",
+    "title": "第21.475条 设计保证手册",
+    "line_start": 2236,
+    "line_end": 2253,
+    "source_anchor": "第21.475条"
+  },
+  "article:21.477": {
+    "node_id": "article:21.477",
+    "type": "article",
+    "title": "第21.477条 设计保证系统的人员要求",
+    "line_start": 2254,
+    "line_end": 2263,
+    "source_anchor": "第21.477条"
+  },
+  "article:21.479": {
+    "node_id": "article:21.479",
+    "type": "article",
+    "title": "第21.479条 设计保证系统的更改",
+    "line_start": 2264,
+    "line_end": 2269,
+    "source_anchor": "第21.479条"
+  },
+  "article:21.481": {
+    "node_id": "article:21.481",
+    "type": "article",
+    "title": "第21.481条 设计保证系统的能力清单",
+    "line_start": 2270,
+    "line_end": 2277,
+    "source_anchor": "第21.481条"
+  },
+  "article:21.483": {
+    "node_id": "article:21.483",
+    "type": "article",
+    "title": "第21.483条 检查",
+    "line_start": 2278,
+    "line_end": 2284,
+    "source_anchor": "第21.483条"
+  },
+  "article:21.487": {
+    "node_id": "article:21.487",
+    "type": "article",
+    "title": "第21.487条 设计机构的权利",
+    "line_start": 2286,
+    "line_end": 2296,
+    "source_anchor": "第21.487条"
+  },
+  "article:21.489": {
+    "node_id": "article:21.489",
+    "type": "article",
+    "title": "第21.489条 设计机构的责任",
+    "line_start": 2297,
+    "line_end": 2311,
+    "source_anchor": "第21.489条"
+  },
+  "chapter:14": {
+    "node_id": "chapter:14",
+    "type": "chapter",
+    "title": "第十四章 设计保证系统",
+    "line_start": 2199,
+    "line_end": 2311,
+    "source_anchor": "第十四章"
+  },
+  "article:21.501": {
+    "node_id": "article:21.501",
+    "type": "article",
+    "title": "第21.501条 适用范围",
+    "line_start": 2313,
+    "line_end": 2317,
+    "source_anchor": "第21.501条"
+  },
+  "article:21.503": {
+    "node_id": "article:21.503",
+    "type": "article",
+    "title": "第21.503条 评审项目",
+    "line_start": 2318,
+    "line_end": 2328,
+    "source_anchor": "第21.503条"
+  },
+  "article:21.505": {
+    "node_id": "article:21.505",
+    "type": "article",
+    "title": "第21.505条 申请",
+    "line_start": 2329,
+    "line_end": 2332,
+    "source_anchor": "第21.505条"
+  },
+  "article:21.507": {
+    "node_id": "article:21.507",
+    "type": "article",
+    "title": "第21.507条 评审结论",
+    "line_start": 2333,
+    "line_end": 2335,
+    "source_anchor": "第21.507条"
+  },
+  "article:21.509": {
+    "node_id": "article:21.509",
+    "type": "article",
+    "title": "第21.509条 持续评审",
+    "line_start": 2336,
+    "line_end": 2344,
+    "source_anchor": "第21.509条"
+  },
+  "chapter:15": {
+    "node_id": "chapter:15",
+    "type": "chapter",
+    "title": "第十五章 运行符合性评审",
+    "line_start": 2312,
+    "line_end": 2344,
+    "source_anchor": "第十五章"
+  },
+  "article:21.601": {
+    "node_id": "article:21.601",
+    "type": "article",
+    "title": "第21.601条 未报告故障、失效、缺陷或者ETOPS 相关",
+    "line_start": 2346,
+    "line_end": 2353,
+    "source_anchor": "第21.601条"
+  },
+  "article:21.603": {
+    "node_id": "article:21.603",
+    "type": "article",
+    "title": "第21.603条 未履行持证人责任的处罚",
+    "line_start": 2354,
+    "line_end": 2372,
+    "source_anchor": "第21.603条"
+  },
+  "article:21.605": {
+    "node_id": "article:21.605",
+    "type": "article",
+    "title": "第21.605条 未按规定获得设计更改批准的处罚",
+    "line_start": 2376,
+    "line_end": 2391,
+    "source_anchor": "第21.605条"
+  },
+  "article:21.607": {
+    "node_id": "article:21.607",
+    "type": "article",
+    "title": "第21.607条 未按规定展示证件的处罚",
+    "line_start": 2392,
+    "line_end": 2398,
+    "source_anchor": "第21.607条"
+  },
+  "article:21.609": {
+    "node_id": "article:21.609",
+    "type": "article",
+    "title": "第21.609条 制造地点变更未通知局方的处罚",
+    "line_start": 2399,
+    "line_end": 2410,
+    "source_anchor": "第21.609条"
+  },
+  "article:21.611": {
+    "node_id": "article:21.611",
+    "type": "article",
+    "title": "第21.611条 违反规定变更质量系统或者设计保证系统",
+    "line_start": 2411,
+    "line_end": 2427,
+    "source_anchor": "第21.611条"
+  },
+  "article:21.613": {
+    "node_id": "article:21.613",
+    "type": "article",
+    "title": "第21.613条 未按规定获得证件更改批准的处罚",
+    "line_start": 2428,
+    "line_end": 2434,
+    "source_anchor": "第21.613条"
+  },
+  "article:21.615": {
+    "node_id": "article:21.615",
+    "type": "article",
+    "title": "第21.615条 违反规定转让证件的处罚",
+    "line_start": 2435,
+    "line_end": 2444,
+    "source_anchor": "第21.615条"
+  },
+  "article:21.617": {
+    "node_id": "article:21.617",
+    "type": "article",
+    "title": "第21.617条 未按规定设置标记标牌的处罚",
+    "line_start": 2445,
+    "line_end": 2448,
+    "source_anchor": "第21.617条"
+  },
+  "article:21.619": {
+    "node_id": "article:21.619",
+    "type": "article",
+    "title": "第21.619条 未按规定申请适航批准标签的处罚",
+    "line_start": 2449,
+    "line_end": 2452,
+    "source_anchor": "第21.619条"
+  },
+  "article:21.621": {
+    "node_id": "article:21.621",
+    "type": "article",
+    "title": "第21.621条 拒不接受局方适航检查的处罚",
+    "line_start": 2453,
+    "line_end": 2456,
+    "source_anchor": "第21.621条"
+  },
+  "article:21.623": {
+    "node_id": "article:21.623",
+    "type": "article",
+    "title": "第21.623条 对弄虚作假和不正当手段获得证件的处罚",
+    "line_start": 2457,
+    "line_end": 2463,
+    "source_anchor": "第21.623条"
+  },
+  "article:21.625": {
+    "node_id": "article:21.625",
+    "type": "article",
+    "title": "第21.625条 生产质量问题造成严重事故的处罚",
+    "line_start": 2464,
+    "line_end": 2468,
+    "source_anchor": "第21.625条"
+  },
+  "article:21.627": {
+    "node_id": "article:21.627",
+    "type": "article",
+    "title": "第21.627条 航空器未进行适当维护和修理的处罚",
+    "line_start": 2469,
+    "line_end": 2475,
+    "source_anchor": "第21.627条"
+  },
+  "article:21.629": {
+    "node_id": "article:21.629",
+    "type": "article",
+    "title": "第21.629条 将未取得适航证件的民用航空产品投入运",
+    "line_start": 2476,
+    "line_end": 2481,
+    "source_anchor": "第21.629条"
+  },
+  "article:21.631": {
+    "node_id": "article:21.631",
+    "type": "article",
+    "title": "第21.631条 对适航证件失效或者超出适航证件规定范",
+    "line_start": 2482,
+    "line_end": 2490,
+    "source_anchor": "第21.631条"
+  },
+  "chapter:16": {
+    "node_id": "chapter:16",
+    "type": "chapter",
+    "title": "第十六章 法律责任",
+    "line_start": 2345,
+    "line_end": 2490,
+    "source_anchor": "第十六章"
+  },
+  "article:21.701": {
+    "node_id": "article:21.701",
+    "type": "article",
+    "title": "第21.701条 守法信用信息记录",
+    "line_start": 2492,
+    "line_end": 2495,
+    "source_anchor": "第21.701条"
+  },
+  "article:21.702": {
+    "node_id": "article:21.702",
+    "type": "article",
+    "title": "第21.702条 附则",
+    "line_start": 2496,
+    "line_end": 2499,
+    "source_anchor": "第21.702条"
+  },
+  "chapter:17": {
+    "node_id": "chapter:17",
+    "type": "chapter",
+    "title": "第十七章 附则",
+    "line_start": 2491,
+    "line_end": 2499,
+    "source_anchor": "第十七章"
+  }
+}

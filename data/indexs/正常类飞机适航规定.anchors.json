@@ -1,0 +1,698 @@
+{
+  "law:正常类飞机适航规定": {
+    "node_id": "law:正常类飞机适航规定",
+    "type": "law",
+    "title": "«正常类飞机适航规定»已于2022年4月28日经第10次部",
+    "line_start": 0,
+    "line_end": 1380,
+    "source_anchor": "«正常类飞机适航规定»已于2022年4月28日经第10次部"
+  },
+  "article:23.2000": {
+    "node_id": "article:23.2000",
+    "type": "article",
+    "title": "第23.2000条 适用范围及定义",
+    "line_start": 127,
+    "line_end": 133,
+    "source_anchor": "第23.2000条"
+  },
+  "article:23.2005": {
+    "node_id": "article:23.2005",
+    "type": "article",
+    "title": "第23.2005条 正常类飞机审定",
+    "line_start": 134,
+    "line_end": 159,
+    "source_anchor": "第23.2005条"
+  },
+  "article:23.2010": {
+    "node_id": "article:23.2010",
+    "type": "article",
+    "title": "第23.2010条 可接受的符合性方法",
+    "line_start": 160,
+    "line_end": 168,
+    "source_anchor": "第23.2010条"
+  },
+  "chapter:A": {
+    "node_id": "chapter:A",
+    "type": "chapter",
+    "title": "A章 总  则",
+    "line_start": 126,
+    "line_end": 168,
+    "source_anchor": "A章"
+  },
+  "article:23.2100": {
+    "node_id": "article:23.2100",
+    "type": "article",
+    "title": "第23.2100条 重量和重心",
+    "line_start": 171,
+    "line_end": 177,
+    "source_anchor": "第23.2100条"
+  },
+  "article:23.2105": {
+    "node_id": "article:23.2105",
+    "type": "article",
+    "title": "第23.2105条 性能数据",
+    "line_start": 178,
+    "line_end": 196,
+    "source_anchor": "第23.2105条"
+  },
+  "article:23.2110": {
+    "node_id": "article:23.2110",
+    "type": "article",
+    "title": "第23.2110条 失速速度",
+    "line_start": 197,
+    "line_end": 205,
+    "source_anchor": "第23.2110条"
+  },
+  "article:23.2115": {
+    "node_id": "article:23.2115",
+    "type": "article",
+    "title": "第23.2115条 起飞性能",
+    "line_start": 206,
+    "line_end": 224,
+    "source_anchor": "第23.2115条"
+  },
+  "article:23.2120": {
+    "node_id": "article:23.2120",
+    "type": "article",
+    "title": "第23.2120条 爬升要求",
+    "line_start": 225,
+    "line_end": 249,
+    "source_anchor": "第23.2120条"
+  },
+  "article:23.2125": {
+    "node_id": "article:23.2125",
+    "type": "article",
+    "title": "第23.2125条 爬升性能数据",
+    "line_start": 250,
+    "line_end": 258,
+    "source_anchor": "第23.2125条"
+  },
+  "article:23.2130": {
+    "node_id": "article:23.2130",
+    "type": "article",
+    "title": "第23.2130条 着陆",
+    "line_start": 259,
+    "line_end": 274,
+    "source_anchor": "第23.2130条"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 乘员系统设计保护",
+    "line_start": 658,
+    "line_end": 693,
+    "source_anchor": "第一节"
+  },
+  "article:23.2135": {
+    "node_id": "article:23.2135",
+    "type": "article",
+    "title": "第23.2135条 操纵性",
+    "line_start": 276,
+    "line_end": 289,
+    "source_anchor": "第23.2135条"
+  },
+  "article:23.2140": {
+    "node_id": "article:23.2140",
+    "type": "article",
+    "title": "第23.2140条 配平",
+    "line_start": 290,
+    "line_end": 310,
+    "source_anchor": "第23.2140条"
+  },
+  "article:23.2145": {
+    "node_id": "article:23.2145",
+    "type": "article",
+    "title": "第23.2145条 稳定性",
+    "line_start": 311,
+    "line_end": 317,
+    "source_anchor": "第23.2145条"
+  },
+  "article:23.2150": {
+    "node_id": "article:23.2150",
+    "type": "article",
+    "title": "第23.2150条 失速特性、失速警告和尾旋",
+    "line_start": 318,
+    "line_end": 341,
+    "source_anchor": "第23.2150条"
+  },
+  "article:23.2155": {
+    "node_id": "article:23.2155",
+    "type": "article",
+    "title": "第23.2155条 地面和水上操纵特性",
+    "line_start": 342,
+    "line_end": 344,
+    "source_anchor": "第23.2155条"
+  },
+  "article:23.2160": {
+    "node_id": "article:23.2160",
+    "type": "article",
+    "title": "第23.2160条 振动、抖振和高速特性",
+    "line_start": 345,
+    "line_end": 363,
+    "source_anchor": "第23.2160条"
+  },
+  "article:23.2165": {
+    "node_id": "article:23.2165",
+    "type": "article",
+    "title": "第23.2165条 在结冰条件下飞行所要求的性能和飞行特性",
+    "line_start": 364,
+    "line_end": 394,
+    "source_anchor": "第23.2165条"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 防火和高能保护",
+    "line_start": 694,
+    "line_end": 746,
+    "source_anchor": "第二节"
+  },
+  "chapter:B": {
+    "node_id": "chapter:B",
+    "type": "chapter",
+    "title": "B章 飞  行",
+    "line_start": 169,
+    "line_end": 394,
+    "source_anchor": "B章"
+  },
+  "article:23.2200": {
+    "node_id": "article:23.2200",
+    "type": "article",
+    "title": "第23.2200条 结构设计包线",
+    "line_start": 397,
+    "line_end": 413,
+    "source_anchor": "第23.2200条"
+  },
+  "article:23.2205": {
+    "node_id": "article:23.2205",
+    "type": "article",
+    "title": "第23.2205条 系统和结构的相互影响",
+    "line_start": 414,
+    "line_end": 422,
+    "source_anchor": "第23.2205条"
+  },
+  "article:23.2210": {
+    "node_id": "article:23.2210",
+    "type": "article",
+    "title": "第23.2210条 结构设计载荷",
+    "line_start": 424,
+    "line_end": 431,
+    "source_anchor": "第23.2210条"
+  },
+  "article:23.2215": {
+    "node_id": "article:23.2215",
+    "type": "article",
+    "title": "第23.2215条 飞行载荷情况",
+    "line_start": 432,
+    "line_end": 436,
+    "source_anchor": "第23.2215条"
+  },
+  "article:23.2220": {
+    "node_id": "article:23.2220",
+    "type": "article",
+    "title": "第23.2220条 地面载荷和水载荷情况",
+    "line_start": 437,
+    "line_end": 440,
+    "source_anchor": "第23.2220条"
+  },
+  "article:23.2225": {
+    "node_id": "article:23.2225",
+    "type": "article",
+    "title": "第23.2225条 部件载荷情况",
+    "line_start": 441,
+    "line_end": 467,
+    "source_anchor": "第23.2225条"
+  },
+  "article:23.2230": {
+    "node_id": "article:23.2230",
+    "type": "article",
+    "title": "第23.2230条 限制和极限载荷",
+    "line_start": 468,
+    "line_end": 477,
+    "source_anchor": "第23.2230条"
+  },
+  "article:23.2235": {
+    "node_id": "article:23.2235",
+    "type": "article",
+    "title": "第23.2235条 结构强度",
+    "line_start": 479,
+    "line_end": 483,
+    "source_anchor": "第23.2235条"
+  },
+  "article:23.2240": {
+    "node_id": "article:23.2240",
+    "type": "article",
+    "title": "第23.2240条 结构耐久性",
+    "line_start": 484,
+    "line_end": 504,
+    "source_anchor": "第23.2240条"
+  },
+  "article:23.2245": {
+    "node_id": "article:23.2245",
+    "type": "article",
+    "title": "第23.2245条 气动弹性",
+    "line_start": 505,
+    "line_end": 511,
+    "source_anchor": "第23.2245条"
+  },
+  "section:3": {
+    "node_id": "section:3",
+    "type": "section",
+    "title": "第三节 结构性能",
+    "line_start": 478,
+    "line_end": 511,
+    "source_anchor": "第三节"
+  },
+  "article:23.2250": {
+    "node_id": "article:23.2250",
+    "type": "article",
+    "title": "第23.2250条 设计和构造原理",
+    "line_start": 513,
+    "line_end": 528,
+    "source_anchor": "第23.2250条"
+  },
+  "article:23.2255": {
+    "node_id": "article:23.2255",
+    "type": "article",
+    "title": "第23.2255条 结构保护",
+    "line_start": 529,
+    "line_end": 535,
+    "source_anchor": "第23.2255条"
+  },
+  "article:23.2260": {
+    "node_id": "article:23.2260",
+    "type": "article",
+    "title": "第23.2260条 材料和工艺",
+    "line_start": 536,
+    "line_end": 560,
+    "source_anchor": "第23.2260条"
+  },
+  "article:23.2265": {
+    "node_id": "article:23.2265",
+    "type": "article",
+    "title": "第23.2265条 特殊安全系数",
+    "line_start": 561,
+    "line_end": 582,
+    "source_anchor": "第23.2265条"
+  },
+  "section:4": {
+    "node_id": "section:4",
+    "type": "section",
+    "title": "第四节 设  计",
+    "line_start": 512,
+    "line_end": 582,
+    "source_anchor": "第四节"
+  },
+  "article:23.2270": {
+    "node_id": "article:23.2270",
+    "type": "article",
+    "title": "第23.2270条 应急情况",
+    "line_start": 584,
+    "line_end": 618,
+    "source_anchor": "第23.2270条"
+  },
+  "section:5": {
+    "node_id": "section:5",
+    "type": "section",
+    "title": "第五节 结构乘员保护",
+    "line_start": 583,
+    "line_end": 618,
+    "source_anchor": "第五节"
+  },
+  "chapter:C": {
+    "node_id": "chapter:C",
+    "type": "chapter",
+    "title": "C章 结  构",
+    "line_start": 395,
+    "line_end": 618,
+    "source_anchor": "C章"
+  },
+  "article:23.2300": {
+    "node_id": "article:23.2300",
+    "type": "article",
+    "title": "第23.2300条 飞行操纵系统",
+    "line_start": 620,
+    "line_end": 634,
+    "source_anchor": "第23.2300条"
+  },
+  "article:23.2305": {
+    "node_id": "article:23.2305",
+    "type": "article",
+    "title": "第23.2305条 起落架系统",
+    "line_start": 635,
+    "line_end": 651,
+    "source_anchor": "第23.2305条"
+  },
+  "article:23.2310": {
+    "node_id": "article:23.2310",
+    "type": "article",
+    "title": "第23.2310条 水上飞机和水陆两用飞机的浮力",
+    "line_start": 652,
+    "line_end": 657,
+    "source_anchor": "第23.2310条"
+  },
+  "article:23.2315": {
+    "node_id": "article:23.2315",
+    "type": "article",
+    "title": "第23.2315条 撤离设施和应急出口",
+    "line_start": 659,
+    "line_end": 674,
+    "source_anchor": "第23.2315条"
+  },
+  "article:23.2320": {
+    "node_id": "article:23.2320",
+    "type": "article",
+    "title": "第23.2320条 乘员物理环境",
+    "line_start": 675,
+    "line_end": 693,
+    "source_anchor": "第23.2320条"
+  },
+  "article:23.2325": {
+    "node_id": "article:23.2325",
+    "type": "article",
+    "title": "第23.2325条 防火",
+    "line_start": 695,
+    "line_end": 733,
+    "source_anchor": "第23.2325条"
+  },
+  "article:23.2330": {
+    "node_id": "article:23.2330",
+    "type": "article",
+    "title": "第23.2330条 指定火区和邻近区域的防火",
+    "line_start": 734,
+    "line_end": 739,
+    "source_anchor": "第23.2330条"
+  },
+  "article:23.2335": {
+    "node_id": "article:23.2335",
+    "type": "article",
+    "title": "第23.2335条 闪电防护",
+    "line_start": 740,
+    "line_end": 746,
+    "source_anchor": "第23.2335条"
+  },
+  "chapter:D": {
+    "node_id": "chapter:D",
+    "type": "chapter",
+    "title": "D章 设计和构造",
+    "line_start": 619,
+    "line_end": 746,
+    "source_anchor": "D章"
+  },
+  "article:23.2400": {
+    "node_id": "article:23.2400",
+    "type": "article",
+    "title": "第23.2400条 动力装置安装",
+    "line_start": 748,
+    "line_end": 764,
+    "source_anchor": "第23.2400条"
+  },
+  "article:23.2405": {
+    "node_id": "article:23.2405",
+    "type": "article",
+    "title": "第23.2405条 功率或者推力控制系",
+    "line_start": 765,
+    "line_end": 784,
+    "source_anchor": "第23.2405条"
+  },
+  "article:23.2410": {
+    "node_id": "article:23.2410",
+    "type": "article",
+    "title": "第23.2410条 动力装置安装危害性评估",
+    "line_start": 785,
+    "line_end": 793,
+    "source_anchor": "第23.2410条"
+  },
+  "article:23.2415": {
+    "node_id": "article:23.2415",
+    "type": "article",
+    "title": "第23.2415条 动力装置防冰",
+    "line_start": 794,
+    "line_end": 803,
+    "source_anchor": "第23.2415条"
+  },
+  "article:23.2420": {
+    "node_id": "article:23.2420",
+    "type": "article",
+    "title": "第23.2420条 反推力系统",
+    "line_start": 804,
+    "line_end": 808,
+    "source_anchor": "第23.2420条"
+  },
+  "article:23.2425": {
+    "node_id": "article:23.2425",
+    "type": "article",
+    "title": "第23.2425条 动力装置工作特性",
+    "line_start": 809,
+    "line_end": 813,
+    "source_anchor": "第23.2425条"
+  },
+  "article:23.2430": {
+    "node_id": "article:23.2430",
+    "type": "article",
+    "title": "第23.2430条 燃油系统",
+    "line_start": 814,
+    "line_end": 854,
+    "source_anchor": "第23.2430条"
+  },
+  "article:23.2435": {
+    "node_id": "article:23.2435",
+    "type": "article",
+    "title": "第23.2435条 动力装置进气和排气系统",
+    "line_start": 855,
+    "line_end": 866,
+    "source_anchor": "第23.2435条"
+  },
+  "article:23.2440": {
+    "node_id": "article:23.2440",
+    "type": "article",
+    "title": "第23.2440条 动力装置防火",
+    "line_start": 867,
+    "line_end": 904,
+    "source_anchor": "第23.2440条"
+  },
+  "chapter:E": {
+    "node_id": "chapter:E",
+    "type": "chapter",
+    "title": "E章 动力装置",
+    "line_start": 747,
+    "line_end": 904,
+    "source_anchor": "E章"
+  },
+  "article:23.2500": {
+    "node_id": "article:23.2500",
+    "type": "article",
+    "title": "第23.2500条 飞机级系统要求",
+    "line_start": 906,
+    "line_end": 915,
+    "source_anchor": "第23.2500条"
+  },
+  "article:23.2505": {
+    "node_id": "article:23.2505",
+    "type": "article",
+    "title": "第23.2505条 功能和安装",
+    "line_start": 916,
+    "line_end": 917,
+    "source_anchor": "第23.2505条"
+  },
+  "article:23.2510": {
+    "node_id": "article:23.2510",
+    "type": "article",
+    "title": "第23.2510条 系统、设备和安装",
+    "line_start": 918,
+    "line_end": 924,
+    "source_anchor": "第23.2510条"
+  },
+  "article:23.2515": {
+    "node_id": "article:23.2515",
+    "type": "article",
+    "title": "第23.2515条 电子和电气系统闪电防护",
+    "line_start": 925,
+    "line_end": 942,
+    "source_anchor": "第23.2515条"
+  },
+  "article:23.2520": {
+    "node_id": "article:23.2520",
+    "type": "article",
+    "title": "第23.2520条 高强辐射场(HIRF)防护",
+    "line_start": 943,
+    "line_end": 959,
+    "source_anchor": "第23.2520条"
+  },
+  "article:23.2525": {
+    "node_id": "article:23.2525",
+    "type": "article",
+    "title": "第23.2525条 电源和配电系统",
+    "line_start": 960,
+    "line_end": 968,
+    "source_anchor": "第23.2525条"
+  },
+  "article:23.2530": {
+    "node_id": "article:23.2530",
+    "type": "article",
+    "title": "第23.2530条 外部和驾驶舱照明",
+    "line_start": 969,
+    "line_end": 986,
+    "source_anchor": "第23.2530条"
+  },
+  "article:23.2535": {
+    "node_id": "article:23.2535",
+    "type": "article",
+    "title": "第23.2535条 安全设备",
+    "line_start": 987,
+    "line_end": 989,
+    "source_anchor": "第23.2535条"
+  },
+  "article:23.2540": {
+    "node_id": "article:23.2540",
+    "type": "article",
+    "title": "第23.2540条 在结冰条件下飞行",
+    "line_start": 990,
+    "line_end": 995,
+    "source_anchor": "第23.2540条"
+  },
+  "article:23.2545": {
+    "node_id": "article:23.2545",
+    "type": "article",
+    "title": "第23.2545条 增压系统元件",
+    "line_start": 996,
+    "line_end": 997,
+    "source_anchor": "第23.2545条"
+  },
+  "article:23.2550": {
+    "node_id": "article:23.2550",
+    "type": "article",
+    "title": "第23.2550条 含高能转子的设备",
+    "line_start": 998,
+    "line_end": 1000,
+    "source_anchor": "第23.2550条"
+  },
+  "article:23.2555": {
+    "node_id": "article:23.2555",
+    "type": "article",
+    "title": "第23.2555条 (e)款(2)项要求,则另一个组合单元应当符合本飞",
+    "line_start": 1137,
+    "line_end": 1165,
+    "source_anchor": "第23.2555条"
+  },
+  "article:23.2560": {
+    "node_id": "article:23.2560",
+    "type": "article",
+    "title": "第23.2560条 飞行数据记录器",
+    "line_start": 1108,
+    "line_end": 1136,
+    "source_anchor": "第23.2560条"
+  },
+  "chapter:F": {
+    "node_id": "chapter:F",
+    "type": "chapter",
+    "title": "F章 设  备",
+    "line_start": 905,
+    "line_end": 1165,
+    "source_anchor": "F章"
+  },
+  "article:23.2600": {
+    "node_id": "article:23.2600",
+    "type": "article",
+    "title": "第23.2600条 飞行机组界面",
+    "line_start": 1167,
+    "line_end": 1177,
+    "source_anchor": "第23.2600条"
+  },
+  "article:23.2605": {
+    "node_id": "article:23.2605",
+    "type": "article",
+    "title": "第23.2605条 安装和使用",
+    "line_start": 1178,
+    "line_end": 1191,
+    "source_anchor": "第23.2605条"
+  },
+  "article:23.2610": {
+    "node_id": "article:23.2610",
+    "type": "article",
+    "title": "第23.2610条 仪表标记、操纵器件标记及标牌",
+    "line_start": 1192,
+    "line_end": 1196,
+    "source_anchor": "第23.2610条"
+  },
+  "article:23.2615": {
+    "node_id": "article:23.2615",
+    "type": "article",
+    "title": "第23.2615条 飞行、导航和动力装置仪表",
+    "line_start": 1197,
+    "line_end": 1210,
+    "source_anchor": "第23.2615条"
+  },
+  "article:23.2620": {
+    "node_id": "article:23.2620",
+    "type": "article",
+    "title": "第23.2620条 飞机飞行手册",
+    "line_start": 1211,
+    "line_end": 1229,
+    "source_anchor": "第23.2620条"
+  },
+  "article:23.2625": {
+    "node_id": "article:23.2625",
+    "type": "article",
+    "title": "第23.2625条 持续适航文件",
+    "line_start": 1230,
+    "line_end": 1240,
+    "source_anchor": "第23.2625条"
+  },
+  "chapter:G": {
+    "node_id": "chapter:G",
+    "type": "chapter",
+    "title": "G章 飞行机组界面和其他信息",
+    "line_start": 1166,
+    "line_end": 1240,
+    "source_anchor": "G章"
+  },
+  "article:23.2700": {
+    "node_id": "article:23.2700",
+    "type": "article",
+    "title": "第23.2700条 电推进系统",
+    "line_start": 1242,
+    "line_end": 1246,
+    "source_anchor": "第23.2700条"
+  },
+  "article:23.2705": {
+    "node_id": "article:23.2705",
+    "type": "article",
+    "title": "第23.2705条 电池和配电系统",
+    "line_start": 1247,
+    "line_end": 1279,
+    "source_anchor": "第23.2705条"
+  },
+  "article:23.2710": {
+    "node_id": "article:23.2710",
+    "type": "article",
+    "title": "第23.2710条 电池和电动力系统防火",
+    "line_start": 1280,
+    "line_end": 1287,
+    "source_anchor": "第23.2710条"
+  },
+  "chapter:H": {
+    "node_id": "chapter:H",
+    "type": "chapter",
+    "title": "H章 电动飞机动力装置补充要求",
+    "line_start": 1241,
+    "line_end": 1287,
+    "source_anchor": "H章"
+  },
+  "article:23.2800": {
+    "node_id": "article:23.2800",
+    "type": "article",
+    "title": "第23.2800条 施行",
+    "line_start": 1289,
+    "line_end": 1380,
+    "source_anchor": "第23.2800条"
+  },
+  "chapter:I": {
+    "node_id": "chapter:I",
+    "type": "chapter",
+    "title": "I章 附  则",
+    "line_start": 1288,
+    "line_end": 1380,
+    "source_anchor": "I章"
+  }
+}

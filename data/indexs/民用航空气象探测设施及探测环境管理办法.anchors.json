@@ -1,0 +1,490 @@
+{
+  "law:民用航空气象探测设施及探测环境管理办法": {
+    "node_id": "law:民用航空气象探测设施及探测环境管理办法",
+    "type": "law",
+    "title": "(一)气象观测平台、气象观测场;",
+    "line_start": 0,
+    "line_end": 124,
+    "source_anchor": "(一)气象观测平台、气象观测场;"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了规范民用航空气象探测设施管理和气象探测环境保护工作,保证气象探测信息的代表性、准确性和连续性,根据《中华人民共和国气象法》、《民用机场管理条例》和《气象设施和气象探测环境保护条例》,制定本办法。",
+    "line_start": 1,
+    "line_end": 1,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本办法适用于民用航空气象探测设施建设和探测环境的选择、保护工作。",
+    "line_start": 2,
+    "line_end": 2,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 民用航空气象探测设施,是指下列用于民用航空气象探测的场所、设备和满足设备运行环境要求的设施:",
+    "line_start": 3,
+    "line_end": 8,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 民用航空气象探测环境,是指为避开各种干扰,保证民用航空气象探测设施准确获得气象探测信息所必需的最小距离构成的环境空间。",
+    "line_start": 9,
+    "line_end": 9,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 中国民用航空局(以下简称民航局)对全国民用航空气象探测设施建设及探测环境实施监督管理。",
+    "line_start": 10,
+    "line_end": 11,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 民用航空气象探测设施的建设应当符合民航建设规划,民用机场区域内的气象探测设施建设应当纳入民用机场总体规划。",
+    "line_start": 12,
+    "line_end": 12,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 民用航空气象探测设施应当符合国家和民航相关的技术要求。不符合技术要求的气象探测设施不得用于与民用航空气象服务有关的活动。",
+    "line_start": 13,
+    "line_end": 13,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 民用航空气象探测设施位置应当保持稳定,任何单位或者个人不得擅自迁移民用航空气象探测设施。",
+    "line_start": 14,
+    "line_end": 14,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 任何单位和个人都有义务保护民用航空气象探测设施和气象探测环境,并有权对破坏气象探测设施和气象探测环境的行为进行举报。",
+    "line_start": 15,
+    "line_end": 15,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 民用运输机场应当建设气象观测平台、气象观测场、自动气象观测系统。",
+    "line_start": 18,
+    "line_end": 18,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 民用运输机场应当配置基本气象观测设备,以满足探测云、垂直能见度、跑道视程、气象光学视程、地面风、气压、气温、湿度、最高气温、最低气温和降水量等气象要素的需要。",
+    "line_start": 19,
+    "line_end": 20,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 民用运输机场可以综合机场地形地貌、气候特点、重要天气预报预警的需要、飞行量以及运行的可行性等因素,选择配置以下非基本配置的气象探测设备:",
+    "line_start": 21,
+    "line_end": 24,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 民用通用机场应当能够获取本机场实时地面风向、风速、温度、湿度、气压等气象要素。",
+    "line_start": 25,
+    "line_end": 25,
+    "source_anchor": "第十三条"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 探测环境选择要求",
+    "line_start": 37,
+    "line_end": 78,
+    "source_anchor": "第一节"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 民用航空气象探测设施建设单位在编制可行性研究报告之前应当完成相关的需求分析、环境分析、建设必要性分析等。",
+    "line_start": 27,
+    "line_end": 28,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 民用航空气象探测设施建设项目可行性研究报告应当至少包括以下内容:",
+    "line_start": 29,
+    "line_end": 32,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 民用航空气象探测设施建设项目初步设计报告应当符合相关规定的要求。",
+    "line_start": 33,
+    "line_end": 33,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 民用航空气象探测设施设备工艺安装应当符合设备的环境、供电、防静电、防雷等相关要求。",
+    "line_start": 34,
+    "line_end": 34,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 民用航空气象探测设施建设项目应当按照有关规定进行验收。",
+    "line_start": 35,
+    "line_end": 35,
+    "source_anchor": "第十八条"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 探测环境选择管理",
+    "line_start": 79,
+    "line_end": 101,
+    "source_anchor": "第二节"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 民用航空气象探测设施建设",
+    "line_start": 16,
+    "line_end": 35,
+    "source_anchor": "第二章"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 气象观测平台应当紧邻观测值班室设立,观测平台与机场标高的高度差应当小于20米。在观测平台上观测员应当能够目视至少一条跑道及其航空器最后进近区域。",
+    "line_start": 38,
+    "line_end": 38,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 气象观测场的探测环境应当符合下列规定:",
+    "line_start": 39,
+    "line_end": 43,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 自动气象观测设备的安装应当符合下列规定:",
+    "line_start": 44,
+    "line_end": 51,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 自动气象观测设备与四周孤立障碍物的距离应当不小于该障碍物高度的3倍或者障碍物遮挡仰角不大于18.44度;与四周成排障碍物的距离应当不小于该障碍物高度的10倍或者障碍物遮挡仰角不大于5.71度。",
+    "line_start": 52,
+    "line_end": 52,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 用于测量跑道视程的大气透射仪传感器发射和接收镜头相对跑道面高度为2.5米;测量跑道视程的前向散射仪发射和接收光路交叉点的高度相对跑道面高度为2.5米;温度和湿度、气压传感器相对地面高度为1.5米;降水传感器筒口相对地面高度为0.7米;风向风速传感器相对地面高度为10米。",
+    "line_start": 53,
+    "line_end": 53,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 自动气象观测设备各传感器安装地带下垫面应当与周围大部分地区的自然地理条件基本相同。",
+    "line_start": 54,
+    "line_end": 54,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 天气雷达应当能够探测影响本机场主要天气系统的来向、影响本机场的重要天气和主降区域。",
+    "line_start": 55,
+    "line_end": 55,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 机场天气雷达选址应当符合下列地理环境要求:",
+    "line_start": 56,
+    "line_end": 58,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 机场天气雷达选址应当符合下列净空环境要求:",
+    "line_start": 59,
+    "line_end": 62,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 机场天气雷达的天线及雷达附属设施不应当穿透仪表着陆系统障碍物评价面。",
+    "line_start": 63,
+    "line_end": 63,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 机场天气雷达选址应当符合下列电磁环境要求:",
+    "line_start": 64,
+    "line_end": 67,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 机场天气雷达站址应当选择在通信环境与通信传输条件良好的地点,便于建立与运输机场的宽带通信链路,以确保雷达探测数据和遥控信息的实时、可靠传输。",
+    "line_start": 68,
+    "line_end": 68,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 机场天气雷达选址应当符合下列基础环境要求:",
+    "line_start": 69,
+    "line_end": 71,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 机场天气雷达的无线电工作频率应当得到机场所在地无线电管理机构的批准。",
+    "line_start": 72,
+    "line_end": 72,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 风温廓线雷达选址应当符合下列要求:",
+    "line_start": 73,
+    "line_end": 76,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 风温廓线雷达的无线电工作频率应当得到机场所在地无线电管理机构的批准。",
+    "line_start": 77,
+    "line_end": 77,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 其他民用航空气象探测设施探测环境选择应当符合相关地理环境、净空环境、通信环境、基础环境和电磁环境的要求,并最大限度满足实际探测需求。",
+    "line_start": 78,
+    "line_end": 78,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 新建、迁建民用航空气象探测设施,项目立项(代可研)报告批复后,项目法人单位应当将气象探测环境选择的相关材料报地区管理局备案,非基本配置的气象探测设备探测环境的选择应当编制选址报告一并备案。",
+    "line_start": 80,
+    "line_end": 80,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 新建或迁建自动气象观测系统、自动气象站的备案材料应当包括《自动气象观测系统、自动气象站探测环境备案表》(见附件一)。",
+    "line_start": 81,
+    "line_end": 81,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 新建或迁建天气雷达的备案材料应当包括:",
+    "line_start": 82,
+    "line_end": 92,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 新建或迁建风温廓线雷达的备案材料应当包括:",
+    "line_start": 93,
+    "line_end": 98,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 新建或迁建其他气象探测设施的备案材料应当包括相应探测环境选择报告及相关说明材料,涉及无线电频率的应当提供机场所在地无线电管理机构关于频率使用的证明文件。",
+    "line_start": 99,
+    "line_end": 99,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 民用航空气象探测设施建设单位应当根据观测和探测的具体目标选择其他气象探测设施的场址或探测环境。",
+    "line_start": 100,
+    "line_end": 100,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 民用航空气象探测设施建设单位所选择的气象探测环境偏离本规章规定的,应当由项目建设单位组织论证,根据项目审批权限由民航局或地区管理局组织评估,地区管理局组织的评估应当报民航局核准。",
+    "line_start": 101,
+    "line_end": 101,
+    "source_anchor": "第四十二条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 民用航空气象探测环境的选择",
+    "line_start": 36,
+    "line_end": 101,
+    "source_anchor": "第三章"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 民用航空气象探测设施所属单位应当在气象探测设施附近显著位置设立保护标志,标明保护要求。",
+    "line_start": 103,
+    "line_end": 103,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 在民用航空气象探测环境保护范围内实施建设工程的,建设项目法人应当就建设工程对气象探测环境的影响组织论证评估。未组织论证评估或不采取有效补救措施的,有关部门不得批准其开工建设。",
+    "line_start": 104,
+    "line_end": 104,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 禁止实施下列危害民用航空气象探测设施的行为:",
+    "line_start": 105,
+    "line_end": 110,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 禁止实施下列危害民用航空气象探测环境的行为:",
+    "line_start": 111,
+    "line_end": 115,
+    "source_anchor": "第四十六条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 民用航空气象探测环境的保护",
+    "line_start": 102,
+    "line_end": 115,
+    "source_anchor": "第四章"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 未按照本规章规定配置民用航空气象探测设施的,由民航局或地区管理局责令限期改正;逾期未改正的,对气象服务机构所在单位处以警告或者1万元以上3万元以下罚款。",
+    "line_start": 117,
+    "line_end": 117,
+    "source_anchor": "第四十七条"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 使用不符合技术要求的民用航空气象探测设施进行与民用航空气象服务有关活动的,由民航局或地区管理局责令其限期改正;逾期未改正的,对民用航空气象服务机构所在单位处以警告或者1万元以下罚款;造成严重后果的,对民用航空气象服务机构所在单位处以1万元以上3万元以下罚款。",
+    "line_start": 118,
+    "line_end": 118,
+    "source_anchor": "第四十八条"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 民用航空气象探测环境不符合本规章有关要求的,由民航局或地区管理局责令建设单位或民用航空气象服务机构所在单位限期改正;逾期未改正的,对相关单位处以警告或者1万元以下罚款;造成严重后果的,对相关单位处以1万元以上3万元以下罚款。",
+    "line_start": 119,
+    "line_end": 119,
+    "source_anchor": "第四十九条"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 所选择的机场天气雷达、风温廓线雷达探测环境不符合本规章规定且不能探测影响机场的重要天气或主降区域而建设的,由民航局或地区管理局责令其限期改正;逾期未改正的,对建设单位处以1万元以上3万元以下罚款。",
+    "line_start": 120,
+    "line_end": 120,
+    "source_anchor": "第五十条"
+  },
+  "article:51": {
+    "node_id": "article:51",
+    "type": "article",
+    "title": "第五十一条 民用航空气象设施探测环境选择未向地区管理局备案的,由民航局或地区管理局责令项目法人单位改正;逾期未改正的,处以警告或者1万元以下罚款。",
+    "line_start": 121,
+    "line_end": 121,
+    "source_anchor": "第五十一条"
+  },
+  "article:52": {
+    "node_id": "article:52",
+    "type": "article",
+    "title": "第五十二条 危害民航气象探测设施或民航气象探测环境的,由民航局或地区管理局责令限期改正;逾期未改正的,对造成危害的单位处以1万元以上3万元以下罚款,对造成危害的个人处以200元以上1000元以下罚款。",
+    "line_start": 122,
+    "line_end": 122,
+    "source_anchor": "第五十二条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 法律责任",
+    "line_start": 116,
+    "line_end": 122,
+    "source_anchor": "第五章"
+  },
+  "article:53": {
+    "node_id": "article:53",
+    "type": "article",
+    "title": "第五十三条 本办法自2016年4月4日起施行。",
+    "line_start": 124,
+    "line_end": 124,
+    "source_anchor": "第五十三条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 附 则",
+    "line_start": 123,
+    "line_end": 124,
+    "source_anchor": "第六章"
+  }
+}

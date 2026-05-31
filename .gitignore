@@ -1,0 +1,35 @@
+# Environment
+.env
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Models (download separately)
+models/
+
+# IDE
+.cursor/
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime data
+data/sessions/
+data/trace/
+data/summaries/
+data/index/
+
+# Large conversation logs
+对话过程.md

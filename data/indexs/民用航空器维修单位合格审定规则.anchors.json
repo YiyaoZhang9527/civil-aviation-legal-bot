@@ -1,0 +1,410 @@
+{
+  "law:民用航空器维修单位合格审定规则": {
+    "node_id": "law:民用航空器维修单位合格审定规则",
+    "type": "law",
+    "title": "《民用航空器维修单位合格审定规则》已于2022 年2",
+    "line_start": 0,
+    "line_end": 891,
+    "source_anchor": "《民用航空器维修单位合格审定规则》已于2022 年2"
+  },
+  "article:145.1": {
+    "node_id": "article:145.1",
+    "type": "article",
+    "title": "第145.1条 目的和依据",
+    "line_start": 18,
+    "line_end": 23,
+    "source_anchor": "第145.1条"
+  },
+  "article:145.2": {
+    "node_id": "article:145.2",
+    "type": "article",
+    "title": "第145.2条 适用范围",
+    "line_start": 24,
+    "line_end": 29,
+    "source_anchor": "第145.2条"
+  },
+  "article:145.3": {
+    "node_id": "article:145.3",
+    "type": "article",
+    "title": "第145.3条 管理机构",
+    "line_start": 30,
+    "line_end": 39,
+    "source_anchor": "第145.3条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总  则",
+    "line_start": 16,
+    "line_end": 39,
+    "source_anchor": "第一章"
+  },
+  "article:145.4": {
+    "node_id": "article:145.4",
+    "type": "article",
+    "title": "第145.4条 申请条件",
+    "line_start": 42,
+    "line_end": 48,
+    "source_anchor": "第145.4条"
+  },
+  "article:145.5": {
+    "node_id": "article:145.5",
+    "type": "article",
+    "title": "第145.5条 申请材料",
+    "line_start": 49,
+    "line_end": 59,
+    "source_anchor": "第145.5条"
+  },
+  "article:145.6": {
+    "node_id": "article:145.6",
+    "type": "article",
+    "title": "第145.6条 受理和审查",
+    "line_start": 60,
+    "line_end": 69,
+    "source_anchor": "第145.6条"
+  },
+  "article:145.7": {
+    "node_id": "article:145.7",
+    "type": "article",
+    "title": "第145.7条 批准",
+    "line_start": 70,
+    "line_end": 75,
+    "source_anchor": "第145.7条"
+  },
+  "article:145.8": {
+    "node_id": "article:145.8",
+    "type": "article",
+    "title": "第145.8条 认可情形",
+    "line_start": 76,
+    "line_end": 82,
+    "source_anchor": "第145.8条"
+  },
+  "article:145.9": {
+    "node_id": "article:145.9",
+    "type": "article",
+    "title": "第145.9条 维修许可证",
+    "line_start": 83,
+    "line_end": 91,
+    "source_anchor": "第145.9条"
+  },
+  "article:145.10": {
+    "node_id": "article:145.10",
+    "type": "article",
+    "title": "第145.10条 维修许可证的有效性",
+    "line_start": 92,
+    "line_end": 107,
+    "source_anchor": "第145.10条"
+  },
+  "article:145.11": {
+    "node_id": "article:145.11",
+    "type": "article",
+    "title": "第145.11条 变更申请和办理",
+    "line_start": 108,
+    "line_end": 116,
+    "source_anchor": "第145.11条"
+  },
+  "article:145.12": {
+    "node_id": "article:145.12",
+    "type": "article",
+    "title": "第145.12条 维修单位的权利",
+    "line_start": 117,
+    "line_end": 127,
+    "source_anchor": "第145.12条"
+  },
+  "article:145.13": {
+    "node_id": "article:145.13",
+    "type": "article",
+    "title": "第145.13条 维修单位的义务",
+    "line_start": 128,
+    "line_end": 147,
+    "source_anchor": "第145.13条"
+  },
+  "article:145.14": {
+    "node_id": "article:145.14",
+    "type": "article",
+    "title": "第145.14条 外委",
+    "line_start": 148,
+    "line_end": 154,
+    "source_anchor": "第145.14条"
+  },
+  "article:145.15": {
+    "node_id": "article:145.15",
+    "type": "article",
+    "title": "第145.15条 等效安全情况",
+    "line_start": 155,
+    "line_end": 172,
+    "source_anchor": "第145.15条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 维修许可证的申请、颁发和管理",
+    "line_start": 40,
+    "line_end": 172,
+    "source_anchor": "第二章"
+  },
+  "article:145.16": {
+    "node_id": "article:145.16",
+    "type": "article",
+    "title": "第145.16条 维修工作类别",
+    "line_start": 175,
+    "line_end": 203,
+    "source_anchor": "第145.16条"
+  },
+  "article:145.17": {
+    "node_id": "article:145.17",
+    "type": "article",
+    "title": "第145.17条 维修项目类别",
+    "line_start": 204,
+    "line_end": 215,
+    "source_anchor": "第145.17条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 维修类别",
+    "line_start": 173,
+    "line_end": 215,
+    "source_anchor": "第三章"
+  },
+  "article:145.18": {
+    "node_id": "article:145.18",
+    "type": "article",
+    "title": "第145.18条 厂房设施",
+    "line_start": 219,
+    "line_end": 278,
+    "source_anchor": "第145.18条"
+  },
+  "article:145.19": {
+    "node_id": "article:145.19",
+    "type": "article",
+    "title": "第145.19条 工具设备",
+    "line_start": 279,
+    "line_end": 310,
+    "source_anchor": "第145.19条"
+  },
+  "article:145.20": {
+    "node_id": "article:145.20",
+    "type": "article",
+    "title": "第145.20条 器材",
+    "line_start": 311,
+    "line_end": 350,
+    "source_anchor": "第145.20条"
+  },
+  "article:145.21": {
+    "node_id": "article:145.21",
+    "type": "article",
+    "title": "第145.21条 条的要求制定本单位各类人员的培训大纲,建立各类",
+    "line_start": 545,
+    "line_end": 572,
+    "source_anchor": "第145.21条"
+  },
+  "article:145.22": {
+    "node_id": "article:145.22",
+    "type": "article",
+    "title": "第145.22条 技术文件",
+    "line_start": 407,
+    "line_end": 434,
+    "source_anchor": "第145.22条"
+  },
+  "article:145.23": {
+    "node_id": "article:145.23",
+    "type": "article",
+    "title": "第145.23条 质量系统",
+    "line_start": 435,
+    "line_end": 460,
+    "source_anchor": "第145.23条"
+  },
+  "article:145.24": {
+    "node_id": "article:145.24",
+    "type": "article",
+    "title": "第145.24条 安全管理体系",
+    "line_start": 461,
+    "line_end": 480,
+    "source_anchor": "第145.24条"
+  },
+  "article:145.25": {
+    "node_id": "article:145.25",
+    "type": "article",
+    "title": "第145.25条 工程技术系统",
+    "line_start": 481,
+    "line_end": 517,
+    "source_anchor": "第145.25条"
+  },
+  "article:145.26": {
+    "node_id": "article:145.26",
+    "type": "article",
+    "title": "第145.26条 生产控制系统",
+    "line_start": 518,
+    "line_end": 542,
+    "source_anchor": "第145.26条"
+  },
+  "article:145.27": {
+    "node_id": "article:145.27",
+    "type": "article",
+    "title": "第145.27条 培训管理系统",
+    "line_start": 543,
+    "line_end": 544,
+    "source_anchor": "第145.27条"
+  },
+  "article:145.28": {
+    "node_id": "article:145.28",
+    "type": "article",
+    "title": "第145.28条 维修单位手册",
+    "line_start": 573,
+    "line_end": 635,
+    "source_anchor": "第145.28条"
+  },
+  "article:145.29": {
+    "node_id": "article:145.29",
+    "type": "article",
+    "title": "第145.29条 维修工作准则",
+    "line_start": 636,
+    "line_end": 673,
+    "source_anchor": "第145.29条"
+  },
+  "article:145.30": {
+    "node_id": "article:145.30",
+    "type": "article",
+    "title": "第145.30条 维修记录",
+    "line_start": 674,
+    "line_end": 700,
+    "source_anchor": "第145.30条"
+  },
+  "article:145.31": {
+    "node_id": "article:145.31",
+    "type": "article",
+    "title": "第145.31条 维修放行证明",
+    "line_start": 701,
+    "line_end": 743,
+    "source_anchor": "第145.31条"
+  },
+  "article:145.32": {
+    "node_id": "article:145.32",
+    "type": "article",
+    "title": "第145.32条 缺陷和不适航状况的报告",
+    "line_start": 744,
+    "line_end": 766,
+    "source_anchor": "第145.32条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 维修单位的基本条件和管理要求",
+    "line_start": 216,
+    "line_end": 766,
+    "source_anchor": "第四章"
+  },
+  "article:145.33": {
+    "node_id": "article:145.33",
+    "type": "article",
+    "title": "第145.33条 年度报告",
+    "line_start": 769,
+    "line_end": 774,
+    "source_anchor": "第145.33条"
+  },
+  "article:145.34": {
+    "node_id": "article:145.34",
+    "type": "article",
+    "title": "第145.34条 监督检查",
+    "line_start": 775,
+    "line_end": 783,
+    "source_anchor": "第145.34条"
+  },
+  "article:145.35": {
+    "node_id": "article:145.35",
+    "type": "article",
+    "title": "第145.35条 信用管理",
+    "line_start": 784,
+    "line_end": 796,
+    "source_anchor": "第145.35条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 监督管理",
+    "line_start": 767,
+    "line_end": 796,
+    "source_anchor": "第五章"
+  },
+  "article:145.36": {
+    "node_id": "article:145.36",
+    "type": "article",
+    "title": "第145.36条 未取得证件的处罚",
+    "line_start": 799,
+    "line_end": 803,
+    "source_anchor": "第145.36条"
+  },
+  "article:145.37": {
+    "node_id": "article:145.37",
+    "type": "article",
+    "title": "第145.37条 提供虚假材料的处罚",
+    "line_start": 804,
+    "line_end": 807,
+    "source_anchor": "第145.37条"
+  },
+  "article:145.38": {
+    "node_id": "article:145.38",
+    "type": "article",
+    "title": "第145.38条 欺骗、贿赂取得许可的处罚",
+    "line_start": 808,
+    "line_end": 812,
+    "source_anchor": "第145.38条"
+  },
+  "article:145.39": {
+    "node_id": "article:145.39",
+    "type": "article",
+    "title": "第145.39条 不能保持本单位持续符合本规则要求的处罚",
+    "line_start": 813,
+    "line_end": 820,
+    "source_anchor": "第145.39条"
+  },
+  "article:145.40": {
+    "node_id": "article:145.40",
+    "type": "article",
+    "title": "第145.40条 维修工作不满足相应技术文件要求",
+    "line_start": 821,
+    "line_end": 827,
+    "source_anchor": "第145.40条"
+  },
+  "article:145.41": {
+    "node_id": "article:145.41",
+    "type": "article",
+    "title": "第145.41条 不如实报告信息的处罚",
+    "line_start": 828,
+    "line_end": 832,
+    "source_anchor": "第145.41条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 法律责任",
+    "line_start": 797,
+    "line_end": 832,
+    "source_anchor": "第六章"
+  },
+  "article:145.42": {
+    "node_id": "article:145.42",
+    "type": "article",
+    "title": "第145.42条 术语和定义",
+    "line_start": 835,
+    "line_end": 883,
+    "source_anchor": "第145.42条"
+  },
+  "article:145.43": {
+    "node_id": "article:145.43",
+    "type": "article",
+    "title": "第145.43条 生效与废止",
+    "line_start": 884,
+    "line_end": 891,
+    "source_anchor": "第145.43条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 附  则",
+    "line_start": 833,
+    "line_end": 891,
+    "source_anchor": "第七章"
+  }
+}

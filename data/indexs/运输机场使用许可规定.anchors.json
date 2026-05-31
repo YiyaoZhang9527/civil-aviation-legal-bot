@@ -1,0 +1,578 @@
+{
+  "law:运输机场使用许可规定": {
+    "node_id": "law:运输机场使用许可规定",
+    "type": "law",
+    "title": "运输机场使用许可规定",
+    "line_start": 0,
+    "line_end": 324,
+    "source_anchor": "运输机场使用许可规定"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了规范运输机场使用许可工作,保障运输机场安全、正常运行,根据《中华人民共和国民用航空法》、《中华人民共和国安全生产法》、《中华人民共和国行政许可法》、《民用机场管理条例》和其他有关法律、行政法规,制定本规定。",
+    "line_start": 6,
+    "line_end": 7,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规定适用于运输机场(含军民合用机场民用部分,以下简称机场)的使用许可及其相关活动管理。",
+    "line_start": 8,
+    "line_end": 9,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 机场实行使用许可制度。机场管理机构取得机场使用许可证后,机场方可开放使用。",
+    "line_start": 10,
+    "line_end": 17,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 中国民用航空局(以下简称民航局)负责对全国范围内的机场使用许可及其相关活动实施统一监督管理;负责飞行区指标为4F的机场使用许可审批工作。",
+    "line_start": 18,
+    "line_end": 19,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 民航地区管理局负责对所辖区域内的机场使用许可及其相关活动实施监督管理。包括:",
+    "line_start": 20,
+    "line_end": 31,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 机场使用许可管理应当遵循安全第一、条件完备、审核严格、程序规范的原则。",
+    "line_start": 32,
+    "line_end": 33,
+    "source_anchor": "第六条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总则",
+    "line_start": 4,
+    "line_end": 33,
+    "source_anchor": "第一章"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 机场使用许可证应当由机场管理机构按照本规定向民航局或者受民航局委托的机场所在地民航地区管理局申请。",
+    "line_start": 38,
+    "line_end": 39,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 申请机场使用许可证的机场应当具备下列条件:",
+    "line_start": 40,
+    "line_end": 59,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 申请机场使用许可证,应当报送下列文件资料:",
+    "line_start": 60,
+    "line_end": 83,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 申请材料不齐全或者不符合法定形式的,民航地区管理局应当当场或者在5个工作日内一次告知机场管理机构需要补正的全部内容,逾期不告知的,自收到申请材料之日起即为受理。",
+    "line_start": 84,
+    "line_end": 85,
+    "source_anchor": "第十条"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 编制与生效",
+    "line_start": 168,
+    "line_end": 179,
+    "source_anchor": "第一节"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 民航局或者民航地区管理局收到符合要求的机场使用许可申请文件资料后,应当按照下列要求进行审查:",
+    "line_start": 88,
+    "line_end": 97,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 民航局或者民航地区管理局经过审查,认为机场管理机构的申请符合本规定第八条、第九条要求的,应当在受理申请后的45个工作日内以民航局的名义作出批准决定,并自作出批准决定之日起10个工作日内将批准文件、机场使用许可证以及手册一并交与机场管理机构。",
+    "line_start": 98,
+    "line_end": 101,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 民航局或者民航地区管理局经过审查,认为机场管理机构报送的文件资料或者实际情况不完全具备本规定第八条、第九条要求的,应当书面通知机场管理机构并说明理由。",
+    "line_start": 102,
+    "line_end": 107,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 民航局统一印制机场使用许可证(附件2),并对许可证编号实施统一管理。",
+    "line_start": 108,
+    "line_end": 109,
+    "source_anchor": "第十四条"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 发放与使用",
+    "line_start": 180,
+    "line_end": 187,
+    "source_anchor": "第二节"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 机场使用许可证载明的下列事项发生变化的,机场管理机构应当按照本规定申请变更:",
+    "line_start": 112,
+    "line_end": 135,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 申请变更机场使用许可证的,机场管理机构可以仅报送机场使用许可证申请资料的变化部分。",
+    "line_start": 136,
+    "line_end": 137,
+    "source_anchor": "第十六条"
+  },
+  "section:3": {
+    "node_id": "section:3",
+    "type": "section",
+    "title": "第三节 动态管理",
+    "line_start": 188,
+    "line_end": 217,
+    "source_anchor": "第三节"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 有下列情况之一的,民航局或者民航地区管理局应当依法办理机场使用许可证的注销手续:",
+    "line_start": 140,
+    "line_end": 151,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 机场管理机构决定机场关闭不再运营的,应当于机场预期关闭前至少45日向民航局或者所在地民航地区管理局提出关闭申请,经民航局或者民航地区管理局批准后方可关闭,并向社会公告。民航局或者民航地区管理局应当自受理机场管理机构申请之日起20个工作日内予以答复,并在预期的机场关闭日期注销该机场使用许可证。机场管理机构应当在机场许可证注销后的5个工作日内,将原证交回颁证机关。",
+    "line_start": 152,
+    "line_end": 153,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 机场管理机构应当按照相关规定将机场关闭信息通知航行情报服务机构发布航行通告并向社会公告,并自关闭之日起,撤掉识别机场的标志、风向标等,设置跑道、滑行道关闭标志。",
+    "line_start": 154,
+    "line_end": 155,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 有下列情形之一的,机场管理机构应当于机场预期关闭前至少45日报民航局或者所在地民航地区管理局审批,民航局或者民航地区管理局应当在5个工作日内予以答复,但机场使用许可证不予注销:",
+    "line_start": 156,
+    "line_end": 165,
+    "source_anchor": "第二十条"
+  },
+  "section:4": {
+    "node_id": "section:4",
+    "type": "section",
+    "title": "第四节 注销",
+    "line_start": 138,
+    "line_end": 165,
+    "source_anchor": "第四节"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 机场使用许可",
+    "line_start": 34,
+    "line_end": 165,
+    "source_anchor": "第二章"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 手册是机场运行的基本依据,机场管理机构应当严格按照生效的手册运行和管理机场。",
+    "line_start": 170,
+    "line_end": 171,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 手册应当由机场管理机构依据法律法规、涉及民航管理的规章和标准组织编制。手册编制时应当广泛征求使用者的意见,确保手册具有可操作性、实用性,满足机场运行安全管理工作需要。",
+    "line_start": 172,
+    "line_end": 175,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 手册应当采用活页格式,预留手册修改记录空白页和机场使用许可证变更记录页,编排形式便于编写、审查。",
+    "line_start": 176,
+    "line_end": 177,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 编制完成的手册由机场管理机构按照本规定第九条,在申请机场使用许可证时报送民航局或者所在地民航地区管理局。经审查合格的,在民航局或者民航地区管理局发放机场使用许可证以及手册时一并生效。",
+    "line_start": 178,
+    "line_end": 179,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 机场管理机构应当将生效的手册的相关章节发放给在本场运行的航空运输企业及其他运行保障单位。",
+    "line_start": 182,
+    "line_end": 183,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 机场管理机构、在本场运行的航空运输企业及其他运行保障单位应当将手册的相关章节印发给相关部门及岗位人员,就手册内容对员工进行培训和考核,确保员工熟知并严格遵守。",
+    "line_start": 184,
+    "line_end": 185,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 机场管理机构、在本场运行的航空运输企业及其他运行保障单位应当根据本单位各部门的工作职责和岗位的实际分工,制定相应部门、岗位的手册实施细则。手册实施细则应当涵盖手册中与该部门、岗位职责相关的内容,并不得与手册相冲突。",
+    "line_start": 186,
+    "line_end": 187,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 机场管理机构应当建立手册的动态管理制度,使手册符合有关法律法规、涉及民航管理的规章和标准,以及机场实际运行情况,确保手册的持续有效。",
+    "line_start": 190,
+    "line_end": 191,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 机场管理机构应当至少每年组织相关驻场单位对手册的完整性、适用性、有效性等进行一次评估和完善。",
+    "line_start": 192,
+    "line_end": 193,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 有下列情形之一的,机场管理机构应当及时组织修改手册:",
+    "line_start": 194,
+    "line_end": 205,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 机场管理机构应当将修改后的手册及时报所在地民航地区管理局进行审查。",
+    "line_start": 206,
+    "line_end": 211,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 机场管理机构应当根据审查意见,对手册进行修改完善。",
+    "line_start": 212,
+    "line_end": 213,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 机场管理机构应当将审查修改完成的手册在生效日期的5个工作日前印发至使用手册的相关单位。",
+    "line_start": 214,
+    "line_end": 215,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 机场管理机构应当为民航局、所在地民航地区管理局各提供一套,并至少保存一套现行完整的手册。",
+    "line_start": 216,
+    "line_end": 217,
+    "source_anchor": "第三十四条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 机场使用手册",
+    "line_start": 166,
+    "line_end": 217,
+    "source_anchor": "第三章"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 机场名称是体现航空运输始发、经停、到达的重要标识,其命名、更名和使用应当遵循本规定和国家有关规定。",
+    "line_start": 220,
+    "line_end": 221,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 机场的命名应当以确定机场具体位置并区别于其他机场为准则。",
+    "line_start": 222,
+    "line_end": 223,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 机场名称一般由行政区划名,后缀机场专名组成。",
+    "line_start": 224,
+    "line_end": 231,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 机场的更名应当遵循下列要求:",
+    "line_start": 232,
+    "line_end": 241,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 机场的命名或者更名,应当按照《地名管理条例》及相关规定的要求进行,并报民航局备案。",
+    "line_start": 242,
+    "line_end": 243,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 机场名称备案时,应当向民航局报送下列文件:",
+    "line_start": 244,
+    "line_end": 253,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 在机场名称中增加“国际”二字的,备案时应当向民航局报送下列文件:",
+    "line_start": 254,
+    "line_end": 261,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 机场管理机构应当在机场入口和航站楼显著位置设置机场名称标志。",
+    "line_start": 262,
+    "line_end": 267,
+    "source_anchor": "第四十二条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 机场名称管理",
+    "line_start": 218,
+    "line_end": 267,
+    "source_anchor": "第四章"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 民航地区管理局应当对辖区内已取得使用许可证的机场进行年度适用性检查和符合性评价,监督检查机场使用许可的执行情况和许可条件的符合性;发现存在问题的,督促机场管理机构整改。",
+    "line_start": 270,
+    "line_end": 275,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 民航地区管理局应当制定年度适用性检查计划,明确检查的内容、频次、检查方式等,并按计划严格落实检查任务。",
+    "line_start": 276,
+    "line_end": 279,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 民航地区管理局对已取得使用许可证的机场进行符合性评价后,应当向机场管理机构出具符合性评价意见,并报民航局备案。",
+    "line_start": 280,
+    "line_end": 281,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 机场管理机构及相关驻场单位应当配合所在地民航地区管理局对机场使用许可的监督管理,及时整改监督检查中发现的问题。",
+    "line_start": 282,
+    "line_end": 283,
+    "source_anchor": "第四十六条"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 对机场管理机构的适用性检查、符合性评价、行政处罚、行政强制等处理措施及其执行情况记入民航行业信用信息记录,并按照有关规定进行公示。",
+    "line_start": 284,
+    "line_end": 285,
+    "source_anchor": "第四十七条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 监督管理",
+    "line_start": 268,
+    "line_end": 285,
+    "source_anchor": "第五章"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 机场管理机构违反本规定第三条,未取得机场使用许可证或者机场使用许可证被吊销、撤销、注销而开放使用机场的,由民航局或者受民航局委托的民航地区管理局责令停止开放使用;没收违法所得,可以并处违法所得1倍以下的罚款。",
+    "line_start": 288,
+    "line_end": 289,
+    "source_anchor": "第四十八条"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 机场管理机构未按照机场使用许可证规定的范围使用机场的,由民航地区管理局责令改正,处20万元以上50万元以下的罚款;造成严重后果的,处50万元以上100万元以下的罚款。",
+    "line_start": 290,
+    "line_end": 291,
+    "source_anchor": "第四十九条"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 机场管理机构违反本规定第九条,提供虚假材料申请机场使用许可的,由民航局或者民航地区管理局给予警告。",
+    "line_start": 292,
+    "line_end": 293,
+    "source_anchor": "第五十条"
+  },
+  "article:51": {
+    "node_id": "article:51",
+    "type": "article",
+    "title": "第五十一条 机场管理机构违反本规定第十五条,应当变更机场使用许可证而未申请变更的,由民航局或者民航地区管理局给予警告,可以并处1万元以上3万元以下的罚款。",
+    "line_start": 294,
+    "line_end": 295,
+    "source_anchor": "第五十一条"
+  },
+  "article:52": {
+    "node_id": "article:52",
+    "type": "article",
+    "title": "第五十二条 机场管理机构未经批准擅自关闭机场的,由民航地区管理局责令改正,处10万元以上20万元以下的罚款;情节严重的,处20万元以上50万元以下的罚款。",
+    "line_start": 296,
+    "line_end": 297,
+    "source_anchor": "第五十二条"
+  },
+  "article:53": {
+    "node_id": "article:53",
+    "type": "article",
+    "title": "第五十三条 机场管理机构违反本规定第十八条、第二十条关于申请时间的要求,未在预期关闭前45日向民航局或者民航地区管理局提出关闭申请的,由民航局或者民航地区管理局给予警告;情节严重的,处1万元以上3万元以下的罚款。",
+    "line_start": 298,
+    "line_end": 299,
+    "source_anchor": "第五十三条"
+  },
+  "article:54": {
+    "node_id": "article:54",
+    "type": "article",
+    "title": "第五十四条 机场管理机构违反本规定第十九条、第二十条第二款,未按规定程序关闭的,由民航地区管理局责令立即改正,处2万元以上3万元以下的罚款;其中违反《民用机场管理条例》第二十一条规定的,按照《民用机场管理条例》第六十六条的规定予以处罚。",
+    "line_start": 300,
+    "line_end": 301,
+    "source_anchor": "第五十四条"
+  },
+  "article:55": {
+    "node_id": "article:55",
+    "type": "article",
+    "title": "第五十五条 机场管理机构违反本规定第二十条第三款,未经民航地区管理局批准,即恢复开放使用机场的,由民航地区管理局责令停止开放使用,按照本规定第四十八条的规定予以处罚。",
+    "line_start": 302,
+    "line_end": 303,
+    "source_anchor": "第五十五条"
+  },
+  "article:56": {
+    "node_id": "article:56",
+    "type": "article",
+    "title": "第五十六条 机场管理机构有下列行为之一的,由民航地区管理局给予警告,可以并处1万元以上3万元以下的罚款:",
+    "line_start": 304,
+    "line_end": 315,
+    "source_anchor": "第五十六条"
+  },
+  "article:57": {
+    "node_id": "article:57",
+    "type": "article",
+    "title": "第五十七条 相关驻场单位违反本规定第二十二条,不配合机场管理机构编制手册的,由民航地区管理局责令改正;拒不改正的,处1万元以上3万元以下的罚款。",
+    "line_start": 316,
+    "line_end": 317,
+    "source_anchor": "第五十七条"
+  },
+  "article:58": {
+    "node_id": "article:58",
+    "type": "article",
+    "title": "第五十八条 机场管理机构、在本场运行的航空运输企业及其他运行保障单位违反本规定第二十六条、第二十七条,造成手册不能有效实施的,由民航地区管理局给予警告,可以并处1万元以上3万元以下的罚款。",
+    "line_start": 318,
+    "line_end": 319,
+    "source_anchor": "第五十八条"
+  },
+  "article:59": {
+    "node_id": "article:59",
+    "type": "article",
+    "title": "第五十九条 机场管理机构违反本规定第四十六条,对民航地区管理局在监督检查中发现的不符合安全运营要求的问题拒不改正,或者经改正仍不符合安全运营要求的,由民航局或者民航地区管理局作出机场限制使用的决定;情节严重的,吊销机场使用许可证。",
+    "line_start": 320,
+    "line_end": 321,
+    "source_anchor": "第五十九条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 法律责任",
+    "line_start": 286,
+    "line_end": 321,
+    "source_anchor": "第六章"
+  },
+  "article:60": {
+    "node_id": "article:60",
+    "type": "article",
+    "title": "第六十条 本规定自2019年1月1日起施行。原民航总局于2005年10月7日公布的《民用机场使用许可规定》(民航总局令第156号)同时废止。",
+    "line_start": 324,
+    "line_end": 324,
+    "source_anchor": "第六十条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 附则",
+    "line_start": 322,
+    "line_end": 324,
+    "source_anchor": "第七章"
+  }
+}

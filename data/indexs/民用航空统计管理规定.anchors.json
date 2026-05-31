@@ -1,0 +1,362 @@
+{
+  "law:民用航空统计管理规定": {
+    "node_id": "law:民用航空统计管理规定",
+    "type": "law",
+    "title": "前款所称民航行政机关是指中国民用航空局(以下简称民航局)及中国民用航空地区管理局(以下简称民航地区管理局);民航企业事业单位是指包括外国航空公司在内的所有在中国境内登记从事民用航空活动的企业和事业单位。在中国境内登记从事民用航空活动的其他组织、个体工商户和个人以及港澳台地区航空公司亦应按本规定执行。",
+    "line_start": 0,
+    "line_end": 214,
+    "source_anchor": "前款所称民航行政机关是指中国民用航空局(以下简称民航局)及中国民用航空地区管理局(以下简称民航地区管理局);民航企业事业单位是指包括外国航空公司在内的所有在中国境内登记从事民用航空活动的企业和事业单位。在中国境内登记从事民用航空活动的其他组织、个体工商户和个人以及港澳台地区航空公司亦应按本规定执行。"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了科学、有效地组织民用航空统计工作,保障统计资料的真实性、准确性、完整性和及时性,发挥统计的信息、咨询和监督作用,根据《中华人民共和国统计法》《中华人民共和国民用航空法》的有关规定,制定本规定。",
+    "line_start": 2,
+    "line_end": 3,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规定适用于对民航行政机关、民航企业事业单位、其他组织以及个体工商户和个人实施的民航行业统计活动。",
+    "line_start": 4,
+    "line_end": 7,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 民航行业统计是指运用各种统计方法对民用航空业发展状况进行统计调查、统计分析,提供统计资料和统计咨询意见,实施统计监督等活动的总称。",
+    "line_start": 8,
+    "line_end": 9,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 民航行业统计实行统一管理,分工负责与分级负责相结合的统计管理体制。",
+    "line_start": 10,
+    "line_end": 19,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 民航局加强对民航行业统计调查项目、统计标准、指标体系的研究,不断改进统计方法,提高统计的科学性与准确性。",
+    "line_start": 20,
+    "line_end": 21,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 民航统计机构和统计人员独立行使统计调查、统计报告、统计监督的职权,不受侵犯。",
+    "line_start": 22,
+    "line_end": 25,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 调查对象应当按照有关统计法律法规及本规定,真实、准确、完整、及时地提供统计资料,不得伪造、篡改,不得虚报、瞒报、拒报、迟报;统计资料报送单位的负责人应当对所报送统计资料的真实性、准确性、完整性、及时性负有领导责任。",
+    "line_start": 26,
+    "line_end": 27,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 民航行政机关、民航企业事业单位和其他组织应当加强对本单位统计工作的组织领导,加强统计机构及队伍建设,确保统计人员完成必要的业务培训,支持本单位统计机构、统计人员依法独立行使职权,改善统计工作条件,为统计工作提供必要的保障条件。",
+    "line_start": 28,
+    "line_end": 29,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 民航统计机构和统计人员实行岗位责任制,依照本规定,准确、及时和完整地完成统计任务。",
+    "line_start": 30,
+    "line_end": 33,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 民航行业统计工作应当接受社会公众的监督。任何单位和个人有权检举统计工作中弄虚作假等违法行为。",
+    "line_start": 34,
+    "line_end": 35,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 民航局综合统计机构统一负责民航行业统计调查项目及其调查制度的拟定、报批和报备。",
+    "line_start": 38,
+    "line_end": 41,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 民航行业统计调查项目的调查对象属于本部门管辖系统的,统计调查项目及其调查制度应当报国家统计局备案。民航行业统计调查项目的调查对象超出本部门管辖系统的,统计调查项目及其调查制度应当报国家统计局审批。",
+    "line_start": 42,
+    "line_end": 43,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 民航行业统计调查属于部门统计调查,包括综合统计调查和专业统计调查。",
+    "line_start": 44,
+    "line_end": 49,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 民航行业统计调查应当按照国家统计局批准或者备案的民航有关统计调查制度组织实施。未经审批或者备案,民航局各职能部门不得擅自制定、下发统计报表或者统计程序。统计调查的内容如变更,应当重新办理报批或者备案。",
+    "line_start": 50,
+    "line_end": 53,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 民航行业统计调查包括:航空安全信息、公共航空运输、通用航空、服务质量、固定资产投资、人力资源、财务信息、价格信息、机场基本信息、企业信息、航空器信息、空管信息、能源消耗及二氧化碳排放等内容。",
+    "line_start": 54,
+    "line_end": 57,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 民航行业统计调查使用国家统计标准和民航行业统计标准。民航行业统计标准由民航局综合统计机构或者由民航局综合统计机构与民航局有关职能部门共同拟定,并保障统计调查中采用的指标涵义、计算方法、分类目录、调查表式、统计编码等的规范化。",
+    "line_start": 58,
+    "line_end": 61,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 民航行业统计的调查对象应当根据统计调查制度的要求向民航局或者所在地的民航地区管理局报送统计资料;民航地区管理局应当将收到的统计资料按要求审核后报送民航局综合统计机构或者有关职能部门。",
+    "line_start": 62,
+    "line_end": 69,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 民航局负责公布所有经过审批或者备案的民航行业统计调查项目,公布的民航行业统计调查项目应当包括下列内容:",
+    "line_start": 70,
+    "line_end": 79,
+    "source_anchor": "第十八条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 统计调查管理",
+    "line_start": 36,
+    "line_end": 79,
+    "source_anchor": "第二章"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 民航行业统计资料分为综合统计资料和专业统计资料。综合统计资料由民航局综合统计机构及民航地区管理局综合统计机构管理;专业统计资料由民航局有关职能部门及民航地区管理局有关职能部门管理。上述统计机构和职能部门应当建立健全统计资料的保存、管理制度,确保统计资料的完整、可用。",
+    "line_start": 82,
+    "line_end": 85,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 调查对象应当建立健全统计资料的审核制度,统计负责人对拟报送的统计资料应进行审核,并对审核的结果负责。",
+    "line_start": 86,
+    "line_end": 87,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 民航局按照国家有关规定,定期公布全行业的统计资料。民航地区管理局在民航局授权范围内,公布统计资料。",
+    "line_start": 88,
+    "line_end": 95,
+    "source_anchor": "第二十一条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 统计资料的管理与公布",
+    "line_start": 80,
+    "line_end": 95,
+    "source_anchor": "第三章"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 民航行政机关和民航企业事业单位应当根据完成本单位统计任务的需要设置统计机构、配备专职或者兼职的统计人员,指定统计负责人。",
+    "line_start": 98,
+    "line_end": 101,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 民航局综合统计机构履行下列职责:",
+    "line_start": 102,
+    "line_end": 117,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 民航局有关职能部门履行下列统计工作职责:",
+    "line_start": 118,
+    "line_end": 123,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 民航地区管理局综合统计机构履行下列职责:",
+    "line_start": 124,
+    "line_end": 135,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 民航地区管理局有关职能部门履行下列统计工作职责:",
+    "line_start": 136,
+    "line_end": 141,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 民航企业事业单位、其他组织履行下列统计工作职责:",
+    "line_start": 142,
+    "line_end": 151,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 民航统计人员应当具备完成民航统计工作任务所需要的专业知识和业务能力。民航企业事业单位应当根据国家有关规定组织推荐统计人员评定专业技术职称,保障统计队伍的稳定。",
+    "line_start": 152,
+    "line_end": 153,
+    "source_anchor": "第二十八条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 统计机构与工作职责",
+    "line_start": 96,
+    "line_end": 153,
+    "source_anchor": "第四章"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 外国航空公司经营的航线中,起讫点或者经停点(技术经停除外)中的任一点为中国境内机场的,应当向该机场统计部门或者其指定部门提供每个进出港航班的飞机起降架次和客货载量等统计数据,并按照外国航空公司运输业务量统计制度的要求,向民航局报送有关统计数据。",
+    "line_start": 156,
+    "line_end": 157,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 外国通用航空器运营人在中国境内开展通用航空活动的,应当按要求向所起降机场统计部门报送每个起降架次的相关统计数据。",
+    "line_start": 158,
+    "line_end": 159,
+    "source_anchor": "第三十条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 外国民用航空器运营信息统计",
+    "line_start": 154,
+    "line_end": 159,
+    "source_anchor": "第五章"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 民航局综合统计机构统一管理、协调民航行业统计的监督检查,设立民航行业统计调查项目的部门或机构具体负责组织实施该调查项目的监督检查。对统计违法行为,由民航行政机关综合统计机构移送政府统计主管部门依法处理。",
+    "line_start": 162,
+    "line_end": 163,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 组织实施监督检查的部门或机构可根据实际工作需要采取以下措施:",
+    "line_start": 164,
+    "line_end": 173,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 在监督检查过程中,被检查对象应当如实反映情况,提供相关证明和资料,不得拒绝、阻碍检查,不得转移、隐匿、篡改、毁弃原始记录和凭证、统计台账、统计调查表以及其他相关证明和资料。",
+    "line_start": 174,
+    "line_end": 175,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 开展民航行业统计调查项目的部门或机构违反本规定第十四条、第二十一条,有下列行为之一的,由民航行政机关责令改正,或者予以通报,构成统计违法行为的移送政府统计机构依法处理:",
+    "line_start": 176,
+    "line_end": 181,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 统计调查对象违反本规定第六条、第七条、第十七条、第十九条、第二十条、第三十三条,有下列行为之一的,由民航行政机关责令改正,情节严重的予以通报,对责任人员给予处分或者建议有关单位予以处罚:",
+    "line_start": 182,
+    "line_end": 207,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 民航行政机关、民航企业事业单位、其他组织的负责人、工作人员以及从事民用航空活动的个体工商户和个人有违反《统计法》行为的,依据《统计法》的规定给予处分。",
+    "line_start": 208,
+    "line_end": 209,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 民航企业的统计违法、违规信息同时记入企业信用信息记录。",
+    "line_start": 210,
+    "line_end": 211,
+    "source_anchor": "第三十七条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 监督检查和法律责任",
+    "line_start": 160,
+    "line_end": 211,
+    "source_anchor": "第六章"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 本规定自2017年1月7日起施行,2005年1月11日起施行的《中国民用航空统计管理办法》(民航总局令第134号)同时废止。",
+    "line_start": 214,
+    "line_end": 214,
+    "source_anchor": "第三十八条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 附则",
+    "line_start": 212,
+    "line_end": 214,
+    "source_anchor": "第七章"
+  }
+}

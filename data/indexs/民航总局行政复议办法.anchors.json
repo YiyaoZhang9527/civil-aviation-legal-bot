@@ -1,0 +1,250 @@
+{
+  "law:民航总局行政复议办法": {
+    "node_id": "law:民航总局行政复议办法",
+    "type": "law",
+    "title": "第162 号",
+    "line_start": 0,
+    "line_end": 517,
+    "source_anchor": "第162 号"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为防止和纠正违法和不当的具体行政行为,保护公",
+    "line_start": 17,
+    "line_end": 21,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 民航总局依据《行政复议法》及本办法的规定履行",
+    "line_start": 22,
+    "line_end": 27,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 民航总局履行行政复议职责,遵循合法、公正、公",
+    "line_start": 28,
+    "line_end": 31,
+    "source_anchor": "第三条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总则",
+    "line_start": 15,
+    "line_end": 31,
+    "source_anchor": "第一章"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 公民、法人或者其他组织(以下简称申请人)对下",
+    "line_start": 34,
+    "line_end": 53,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 申请人认为本办法第四条规定的具体行政行为所依",
+    "line_start": 54,
+    "line_end": 58,
+    "source_anchor": "第五条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 行政复议的范围",
+    "line_start": 32,
+    "line_end": 58,
+    "source_anchor": "第二章"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 行政复议可以书面申请,也可以口头申请。",
+    "line_start": 61,
+    "line_end": 85,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 与申请行政复议的具体行政行为有利害关系的其他",
+    "line_start": 86,
+    "line_end": 94,
+    "source_anchor": "第七条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 行政复议的申请",
+    "line_start": 59,
+    "line_end": 94,
+    "source_anchor": "第三章"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 申请人向民航总局申请复议的,民航总局复议承办",
+    "line_start": 97,
+    "line_end": 103,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 民航总局复议承办部门收到行政复议申请后,应当",
+    "line_start": 104,
+    "line_end": 111,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 行政复议申请有下列情形之一的,不予受理,并作",
+    "line_start": 112,
+    "line_end": 138,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 民航总局复议承办部门应当自行政复议申请受理",
+    "line_start": 139,
+    "line_end": 164,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 民航总局有关职能部门应当协助和配合民航总局",
+    "line_start": 165,
+    "line_end": 184,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 被申请复议行政行为的原总局承办部门或地区管",
+    "line_start": 185,
+    "line_end": 190,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 行政复议期间申请人要求停止执行具体行政行为",
+    "line_start": 191,
+    "line_end": 195,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 行政复议决定作出前,申请人要求撤回行政复议",
+    "line_start": 196,
+    "line_end": 200,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 具有《行政复议法》第二十六条、二十七条及其",
+    "line_start": 201,
+    "line_end": 208,
+    "source_anchor": "第十六条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 行政复议的受理",
+    "line_start": 95,
+    "line_end": 208,
+    "source_anchor": "第四章"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 行政复议原则上采取书面审查的方式,如案情复",
+    "line_start": 211,
+    "line_end": 215,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 在行政复议过程中,被申请人及其代理人均不得",
+    "line_start": 216,
+    "line_end": 220,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 民航总局复议承办部门应当对申请人提出的复议",
+    "line_start": 221,
+    "line_end": 227,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 民航总局应当自受理申请之日起六十日内作出行",
+    "line_start": 228,
+    "line_end": 236,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 民航总局作出行政复议决定,应当制作《民航",
+    "line_start": 237,
+    "line_end": 239,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 申请人在申请行政复议时一并提出行政赔偿请",
+    "line_start": 240,
+    "line_end": 246,
+    "source_anchor": "第二十二条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 行政复议的决定",
+    "line_start": 209,
+    "line_end": 246,
+    "source_anchor": "第五章"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 行政复议活动所需经费,列入民航总局行政经",
+    "line_start": 249,
+    "line_end": 251,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 本办法自2006 年3 月20 日起施行。",
+    "line_start": 252,
+    "line_end": 517,
+    "source_anchor": "第二十四条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 附则",
+    "line_start": 247,
+    "line_end": 517,
+    "source_anchor": "第六章"
+  }
+}

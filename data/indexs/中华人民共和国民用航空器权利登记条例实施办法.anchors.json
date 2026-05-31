@@ -1,0 +1,218 @@
+{
+  "law:中华人民共和国民用航空器权利登记条例实施办法": {
+    "node_id": "law:中华人民共和国民用航空器权利登记条例实施办法",
+    "type": "law",
+    "title": "中华人民共和国民用航空器权利登记条例实施办法",
+    "line_start": 0,
+    "line_end": 1158,
+    "source_anchor": "中华人民共和国民用航空器权利登记条例实施办法"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为便利民用航空器权利人办理民用航空器权利登记事项,根据《中",
+    "line_start": 4,
+    "line_end": 5,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 中国民用航空总局民用航空器权利登记职能部门(以下称登记部",
+    "line_start": 6,
+    "line_end": 7,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 登记部门设立和保管民用航空器权利登记簿,统一记载民用航空器",
+    "line_start": 8,
+    "line_end": 9,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 民用航空器权利人认为需要进行权利登记的,可申请办理民用航空",
+    "line_start": 10,
+    "line_end": 11,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 在申请办理权利登记时,申请人应当向登记部门提交有关申请书的",
+    "line_start": 12,
+    "line_end": 27,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 登记部门在接收申请人提供的有关文件时,应当向其出具收件清",
+    "line_start": 28,
+    "line_end": 29,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 在申请办理权利登记时,申请人应当提供下列证明其合法身份的文",
+    "line_start": 30,
+    "line_end": 35,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 委托他人办理权利登记或者签署有关文件的,应当向登记部门提交",
+    "line_start": 36,
+    "line_end": 40,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 民用航空器权利登记申请人在办理民用航空器权利登记时,应当根",
+    "line_start": 41,
+    "line_end": 47,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 《条例》第五条第(一)项所称民用航空器国籍登记证书,是指中",
+    "line_start": 48,
+    "line_end": 49,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 《条例》第六条第(一)项所称民用航空器国籍登记证书,包括",
+    "line_start": 50,
+    "line_end": 53,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 《条例》第七条第(一)项所称民用航空器国籍登记证书,包括",
+    "line_start": 54,
+    "line_end": 55,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 对中华人民共和国国籍或者外国国籍民用航空器具有优先权的,",
+    "line_start": 56,
+    "line_end": 57,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 登记部门对民用航空器权利人的权利登记申请审查合格后,应当",
+    "line_start": 58,
+    "line_end": 64,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 《条例》第十条第(六)项所称民用航空器价值,是指设定权利",
+    "line_start": 65,
+    "line_end": 67,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 民用航空器权利登记事项发生变更时,民用航空器权利人应当持",
+    "line_start": 68,
+    "line_end": 75,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 民用航空器权利人的权利变更登记申请经登记部门依法审查合",
+    "line_start": 76,
+    "line_end": 78,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 民用航空器权利人依照《条例》规定办理注销登记时,应当持有",
+    "line_start": 79,
+    "line_end": 86,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 民用航空器权利人的权利登记注销申请经登记部门依法审查合",
+    "line_start": 87,
+    "line_end": 94,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 有关权利登记的生效日期和时间为登记部门收到有关权利登记",
+    "line_start": 95,
+    "line_end": 98,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 民用航空器权利的利害关系人对民用航空器权利登记持有异",
+    "line_start": 99,
+    "line_end": 104,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 根据《条例》颁发的民用航空器权利登记证书,在被依法注销",
+    "line_start": 105,
+    "line_end": 106,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 民用航空器权利登记簿内所记载的事项,可以供公众查询、复",
+    "line_start": 107,
+    "line_end": 110,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 申请人办理民用航空器权利登记,公众查询、复制或者摘录民",
+    "line_start": 111,
+    "line_end": 112,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 本办法所附各申请表格复印有效,用纸规格为182毫米祝玻",
+    "line_start": 113,
+    "line_end": 114,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 本办法自1999年11月1日起施行。",
+    "line_start": 115,
+    "line_end": 1158,
+    "source_anchor": "第二十六条"
+  }
+}

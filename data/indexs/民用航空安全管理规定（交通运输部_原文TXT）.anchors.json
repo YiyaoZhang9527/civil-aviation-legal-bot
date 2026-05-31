@@ -1,0 +1,546 @@
+{
+  "law:民用航空安全管理规定(交通运输部_原文TXT)": {
+    "node_id": "law:民用航空安全管理规定(交通运输部_原文TXT)",
+    "type": "law",
+    "title": "民航局和民航地区管理局,以下统称民航行政机关。",
+    "line_start": 0,
+    "line_end": 308,
+    "source_anchor": "民航局和民航地区管理局,以下统称民航行政机关。"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了实施系统、有效的民用航空安全管理,保证民用航空安全、正常运行,依据《中华人民共和国民用航空法》《中华人民共和国安全生产法》等国家有关法律、行政法规,制定本规定。",
+    "line_start": 2,
+    "line_end": 3,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规定适用于中华人民共和国领域内民用航空生产经营活动的安全管理。",
+    "line_start": 4,
+    "line_end": 5,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 民用航空安全管理应当坚持安全第一、预防为主、综合治理的工作方针。",
+    "line_start": 6,
+    "line_end": 7,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 中国民用航空局(以下简称民航局)对全国民用航空安全实施统一监督管理。中国民用航空地区管理局(以下简称民航地区管理局)对辖区内的民用航空安全实施监督管理。",
+    "line_start": 8,
+    "line_end": 11,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 民航生产经营单位应当依法建立并运行有效的安全管理体系。相关规定中未明确要求建立安全管理体系的,应当建立等效的安全管理机制。",
+    "line_start": 16,
+    "line_end": 17,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 安全管理体系应当至少包括以下四个组成部分共计十二项要素:",
+    "line_start": 18,
+    "line_end": 51,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 安全管理体系、等效的安全管理机制至少应当具备以下功能:",
+    "line_start": 52,
+    "line_end": 59,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 民航生产经营单位的安全管理体系应当依法经民航行政机关审定。等效的安全管理机制应当报民航地区管理局或者其授权的机构备案。",
+    "line_start": 60,
+    "line_end": 61,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 民航生产经营单位应当建立安全管理体系、等效的安全管理机制的持续完善制度,以确保其持续满足相关要求,且工作绩效满足安全管理相关要求。",
+    "line_start": 62,
+    "line_end": 63,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 民航生产经营单位安全管理体系或者等效的安全管理机制的运行应当接受民航行政机关的持续监督,以确保其有效性。",
+    "line_start": 64,
+    "line_end": 65,
+    "source_anchor": "第十条"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 中国民航航空安全方案",
+    "line_start": 176,
+    "line_end": 215,
+    "source_anchor": "第一节"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 民航生产经营单位应当实施安全绩效管理,并接受民航行政机关的监督。",
+    "line_start": 68,
+    "line_end": 69,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 民航生产经营单位应当建立与本单位运行类型、规模和复杂程度相适应的安全绩效指标,以监测生产运行风险。",
+    "line_start": 70,
+    "line_end": 71,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 民航生产经营单位应当依据民航局制定的年度行业安全目标制定本单位安全绩效目标。安全绩效目标应当等于或者优于行业安全目标。",
+    "line_start": 72,
+    "line_end": 73,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 民航生产经营单位应当根据安全绩效目标制定行动计划,并报所在辖区民航地区管理局备案。",
+    "line_start": 74,
+    "line_end": 75,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 民航生产经营单位应当对实际安全绩效实施持续监测,按需要调整行动计划以确保实现安全绩效目标。",
+    "line_start": 76,
+    "line_end": 77,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 民航生产经营单位应当在每年7月15日前及次年1月15日前分别将半年和全年安全绩效统计分析报告报所在辖区民航地区管理局备案。",
+    "line_start": 78,
+    "line_end": 79,
+    "source_anchor": "第十六条"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 安全监管实施",
+    "line_start": 216,
+    "line_end": 241,
+    "source_anchor": "第二节"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 民航生产经营单位应当依法建立安全生产管理机构或者配备安全生产管理人员,满足安全管理的所有岗位要求。",
+    "line_start": 82,
+    "line_end": 83,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 民航生产经营单位应当保证本单位安全生产投入的有效实施,以具备国家有关法律、行政法规和规章规定的安全生产条件。安全生产投入至少应当包括以下方面:",
+    "line_start": 84,
+    "line_end": 99,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 民航生产经营单位应当建立安全检查制度和程序,定期开展安全检查。",
+    "line_start": 100,
+    "line_end": 101,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 民航生产经营单位应当建立安全隐患排查治理制度和程序,及时发现、消除安全隐患。",
+    "line_start": 102,
+    "line_end": 103,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 民航生产经营单位应当建立内部审核、内部评估制度和程序,定期对安全管理体系或者等效的安全管理机制的实施情况进行评审。",
+    "line_start": 104,
+    "line_end": 105,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 民航生产经营单位应当建立安全培训和考核制度,培训和考核的内容应当与岗位安全职责相适应。",
+    "line_start": 106,
+    "line_end": 107,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 民航生产经营单位应当建立应急处置机制,制定统一管理、综合协调的安全生产突发事件应急预案。",
+    "line_start": 108,
+    "line_end": 109,
+    "source_anchor": "第二十三条"
+  },
+  "section:3": {
+    "node_id": "section:3",
+    "type": "section",
+    "title": "第三节 安全管理制度",
+    "line_start": 80,
+    "line_end": 109,
+    "source_anchor": "第三节"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 民航生产经营单位的主要负责人、分管安全生产的负责人和安全管理人员应当按规定完成必需的安全管理培训,并定期参加复训。",
+    "line_start": 112,
+    "line_end": 113,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 民航生产经营单位应当针对生产运行相关岗位人员制定安全培训大纲和年度安全培训计划,其内容和质量应当满足相应的要求。",
+    "line_start": 114,
+    "line_end": 115,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 民航生产经营单位应当组织开展安全培训,建立培训档案,定期组织复训和考核。未经安全教育和培训,或者经教育和培训后考核不合格的人员,不得上岗作业。",
+    "line_start": 116,
+    "line_end": 117,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 民航生产经营单位应当对安全培训质量实行监督,确保培训目的、内容和质量满足相关要求。",
+    "line_start": 118,
+    "line_end": 119,
+    "source_anchor": "第二十七条"
+  },
+  "section:4": {
+    "node_id": "section:4",
+    "type": "section",
+    "title": "第四节 人员培训",
+    "line_start": 110,
+    "line_end": 119,
+    "source_anchor": "第四节"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 发生事故或者事故征候的民航生产经营单位应当依法及时报告。",
+    "line_start": 122,
+    "line_end": 123,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 与事故或者事故征候有关的民航生产经营单位,应当依法封存、妥善保管并提供有关资料,保护事发现场,积极配合事故和事故征候调查。",
+    "line_start": 124,
+    "line_end": 125,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 发 生事故或者事故征候的民航生产经营单位,应当依据调查结果,查找系统缺陷,制定纠正措施,预防事故或者事故征候再次发生。",
+    "line_start": 126,
+    "line_end": 127,
+    "source_anchor": "第三十条"
+  },
+  "section:5": {
+    "node_id": "section:5",
+    "type": "section",
+    "title": "第五节 事故和事故征候处理",
+    "line_start": 120,
+    "line_end": 127,
+    "source_anchor": "第五节"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 安全管理要求",
+    "line_start": 12,
+    "line_end": 127,
+    "source_anchor": "第二章"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 民航局建立安全数据收集和处理系统,并实现安全数据整合或者互访功能。",
+    "line_start": 132,
+    "line_end": 133,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 民航局建立基于安全信息分析的安全项目工作机制,包括但不限于以下内容:",
+    "line_start": 134,
+    "line_end": 141,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 安全数据和安全信息应当用于调查事故或者事故征候原因,提出安全建议,预防事故或者事故征候发生。",
+    "line_start": 142,
+    "line_end": 143,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 安全数据和安全信息保护的条件和范围另行规定。",
+    "line_start": 144,
+    "line_end": 145,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 民航局建立安全信息交流、发布的机制和程序。",
+    "line_start": 146,
+    "line_end": 147,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 安全信息的发布应当遵循以下原则:",
+    "line_start": 148,
+    "line_end": 155,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 民航生产经营单位应当根据本单位运行类型、规模和复杂程度,以及相应的安全管理需求,建立适宜的安全数据收集和处理系统。",
+    "line_start": 158,
+    "line_end": 159,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 民航生产经营单位应当充分利用收集的安全数据,开展安全现状分析和趋势预测,不得将安全数据用于除改进航空安全以外的其他任何目的。",
+    "line_start": 160,
+    "line_end": 161,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 安全数据的来源包括但不限于以下渠道:",
+    "line_start": 162,
+    "line_end": 173,
+    "source_anchor": "第三十九条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 安全数据和安全信息的利用",
+    "line_start": 128,
+    "line_end": 173,
+    "source_anchor": "第三章"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 民航局编制和实施中国民航航空安全方案,以使民用航空安全绩效达到可接受的水平。",
+    "line_start": 178,
+    "line_end": 179,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 中国民航航空安全方案包括四个组成部分共计十一项要素:",
+    "line_start": 180,
+    "line_end": 211,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 民航局制定行业可接受的安全绩效水平,包括安全绩效指标及其目标值、预警值,用于衡量并监测行业安全水平。",
+    "line_start": 212,
+    "line_end": 213,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 中国民航航空安全方案应当与民用航空活动规模和复杂性相一致。民航局负责对其适用性、有效性进行定期评估。",
+    "line_start": 214,
+    "line_end": 215,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 民航局建立安全监管制度,保证安全监管全面、有效开展。安全监管制度包括:",
+    "line_start": 218,
+    "line_end": 235,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 民航局制定年度可接受的安全绩效水平,确定重点安全工作任务。民航局各职能部门制定下发行政检查大纲或者行政检查要求。民航地区管理局开展辖区民用航空运行安全监管工作。",
+    "line_start": 236,
+    "line_end": 237,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 民航局对民航生产经营单位安全管理体系或者等效的安全管理机制进行持续监督,以确保其运行的有效性。",
+    "line_start": 238,
+    "line_end": 239,
+    "source_anchor": "第四十六条"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 民航行政机关依法综合运用多种监管手段强化民航生产经营单位的安全生产主体责任,加强安全隐患监督管理,预防事故发生。",
+    "line_start": 240,
+    "line_end": 241,
+    "source_anchor": "第四十七条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 安全监督管理",
+    "line_start": 174,
+    "line_end": 241,
+    "source_anchor": "第四章"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 民航生产经营单位有下列行为之一的,由民航行政机关责令其限期改正;逾期未改正的,给予警告,并处一万元以上三万元以下的罚款:",
+    "line_start": 244,
+    "line_end": 265,
+    "source_anchor": "第四十八条"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 民航生产经营单位有下列行为之一的,依照《中华人民共和国安全生产法》第九十四条,由民航行政机关责令其限期改正,可以处五万元以下的罚款;逾期未改正的,责令停产停业整顿,并处五万元以上十万元以下的罚款,对其直接负责的主管人员和其他直接责任人员处一万元以上二万元以下的罚款:",
+    "line_start": 266,
+    "line_end": 271,
+    "source_anchor": "第四十九条"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 民航生产经营单位安全生产所必需的资金投入不足,致使其不具备安全生产条件的,依照《中华人民共和国安全生产法》第九十条进行处罚。",
+    "line_start": 272,
+    "line_end": 273,
+    "source_anchor": "第五十条"
+  },
+  "article:51": {
+    "node_id": "article:51",
+    "type": "article",
+    "title": "第五十一条 民航生产经营单位违反本规定第二十条,未建立安全隐患排查治理制度或者未采取措施消除安全隐患的,由民航行政机关给予警告或者处一万元以上三万元以下的罚款。",
+    "line_start": 274,
+    "line_end": 275,
+    "source_anchor": "第五十一条"
+  },
+  "article:52": {
+    "node_id": "article:52",
+    "type": "article",
+    "title": "第五十二条 民航生产经营单位违反本规定第二十九条,未依法妥善保护资料的,由民航行政机关给予警告或者处一万元以上三万元以下的罚款。",
+    "line_start": 276,
+    "line_end": 277,
+    "source_anchor": "第五十二条"
+  },
+  "article:53": {
+    "node_id": "article:53",
+    "type": "article",
+    "title": "第五十三条 民航行政机关工作人员有滥用职权、玩忽职守行为的,由有关部门依法予以处分。",
+    "line_start": 278,
+    "line_end": 279,
+    "source_anchor": "第五十三条"
+  },
+  "article:54": {
+    "node_id": "article:54",
+    "type": "article",
+    "title": "第五十四条 违反本规定,构成犯罪的,依法追究刑事责任。",
+    "line_start": 280,
+    "line_end": 281,
+    "source_anchor": "第五十四条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 法律责任",
+    "line_start": 242,
+    "line_end": 281,
+    "source_anchor": "第五章"
+  },
+  "article:55": {
+    "node_id": "article:55",
+    "type": "article",
+    "title": "第五十五条 对民航生产经营单位的行政处罚等处理措施及其执行情况记入守法信用信息记录,并按照有关规定进行公示。",
+    "line_start": 284,
+    "line_end": 285,
+    "source_anchor": "第五十五条"
+  },
+  "article:56": {
+    "node_id": "article:56",
+    "type": "article",
+    "title": "第五十六条 本规定涉及相关定义如下:",
+    "line_start": 286,
+    "line_end": 307,
+    "source_anchor": "第五十六条"
+  },
+  "article:57": {
+    "node_id": "article:57",
+    "type": "article",
+    "title": "第五十七条 本规定自2018年3月16日起施行。",
+    "line_start": 308,
+    "line_end": 308,
+    "source_anchor": "第五十七条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 附则",
+    "line_start": 282,
+    "line_end": 308,
+    "source_anchor": "第六章"
+  }
+}

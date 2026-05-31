@@ -1,0 +1,650 @@
+{
+  "law:民用运输机场突发事件应急救援管理规则": {
+    "node_id": "law:民用运输机场突发事件应急救援管理规则",
+    "type": "law",
+    "title": "本规则所称机场及其邻近区域是指机场围界以内以及距机场每条跑道中心点8公里范围内的区域。",
+    "line_start": 0,
+    "line_end": 224,
+    "source_anchor": "本规则所称机场及其邻近区域是指机场围界以内以及距机场每条跑道中心点8公里范围内的区域。"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了规范民用运输机场应急救援工作,有效应对民用运输机场突发事件,避免或者减少人员伤亡和财产损失,尽快恢复机场正常运行秩序,根据《中华人民共和国民用航空法》《中华人民共和国突发事件应对法》和《民用机场管理条例》,制定本规则。",
+    "line_start": 1,
+    "line_end": 1,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规则适用于民用运输机场(包括军民合用机场民用部分,以下简称机场)及其邻近区域内突发事件的应急救援处置和相关的应急救援管理工作。",
+    "line_start": 2,
+    "line_end": 2,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 本规则所指民用运输机场突发事件(以下简称突发事件)是指在机场及其邻近区域内,航空器或者机场设施发生或者可能发生的严重损坏以及其它导致或者可能导致人员伤亡和财产严重损失的情况。",
+    "line_start": 3,
+    "line_end": 4,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 中国民用航空局(以下简称民航局)负责机场应急救援管理工作的总体监督检查。",
+    "line_start": 5,
+    "line_end": 9,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 机场应急救援工作应当遵循最大限度地抢救人员生命和减少财产损失,预案完善、准备充分、救援及时、处置有效的原则。",
+    "line_start": 10,
+    "line_end": 10,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 在地方人民政府领导下、民用航空管理部门指导下,机场管理机构负责机场应急救援预案的制定、汇总和报备工作,同时负责发生突发事件时机场应急救援工作的统一指挥。",
+    "line_start": 11,
+    "line_end": 12,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 机场突发事件包括航空器突发事件和非航空器突发事件。",
+    "line_start": 14,
+    "line_end": 29,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 航空器突发事件的应急救援响应等级分为:",
+    "line_start": 30,
+    "line_end": 33,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 非航空器突发事件的应急救援响应不分等级。发生非航空器突发事件时,按照相应预案实施救援。",
+    "line_start": 34,
+    "line_end": 34,
+    "source_anchor": "第九条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 突发事件分类和应急救援响应等级",
+    "line_start": 13,
+    "line_end": 34,
+    "source_anchor": "第二章"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 机场管理机构应当在地方人民政府统一领导下成立机场应急救援工作领导小组。",
+    "line_start": 36,
+    "line_end": 38,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 机场应急救援总指挥由机场管理机构主要负责人或者其授权人担任,全面负责机场应急救援的指挥工作。",
+    "line_start": 39,
+    "line_end": 39,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 机场管理机构应当设立机场应急救援指挥管理机构,即机场应急救援指挥中心(以下简称指挥中心),作为机场应急救援领导小组的常设办事机构,同时也是机场应急救援工作的管理机构和发生突发事件时的应急指挥机构。其具体职责包括:",
+    "line_start": 40,
+    "line_end": 46,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 机场空中交通管理部门在机场应急救援工作中的主要职责:",
+    "line_start": 47,
+    "line_end": 51,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 机场消防部门在机场应急救援工作中的主要职责:",
+    "line_start": 52,
+    "line_end": 56,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 机场医疗救护部门在机场应急救援工作中的主要职责:",
+    "line_start": 57,
+    "line_end": 61,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 航空器营运人或其代理人在应急救援工作中的主要职责:",
+    "line_start": 62,
+    "line_end": 68,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 机场地面保障部门在机场应急救援工作中的主要职责:",
+    "line_start": 69,
+    "line_end": 71,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 除本规则第十二条、第十三条、第十四条、第十五条、第十六条、第十七条所涉及的单位,其他参与应急救援工作的地方救援单位的职责,由根据本规则第二十三条订立的支援协议予以明确。",
+    "line_start": 72,
+    "line_end": 72,
+    "source_anchor": "第十八条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 应急救援组织机构及其职责",
+    "line_start": 35,
+    "line_end": 72,
+    "source_anchor": "第三章"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 机场管理机构应当依据本规则制定机场突发事件应急救援预案,该预案应当纳入地方人民政府突发事件应急救援预案体系,并协调统一。该预案应当包括下列内容:",
+    "line_start": 74,
+    "line_end": 85,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 机场突发事件应急救援预案应当明确机场公安机关在机场应急救援工作中的以下职责:",
+    "line_start": 86,
+    "line_end": 93,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 制定机场突发事件应急救援预案应当考虑极端的冷、热、雪、雨、风及低能见度等天气,以及机场周围的水系、道路、凹地,避免因极端的天气和特殊的地形而影响救援工作的正常进行。",
+    "line_start": 94,
+    "line_end": 94,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 机场突发事件应急救援预案应当向民航地区管理局备案。",
+    "line_start": 95,
+    "line_end": 98,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 机场管理机构应当与地方人民政府突发事件应对机构、消防部门、医疗救护机构、公安机关、运输企业、当地驻军等单位签订机场应急救援支援协议,就机场应急救援事项明确双方的职责。",
+    "line_start": 99,
+    "line_end": 110,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 机场管理机构应当绘制机场应急救援综合方格网图,图示范围应当为本规则第三条所明确的机场及其邻近地区。该图除应当准确标明机场跑道、滑行道、机坪、航站楼、围场路、油库等设施外,应当重点标明消防管网及消防栓位置、消防水池及其它能够用来取得消防用水的池塘河流位置、能够供救援消防车辆行驶的道路、机场围界出入口位置、城市消防站点位置和医疗救护单位位置。",
+    "line_start": 111,
+    "line_end": 114,
+    "source_anchor": "第二十四条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 突发事件应急救援预案",
+    "line_start": 73,
+    "line_end": 114,
+    "source_anchor": "第四章"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 机场管理机构应当建设或指定一个特定的隔离机位,供受到劫持或爆炸物威胁的航空器停放,其位置应能使其距其它航空器集中停放区、建筑物或者公共场所至少100米,并尽可能避开地下管网等重要设施。",
+    "line_start": 116,
+    "line_end": 116,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 机场管理机构应当按照《民用航空运输机场飞行区消防设施》的要求配备机场飞行区消防设施,并应保证其在机场运行期间始终处于适用状态。",
+    "line_start": 117,
+    "line_end": 118,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 机场管理机构应当按照《民用运输机场应急救护设施配备》的要求配备机场医疗急救设备、医疗器材及药品、医疗救护人员,并确保机场医疗急救设备、医疗器材及药品在机场运行期间始终处于适用状态和使用有效期内。",
+    "line_start": 119,
+    "line_end": 119,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 机场指挥中心及机场内各参加应急救援的单位应当安装带有时钟和录音功能的值班电话,视情设置报警装置,并在机场运行期间随时保持有人值守。值班电话线路应当至少保持一主一备的双线冗余。所有应急通话内容应当录音,应急通话记录至少应当保存2年。",
+    "line_start": 120,
+    "line_end": 120,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 机场管理机构应当设立用于应急救援的无线电专用频道,突发事件发生时,机场塔台和参与救援的单位应当使用专用频道与指挥中心保持不间断联系。公安、消防、医疗救护等重要部门应当尽可能为其救援人员配备耳麦。",
+    "line_start": 121,
+    "line_end": 122,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 机场管理机构应当制作参加应急救援人员的识别标志,识别标志应当明显醒目且易于佩戴,并能体现救援的单位和指挥人员。参加应急救援的人员均应佩戴这些标志。识别标志在夜间应具有反光功能,具体样式应当为:",
+    "line_start": 123,
+    "line_end": 129,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 在邻近地区有海面和其它大面积水域的机场,机场管理机构应当按照机场所使用的最大机型满载时的旅客及机组人员数量,配置救援船只或者气筏和其他水上救生设备,也可以采取与有上述救援设备的单位以协议支援的方式来保障,但机场应当配备满足在救援初期供机场救援人员使用需要的船只或者气筏和其他水上救生的基本设备。",
+    "line_start": 130,
+    "line_end": 131,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 机场管理机构应当根据机场航空器年起降架次,配置与机场所使用航空器最大机型相匹配的残损航空器搬移设备,并在机场运行期间保证其完好适用。",
+    "line_start": 132,
+    "line_end": 134,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 机场管理机构应当配备用于机场应急救援现场指挥的车辆,该车应当配有无线通讯、传真、摄像、视频传输、电脑、照明等设备,并配有应急救援的相关资料库及主要材料的纸质文件。",
+    "line_start": 135,
+    "line_end": 135,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 在机场运行期间,各参加应急救援的单位在保障正常运行的同时,应按照相关标准要求保持有足够的应对突发事件的救援人员。",
+    "line_start": 136,
+    "line_end": 137,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 参加应急救援的各单位应当每年至少对按照机场应急救援预案承担救援工作职责的相关岗位的工作人员进行一次培训,对于专职应急救援管理人员、指挥人员、消防战斗员、医疗救护人员应当进行经常性的培训,培训内容包括应急救援基础理论、法规规章、技术标准、岗位职责、突发事件应急救援预案、医疗急救常识、消防知识、旅客疏散引导及其它相关技能。",
+    "line_start": 138,
+    "line_end": 139,
+    "source_anchor": "第三十五条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 应急救援的设施设备及人员",
+    "line_start": 115,
+    "line_end": 139,
+    "source_anchor": "第五章"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 发生突发事件时,第一时间得知事件情况的单位,应当根据机场突发事件应急救援预案的报告程序,立即将突发事件情况报告指挥中心。",
+    "line_start": 141,
+    "line_end": 143,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 机场突发事件应急救援总指挥或者其授权的人应当及时准确地发布相关信息。突发事件的信息发布应当有利于救援工作的开展。其他参与应急救援的单位可以发布有关本单位工作情况的信息,但不得发布对应急救援工作可能产生妨碍的信息。",
+    "line_start": 144,
+    "line_end": 144,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 发生突发事件时,指挥中心应当按照突发事件应急救援预案的通知程序,迅速将突发事件的基本情况通知有关单位,通知内容应当简单、明了。",
+    "line_start": 145,
+    "line_end": 145,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 发生突发事件后,机场应急救援处置工作应当在总指挥的统一指挥下,由消防、公安、医疗和其他驻场单位分别在本单位职责范围内行使分指挥权,特殊情况下,总指挥可以授权支援单位行使分指挥权。",
+    "line_start": 146,
+    "line_end": 149,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 突发事件发生后及在实施应急救援时,如需机场外的支援单位参加救援工作,应当由机场内相应的救援单位提出需求和方案,经总指挥批准后通知支援单位前来支援,紧急情况下,也可先通知支援单位到达集结地点,再向总指挥报告,经总指挥同意后参加救援工作。",
+    "line_start": 150,
+    "line_end": 150,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 涉及在空中的航空器突发事件需要紧急着陆时,空中交通管理部门按照相应突发事件应急救援预案协助该航空器着陆。",
+    "line_start": 151,
+    "line_end": 151,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 当发生本规则第八条所指明的应急救援响应等级为集结待命的突发事件时,各救援单位的人员及车辆设备应迅速按照应急救援预案的要求到达指定的集结地点集中待命,并立即向指挥中心报告,未经批准,不得离开集结位置,随时准备投入救援行动。",
+    "line_start": 152,
+    "line_end": 152,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 突发事件发生时,机场内行驶的车辆和行人应当避让参加救援的车辆,应急救援车辆在保证安全的条件下,可不受机场内车辆时速的限制。在服从现场交通民警的指挥下,救援车辆可以驶离规定的车道。",
+    "line_start": 153,
+    "line_end": 155,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 应急救援时,当需要在跑道上喷洒泡沫灭火剂时,不得因此降低机场应保持的消防救援等级的最低水平。",
+    "line_start": 156,
+    "line_end": 156,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 应急救援时,应当在交通方便的事发地点上风安全位置及时划定伤亡人员救治区和停放区,并用明显的标志予以标识。上述区域在夜间应当有充足的照明。",
+    "line_start": 157,
+    "line_end": 157,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 当航空器受到劫持或爆炸物威胁时,机场塔台管制人员应当积极配合指挥中心采取有效措施,将该航空器引导到隔离机位。",
+    "line_start": 158,
+    "line_end": 158,
+    "source_anchor": "第四十六条"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 在实施应急救援工作时,参与救援的人员应当尽可能保护突发事件现场。",
+    "line_start": 159,
+    "line_end": 161,
+    "source_anchor": "第四十七条"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 实施应急救援工作时,为保证救援工作的正常进行,机场公安机关应当在事故现场及时设立警戒线,任何非救援人员进入事故现场需经总指挥或者其授权人批准。",
+    "line_start": 162,
+    "line_end": 162,
+    "source_anchor": "第四十八条"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 应急救援现场的灭火和人员救护工作结束后,残损航空器影响机场的正常安全运行的,机场管理机构应当配合当事航空器营运人或者其代理人,迅速将残损航空器搬离。",
+    "line_start": 163,
+    "line_end": 165,
+    "source_anchor": "第四十九条"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 应急救援工作结束后,机场应急救援工作领导小组或者其授权单位或者部门应当及时召集所有参与应急救援的单位对该次应急救援工作进行全面总结讲评,对暴露出的突发事件应急救援预案中不合理的部分及缺陷进行研究分析和修改完善,在该次应急救援工作结束60天内,将修改后的突发事件应急救援预案按照《民用机场使用许可规定》的要求报批后,印发实施。",
+    "line_start": 166,
+    "line_end": 167,
+    "source_anchor": "第五十条"
+  },
+  "article:51": {
+    "node_id": "article:51",
+    "type": "article",
+    "title": "第五十一条 在事故调查机构进行事故调查时,机场管理机构及参与应急救援的各单位应当配合事故调查机构的调查,如实向事故调查组介绍事故现场的情况。",
+    "line_start": 168,
+    "line_end": 168,
+    "source_anchor": "第五十一条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 应急救援的处置和基本要求",
+    "line_start": 140,
+    "line_end": 168,
+    "source_anchor": "第六章"
+  },
+  "article:52": {
+    "node_id": "article:52",
+    "type": "article",
+    "title": "第五十二条 机场管理机构及其他驻场单位应当根据应急救援预案的要求定期组织应急救援演练,以检验其突发事件发生时的驰救时间、信息传递、通信系统、应急救援处置、协调配合和决策指挥、突发事件应急救援预案等,机场管理机构及参加应急救援的驻场单位均应当将应急救援演练列入年度工作计划。",
+    "line_start": 170,
+    "line_end": 171,
+    "source_anchor": "第五十二条"
+  },
+  "article:53": {
+    "node_id": "article:53",
+    "type": "article",
+    "title": "第五十三条 应急救援演练分为综合演练、单项演练和桌面演练三种类型。",
+    "line_start": 172,
+    "line_end": 175,
+    "source_anchor": "第五十三条"
+  },
+  "article:54": {
+    "node_id": "article:54",
+    "type": "article",
+    "title": "第五十四条 机场应急救援综合演练应当至少每三年举行一次,未举行综合演练的年度应当至少举行一次桌面演练,机场各参加应急救援的单位每年至少应当举行一次单项演练。",
+    "line_start": 176,
+    "line_end": 176,
+    "source_anchor": "第五十四条"
+  },
+  "article:55": {
+    "node_id": "article:55",
+    "type": "article",
+    "title": "第五十五条 举行综合演练时,可以邀请当地人民政府及有关部门、民航地区管理局、航空器营运人及其他有关驻场单位人员以观察员身份参加,并参加演练后的总结讲评会。",
+    "line_start": 177,
+    "line_end": 177,
+    "source_anchor": "第五十五条"
+  },
+  "article:56": {
+    "node_id": "article:56",
+    "type": "article",
+    "title": "第五十六条 在举行机场应急救援演练前,机场管理机构或者组织单项演练的相关单位应当组织编制应急救援演练计划,应急救援演练计划应当按照突发事件发生、发展的进程进行编制,应急救援演练计划可以是一种或几种突发事件的综合。演练计划主要包括:",
+    "line_start": 178,
+    "line_end": 185,
+    "source_anchor": "第五十六条"
+  },
+  "article:57": {
+    "node_id": "article:57",
+    "type": "article",
+    "title": "第五十七条 机场管理机构在举行应急救援演练时,原则上应当采取措施保持机场应急救援的正常保障能力,尽可能地避免影响机场的正常运行。如果由于应急救援演练致使本机场的正常保障能力在演练期间不能满足相应标准要求的,应当就这一情况通知空中交通管理部门发布航行通告,并在演练后,尽快恢复应急救援的正常保障能力。",
+    "line_start": 186,
+    "line_end": 187,
+    "source_anchor": "第五十七条"
+  },
+  "article:58": {
+    "node_id": "article:58",
+    "type": "article",
+    "title": "第五十八条 演练工作应当坚持指挥与督导分开的原则。演练时,应当在演练指挥机构之外另设演练督导组。",
+    "line_start": 188,
+    "line_end": 188,
+    "source_anchor": "第五十八条"
+  },
+  "article:59": {
+    "node_id": "article:59",
+    "type": "article",
+    "title": "第五十九条 演练督导组应当由民航地区管理局在收到演练计划后召集。综合演练督导组应当由民用航空管理部门、地方人民政府及其有关部门、机场管理机构、相关航空器营运人、空中交通管理单位人员及特邀专家组成。",
+    "line_start": 189,
+    "line_end": 192,
+    "source_anchor": "第五十九条"
+  },
+  "article:60": {
+    "node_id": "article:60",
+    "type": "article",
+    "title": "第六十条 演练督导组应当对机场应急救援演练工作进行监督检查,演练督导组应当根据演练形式和规模派出足够的督导人员,进入演练现场,对演练涉及的各个方面实施全程监督检查。",
+    "line_start": 193,
+    "line_end": 193,
+    "source_anchor": "第六十条"
+  },
+  "article:61": {
+    "node_id": "article:61",
+    "type": "article",
+    "title": "第六十一条 应急救援演练结束后,演练组织者应召集各参演单位负责人进行总结讲评。总结讲评活动中,演练督导组应当就演练的总体评价、演练的组织、演练计划、演练人员和设备等方面提出综合评价意见。",
+    "line_start": 194,
+    "line_end": 194,
+    "source_anchor": "第六十一条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 应急救援的日常管理和演练",
+    "line_start": 169,
+    "line_end": 194,
+    "source_anchor": "第七章"
+  },
+  "article:62": {
+    "node_id": "article:62",
+    "type": "article",
+    "title": "第六十二条 机场管理机构未按照本规则的要求,有下列行为之一的,由民航管理部门责令限期改正,并处以警告;情节严重的,处以1万元以上3万元以下的罚款:",
+    "line_start": 196,
+    "line_end": 199,
+    "source_anchor": "第六十二条"
+  },
+  "article:63": {
+    "node_id": "article:63",
+    "type": "article",
+    "title": "第六十三条 机场管理机构或其他参加应急救援的单位,有下列行为之一的,由民航管理部门责令其限期改正,并处以5千元以上1万元以下罚款:",
+    "line_start": 200,
+    "line_end": 203,
+    "source_anchor": "第六十三条"
+  },
+  "article:64": {
+    "node_id": "article:64",
+    "type": "article",
+    "title": "第六十四条 机场管理机构有以下行为之一的,由民航地区管理局责令限期改正,处以1万元以上5万元以下的罚款:",
+    "line_start": 204,
+    "line_end": 206,
+    "source_anchor": "第六十四条"
+  },
+  "article:65": {
+    "node_id": "article:65",
+    "type": "article",
+    "title": "第六十五条 机场管理机构或其他参加应急救援的单位,有下列行为之一的,由民航管理部门责令其限期改正,并处以5千元以上2万元以下罚款:",
+    "line_start": 207,
+    "line_end": 210,
+    "source_anchor": "第六十五条"
+  },
+  "article:66": {
+    "node_id": "article:66",
+    "type": "article",
+    "title": "第六十六条 机场管理机构或者其他参加应急救援的单位有下列行为之一的,由民航管理部门处以1万元以上3万元以下罚款:",
+    "line_start": 211,
+    "line_end": 217,
+    "source_anchor": "第六十六条"
+  },
+  "chapter:8": {
+    "node_id": "chapter:8",
+    "type": "chapter",
+    "title": "第八章 法律责任",
+    "line_start": 195,
+    "line_end": 217,
+    "source_anchor": "第八章"
+  },
+  "article:67": {
+    "node_id": "article:67",
+    "type": "article",
+    "title": "第六十七条 中华人民共和国缔结或者参加的国际条约与本规则有不同规定的,适用国际条约的规定,但中华人民共和国声明保留的条款除外。",
+    "line_start": 219,
+    "line_end": 219,
+    "source_anchor": "第六十七条"
+  },
+  "article:68": {
+    "node_id": "article:68",
+    "type": "article",
+    "title": "第六十八条 在民航局制定通用机场突发事件应急救援管理规则之前,通用机场可以结合本机场的具体情况参照本规则制定突发事件应急救援预案,报所在地民航地区管理局备案。",
+    "line_start": 220,
+    "line_end": 220,
+    "source_anchor": "第六十八条"
+  },
+  "article:69": {
+    "node_id": "article:69",
+    "type": "article",
+    "title": "第六十九条 在本规则规定区域外发生的突发事件,按照《中华人民共和国搜寻援救民用航空器规定》执行。",
+    "line_start": 221,
+    "line_end": 221,
+    "source_anchor": "第六十九条"
+  },
+  "article:70": {
+    "node_id": "article:70",
+    "type": "article",
+    "title": "第七十条 航空器受到非法干扰和机场设施受爆炸物威胁所涉及的突发事件应急救援预案按照国家其他相关规定办理。",
+    "line_start": 222,
+    "line_end": 222,
+    "source_anchor": "第七十条"
+  },
+  "article:71": {
+    "node_id": "article:71",
+    "type": "article",
+    "title": "第七十一条 应急救援工作实行有偿服务,应当采用先救援后结算的办法。具体收费标准和收费计算方法由有关各方本着公平合理、等价有偿的原则协商确定。",
+    "line_start": 223,
+    "line_end": 223,
+    "source_anchor": "第七十一条"
+  },
+  "article:72": {
+    "node_id": "article:72",
+    "type": "article",
+    "title": "第七十二条 本规则自2016年5月21日起施行。2000年4月3日发布的《民用运输机场应急救援规则》(民航总局令第90号)同时废止。",
+    "line_start": 224,
+    "line_end": 224,
+    "source_anchor": "第七十二条"
+  },
+  "chapter:9": {
+    "node_id": "chapter:9",
+    "type": "chapter",
+    "title": "第九章 附 则",
+    "line_start": 218,
+    "line_end": 224,
+    "source_anchor": "第九章"
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "law:民用航空器飞行机械员合格审定规则": {
+    "node_id": "law:民用航空器飞行机械员合格审定规则",
+    "type": "law",
+    "title": "第63.1条目的和依据",
+    "line_start": 0,
+    "line_end": 382,
+    "source_anchor": "第63.1条目的和依据"
+  },
+  "article:63.1": {
+    "node_id": "article:63.1",
+    "type": "article",
+    "title": "第63.1条 目的和依据",
+    "line_start": 2,
+    "line_end": 5,
+    "source_anchor": "第63.1条"
+  },
+  "article:63.3": {
+    "node_id": "article:63.3",
+    "type": "article",
+    "title": "第63.3条 适用范围",
+    "line_start": 6,
+    "line_end": 11,
+    "source_anchor": "第63.3条"
+  },
+  "article:63.5": {
+    "node_id": "article:63.5",
+    "type": "article",
+    "title": "第63.5条 机构与职责",
+    "line_start": 12,
+    "line_end": 17,
+    "source_anchor": "第63.5条"
+  },
+  "article:63.7": {
+    "node_id": "article:63.7",
+    "type": "article",
+    "title": "第63.7条 定义",
+    "line_start": 18,
+    "line_end": 25,
+    "source_anchor": "第63.7条"
+  },
+  "article:63.9": {
+    "node_id": "article:63.9",
+    "type": "article",
+    "title": "第63.9条 执照和体检合格证的要求",
+    "line_start": 26,
+    "line_end": 47,
+    "source_anchor": "第63.9条"
+  },
+  "article:63.10": {
+    "node_id": "article:63.10",
+    "type": "article",
+    "title": "第63.10条 飞行机械员的权利和义务",
+    "line_start": 48,
+    "line_end": 61,
+    "source_anchor": "第63.10条"
+  },
+  "article:63.11": {
+    "node_id": "article:63.11",
+    "type": "article",
+    "title": "第63.11条 飞行模拟机的鉴定和批准",
+    "line_start": 62,
+    "line_end": 65,
+    "source_anchor": "第63.11条"
+  },
+  "article:63.13": {
+    "node_id": "article:63.13",
+    "type": "article",
+    "title": "第63.13条 涉及酒精或者药物的违禁行为",
+    "line_start": 66,
+    "line_end": 69,
+    "source_anchor": "第63.13条"
+  },
+  "article:63.15": {
+    "node_id": "article:63.15",
+    "type": "article",
+    "title": "第63.15条 接受酒精、药物检验或者提供检验结果",
+    "line_start": 70,
+    "line_end": 73,
+    "source_anchor": "第63.15条"
+  },
+  "article:63.17": {
+    "node_id": "article:63.17",
+    "type": "article",
+    "title": "第63.17条 执照的有效期",
+    "line_start": 74,
+    "line_end": 79,
+    "source_anchor": "第63.17条"
+  },
+  "article:63.19": {
+    "node_id": "article:63.19",
+    "type": "article",
+    "title": "第63.19条 执照的更新和重新办理",
+    "line_start": 80,
+    "line_end": 87,
+    "source_anchor": "第63.19条"
+  },
+  "article:63.21": {
+    "node_id": "article:63.21",
+    "type": "article",
+    "title": "第63.21条 考试的一般要求",
+    "line_start": 88,
+    "line_end": 91,
+    "source_anchor": "第63.21条"
+  },
+  "article:63.23": {
+    "node_id": "article:63.23",
+    "type": "article",
+    "title": "第63.23条 禁止提供虚假材料",
+    "line_start": 92,
+    "line_end": 103,
+    "source_anchor": "第63.23条"
+  },
+  "article:63.25": {
+    "node_id": "article:63.25",
+    "type": "article",
+    "title": "第63.25条 变更姓名和补发执照",
+    "line_start": 104,
+    "line_end": 109,
+    "source_anchor": "第63.25条"
+  },
+  "article:63.31": {
+    "node_id": "article:63.31",
+    "type": "article",
+    "title": "第63.31条 资格要求",
+    "line_start": 112,
+    "line_end": 137,
+    "source_anchor": "第63.31条"
+  },
+  "article:63.33": {
+    "node_id": "article:63.33",
+    "type": "article",
+    "title": "第63.33条 航空器等级",
+    "line_start": 138,
+    "line_end": 141,
+    "source_anchor": "第63.33条"
+  },
+  "article:63.35": {
+    "node_id": "article:63.35",
+    "type": "article",
+    "title": "第63.35条 航空知识要求",
+    "line_start": 142,
+    "line_end": 197,
+    "source_anchor": "第63.35条"
+  },
+  "article:63.37": {
+    "node_id": "article:63.37",
+    "type": "article",
+    "title": "第63.37条 航空经历要求",
+    "line_start": 198,
+    "line_end": 215,
+    "source_anchor": "第63.37条"
+  },
+  "article:63.39": {
+    "node_id": "article:63.39",
+    "type": "article",
+    "title": "第63.39条 飞行技能要求",
+    "line_start": 216,
+    "line_end": 259,
+    "source_anchor": "第63.39条"
+  },
+  "article:63.41": {
+    "node_id": "article:63.41",
+    "type": "article",
+    "title": "第63.41条 实践考试一般规定",
+    "line_start": 260,
+    "line_end": 283,
+    "source_anchor": "第63.41条"
+  },
+  "article:63.43": {
+    "node_id": "article:63.43",
+    "type": "article",
+    "title": "第63.43条 依据外国或者香港、澳门特别行政区飞行机械员执照颁发认可函",
+    "line_start": 284,
+    "line_end": 299,
+    "source_anchor": "第63.43条"
+  },
+  "article:63.45": {
+    "node_id": "article:63.45",
+    "type": "article",
+    "title": "第63.45条 执照和认可函的申请与审批",
+    "line_start": 300,
+    "line_end": 329,
+    "source_anchor": "第63.45条"
+  },
+  "article:63.47": {
+    "node_id": "article:63.47",
+    "type": "article",
+    "title": "第63.47条 技术检查",
+    "line_start": 330,
+    "line_end": 345,
+    "source_anchor": "第63.47条"
+  },
+  "chapter:B": {
+    "node_id": "chapter:B",
+    "type": "chapter",
+    "title": "B章 飞行机械员合格审定",
+    "line_start": 110,
+    "line_end": 345,
+    "source_anchor": "B章"
+  },
+  "article:63.51": {
+    "node_id": "article:63.51",
+    "type": "article",
+    "title": "第63.51条 涉及酒精或者药物的违禁行为的处罚",
+    "line_start": 348,
+    "line_end": 351,
+    "source_anchor": "第63.51条"
+  },
+  "article:63.53": {
+    "node_id": "article:63.53",
+    "type": "article",
+    "title": "第63.53条 拒绝接受酒精、药物检验或者提供检验结果的处罚",
+    "line_start": 352,
+    "line_end": 355,
+    "source_anchor": "第63.53条"
+  },
+  "article:63.55": {
+    "node_id": "article:63.55",
+    "type": "article",
+    "title": "第63.55条 提供虚假材料的处罚",
+    "line_start": 356,
+    "line_end": 361,
+    "source_anchor": "第63.55条"
+  },
+  "article:63.57": {
+    "node_id": "article:63.57",
+    "type": "article",
+    "title": "第63.57条 对其他违章行为的处罚",
+    "line_start": 362,
+    "line_end": 369,
+    "source_anchor": "第63.57条"
+  },
+  "article:63.59": {
+    "node_id": "article:63.59",
+    "type": "article",
+    "title": "第63.59条 受到刑事处罚后执照的处理",
+    "line_start": 370,
+    "line_end": 373,
+    "source_anchor": "第63.59条"
+  },
+  "article:63.61": {
+    "node_id": "article:63.61",
+    "type": "article",
+    "title": "第63.61条 守法信用信息记录",
+    "line_start": 374,
+    "line_end": 377,
+    "source_anchor": "第63.61条"
+  },
+  "chapter:C": {
+    "node_id": "chapter:C",
+    "type": "chapter",
+    "title": "C章 法律责任",
+    "line_start": 346,
+    "line_end": 377,
+    "source_anchor": "C章"
+  },
+  "article:63.71": {
+    "node_id": "article:63.71",
+    "type": "article",
+    "title": "第63.71条 施行日期和废止的规章",
+    "line_start": 380,
+    "line_end": 382,
+    "source_anchor": "第63.71条"
+  },
+  "chapter:D": {
+    "node_id": "chapter:D",
+    "type": "chapter",
+    "title": "D章 附则",
+    "line_start": 378,
+    "line_end": 382,
+    "source_anchor": "D章"
+  }
+}

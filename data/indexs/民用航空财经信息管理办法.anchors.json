@@ -1,0 +1,282 @@
+{
+  "law:民用航空财经信息管理办法": {
+    "node_id": "law:民用航空财经信息管理办法",
+    "type": "law",
+    "title": "民航企业包括公共航空运输企业(集团)(以下简称航空运输企业)、通用航空企业(集团)(以下简称通航企业)、民用机场(集团)(以下简称机场)和航空运输服务保障企业(集团)(以下简称保障企业)以及上述企业(集团)的所属企业。",
+    "line_start": 0,
+    "line_end": 46,
+    "source_anchor": "民航企业包括公共航空运输企业(集团)(以下简称航空运输企业)、通用航空企业(集团)(以下简称通航企业)、民用机场(集团)(以下简称机场)和航空运输服务保障企业(集团)(以下简称保障企业)以及上述企业(集团)的所属企业。"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了规范民用航空行业财经信息管理,加强行业经济运行监测分析,完善民航财经调控机制,根据《中华人民共和国民用航空法》《中华人民共和国会计法》制定本办法。",
+    "line_start": 1,
+    "line_end": 1,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本办法适用于在中华人民共和国境内注册登记的从事民用航空活动企业(以下简称民航企业)的财经信息管理工作。",
+    "line_start": 2,
+    "line_end": 3,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 本办法所称财经信息是指为满足民用航空行业管理需要,由民航企业提供的反映企业某一特定日期财务状况和某一会计期间经营成果、收支状况、现金流量、财政资金缴拨和使用情况等的财务会计报表,以及其他财经信息资料。",
+    "line_start": 4,
+    "line_end": 4,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 中国民用航空局(以下简称民航局)负责民航全行业财经信息综合管理工作。",
+    "line_start": 5,
+    "line_end": 6,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 民航企业应当按照《企业财务会计报告条例》《企业会计准则》和《企业财务通则》等财务会计制度的规定和本办法的要求,及时、准确、真实、完整地向民航局和民航地区管理局提供财务会计报告及其他财经信息资料。",
+    "line_start": 7,
+    "line_end": 7,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 负责财经信息工作相关人员应当定期参加民航局组织的培训,努力提高业务素质和工作水平。民航企业应当为相关人员参加培训创造良好条件。",
+    "line_start": 8,
+    "line_end": 8,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 民航局组织对各单位每一年度财经信息编报情况进行综合考评。对认真执行本办法,在财经信息编报工作中做出显著成绩的单位和个人可以给予适当奖励。",
+    "line_start": 9,
+    "line_end": 9,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 财经信息包括定期报送的财经信息和不定期报送的财经信息。定期报送的财经信息包括年度财务会计报告(以下简称年报)和月度财务报告(以下简称财务快报);不定期报送的财经信息是指按民航局和民航地区管理局要求报送的其他财经信息资料。",
+    "line_start": 11,
+    "line_end": 11,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 年报应当包括下列内容:",
+    "line_start": 12,
+    "line_end": 16,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 财务快报包括快报报表和财务情况分析说明。",
+    "line_start": 17,
+    "line_end": 19,
+    "source_anchor": "第十条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 财经信息的构成",
+    "line_start": 10,
+    "line_end": 19,
+    "source_anchor": "第二章"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 民航企业应当以真实的交易事项和完整账簿记录以及相关生产统计资料为依据,在全面做好清查资产、核实债务和权益、正确结转损益、依法进行年终审计等工作的基础上,按照有关规定的格式编制年度会计报表。",
+    "line_start": 21,
+    "line_end": 21,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 民航企业应当根据生产统计资料和会计核算资料,按照有关规定的格式如实填报财务快报。财务快报中无法准确核算的财务指标,应当合理预估填报。",
+    "line_start": 22,
+    "line_end": 22,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 民航企业应当按民航局和民航地区管理局的要求填报不定期报送的财经信息。",
+    "line_start": 23,
+    "line_end": 23,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 根据《企业财务会计报告条例》、《企业会计准则》等有关规定应当编制合并会计报表的企业集团,应当采用合并方式汇总会计报表,其他则采用简单叠加汇总方式。",
+    "line_start": 24,
+    "line_end": 24,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 企业年报应当依次编定页码,加具封面,装订成册,加盖公章。封面上应当注明《企业财务会计报告条例》中规定的有关信息,并由企业负责人、主管会计工作的负责人和会计机构负责人(会计主管人员)签名并盖章;设置总会计师的企业,还应当由总会计师签名并盖章。",
+    "line_start": 25,
+    "line_end": 25,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 财务快报和不定期报送的财经信息应当经企业负责人和会计机构负责人审阅、批准后报送。",
+    "line_start": 26,
+    "line_end": 26,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 民航地区管理局应当根据本办法和民航局的要求,收集、审核和汇总辖区内各机场、通航企业的财经信息,并报民航局财务职能部门。航空运输企业、保障企业的财经信息直接由民航局财务职能部门收集、审核和汇总。",
+    "line_start": 27,
+    "line_end": 27,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 民航企业应当确定财经信息密级,并按照规定的数据传输方式报送。",
+    "line_start": 28,
+    "line_end": 28,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 机场、通航企业的年报应当于每年3月31日前报送所在地民航地区管理局,民航地区管理局汇总后于4月20日前报送民航局。航空运输企业和保障企业的年报应当于每年4月20日前报送民航局。",
+    "line_start": 29,
+    "line_end": 30,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 负责民航企业财经信息管理的单位应当对企业报送的财经信息资料建立存储、保管和查询制度,并按照国家有关保密工作规定做好各类财经信息的保管和保密工作。",
+    "line_start": 31,
+    "line_end": 31,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 民航局确定并统一对外公布行业财经信息。",
+    "line_start": 32,
+    "line_end": 33,
+    "source_anchor": "第二十一条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 财经信息的编报、保管和使用",
+    "line_start": 20,
+    "line_end": 33,
+    "source_anchor": "第三章"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 除本章另有规定外,民航企业在重组改制期间,应当遵守本办法的各项有关规定。",
+    "line_start": 35,
+    "line_end": 35,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 重组改制企业应当对重组改制前会计报表的期末数与重组改制后会计报表期初数进行对比,并作说明。",
+    "line_start": 36,
+    "line_end": 38,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 企业重组改制后,原企业会计信息资料应当按国家关于财务会计档案管理的有关规定由有关各方保管。国家对企业重组改制财务会计档案管理未作明确规定,企业合并改制的,原企业财经信息资料可以由合并后存续的公司保管并负责对外提供;企业分立改制的,原企业财经信息资料由相关各方协商后指定单位保存。",
+    "line_start": 39,
+    "line_end": 39,
+    "source_anchor": "第二十四条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 重组改制企业财经信息的编报和保管",
+    "line_start": 34,
+    "line_end": 39,
+    "source_anchor": "第四章"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 对拒绝提供财经信息资料的民航企业,由民航局或民航地区管理局责令改正,逾期不改的,处以三万元以下罚款。",
+    "line_start": 41,
+    "line_end": 41,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 对未按规定程序报送或提供不真实、不完整财经信息资料的民航企业,由民航局或民航地区管理局责令改正,逾期不改的,视情节轻重处以三万元以下罚款。",
+    "line_start": 42,
+    "line_end": 42,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 对未按规定保管、使用企业财经信息,造成涉密信息泄漏的民航行政单位或个人,由上级民航主管部门责令改正,对直接负责的主管人员和其他直接责任人依法给予行政处分。",
+    "line_start": 43,
+    "line_end": 43,
+    "source_anchor": "第二十七条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 法律责任",
+    "line_start": 40,
+    "line_end": 43,
+    "source_anchor": "第五章"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 民用航空财经信息报表的格式和编制说明由民航局另行制定,并公布执行。",
+    "line_start": 45,
+    "line_end": 45,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 本办法自2016年 4月28日起施行。2005年4月5日施行的《民用航空财经信息采集办法》(民航总局令第142号)同时废止。",
+    "line_start": 46,
+    "line_end": 46,
+    "source_anchor": "第二十九条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 附 则",
+    "line_start": 44,
+    "line_end": 46,
+    "source_anchor": "第六章"
+  }
+}

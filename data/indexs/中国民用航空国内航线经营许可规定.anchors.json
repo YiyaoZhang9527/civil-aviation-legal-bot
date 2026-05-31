@@ -1,0 +1,442 @@
+{
+  "law:中国民用航空国内航线经营许可规定": {
+    "node_id": "law:中国民用航空国内航线经营许可规定",
+    "type": "law",
+    "title": "第160 号",
+    "line_start": 0,
+    "line_end": 426,
+    "source_anchor": "第160 号"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了合理和有效地利用民用航空航线资源,维护国内民用航",
+    "line_start": 16,
+    "line_end": 19,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规定适用于根据中华人民共和国法律设立的公共航空运",
+    "line_start": 20,
+    "line_end": 22,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 本规定下列用语除具体条款中另有明确规定外含义如下:",
+    "line_start": 23,
+    "line_end": 36,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 实施国内航线经营许可管理,应当遵循以下基本原则:",
+    "line_start": 37,
+    "line_end": 44,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 中国民用航空总局(以下简称民航总局)和民航地区管理局",
+    "line_start": 45,
+    "line_end": 47,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 民航总局负责对区际航线实施经营许可的核准、登记管理,",
+    "line_start": 48,
+    "line_end": 53,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 民航总局和民航地区管理局分别设立国内航线经营许可评",
+    "line_start": 54,
+    "line_end": 64,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 申请国内航线经营许可,应当具备下列基本条件:",
+    "line_start": 65,
+    "line_end": 74,
+    "source_anchor": "第八条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总 则",
+    "line_start": 15,
+    "line_end": 74,
+    "source_anchor": "第一章"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 空运企业申请的下列航线经营许可适用核准管理的方式:",
+    "line_start": 76,
+    "line_end": 81,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 空运企业在航空安全、航班正常、服务质量、诚实信用方面",
+    "line_start": 82,
+    "line_end": 83,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 空运企业申请本规定第九条所列的航线上的经营许可的,",
+    "line_start": 84,
+    "line_end": 86,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 空运企业每航季安排定期航班的执行情况,作为考核该空",
+    "line_start": 87,
+    "line_end": 88,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 根据保证安全和航班正常的要求,在国内航线经营许可中",
+    "line_start": 89,
+    "line_end": 91,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 空运企业申请航线经营许可,应在计划开航前45 日提出。",
+    "line_start": 92,
+    "line_end": 98,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 规定对核准航线许可总局或地区管理局提出的意见",
+    "line_start": 399,
+    "line_end": 426,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 航线经营许可申请取得核准之后,空运企业决定不在已经",
+    "line_start": 106,
+    "line_end": 110,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 航线经营许可核准申请人和利害关系人对民航总局或民航",
+    "line_start": 111,
+    "line_end": 114,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 空运企业应当确保核准经营许可航线的正常运营。凡核准",
+    "line_start": 115,
+    "line_end": 120,
+    "source_anchor": "第十八条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 国内航线经营许可核准管理",
+    "line_start": 75,
+    "line_end": 120,
+    "source_anchor": "第二章"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 空运企业申请的下列航线经营许可适用登记管理的方",
+    "line_start": 122,
+    "line_end": 126,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 空运企业申请航线经营许可的登记应在计划开航30 日前",
+    "line_start": 127,
+    "line_end": 131,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 民航总局或民航地区管理局受理空运企业航线经营许",
+    "line_start": 132,
+    "line_end": 139,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 航线经营许可登记并公告之后,空运企业决定不在已",
+    "line_start": 140,
+    "line_end": 144,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 空运企业应当确保办理经营许可登记航线的正常运营。",
+    "line_start": 145,
+    "line_end": 151,
+    "source_anchor": "第二十三条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 国内航线经营许可登记管理",
+    "line_start": 121,
+    "line_end": 151,
+    "source_anchor": "第三章"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 民航总局国内航线经营许可评审委员会应当根据本规",
+    "line_start": 153,
+    "line_end": 157,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 空运企业在航线经营换季时,应集中提交航线经营许可",
+    "line_start": 158,
+    "line_end": 160,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 民航总局和民航地区管理局在航线经营换季时,集中办",
+    "line_start": 161,
+    "line_end": 166,
+    "source_anchor": "第二十六条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 航线经营换季的管理",
+    "line_start": 152,
+    "line_end": 166,
+    "source_anchor": "第四章"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 空运企业经营的定期航班应以合理的载运比率提供足够",
+    "line_start": 168,
+    "line_end": 173,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 空运企业通过核准或登记获得航线经营许可时,应确定",
+    "line_start": 174,
+    "line_end": 176,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 空运企业应当以适当方式公布班期时刻并坚持诚实信",
+    "line_start": 177,
+    "line_end": 184,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 空运企业拟停止经营航季客座率达到50%以上的航线的,",
+    "line_start": 185,
+    "line_end": 187,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 空运企业可以根据市场需求在其所经营的航线上自行安",
+    "line_start": 188,
+    "line_end": 193,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 在航空市场出现运力急剧增减,并对行业市场造成重大",
+    "line_start": 194,
+    "line_end": 199,
+    "source_anchor": "第三十二条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 航班管理",
+    "line_start": 167,
+    "line_end": 199,
+    "source_anchor": "第五章"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 民航总局和民航地区管理局在进行航线经营许可核准",
+    "line_start": 201,
+    "line_end": 205,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 民航总局和民航地区管理局对新辟独飞的“老、少、边、",
+    "line_start": 206,
+    "line_end": 212,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 民航总局或民航地区管理局根据国家和地区特殊需要,",
+    "line_start": 213,
+    "line_end": 215,
+    "source_anchor": "第三十五条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 特别管理规定",
+    "line_start": 200,
+    "line_end": 215,
+    "source_anchor": "第六章"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 空运企业按本规定取得的航线经营许可的有效期为三",
+    "line_start": 217,
+    "line_end": 220,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 空运企业通过航线经营许可取得的航线经营权不得租",
+    "line_start": 221,
+    "line_end": 225,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 空运企业未经批准,不得以代号共享或湿租其他空运企",
+    "line_start": 226,
+    "line_end": 227,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 空运企业申请暂停、终止经核准或登记取得的航线经营",
+    "line_start": 228,
+    "line_end": 232,
+    "source_anchor": "第三十九条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 航线经营许可的监督管理",
+    "line_start": 216,
+    "line_end": 232,
+    "source_anchor": "第七章"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 有下列情形之一的,民航总局和民航地区管理局可以暂停",
+    "line_start": 234,
+    "line_end": 238,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 有下列情形之一的,由民航总局和民航地区管理局责令",
+    "line_start": 239,
+    "line_end": 251,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 民航总局或者民航地区管理局的工作人员有下列情形",
+    "line_start": 252,
+    "line_end": 259,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 民航总局或者民航地区管理局工作人员在实施国内航",
+    "line_start": 260,
+    "line_end": 263,
+    "source_anchor": "第四十三条"
+  },
+  "chapter:8": {
+    "node_id": "chapter:8",
+    "type": "chapter",
+    "title": "第八章 法律责任",
+    "line_start": 233,
+    "line_end": 263,
+    "source_anchor": "第八章"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 内地和香港、澳门特别行政区、台湾地区间特殊管理的",
+    "line_start": 267,
+    "line_end": 268,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 在本规定实施之前,空运企业已经取得的经营许可继续",
+    "line_start": 269,
+    "line_end": 398,
+    "source_anchor": "第四十五条"
+  },
+  "chapter:9": {
+    "node_id": "chapter:9",
+    "type": "chapter",
+    "title": "第九章 附 则",
+    "line_start": 264,
+    "line_end": 426,
+    "source_anchor": "第九章"
+  }
+}

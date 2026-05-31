@@ -1,0 +1,434 @@
+{
+  "law:民用航空安全信息管理规定": {
+    "node_id": "law:民用航空安全信息管理规定",
+    "type": "law",
+    "title": "民用航空安全信息管理规定",
+    "line_start": 0,
+    "line_end": 230,
+    "source_anchor": "民用航空安全信息管理规定"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了规范民用航空安全信息收集、分析和应用,实现安全信息共享,推进安全管理体系建设,及时发现安全隐患,控制风险,预防民用航空事故,根据《中华人民共和国安全生产法》、《中华人民共和国民用航空法》等国家法律、行政法规,制定本规定。",
+    "line_start": 6,
+    "line_end": 7,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规定适用于中国民用航空局(以下简称民航局)、中国民用航空地区管理局(以下简称地区管理局)、中国民用航空安全监督管理局、中国民用航空安全运行监督办公室(以下统称监管局)、在中华人民共和国境内注册的民用航空企事业单位(以下简称企事业单位)及其从业人员的民用航空安全信息管理。",
+    "line_start": 8,
+    "line_end": 11,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 本规定所称民用航空安全信息是指事件信息、安全监察信息和综合安全信息。",
+    "line_start": 12,
+    "line_end": 19,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 民用航空安全信息工作实行统一管理、分级负责的原则。",
+    "line_start": 20,
+    "line_end": 25,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 企事业单位负责管理本单位民用航空安全信息工作,制定包括自愿报告在内的民用航空安全信息管理程序,建立具备收集、分析和发布功能的民用航空安全信息机制。企事业单位的民用航空安全信息管理程序应当报所属地监管局备案。",
+    "line_start": 26,
+    "line_end": 27,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 民航局支持中国民用航空安全自愿报告系统建设,鼓励个人积极报告航空系统的安全缺陷和隐患。",
+    "line_start": 28,
+    "line_end": 29,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 民航局支持开展民用航空安全信息收集、分析和应用的技术研究,对在民用航空安全信息管理工作中做出突出贡献的单位和个人,给予表彰和奖励。",
+    "line_start": 30,
+    "line_end": 31,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 局方和企事业单位应当充分利用收集到的民用航空安全信息,评估安全状况和趋势,实现信息驱动的安全管理。民用航空安全信息量不作为评判一个单位安全状况的唯一标准。",
+    "line_start": 32,
+    "line_end": 33,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 地区管理局应当依据本规定,根据辖区实际情况,制定民用航空安全信息的管理办法,并报民航局民用航空安全信息主管部门批准。",
+    "line_start": 34,
+    "line_end": 35,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 事发相关单位和人员应当按照规定如实报告事件信息,不得隐瞒不报、谎报或者迟报。",
+    "line_start": 36,
+    "line_end": 37,
+    "source_anchor": "第十条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总则",
+    "line_start": 4,
+    "line_end": 37,
+    "source_anchor": "第一章"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 局方和企事业单位应当指定满足下列条件的人员负责民用航空安全信息管理工作,且人员数量应当满足民用航空安全信息管理工作的需要:",
+    "line_start": 40,
+    "line_end": 45,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 局方和企事业单位应当为民用航空安全信息管理人员配备工作必需设备,并保持设备正常运转。设备包括但不限于:便携式计算机、网络通讯设备、移动存储介质、传真机和录音笔等。",
+    "line_start": 46,
+    "line_end": 47,
+    "source_anchor": "第十二条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 人员和设备管理",
+    "line_start": 38,
+    "line_end": 47,
+    "source_anchor": "第二章"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 事件信息收集分为紧急事件报告和非紧急事件报告,实行分类管理。紧急事件报告样例和非紧急事件报告样例包含在事件样例中,事件样例由民航局另行制定。",
+    "line_start": 50,
+    "line_end": 51,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 紧急事件按照以下规定报告:",
+    "line_start": 52,
+    "line_end": 59,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 非紧急事件按照以下规定报告:",
+    "line_start": 60,
+    "line_end": 65,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 报告的事件信息按照以下程序处理:",
+    "line_start": 66,
+    "line_end": 81,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 民用航空安全信息报告表应当使用中国民用航空安全信息系统上报。当该系统不可用时,可以使用传真等方式上报;当系统恢复后3日内,应当使用该系统补报。",
+    "line_start": 82,
+    "line_end": 83,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 向国务院应急管理部门报告事件信息,按照国务院的有关规定执行。",
+    "line_start": 84,
+    "line_end": 85,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 向国际民航组织和境外相关机构通报事件信息,按照以下规定执行:",
+    "line_start": 86,
+    "line_end": 91,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 各企事业单位和个人应当妥善保护与事故、征候、一般事件以及举报事件有关的所有文本、影音、数据以及其他资料。",
+    "line_start": 92,
+    "line_end": 93,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 组织事故、征候以及一般事件调查的单位负责对调查的文件、资料、证据等进行审核、整理和保存。",
+    "line_start": 94,
+    "line_end": 95,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 地区管理局和监管局各职能部门应当按照民航局的相关要求报告安全监察信息。",
+    "line_start": 96,
+    "line_end": 97,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 企事业单位应当按照所属地区管理局的相关要求报告综合安全信息。",
+    "line_start": 98,
+    "line_end": 99,
+    "source_anchor": "第二十三条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 民用航空安全信息收集",
+    "line_start": 48,
+    "line_end": 99,
+    "source_anchor": "第三章"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 民航局支持第三方机构建立中国民用航空安全自愿报告系统,并委托第三方机构负责该系统的运行。",
+    "line_start": 102,
+    "line_end": 103,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 中国民用航空安全自愿报告系统运行的基本原则是自愿性、保密性和非处罚性。",
+    "line_start": 104,
+    "line_end": 105,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 任何人可以通过信件、传真、电子邮件、网上填报和电话的方式向中国民用航空安全自愿报告系统提交报告。",
+    "line_start": 106,
+    "line_end": 107,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 中国民用航空安全自愿报告系统收集的报告内容如下:",
+    "line_start": 108,
+    "line_end": 115,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 中国民用航空安全自愿报告系统收到的报告,按以下步骤处理:",
+    "line_start": 116,
+    "line_end": 125,
+    "source_anchor": "第二十八条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 自愿报告的民用航空安全信息处理",
+    "line_start": 100,
+    "line_end": 125,
+    "source_anchor": "第四章"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 举报人的合法权益受法律保护。除法律、法规另有规定外,任何单位和个人不得将举报情况透露给其他单位和个人。",
+    "line_start": 128,
+    "line_end": 129,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 举报的民用航空安全信息按照以下规定进行处理:",
+    "line_start": 130,
+    "line_end": 137,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 举报的民用航空安全信息调查结束后5日内,受理单位应当向被举报单位和举报人反馈查处结果。",
+    "line_start": 138,
+    "line_end": 139,
+    "source_anchor": "第三十一条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 举报的民用航空安全信息处理",
+    "line_start": 126,
+    "line_end": 139,
+    "source_anchor": "第五章"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 局方和企事业单位应当建立民用航空安全信息分析和发布制度,促进民用航空安全信息共享和应用。",
+    "line_start": 142,
+    "line_end": 145,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 民航局通过分析民用航空安全信息,评估行业总体安全状况。地区管理局和监管局通过分析民用航空安全信息,评估辖区总体安全状况,明确阶段性安全监管重点。",
+    "line_start": 146,
+    "line_end": 147,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 企事业单位应当定期分析本单位民用航空安全信息,评估本单位安全状况和趋势,制定改进措施。",
+    "line_start": 148,
+    "line_end": 149,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 民用航空安全信息的发布应当以不影响信息报告的积极性为原则,并遵守国家和民航局的有关规定。",
+    "line_start": 150,
+    "line_end": 151,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 民航局负责发布全国范围的民用航空安全信息;地区管理局和监管局负责发布辖区的民用航空安全信息。",
+    "line_start": 152,
+    "line_end": 153,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 局方和企事业单位应当根据民用航空安全信息分析情况,开展安全警示、预警工作,适时发布航空安全文件。",
+    "line_start": 154,
+    "line_end": 155,
+    "source_anchor": "第三十七条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 民用航空安全信息分析与应用",
+    "line_start": 140,
+    "line_end": 155,
+    "source_anchor": "第六章"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 企事业单位有下列行为之一的,由局方责令限期改正;逾期不改正的,处警告、通报批评或者3万元以下的罚款:",
+    "line_start": 158,
+    "line_end": 167,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 企事业单位有下列行为之一的,由局方给予警告、通报批评或者处1万元的罚款;情节严重的,处2万元以上3万元以下的罚款:",
+    "line_start": 168,
+    "line_end": 191,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 个人有下列行为之一的,由局方处1000元以下的罚款:",
+    "line_start": 192,
+    "line_end": 201,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 外国航空公司违反本规定第十四条或第十六条,由局方给予警告,或处1万元的罚款;情节严重的,处2万元以上3万元以下的罚款。",
+    "line_start": 202,
+    "line_end": 203,
+    "source_anchor": "第四十一条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 法律责任",
+    "line_start": 156,
+    "line_end": 203,
+    "source_anchor": "第七章"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 本规定涉及相关定义如下:",
+    "line_start": 206,
+    "line_end": 225,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 国际民用航空公约附件13修正案颁布后,民航局将对其进行评估,决定采纳的,及时修订本规定;需要保留差异的,及时将差异通报国际民航组织。",
+    "line_start": 226,
+    "line_end": 227,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 涉及香港、澳门特别行政区、台湾地区的民航安全信息管理,参照本规定有关外国航空公司的规定执行。",
+    "line_start": 228,
+    "line_end": 229,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 本规定自2016年4月4日起施行。",
+    "line_start": 230,
+    "line_end": 230,
+    "source_anchor": "第四十五条"
+  },
+  "chapter:8": {
+    "node_id": "chapter:8",
+    "type": "chapter",
+    "title": "第八章 附则",
+    "line_start": 204,
+    "line_end": 230,
+    "source_anchor": "第八章"
+  }
+}

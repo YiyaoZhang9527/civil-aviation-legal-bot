@@ -1,0 +1,1626 @@
+{
+  "law:民用无人驾驶航空器运行安全管理规则": {
+    "node_id": "law:民用无人驾驶航空器运行安全管理规则",
+    "type": "law",
+    "title": "《民用无人驾驶航空器运行安全管理规则》已于2023",
+    "line_start": 0,
+    "line_end": 2510,
+    "source_anchor": "《民用无人驾驶航空器运行安全管理规则》已于2023"
+  },
+  "article:92.1": {
+    "node_id": "article:92.1",
+    "type": "article",
+    "title": "第92.1条 目的和依据",
+    "line_start": 16,
+    "line_end": 20,
+    "source_anchor": "第92.1条"
+  },
+  "article:92.3": {
+    "node_id": "article:92.3",
+    "type": "article",
+    "title": "第92.3条 适用范围",
+    "line_start": 21,
+    "line_end": 30,
+    "source_anchor": "第92.3条"
+  },
+  "article:92.5": {
+    "node_id": "article:92.5",
+    "type": "article",
+    "title": "第92.5条 机构与职责",
+    "line_start": 31,
+    "line_end": 38,
+    "source_anchor": "第92.5条"
+  },
+  "article:92.7": {
+    "node_id": "article:92.7",
+    "type": "article",
+    "title": "第92.7条 民用无人驾驶航空器运行分类",
+    "line_start": 39,
+    "line_end": 53,
+    "source_anchor": "第92.7条"
+  },
+  "article:92.9": {
+    "node_id": "article:92.9",
+    "type": "article",
+    "title": "第92.9条 民用无人驾驶航空器综合管理平台",
+    "line_start": 54,
+    "line_end": 61,
+    "source_anchor": "第92.9条"
+  },
+  "chapter:A": {
+    "node_id": "chapter:A",
+    "type": "chapter",
+    "title": "A章 总   则",
+    "line_start": 14,
+    "line_end": 61,
+    "source_anchor": "A章"
+  },
+  "article:92.51": {
+    "node_id": "article:92.51",
+    "type": "article",
+    "title": "第92.51条 安全操控要求",
+    "line_start": 64,
+    "line_end": 119,
+    "source_anchor": "第92.51条"
+  },
+  "article:92.53": {
+    "node_id": "article:92.53",
+    "type": "article",
+    "title": "第92.53条 条相应执照和等级,以及第92.55 条相应申请条件的",
+    "line_start": 414,
+    "line_end": 445,
+    "source_anchor": "第92.53条"
+  },
+  "article:92.55": {
+    "node_id": "article:92.55",
+    "type": "article",
+    "title": "第92.55条 执照和等级的申请条件",
+    "line_start": 154,
+    "line_end": 178,
+    "source_anchor": "第92.55条"
+  },
+  "article:92.57": {
+    "node_id": "article:92.57",
+    "type": "article",
+    "title": "第92.57条 执照和等级的申请材料",
+    "line_start": 179,
+    "line_end": 198,
+    "source_anchor": "第92.57条"
+  },
+  "article:92.59": {
+    "node_id": "article:92.59",
+    "type": "article",
+    "title": "第92.59条 执照和等级的颁发",
+    "line_start": 199,
+    "line_end": 220,
+    "source_anchor": "第92.59条"
+  },
+  "article:92.61": {
+    "node_id": "article:92.61",
+    "type": "article",
+    "title": "第92.61条 执照和等级的有效期",
+    "line_start": 221,
+    "line_end": 227,
+    "source_anchor": "第92.61条"
+  },
+  "article:92.63": {
+    "node_id": "article:92.63",
+    "type": "article",
+    "title": "第92.63条 执照和等级的更新",
+    "line_start": 228,
+    "line_end": 242,
+    "source_anchor": "第92.63条"
+  },
+  "article:92.65": {
+    "node_id": "article:92.65",
+    "type": "article",
+    "title": "第92.65条 执照和等级过期后的重新办理",
+    "line_start": 243,
+    "line_end": 254,
+    "source_anchor": "第92.65条"
+  },
+  "article:92.67": {
+    "node_id": "article:92.67",
+    "type": "article",
+    "title": "第92.67条 执照的变更、放弃和注销",
+    "line_start": 255,
+    "line_end": 275,
+    "source_anchor": "第92.67条"
+  },
+  "article:92.69": {
+    "node_id": "article:92.69",
+    "type": "article",
+    "title": "第92.69条 飞行经历记录",
+    "line_start": 276,
+    "line_end": 292,
+    "source_anchor": "第92.69条"
+  },
+  "article:92.71": {
+    "node_id": "article:92.71",
+    "type": "article",
+    "title": "第92.71条 模拟训练设备的使用",
+    "line_start": 293,
+    "line_end": 301,
+    "source_anchor": "第92.71条"
+  },
+  "article:92.73": {
+    "node_id": "article:92.73",
+    "type": "article",
+    "title": "第92.73条 从非民用和境外接受的训练",
+    "line_start": 302,
+    "line_end": 316,
+    "source_anchor": "第92.73条"
+  },
+  "article:92.75": {
+    "node_id": "article:92.75",
+    "type": "article",
+    "title": "第92.75条 检查和考试的一般程序",
+    "line_start": 317,
+    "line_end": 320,
+    "source_anchor": "第92.75条"
+  },
+  "article:92.77": {
+    "node_id": "article:92.77",
+    "type": "article",
+    "title": "第92.77条 理论考试和语言能力考试的准考条件和",
+    "line_start": 321,
+    "line_end": 328,
+    "source_anchor": "第92.77条"
+  },
+  "article:92.79": {
+    "node_id": "article:92.79",
+    "type": "article",
+    "title": "第92.79条 实践考试必需的无人驾驶航空器系统和",
+    "line_start": 329,
+    "line_end": 333,
+    "source_anchor": "第92.79条"
+  },
+  "article:92.81": {
+    "node_id": "article:92.81",
+    "type": "article",
+    "title": "第92.81条 定期检查",
+    "line_start": 334,
+    "line_end": 350,
+    "source_anchor": "第92.81条"
+  },
+  "article:92.83": {
+    "node_id": "article:92.83",
+    "type": "article",
+    "title": "第92.83条 熟练检查",
+    "line_start": 351,
+    "line_end": 360,
+    "source_anchor": "第92.83条"
+  },
+  "article:92.85": {
+    "node_id": "article:92.85",
+    "type": "article",
+    "title": "第92.85条 机长近期飞行经历要求",
+    "line_start": 361,
+    "line_end": 367,
+    "source_anchor": "第92.85条"
+  },
+  "article:92.87": {
+    "node_id": "article:92.87",
+    "type": "article",
+    "title": "第92.87条 语言能力要求和无线电通信资格",
+    "line_start": 368,
+    "line_end": 371,
+    "source_anchor": "第92.87条"
+  },
+  "article:92.89": {
+    "node_id": "article:92.89",
+    "type": "article",
+    "title": "第92.89条 副驾驶资格要求",
+    "line_start": 372,
+    "line_end": 383,
+    "source_anchor": "第92.89条"
+  },
+  "article:92.91": {
+    "node_id": "article:92.91",
+    "type": "article",
+    "title": "第92.91条 无人驾驶航空器等级限制和附加训练要",
+    "line_start": 384,
+    "line_end": 411,
+    "source_anchor": "第92.91条"
+  },
+  "article:92.93": {
+    "node_id": "article:92.93",
+    "type": "article",
+    "title": "第92.93条 增加等级",
+    "line_start": 412,
+    "line_end": 413,
+    "source_anchor": "第92.93条"
+  },
+  "article:92.95": {
+    "node_id": "article:92.95",
+    "type": "article",
+    "title": "第92.95条 执照或者等级持有人的权利和限制",
+    "line_start": 446,
+    "line_end": 496,
+    "source_anchor": "第92.95条"
+  },
+  "article:92.97": {
+    "node_id": "article:92.97",
+    "type": "article",
+    "title": "第92.97条 接受检查",
+    "line_start": 497,
+    "line_end": 500,
+    "source_anchor": "第92.97条"
+  },
+  "article:92.99": {
+    "node_id": "article:92.99",
+    "type": "article",
+    "title": "第92.99条 考试中禁止的行为",
+    "line_start": 501,
+    "line_end": 512,
+    "source_anchor": "第92.99条"
+  },
+  "article:92.101": {
+    "node_id": "article:92.101",
+    "type": "article",
+    "title": "第92.101条 禁止提供虚假材料",
+    "line_start": 513,
+    "line_end": 524,
+    "source_anchor": "第92.101条"
+  },
+  "chapter:B": {
+    "node_id": "chapter:B",
+    "type": "chapter",
+    "title": "B章 操控员管理",
+    "line_start": 62,
+    "line_end": 524,
+    "source_anchor": "B章"
+  },
+  "article:92.201": {
+    "node_id": "article:92.201",
+    "type": "article",
+    "title": "第92.201条 一般要求",
+    "line_start": 528,
+    "line_end": 538,
+    "source_anchor": "第92.201条"
+  },
+  "article:92.203": {
+    "node_id": "article:92.203",
+    "type": "article",
+    "title": "第92.203条 其他要求",
+    "line_start": 539,
+    "line_end": 548,
+    "source_anchor": "第92.203条"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 一般规定",
+    "line_start": 1654,
+    "line_end": 1706,
+    "source_anchor": "第一节"
+  },
+  "article:92.205": {
+    "node_id": "article:92.205",
+    "type": "article",
+    "title": "第92.205条 实名登记要求",
+    "line_start": 551,
+    "line_end": 561,
+    "source_anchor": "第92.205条"
+  },
+  "article:92.207": {
+    "node_id": "article:92.207",
+    "type": "article",
+    "title": "第92.207条 实名登记注销",
+    "line_start": 562,
+    "line_end": 571,
+    "source_anchor": "第92.207条"
+  },
+  "article:92.209": {
+    "node_id": "article:92.209",
+    "type": "article",
+    "title": "第92.209条 实名登记信息更新",
+    "line_start": 572,
+    "line_end": 582,
+    "source_anchor": "第92.209条"
+  },
+  "article:92.211": {
+    "node_id": "article:92.211",
+    "type": "article",
+    "title": "第92.211条 实名登记标志",
+    "line_start": 583,
+    "line_end": 590,
+    "source_anchor": "第92.211条"
+  },
+  "article:92.213": {
+    "node_id": "article:92.213",
+    "type": "article",
+    "title": "第92.213条 实名登记的标识",
+    "line_start": 591,
+    "line_end": 601,
+    "source_anchor": "第92.213条"
+  },
+  "article:92.214": {
+    "node_id": "article:92.214",
+    "type": "article",
+    "title": "第92.214条 实名登记的具体办法",
+    "line_start": 602,
+    "line_end": 605,
+    "source_anchor": "第92.214条"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 一般运行要求",
+    "line_start": 1707,
+    "line_end": 1955,
+    "source_anchor": "第二节"
+  },
+  "article:92.215": {
+    "node_id": "article:92.215",
+    "type": "article",
+    "title": "第92.215条 国籍登记要求",
+    "line_start": 608,
+    "line_end": 622,
+    "source_anchor": "第92.215条"
+  },
+  "article:92.217": {
+    "node_id": "article:92.217",
+    "type": "article",
+    "title": "第92.217条 国籍登记申请",
+    "line_start": 623,
+    "line_end": 637,
+    "source_anchor": "第92.217条"
+  },
+  "article:92.219": {
+    "node_id": "article:92.219",
+    "type": "article",
+    "title": "第92.219条 国籍登记变更",
+    "line_start": 638,
+    "line_end": 653,
+    "source_anchor": "第92.219条"
+  },
+  "article:92.221": {
+    "node_id": "article:92.221",
+    "type": "article",
+    "title": "第92.221条 国籍登记注销",
+    "line_start": 654,
+    "line_end": 661,
+    "source_anchor": "第92.221条"
+  },
+  "article:92.223": {
+    "node_id": "article:92.223",
+    "type": "article",
+    "title": "第92.223条 国籍登记证书",
+    "line_start": 662,
+    "line_end": 676,
+    "source_anchor": "第92.223条"
+  },
+  "article:92.225": {
+    "node_id": "article:92.225",
+    "type": "article",
+    "title": "第92.225条 国籍登记簿",
+    "line_start": 677,
+    "line_end": 693,
+    "source_anchor": "第92.225条"
+  },
+  "article:92.227": {
+    "node_id": "article:92.227",
+    "type": "article",
+    "title": "第92.227条 未登记函件",
+    "line_start": 694,
+    "line_end": 699,
+    "source_anchor": "第92.227条"
+  },
+  "article:92.229": {
+    "node_id": "article:92.229",
+    "type": "article",
+    "title": "第92.229条 国籍标志和登记标志",
+    "line_start": 700,
+    "line_end": 708,
+    "source_anchor": "第92.229条"
+  },
+  "article:92.231": {
+    "node_id": "article:92.231",
+    "type": "article",
+    "title": "第92.231条 国籍登记的标识",
+    "line_start": 709,
+    "line_end": 717,
+    "source_anchor": "第92.231条"
+  },
+  "article:92.233": {
+    "node_id": "article:92.233",
+    "type": "article",
+    "title": "第92.233条 识别牌",
+    "line_start": 718,
+    "line_end": 727,
+    "source_anchor": "第92.233条"
+  },
+  "section:3": {
+    "node_id": "section:3",
+    "type": "section",
+    "title": "第三节 运营许可管理",
+    "line_start": 1956,
+    "line_end": 2118,
+    "source_anchor": "第三节"
+  },
+  "chapter:C": {
+    "node_id": "chapter:C",
+    "type": "chapter",
+    "title": "C章 登记管理",
+    "line_start": 525,
+    "line_end": 727,
+    "source_anchor": "C章"
+  },
+  "article:92.301": {
+    "node_id": "article:92.301",
+    "type": "article",
+    "title": "第92.301条 适用范围",
+    "line_start": 731,
+    "line_end": 752,
+    "source_anchor": "第92.301条"
+  },
+  "article:92.303": {
+    "node_id": "article:92.303",
+    "type": "article",
+    "title": "第92.303条 溯及力",
+    "line_start": 753,
+    "line_end": 760,
+    "source_anchor": "第92.303条"
+  },
+  "article:92.305": {
+    "node_id": "article:92.305",
+    "type": "article",
+    "title": "第92.305条 合格审定程序和职责",
+    "line_start": 761,
+    "line_end": 793,
+    "source_anchor": "第92.305条"
+  },
+  "article:92.307": {
+    "node_id": "article:92.307",
+    "type": "article",
+    "title": "第92.307条 基于风险的审定原则",
+    "line_start": 794,
+    "line_end": 802,
+    "source_anchor": "第92.307条"
+  },
+  "article:92.309": {
+    "node_id": "article:92.309",
+    "type": "article",
+    "title": "第92.309条 豁免",
+    "line_start": 803,
+    "line_end": 818,
+    "source_anchor": "第92.309条"
+  },
+  "article:92.311": {
+    "node_id": "article:92.311",
+    "type": "article",
+    "title": "第92.311条 故障、失效和缺陷的报告",
+    "line_start": 819,
+    "line_end": 842,
+    "source_anchor": "第92.311条"
+  },
+  "article:92.315": {
+    "node_id": "article:92.315",
+    "type": "article",
+    "title": "第92.315条 替换件和改装件",
+    "line_start": 843,
+    "line_end": 862,
+    "source_anchor": "第92.315条"
+  },
+  "article:92.321": {
+    "node_id": "article:92.321",
+    "type": "article",
+    "title": "第92.321条 适用范围",
+    "line_start": 865,
+    "line_end": 868,
+    "source_anchor": "第92.321条"
+  },
+  "article:92.323": {
+    "node_id": "article:92.323",
+    "type": "article",
+    "title": "第92.323条 申请人资格",
+    "line_start": 869,
+    "line_end": 889,
+    "source_anchor": "第92.323条"
+  },
+  "article:92.325": {
+    "node_id": "article:92.325",
+    "type": "article",
+    "title": "第92.325条 申请书和申请文件",
+    "line_start": 890,
+    "line_end": 896,
+    "source_anchor": "第92.325条"
+  },
+  "article:92.327": {
+    "node_id": "article:92.327",
+    "type": "article",
+    "title": "第92.327条 专用条件",
+    "line_start": 897,
+    "line_end": 914,
+    "source_anchor": "第92.327条"
+  },
+  "article:92.329": {
+    "node_id": "article:92.329",
+    "type": "article",
+    "title": "第92.329条 适用要求的确定",
+    "line_start": 915,
+    "line_end": 953,
+    "source_anchor": "第92.329条"
+  },
+  "article:92.331": {
+    "node_id": "article:92.331",
+    "type": "article",
+    "title": "第92.331条 适用要求的符合性",
+    "line_start": 954,
+    "line_end": 962,
+    "source_anchor": "第92.331条"
+  },
+  "article:92.335": {
+    "node_id": "article:92.335",
+    "type": "article",
+    "title": "第92.335条 检查和试验",
+    "line_start": 963,
+    "line_end": 979,
+    "source_anchor": "第92.335条"
+  },
+  "article:92.337": {
+    "node_id": "article:92.337",
+    "type": "article",
+    "title": "第92.337条 飞行试验",
+    "line_start": 980,
+    "line_end": 1001,
+    "source_anchor": "第92.337条"
+  },
+  "article:92.343": {
+    "node_id": "article:92.343",
+    "type": "article",
+    "title": "第92.343条 型号合格证的颁发:正常类、运输类民",
+    "line_start": 1002,
+    "line_end": 1038,
+    "source_anchor": "第92.343条"
+  },
+  "article:92.347": {
+    "node_id": "article:92.347",
+    "type": "article",
+    "title": "第92.347条 需要申请新型号合格证的实质性更改",
+    "line_start": 1039,
+    "line_end": 1042,
+    "source_anchor": "第92.347条"
+  },
+  "article:92.349": {
+    "node_id": "article:92.349",
+    "type": "article",
+    "title": "第92.349条 设计更改的管理",
+    "line_start": 1043,
+    "line_end": 1069,
+    "source_anchor": "第92.349条"
+  },
+  "article:92.351": {
+    "node_id": "article:92.351",
+    "type": "article",
+    "title": "第92.351条 补充型号合格证的颁发",
+    "line_start": 1070,
+    "line_end": 1073,
+    "source_anchor": "第92.351条"
+  },
+  "article:92.353": {
+    "node_id": "article:92.353",
+    "type": "article",
+    "title": "第92.353条 要求的设计更改",
+    "line_start": 1074,
+    "line_end": 1090,
+    "source_anchor": "第92.353条"
+  },
+  "article:92.357": {
+    "node_id": "article:92.357",
+    "type": "article",
+    "title": "第92.357条 持证人的责任",
+    "line_start": 1091,
+    "line_end": 1124,
+    "source_anchor": "第92.357条"
+  },
+  "article:92.359": {
+    "node_id": "article:92.359",
+    "type": "article",
+    "title": "第92.359条 持证人的权益",
+    "line_start": 1125,
+    "line_end": 1140,
+    "source_anchor": "第92.359条"
+  },
+  "article:92.361": {
+    "node_id": "article:92.361",
+    "type": "article",
+    "title": "第92.361条 转让性",
+    "line_start": 1141,
+    "line_end": 1146,
+    "source_anchor": "第92.361条"
+  },
+  "article:92.363": {
+    "node_id": "article:92.363",
+    "type": "article",
+    "title": "第92.363条 有效期和证件检查",
+    "line_start": 1147,
+    "line_end": 1151,
+    "source_anchor": "第92.363条"
+  },
+  "article:92.381": {
+    "node_id": "article:92.381",
+    "type": "article",
+    "title": "第92.381条 适用范围",
+    "line_start": 1154,
+    "line_end": 1157,
+    "source_anchor": "第92.381条"
+  },
+  "article:92.383": {
+    "node_id": "article:92.383",
+    "type": "article",
+    "title": "第92.383条 申请人的资格和要求",
+    "line_start": 1158,
+    "line_end": 1171,
+    "source_anchor": "第92.383条"
+  },
+  "article:92.385": {
+    "node_id": "article:92.385",
+    "type": "article",
+    "title": "第92.385条 机构",
+    "line_start": 1172,
+    "line_end": 1174,
+    "source_anchor": "第92.385条"
+  },
+  "article:92.387": {
+    "node_id": "article:92.387",
+    "type": "article",
+    "title": "第92.387条 质量系统",
+    "line_start": 1175,
+    "line_end": 1179,
+    "source_anchor": "第92.387条"
+  },
+  "article:92.389": {
+    "node_id": "article:92.389",
+    "type": "article",
+    "title": "第92.389条 质量手册",
+    "line_start": 1180,
+    "line_end": 1183,
+    "source_anchor": "第92.389条"
+  },
+  "article:92.391": {
+    "node_id": "article:92.391",
+    "type": "article",
+    "title": "第92.391条 检查和试验",
+    "line_start": 1184,
+    "line_end": 1188,
+    "source_anchor": "第92.391条"
+  },
+  "article:92.393": {
+    "node_id": "article:92.393",
+    "type": "article",
+    "title": "第92.393条 生产许可证及其更改",
+    "line_start": 1189,
+    "line_end": 1210,
+    "source_anchor": "第92.393条"
+  },
+  "article:92.395": {
+    "node_id": "article:92.395",
+    "type": "article",
+    "title": "第92.395条 持证人的权益",
+    "line_start": 1211,
+    "line_end": 1213,
+    "source_anchor": "第92.395条"
+  },
+  "article:92.397": {
+    "node_id": "article:92.397",
+    "type": "article",
+    "title": "第92.397条 持证人的责任",
+    "line_start": 1214,
+    "line_end": 1237,
+    "source_anchor": "第92.397条"
+  },
+  "article:92.403": {
+    "node_id": "article:92.403",
+    "type": "article",
+    "title": "第92.403条 依据型号合格证的生产管理",
+    "line_start": 1238,
+    "line_end": 1251,
+    "source_anchor": "第92.403条"
+  },
+  "article:92.451": {
+    "node_id": "article:92.451",
+    "type": "article",
+    "title": "第92.451条 适用范围",
+    "line_start": 1254,
+    "line_end": 1257,
+    "source_anchor": "第92.451条"
+  },
+  "article:92.453": {
+    "node_id": "article:92.453",
+    "type": "article",
+    "title": "第92.453条 条取得与其适航批准类别相应的适航证件。",
+    "line_start": 1749,
+    "line_end": 1766,
+    "source_anchor": "第92.453条"
+  },
+  "article:92.455": {
+    "node_id": "article:92.455",
+    "type": "article",
+    "title": "第92.455条 适航证的申请书和申请文件",
+    "line_start": 1279,
+    "line_end": 1284,
+    "source_anchor": "第92.455条"
+  },
+  "article:92.457": {
+    "node_id": "article:92.457",
+    "type": "article",
+    "title": "第92.457条 适航证的适航检查",
+    "line_start": 1285,
+    "line_end": 1288,
+    "source_anchor": "第92.457条"
+  },
+  "article:92.459": {
+    "node_id": "article:92.459",
+    "type": "article",
+    "title": "第92.459条 适航证的颁发和更改",
+    "line_start": 1289,
+    "line_end": 1300,
+    "source_anchor": "第92.459条"
+  },
+  "article:92.461": {
+    "node_id": "article:92.461",
+    "type": "article",
+    "title": "第92.461条 特殊适航证的限制",
+    "line_start": 1301,
+    "line_end": 1305,
+    "source_anchor": "第92.461条"
+  },
+  "article:92.463": {
+    "node_id": "article:92.463",
+    "type": "article",
+    "title": "第92.463条 民用无人驾驶航空器系统适航证的有效",
+    "line_start": 1306,
+    "line_end": 1311,
+    "source_anchor": "第92.463条"
+  },
+  "article:92.465": {
+    "node_id": "article:92.465",
+    "type": "article",
+    "title": "第92.465条 民用无人驾驶航空器系统适航证的转让",
+    "line_start": 1312,
+    "line_end": 1315,
+    "source_anchor": "第92.465条"
+  },
+  "article:92.467": {
+    "node_id": "article:92.467",
+    "type": "article",
+    "title": "第92.467条 特许飞行证的申请书和申请文件",
+    "line_start": 1316,
+    "line_end": 1325,
+    "source_anchor": "第92.467条"
+  },
+  "article:92.471": {
+    "node_id": "article:92.471",
+    "type": "article",
+    "title": "第92.471条 特许飞行证的适航检查和颁发",
+    "line_start": 1326,
+    "line_end": 1329,
+    "source_anchor": "第92.471条"
+  },
+  "article:92.473": {
+    "node_id": "article:92.473",
+    "type": "article",
+    "title": "第92.473条 特许飞行的基本要求和限制",
+    "line_start": 1330,
+    "line_end": 1348,
+    "source_anchor": "第92.473条"
+  },
+  "article:92.475": {
+    "node_id": "article:92.475",
+    "type": "article",
+    "title": "第92.475条 特许飞行证的有效期",
+    "line_start": 1349,
+    "line_end": 1351,
+    "source_anchor": "第92.475条"
+  },
+  "article:92.477": {
+    "node_id": "article:92.477",
+    "type": "article",
+    "title": "第92.477条 出口适航证的申请书和申请文件",
+    "line_start": 1352,
+    "line_end": 1354,
+    "source_anchor": "第92.477条"
+  },
+  "article:92.479": {
+    "node_id": "article:92.479",
+    "type": "article",
+    "title": "第92.479条 出口适航证的颁发",
+    "line_start": 1355,
+    "line_end": 1366,
+    "source_anchor": "第92.479条"
+  },
+  "article:92.481": {
+    "node_id": "article:92.481",
+    "type": "article",
+    "title": "第92.481条 出口人的责任",
+    "line_start": 1367,
+    "line_end": 1386,
+    "source_anchor": "第92.481条"
+  },
+  "section:4": {
+    "node_id": "section:4",
+    "type": "section",
+    "title": "第四节 经营要求",
+    "line_start": 2119,
+    "line_end": 2155,
+    "source_anchor": "第四节"
+  },
+  "article:92.483": {
+    "node_id": "article:92.483",
+    "type": "article",
+    "title": "第92.483条 标牌或者标记",
+    "line_start": 1389,
+    "line_end": 1419,
+    "source_anchor": "第92.483条"
+  },
+  "section:5": {
+    "node_id": "section:5",
+    "type": "section",
+    "title": "第五节 审定类运行要求",
+    "line_start": 2156,
+    "line_end": 2330,
+    "source_anchor": "第五节"
+  },
+  "chapter:D": {
+    "node_id": "chapter:D",
+    "type": "chapter",
+    "title": "D章 适航管理",
+    "line_start": 728,
+    "line_end": 1419,
+    "source_anchor": "D章"
+  },
+  "article:92.501": {
+    "node_id": "article:92.501",
+    "type": "article",
+    "title": "第92.501条 管理原则",
+    "line_start": 1423,
+    "line_end": 1428,
+    "source_anchor": "第92.501条"
+  },
+  "article:92.503": {
+    "node_id": "article:92.503",
+    "type": "article",
+    "title": "第92.503条 基本要求",
+    "line_start": 1429,
+    "line_end": 1446,
+    "source_anchor": "第92.503条"
+  },
+  "article:92.509": {
+    "node_id": "article:92.509",
+    "type": "article",
+    "title": "第92.509条 一般规定",
+    "line_start": 1449,
+    "line_end": 1458,
+    "source_anchor": "第92.509条"
+  },
+  "article:92.511": {
+    "node_id": "article:92.511",
+    "type": "article",
+    "title": "第92.511条 空域划设",
+    "line_start": 1459,
+    "line_end": 1472,
+    "source_anchor": "第92.511条"
+  },
+  "article:92.513": {
+    "node_id": "article:92.513",
+    "type": "article",
+    "title": "第92.513条 航线划设",
+    "line_start": 1473,
+    "line_end": 1483,
+    "source_anchor": "第92.513条"
+  },
+  "article:92.515": {
+    "node_id": "article:92.515",
+    "type": "article",
+    "title": "第92.515条 管制空域信息发布",
+    "line_start": 1484,
+    "line_end": 1495,
+    "source_anchor": "第92.515条"
+  },
+  "article:92.517": {
+    "node_id": "article:92.517",
+    "type": "article",
+    "title": "第92.517条 空域容量管理",
+    "line_start": 1496,
+    "line_end": 1504,
+    "source_anchor": "第92.517条"
+  },
+  "article:92.519": {
+    "node_id": "article:92.519",
+    "type": "article",
+    "title": "第92.519条 空域保持能力",
+    "line_start": 1505,
+    "line_end": 1507,
+    "source_anchor": "第92.519条"
+  },
+  "article:92.521": {
+    "node_id": "article:92.521",
+    "type": "article",
+    "title": "第92.521条 空域被监视能力",
+    "line_start": 1508,
+    "line_end": 1516,
+    "source_anchor": "第92.521条"
+  },
+  "article:92.525": {
+    "node_id": "article:92.525",
+    "type": "article",
+    "title": "第92.525条 一般规定",
+    "line_start": 1519,
+    "line_end": 1539,
+    "source_anchor": "第92.525条"
+  },
+  "article:92.527": {
+    "node_id": "article:92.527",
+    "type": "article",
+    "title": "第92.527条 民用无人驾驶航空器航行服务提供方要",
+    "line_start": 1540,
+    "line_end": 1558,
+    "source_anchor": "第92.527条"
+  },
+  "article:92.529": {
+    "node_id": "article:92.529",
+    "type": "article",
+    "title": "第92.529条 服务协议与合同",
+    "line_start": 1559,
+    "line_end": 1571,
+    "source_anchor": "第92.529条"
+  },
+  "article:92.531": {
+    "node_id": "article:92.531",
+    "type": "article",
+    "title": "第92.531条 间隔服务",
+    "line_start": 1572,
+    "line_end": 1579,
+    "source_anchor": "第92.531条"
+  },
+  "article:92.533": {
+    "node_id": "article:92.533",
+    "type": "article",
+    "title": "第92.533条 流量管理服务",
+    "line_start": 1580,
+    "line_end": 1590,
+    "source_anchor": "第92.533条"
+  },
+  "article:92.535": {
+    "node_id": "article:92.535",
+    "type": "article",
+    "title": "第92.535条 飞行活动申请服务",
+    "line_start": 1591,
+    "line_end": 1603,
+    "source_anchor": "第92.535条"
+  },
+  "article:92.537": {
+    "node_id": "article:92.537",
+    "type": "article",
+    "title": "第92.537条 空域风险评估服务",
+    "line_start": 1604,
+    "line_end": 1608,
+    "source_anchor": "第92.537条"
+  },
+  "article:92.539": {
+    "node_id": "article:92.539",
+    "type": "article",
+    "title": "第92.539条 空中交通管理机构协同服务",
+    "line_start": 1609,
+    "line_end": 1618,
+    "source_anchor": "第92.539条"
+  },
+  "article:92.541": {
+    "node_id": "article:92.541",
+    "type": "article",
+    "title": "第92.541条 运行识别服务",
+    "line_start": 1619,
+    "line_end": 1624,
+    "source_anchor": "第92.541条"
+  },
+  "article:92.543": {
+    "node_id": "article:92.543",
+    "type": "article",
+    "title": "第92.543条 交通态势信息服务",
+    "line_start": 1625,
+    "line_end": 1628,
+    "source_anchor": "第92.543条"
+  },
+  "article:92.545": {
+    "node_id": "article:92.545",
+    "type": "article",
+    "title": "第92.545条 运行环境信息服务",
+    "line_start": 1629,
+    "line_end": 1640,
+    "source_anchor": "第92.545条"
+  },
+  "article:92.547": {
+    "node_id": "article:92.547",
+    "type": "article",
+    "title": "第92.547条 记录与统计分析服务",
+    "line_start": 1641,
+    "line_end": 1648,
+    "source_anchor": "第92.547条"
+  },
+  "article:92.549": {
+    "node_id": "article:92.549",
+    "type": "article",
+    "title": "第92.549条 飞行计划设计服务",
+    "line_start": 1649,
+    "line_end": 1652,
+    "source_anchor": "第92.549条"
+  },
+  "chapter:E": {
+    "node_id": "chapter:E",
+    "type": "chapter",
+    "title": "E章 空中交通管理",
+    "line_start": 1420,
+    "line_end": 1652,
+    "source_anchor": "E章"
+  },
+  "article:92.601": {
+    "node_id": "article:92.601",
+    "type": "article",
+    "title": "第92.601条 运行人的基本要求",
+    "line_start": 1656,
+    "line_end": 1674,
+    "source_anchor": "第92.601条"
+  },
+  "article:92.603": {
+    "node_id": "article:92.603",
+    "type": "article",
+    "title": "第92.603条 运营许可适用范围",
+    "line_start": 1675,
+    "line_end": 1690,
+    "source_anchor": "第92.603条"
+  },
+  "article:92.605": {
+    "node_id": "article:92.605",
+    "type": "article",
+    "title": "第92.605条 职责划分",
+    "line_start": 1691,
+    "line_end": 1706,
+    "source_anchor": "第92.605条"
+  },
+  "article:92.611": {
+    "node_id": "article:92.611",
+    "type": "article",
+    "title": "第92.611条 涉及酒精及药物等的限制",
+    "line_start": 1709,
+    "line_end": 1718,
+    "source_anchor": "第92.611条"
+  },
+  "article:92.613": {
+    "node_id": "article:92.613",
+    "type": "article",
+    "title": "第92.613条 电子围栏应用",
+    "line_start": 1719,
+    "line_end": 1734,
+    "source_anchor": "第92.613条"
+  },
+  "article:92.615": {
+    "node_id": "article:92.615",
+    "type": "article",
+    "title": "第92.615条 运行控制要求",
+    "line_start": 1735,
+    "line_end": 1745,
+    "source_anchor": "第92.615条"
+  },
+  "article:92.617": {
+    "node_id": "article:92.617",
+    "type": "article",
+    "title": "第92.617条 民用无人驾驶航空器系统及设备要求",
+    "line_start": 1746,
+    "line_end": 1748,
+    "source_anchor": "第92.617条"
+  },
+  "article:92.619": {
+    "node_id": "article:92.619",
+    "type": "article",
+    "title": "第92.619条 持续适航要求",
+    "line_start": 1767,
+    "line_end": 1827,
+    "source_anchor": "第92.619条"
+  },
+  "article:92.621": {
+    "node_id": "article:92.621",
+    "type": "article",
+    "title": "第92.621条 报告和自愿报告",
+    "line_start": 1828,
+    "line_end": 1831,
+    "source_anchor": "第92.621条"
+  },
+  "article:92.623": {
+    "node_id": "article:92.623",
+    "type": "article",
+    "title": "第92.623条 飞行前准备",
+    "line_start": 1832,
+    "line_end": 1850,
+    "source_anchor": "第92.623条"
+  },
+  "article:92.625": {
+    "node_id": "article:92.625",
+    "type": "article",
+    "title": "第92.625条 飞行区域限制",
+    "line_start": 1851,
+    "line_end": 1864,
+    "source_anchor": "第92.625条"
+  },
+  "article:92.627": {
+    "node_id": "article:92.627",
+    "type": "article",
+    "title": "第92.627条 高度表拨正程序",
+    "line_start": 1865,
+    "line_end": 1870,
+    "source_anchor": "第92.627条"
+  },
+  "article:92.629": {
+    "node_id": "article:92.629",
+    "type": "article",
+    "title": "第92.629条 避让规则",
+    "line_start": 1871,
+    "line_end": 1876,
+    "source_anchor": "第92.629条"
+  },
+  "article:92.631": {
+    "node_id": "article:92.631",
+    "type": "article",
+    "title": "第92.631条 视距内运行",
+    "line_start": 1877,
+    "line_end": 1887,
+    "source_anchor": "第92.631条"
+  },
+  "article:92.633": {
+    "node_id": "article:92.633",
+    "type": "article",
+    "title": "第92.633条 超视距运行",
+    "line_start": 1888,
+    "line_end": 1898,
+    "source_anchor": "第92.633条"
+  },
+  "article:92.634": {
+    "node_id": "article:92.634",
+    "type": "article",
+    "title": "第92.634条 载运危险品的要求",
+    "line_start": 1899,
+    "line_end": 1901,
+    "source_anchor": "第92.634条"
+  },
+  "article:92.635": {
+    "node_id": "article:92.635",
+    "type": "article",
+    "title": "第92.635条 农用无人驾驶航空器运行",
+    "line_start": 1902,
+    "line_end": 1920,
+    "source_anchor": "第92.635条"
+  },
+  "article:92.636": {
+    "node_id": "article:92.636",
+    "type": "article",
+    "title": "第92.636条 实施民用无人驾驶航空器系统分布式操",
+    "line_start": 1921,
+    "line_end": 1925,
+    "source_anchor": "第92.636条"
+  },
+  "article:92.637": {
+    "node_id": "article:92.637",
+    "type": "article",
+    "title": "第92.637条 外国民用无人驾驶航空器和运行人在中",
+    "line_start": 1926,
+    "line_end": 1931,
+    "source_anchor": "第92.637条"
+  },
+  "article:92.639": {
+    "node_id": "article:92.639",
+    "type": "article",
+    "title": "第92.639条 中华人民共和国国籍登记的民用无人驾",
+    "line_start": 1932,
+    "line_end": 1939,
+    "source_anchor": "第92.639条"
+  },
+  "article:92.641": {
+    "node_id": "article:92.641",
+    "type": "article",
+    "title": "第92.641条 监督和检查",
+    "line_start": 1940,
+    "line_end": 1955,
+    "source_anchor": "第92.641条"
+  },
+  "article:92.643": {
+    "node_id": "article:92.643",
+    "type": "article",
+    "title": "第92.643条 运营种类",
+    "line_start": 1958,
+    "line_end": 1972,
+    "source_anchor": "第92.643条"
+  },
+  "article:92.645": {
+    "node_id": "article:92.645",
+    "type": "article",
+    "title": "第92.645条 颁发条件",
+    "line_start": 1973,
+    "line_end": 1984,
+    "source_anchor": "第92.645条"
+  },
+  "article:92.647": {
+    "node_id": "article:92.647",
+    "type": "article",
+    "title": "第92.647条 申请材料",
+    "line_start": 1985,
+    "line_end": 2006,
+    "source_anchor": "第92.647条"
+  },
+  "article:92.649": {
+    "node_id": "article:92.649",
+    "type": "article",
+    "title": "第92.649条 局方审查",
+    "line_start": 2007,
+    "line_end": 2023,
+    "source_anchor": "第92.649条"
+  },
+  "article:92.651": {
+    "node_id": "article:92.651",
+    "type": "article",
+    "title": "第92.651条 证件颁发",
+    "line_start": 2024,
+    "line_end": 2030,
+    "source_anchor": "第92.651条"
+  },
+  "article:92.653": {
+    "node_id": "article:92.653",
+    "type": "article",
+    "title": "第92.653条 证件内容",
+    "line_start": 2031,
+    "line_end": 2049,
+    "source_anchor": "第92.653条"
+  },
+  "article:92.655": {
+    "node_id": "article:92.655",
+    "type": "article",
+    "title": "第92.655条 有效期限",
+    "line_start": 2050,
+    "line_end": 2061,
+    "source_anchor": "第92.655条"
+  },
+  "article:92.657": {
+    "node_id": "article:92.657",
+    "type": "article",
+    "title": "第92.657条 保存和使用",
+    "line_start": 2062,
+    "line_end": 2073,
+    "source_anchor": "第92.657条"
+  },
+  "article:92.659": {
+    "node_id": "article:92.659",
+    "type": "article",
+    "title": "第92.659条 运营合格证的修改",
+    "line_start": 2074,
+    "line_end": 2083,
+    "source_anchor": "第92.659条"
+  },
+  "article:92.661": {
+    "node_id": "article:92.661",
+    "type": "article",
+    "title": "第92.661条 运营规范的修改",
+    "line_start": 2084,
+    "line_end": 2096,
+    "source_anchor": "第92.661条"
+  },
+  "article:92.663": {
+    "node_id": "article:92.663",
+    "type": "article",
+    "title": "第92.663条 证件更新",
+    "line_start": 2097,
+    "line_end": 2104,
+    "source_anchor": "第92.663条"
+  },
+  "article:92.665": {
+    "node_id": "article:92.665",
+    "type": "article",
+    "title": "第92.665条 撤销和注销",
+    "line_start": 2105,
+    "line_end": 2118,
+    "source_anchor": "第92.665条"
+  },
+  "article:92.667": {
+    "node_id": "article:92.667",
+    "type": "article",
+    "title": "第92.667条 一般规定",
+    "line_start": 2121,
+    "line_end": 2134,
+    "source_anchor": "第92.667条"
+  },
+  "article:92.669": {
+    "node_id": "article:92.669",
+    "type": "article",
+    "title": "第92.669条 责任保险",
+    "line_start": 2135,
+    "line_end": 2136,
+    "source_anchor": "第92.669条"
+  },
+  "article:92.671": {
+    "node_id": "article:92.671",
+    "type": "article",
+    "title": "第92.671条 信息报送和评价",
+    "line_start": 2137,
+    "line_end": 2155,
+    "source_anchor": "第92.671条"
+  },
+  "article:92.673": {
+    "node_id": "article:92.673",
+    "type": "article",
+    "title": "第92.673条 运行人基本运行责任",
+    "line_start": 2158,
+    "line_end": 2173,
+    "source_anchor": "第92.673条"
+  },
+  "article:92.675": {
+    "node_id": "article:92.675",
+    "type": "article",
+    "title": "第92.675条 安全管理制度",
+    "line_start": 2174,
+    "line_end": 2176,
+    "source_anchor": "第92.675条"
+  },
+  "article:92.677": {
+    "node_id": "article:92.677",
+    "type": "article",
+    "title": "第92.677条 安全关键服务",
+    "line_start": 2177,
+    "line_end": 2179,
+    "source_anchor": "第92.677条"
+  },
+  "article:92.679": {
+    "node_id": "article:92.679",
+    "type": "article",
+    "title": "第92.679条 指挥和控制链路(C2 链路)",
+    "line_start": 2180,
+    "line_end": 2186,
+    "source_anchor": "第92.679条"
+  },
+  "article:92.681": {
+    "node_id": "article:92.681",
+    "type": "article",
+    "title": "第92.681条 遥控站安全运行",
+    "line_start": 2187,
+    "line_end": 2193,
+    "source_anchor": "第92.681条"
+  },
+  "article:92.683": {
+    "node_id": "article:92.683",
+    "type": "article",
+    "title": "第92.683条 仪表、设备和飞行文件",
+    "line_start": 2194,
+    "line_end": 2209,
+    "source_anchor": "第92.683条"
+  },
+  "article:92.685": {
+    "node_id": "article:92.685",
+    "type": "article",
+    "title": "第92.685条 飞行机组成员要求",
+    "line_start": 2210,
+    "line_end": 2226,
+    "source_anchor": "第92.685条"
+  },
+  "article:92.687": {
+    "node_id": "article:92.687",
+    "type": "article",
+    "title": "第92.687条 机长的职责和权限",
+    "line_start": 2227,
+    "line_end": 2240,
+    "source_anchor": "第92.687条"
+  },
+  "article:92.689": {
+    "node_id": "article:92.689",
+    "type": "article",
+    "title": "第92.689条 国际运行要求",
+    "line_start": 2241,
+    "line_end": 2246,
+    "source_anchor": "第92.689条"
+  },
+  "article:92.691": {
+    "node_id": "article:92.691",
+    "type": "article",
+    "title": "第92.691条 管理人员要求",
+    "line_start": 2247,
+    "line_end": 2252,
+    "source_anchor": "第92.691条"
+  },
+  "article:92.693": {
+    "node_id": "article:92.693",
+    "type": "article",
+    "title": "第92.693条 运行手册要求",
+    "line_start": 2253,
+    "line_end": 2257,
+    "source_anchor": "第92.693条"
+  },
+  "article:92.695": {
+    "node_id": "article:92.695",
+    "type": "article",
+    "title": "第92.695条 飞行运行实施要求",
+    "line_start": 2258,
+    "line_end": 2263,
+    "source_anchor": "第92.695条"
+  },
+  "article:92.697": {
+    "node_id": "article:92.697",
+    "type": "article",
+    "title": "第92.697条 指挥和控制链路(C2 链路)运行管理",
+    "line_start": 2264,
+    "line_end": 2274,
+    "source_anchor": "第92.697条"
+  },
+  "article:92.699": {
+    "node_id": "article:92.699",
+    "type": "article",
+    "title": "第92.699条 协议服务及持续符合性要求",
+    "line_start": 2275,
+    "line_end": 2283,
+    "source_anchor": "第92.699条"
+  },
+  "article:92.701": {
+    "node_id": "article:92.701",
+    "type": "article",
+    "title": "第92.701条 特殊运行要求",
+    "line_start": 2284,
+    "line_end": 2295,
+    "source_anchor": "第92.701条"
+  },
+  "article:92.703": {
+    "node_id": "article:92.703",
+    "type": "article",
+    "title": "第92.703条 性能使用和重量限制",
+    "line_start": 2296,
+    "line_end": 2300,
+    "source_anchor": "第92.703条"
+  },
+  "article:92.705": {
+    "node_id": "article:92.705",
+    "type": "article",
+    "title": "第92.705条 通信导航监视设备",
+    "line_start": 2301,
+    "line_end": 2303,
+    "source_anchor": "第92.705条"
+  },
+  "article:92.707": {
+    "node_id": "article:92.707",
+    "type": "article",
+    "title": "第92.707条 维修管理体系",
+    "line_start": 2304,
+    "line_end": 2323,
+    "source_anchor": "第92.707条"
+  },
+  "article:92.709": {
+    "node_id": "article:92.709",
+    "type": "article",
+    "title": "第92.709条 手册和记录",
+    "line_start": 2324,
+    "line_end": 2330,
+    "source_anchor": "第92.709条"
+  },
+  "chapter:F": {
+    "node_id": "chapter:F",
+    "type": "chapter",
+    "title": "F章 运行管理",
+    "line_start": 1653,
+    "line_end": 2330,
+    "source_anchor": "F章"
+  },
+  "article:92.1001": {
+    "node_id": "article:92.1001",
+    "type": "article",
+    "title": "第92.1001条 违反适航管理的处罚",
+    "line_start": 2333,
+    "line_end": 2373,
+    "source_anchor": "第92.1001条"
+  },
+  "article:92.1003": {
+    "node_id": "article:92.1003",
+    "type": "article",
+    "title": "第92.1003条 违反登记管理的处罚",
+    "line_start": 2374,
+    "line_end": 2377,
+    "source_anchor": "第92.1003条"
+  },
+  "article:92.1005": {
+    "node_id": "article:92.1005",
+    "type": "article",
+    "title": "第92.1005条 违反证照管理的处罚",
+    "line_start": 2378,
+    "line_end": 2395,
+    "source_anchor": "第92.1005条"
+  },
+  "article:92.1007": {
+    "node_id": "article:92.1007",
+    "type": "article",
+    "title": "第92.1007条 欺骗、贿赂取得许可的处罚",
+    "line_start": 2396,
+    "line_end": 2406,
+    "source_anchor": "第92.1007条"
+  },
+  "article:92.1009": {
+    "node_id": "article:92.1009",
+    "type": "article",
+    "title": "第92.1009条 违反运行规定的处罚",
+    "line_start": 2407,
+    "line_end": 2437,
+    "source_anchor": "第92.1009条"
+  },
+  "article:92.1011": {
+    "node_id": "article:92.1011",
+    "type": "article",
+    "title": "第92.1011条 违反经营规定的处罚",
+    "line_start": 2438,
+    "line_end": 2456,
+    "source_anchor": "第92.1011条"
+  },
+  "article:92.1013": {
+    "node_id": "article:92.1013",
+    "type": "article",
+    "title": "第92.1013条 涉及酒精或药物的违禁行为的处罚",
+    "line_start": 2457,
+    "line_end": 2465,
+    "source_anchor": "第92.1013条"
+  },
+  "article:92.1015": {
+    "node_id": "article:92.1015",
+    "type": "article",
+    "title": "第92.1015条 考试作弊行为的处罚",
+    "line_start": 2466,
+    "line_end": 2479,
+    "source_anchor": "第92.1015条"
+  },
+  "article:92.1017": {
+    "node_id": "article:92.1017",
+    "type": "article",
+    "title": "第92.1017条 受到刑事处罚后执照的处理",
+    "line_start": 2480,
+    "line_end": 2482,
+    "source_anchor": "第92.1017条"
+  },
+  "article:92.1019": {
+    "node_id": "article:92.1019",
+    "type": "article",
+    "title": "第92.1019条 信用管理",
+    "line_start": 2483,
+    "line_end": 2498,
+    "source_anchor": "第92.1019条"
+  },
+  "article:92.1021": {
+    "node_id": "article:92.1021",
+    "type": "article",
+    "title": "第92.1021条 经营评价",
+    "line_start": 2499,
+    "line_end": 2502,
+    "source_anchor": "第92.1021条"
+  },
+  "chapter:M": {
+    "node_id": "chapter:M",
+    "type": "chapter",
+    "title": "M章 法律责任",
+    "line_start": 2331,
+    "line_end": 2502,
+    "source_anchor": "M章"
+  },
+  "article:92.1101": {
+    "node_id": "article:92.1101",
+    "type": "article",
+    "title": "第92.1101条 自备动力系统的飞行玩具要求",
+    "line_start": 2505,
+    "line_end": 2506,
+    "source_anchor": "第92.1101条"
+  },
+  "article:92.1103": {
+    "node_id": "article:92.1103",
+    "type": "article",
+    "title": "第92.1103条 施行",
+    "line_start": 2507,
+    "line_end": 2510,
+    "source_anchor": "第92.1103条"
+  },
+  "chapter:N": {
+    "node_id": "chapter:N",
+    "type": "chapter",
+    "title": "N章 附   则",
+    "line_start": 2503,
+    "line_end": 2510,
+    "source_anchor": "N章"
+  }
+}

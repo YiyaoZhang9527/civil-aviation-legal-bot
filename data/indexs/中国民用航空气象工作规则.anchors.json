@@ -1,0 +1,1106 @@
+{
+  "law:中国民用航空气象工作规则": {
+    "node_id": "law:中国民用航空气象工作规则",
+    "type": "law",
+    "title": "提供航空气象服务的范围包括中华人民共和国领域内以及根据我国缔结或者参加的国际条约规定的区域。",
+    "line_start": 0,
+    "line_end": 575,
+    "source_anchor": "提供航空气象服务的范围包括中华人民共和国领域内以及根据我国缔结或者参加的国际条约规定的区域。"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为规范民用航空气象工作,保障民用航空活动的安全、正常和效率,根据《中华人民共和国民用航空法》《中华人民共和国气象法》,制定本规则。",
+    "line_start": 1,
+    "line_end": 1,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规则适用于中华人民共和国领域内的民用航空气象工作。从事民用航空气象工作及与民用航空气象有关的单位和个人,应当遵守本规则。",
+    "line_start": 2,
+    "line_end": 2,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 民用航空气象工作基本内容包括观测与探测气象要素,收集与处理气象资料,制作与发布航空气象产品,提供航空气象服务。",
+    "line_start": 3,
+    "line_end": 4,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 民用航空气象服务机构依照本规则履行民用航空气象工作职责。民用机场应当设置民用航空气象服务机构。本规则所称的民用航空气象服务机构包括机场气象站、机场气象台、民航地区气象中心、民航气象中心。",
+    "line_start": 5,
+    "line_end": 5,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 民用航空气象服务机构应当配备满足履行职责要求的气象专业人员和气象设施设备,建立相应的气象工作制度。",
+    "line_start": 6,
+    "line_end": 6,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 中国民用航空局(以下简称民航局)负责统一管理全国民用航空气象工作,民航地区管理局(以下简称地区管理局)负责监督管理本地区民用航空气象工作。",
+    "line_start": 7,
+    "line_end": 7,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 民用航空气象发展和建设规划由民航局统一制定。规划应当服从国家和民航发展总体规划,以运行和用户需求为引导,坚持统一规划、科学合理、资源共享的原则。",
+    "line_start": 8,
+    "line_end": 8,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 中华人民共和国领域内以及根据我国缔结或者参加的国际条约规定的民用航空气象情报的交换,由民航局空中交通管理局负责组织实施。",
+    "line_start": 9,
+    "line_end": 9,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 民用航空气象服务机构应当按照气象探测资料共享、共用的原则,与国内从事气象工作的机构交换气象探测资料,向航空气象用户提供气象情报。",
+    "line_start": 10,
+    "line_end": 10,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 气象监视台违反第八十九条规定发布重要气象情报的,地区管理局应当责令其限期改正,人为责任原因错或漏发布重要气象情报并造成不良后果的,对气象监视台所在的单位处以3万元以下罚款。",
+    "line_start": 523,
+    "line_end": 523,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 机场气象台违反第一百条、第一百零四条规定发布机场警报和风切变警报的,地区管理局应当责令其限期改正,人为责任原因漏发布机场警报和风切变警报并造成不良后果的,对气象台所在的单位处以3万元以下罚款。",
+    "line_start": 524,
+    "line_end": 524,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 机场气象台违反第六十七条、第六十八条、第六十九、第七十条规定发布机场预报的,地区管理局应当责令其限期改正,机场气象台迟发或漏发布机场预报并造成不良后果的,对机场气象台所在单位处以1万元以上3万元以下罚款。",
+    "line_start": 525,
+    "line_end": 525,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 民航气象中心、民航地区气象中心违反第八十二条、第八十三条规定发布区域预报的地区管理局应当责令其限期改正,民航气象中心、民航地区气象中心迟发或漏发布区域预报并造成不良后果的,对民航气象中心、民航地区气象中心所在单位处以1万元以上3万元以下罚款。",
+    "line_start": 526,
+    "line_end": 526,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 民用航空气象服务机构违反第一百一十二条规定交换民用航空气象情报的,地区管理局应当责令其限期改正,民用航空气象服务机构错误或漏交换民用航空气象情报并造成不良后果的,对民用航空气象服务机构所在单位处以1万元以上3万元以下罚款。",
+    "line_start": 527,
+    "line_end": 527,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 民用航空气象服务机构违反第一百四十一条规定未向民用航空气象用户提供基本气象服务的,地区管理局应当责令其限期改正,逾期未改正或者造成不良后果的,对民用航空气象服务机构所在单位处以3万元以下罚款。",
+    "line_start": 528,
+    "line_end": 528,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 民用机场气象服务机构违反第一百六十三条、第一百六十五条、第一百七十条、第一百七十四条、第一百七十六条、第一百七十七条规定配备和使用气象设备的,地区管理局应当责令其限期改正,逾期未改正或者造成严重后果的,对民用机场气象服务机构所在单位处以1万元以上3万元以下罚款。",
+    "line_start": 529,
+    "line_end": 529,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 民用航空气象服务机构违反本规则第十九条规定运行的,地区管理局应当责令其改正;民用航空气象服务机构运行存在重大安全风险的,地区管理局应当责令其停止运行。",
+    "line_start": 530,
+    "line_end": 530,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 本规则自2016年4月28日起施行。2005年6月27日中国民用航空总局令第146号发布的《中国民用航空气象工作规则》同时废止。",
+    "line_start": 532,
+    "line_end": 575,
+    "source_anchor": "第十八条"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 一般规定",
+    "line_start": 446,
+    "line_end": 449,
+    "source_anchor": "第一节"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 机场气象台、机场气象站的气象观测人员违反第五十一条规定发布机场天气报告的,地区管理局应当责令其所在的单位限期改正,错或漏发布机场天气报告并造成不良后果的,对气象台、气象站所在的单位处以3万元以下罚款。",
+    "line_start": 522,
+    "line_end": 522,
+    "source_anchor": "第十九条"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 资料的获取和处理",
+    "line_start": 450,
+    "line_end": 467,
+    "source_anchor": "第二节"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 民航气象中心、民航地区气象中心、国际机场的气象台应当提供24小时不间断的民用航空气象服务;其他民用航空气象服务机构应当按规定的时间为航空器飞行提供航空气象服务。",
+    "line_start": 73,
+    "line_end": 74,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 民用航空气象服务机构不得安排未持有有效民用航空气象人员执照的人员独立从事民用航空气象观测、气象探测、气象预报及气象设备维护维修工作。",
+    "line_start": 75,
+    "line_end": 75,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 民用航空气象服务机构不得在民用航空气象观测、气象探测、气象预报及气象情报交换和发布过程中使用不符合民用航空气象设备技术要求的气象业务系统、设备。",
+    "line_start": 76,
+    "line_end": 76,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 民用航空气象服务机构应当建立制定、发布、修订和补充运行手册的制度,并保持运行手册持续有效。",
+    "line_start": 77,
+    "line_end": 77,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 民用航空气象服务机构的运行手册至少包括以下内容:",
+    "line_start": 78,
+    "line_end": 85,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 民用航空气象服务机构应当保存完整有效的运行手册,保存地点和方式应当便于气象人员查阅。",
+    "line_start": 86,
+    "line_end": 86,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 民用航空气象服务机构应当对发布的气象产品及设备的运行情况持续监控。",
+    "line_start": 87,
+    "line_end": 87,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 民用航空气象服务机构应当以适当的方式记录如下工作情况:",
+    "line_start": 88,
+    "line_end": 94,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 民用航空气象服务机构应当按照规定保存与飞行事故或者其他航空不安全事件相关的记录和资料。",
+    "line_start": 95,
+    "line_end": 95,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 民用航空气象服务机构应当按照规定统计和上报运行信息。",
+    "line_start": 96,
+    "line_end": 96,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 民用航空气象服务机构应当开展应急预案的培训与应急演练以及应急后评估工作,机场气象台、机场气象站的气象工作应急预案应当与所在机场的应急预案相衔接。",
+    "line_start": 97,
+    "line_end": 97,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 在以下情况下,民用航空气象服务机构应当组织实施试运行:",
+    "line_start": 98,
+    "line_end": 101,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 民用航空气象服务机构组织实施试运行时应当完成以下工作:",
+    "line_start": 102,
+    "line_end": 107,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 民用航空气象服务机构应当对试运行的情况进行评估,评估结果符合相关要求后方可业务运行。",
+    "line_start": 108,
+    "line_end": 108,
+    "source_anchor": "第三十三条"
+  },
+  "section:3": {
+    "node_id": "section:3",
+    "type": "section",
+    "title": "第三节 资料的保存",
+    "line_start": 468,
+    "line_end": 482,
+    "source_anchor": "第三节"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 气象服务机构",
+    "line_start": 13,
+    "line_end": 108,
+    "source_anchor": "第二章"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 在民用航空气象服务机构从事民用航空气象服务工作的人员,应当按照《民用航空气象人员执照管理规则》的要求,取得民用航空气象人员执照,并按规定保持有效。未持有有效执照的人员,不得在民用航空气象服务机构独立从事要求持照上岗的航空气象工作。",
+    "line_start": 110,
+    "line_end": 110,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 民用航空气象人员所在单位应当按照规定组织对民用航空气象人员的专业培训,民用航空气象人员应当按照规定接受岗前、岗位培训和考核。",
+    "line_start": 111,
+    "line_end": 111,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 符合下列条件的气象培训机构,可以从事与执照申请和执照注册相关的民用航空气象人员培训:",
+    "line_start": 112,
+    "line_end": 116,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 民用航空气象人员的岗前、岗位培训的时间和内容应当符合相关规定。",
+    "line_start": 117,
+    "line_end": 117,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 民航地区气象中心及有关气象台应当按规定承担其他民用航空气象服务机构的专业技术人员在本单位的岗位实习。",
+    "line_start": 118,
+    "line_end": 118,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 民用航空气象人员所在单位应当有计划地补充、培养专业技术人才,不断提高民用航空气象人员的业务素质。",
+    "line_start": 119,
+    "line_end": 119,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 民用航空气象服务机构应当为所属专业技术人员建立气象专业人员技术档案,气象专业人员技术档案主要包括人员执照、培训记录、业务考核等内容。",
+    "line_start": 120,
+    "line_end": 120,
+    "source_anchor": "第四十条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 气象人员资质与培训",
+    "line_start": 109,
+    "line_end": 120,
+    "source_anchor": "第三章"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 民用航空气象地面观测是由气象观测员在地面通过人工方式或利用设备对本机场及其跑道、进近着陆及起飞爬升地带的气象要素及其变化过程所进行的系统、连续地观察和测定的活动。",
+    "line_start": 123,
+    "line_end": 123,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 民用航空气象地面观测的项目包括云、主导能见度、垂直能见度、跑道视程、气象光学视程、天气现象、地面风、气压、气温、湿度、最高气温、最低气温、降水量和积雪深度等气象要素或量值。",
+    "line_start": 124,
+    "line_end": 124,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 民用航空气象地面观测的方式分为人工观测和自动观测,其中人工观测又包括目测和器测。",
+    "line_start": 125,
+    "line_end": 125,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 民用航空气象地面观测由机场气象台或者机场气象站组织,由气象观测员在观测值班室、观测平台或者观测场实施。观测环境和设备安装应符合探测环境的要求。",
+    "line_start": 126,
+    "line_end": 126,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 机场气象台、机场气象站应当设置气象观测室,气象观测室及其气象观测员的职责如下:",
+    "line_start": 127,
+    "line_end": 135,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 民用航空气象地面观测按观测内容分为例行观测、特殊观测和事故观测。",
+    "line_start": 136,
+    "line_end": 139,
+    "source_anchor": "第四十六条"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 民用航空气象服务机构应当依据本机场的最低运行标准、运行方式、航空运营人的运行标准等,与机场运行管理部门、空中交通服务部门、航空运营人共同协商制定或修订本机场特殊天气报告标准,并报所属地区管理局备案。",
+    "line_start": 140,
+    "line_end": 140,
+    "source_anchor": "第四十七条"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 民用航空气象地面观测按观测时次分为24小时观测、非24小时观测。",
+    "line_start": 141,
+    "line_end": 143,
+    "source_anchor": "第四十八条"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 气象观测人员应按照先室外后室内、先目测后器测的程序,遵照《民用航空气象地面观测规范》的规定进行观测。气象观测的数据应当具有代表性、准确性和比较性。",
+    "line_start": 144,
+    "line_end": 144,
+    "source_anchor": "第四十九条"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 气象观测人员应当按照民用航空气象地面观测记录的规定将观测记录分别记录在例行观测簿、特殊观测簿及事故观测簿。",
+    "line_start": 145,
+    "line_end": 145,
+    "source_anchor": "第五十条"
+  },
+  "article:51": {
+    "node_id": "article:51",
+    "type": "article",
+    "title": "第五十一条 机场气象台、机场气象站应当按照民用航空气象地面观测和报告的规定以电码格式和缩写明语形式编制、发布机场天气报告。",
+    "line_start": 146,
+    "line_end": 151,
+    "source_anchor": "第五十一条"
+  },
+  "article:52": {
+    "node_id": "article:52",
+    "type": "article",
+    "title": "第五十二条 民用航空气象服务机构应当按照民用航空气象自动气象观测系统数据输出格式的有关规定采集和存储自动气象观测系统、自动气象站的数据。",
+    "line_start": 152,
+    "line_end": 152,
+    "source_anchor": "第五十二条"
+  },
+  "article:53": {
+    "node_id": "article:53",
+    "type": "article",
+    "title": "第五十三条 气象探测是民用航空气象服务机构利用天气雷达、风廓线雷达、激光雷达、气象卫星、雷电探测、风切变探测等设备或者系统对气象要素以及天气系统所进行的观察和测量。",
+    "line_start": 154,
+    "line_end": 154,
+    "source_anchor": "第五十三条"
+  },
+  "article:54": {
+    "node_id": "article:54",
+    "type": "article",
+    "title": "第五十四条 气象探测设施设备的安装地点及其环境应当符合有关规定,满足探测气象要素的要求。",
+    "line_start": 155,
+    "line_end": 155,
+    "source_anchor": "第五十四条"
+  },
+  "article:55": {
+    "node_id": "article:55",
+    "type": "article",
+    "title": "第五十五条 民用航空气象服务机构应当根据天气状况、用户需求及业务工作的需要实施探测。",
+    "line_start": 156,
+    "line_end": 156,
+    "source_anchor": "第五十五条"
+  },
+  "article:56": {
+    "node_id": "article:56",
+    "type": "article",
+    "title": "第五十六条 在中华人民共和国领域内飞行的航空器,在飞行过程中应当按照有关规定进行气象观测和报告;具有中华人民共和国国籍的航空器,在国际航线上飞行时,应当按照有关规定进行气象观测和报告。航空器观测分为例行观测、特殊观测和其他非例行观测:",
+    "line_start": 157,
+    "line_end": 160,
+    "source_anchor": "第五十六条"
+  },
+  "article:57": {
+    "node_id": "article:57",
+    "type": "article",
+    "title": "第五十七条 空中交通服务部门收到航空器观测报告,应当及时通报给相应的民用航空气象服务机构。",
+    "line_start": 161,
+    "line_end": 161,
+    "source_anchor": "第五十七条"
+  },
+  "article:58": {
+    "node_id": "article:58",
+    "type": "article",
+    "title": "第五十八条 机场气象台、机场气象站收到话音方式的航空器观测报告,应当通过传真或者其他有效方式立即发送给本飞行情报区气象监视台、本地区气象中心。地区气象中心收到话音方式的航空器观测报告应当通过传真或者其他有效方式发送给民航气象中心。",
+    "line_start": 162,
+    "line_end": 162,
+    "source_anchor": "第五十八条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 气象观测与探测",
+    "line_start": 121,
+    "line_end": 162,
+    "source_anchor": "第四章"
+  },
+  "article:59": {
+    "node_id": "article:59",
+    "type": "article",
+    "title": "第五十九条 航空天气预报是气象预报员对机场、飞行情报区、管制区域等飞行空域预期气象要素的发生及变化所作出的分析和说明。航空天气预报包括机场预报、着陆预报、起飞预报、区域预报。",
+    "line_start": 165,
+    "line_end": 165,
+    "source_anchor": "第五十九条"
+  },
+  "article:60": {
+    "node_id": "article:60",
+    "type": "article",
+    "title": "第六十条 航空天气预报应当由民用航空气象服务机构按规定制作和发布。",
+    "line_start": 166,
+    "line_end": 166,
+    "source_anchor": "第六十条"
+  },
+  "article:61": {
+    "node_id": "article:61",
+    "type": "article",
+    "title": "第六十一条 除机场气象站以外的民用航空气象服务机构应当设置气象预报室。气象预报室及其气象预报员的职责如下:",
+    "line_start": 167,
+    "line_end": 174,
+    "source_anchor": "第六十一条"
+  },
+  "article:62": {
+    "node_id": "article:62",
+    "type": "article",
+    "title": "第六十二条 民用航空气象服务机构应当获取制作天气预报所需的如下主要资料和产品:",
+    "line_start": 175,
+    "line_end": 180,
+    "source_anchor": "第六十二条"
+  },
+  "article:63": {
+    "node_id": "article:63",
+    "type": "article",
+    "title": "第六十三条 民用航空气象服务机构应当至少采取以下措施提高民用航空气象预报质量:",
+    "line_start": 181,
+    "line_end": 184,
+    "source_anchor": "第六十三条"
+  },
+  "article:64": {
+    "node_id": "article:64",
+    "type": "article",
+    "title": "第六十四条 民用航空气象服务机构发布一份新的预报,即自动取消以前所发布的同类的、同一地点的、同一时段或者该时段的某一部分以及该时段的某一时刻的任何预报。",
+    "line_start": 185,
+    "line_end": 185,
+    "source_anchor": "第六十四条"
+  },
+  "article:65": {
+    "node_id": "article:65",
+    "type": "article",
+    "title": "第六十五条 民用航空气象服务机构应当持续检查已发布的航空天气预报,按规定及时更正、修订发布的预报。",
+    "line_start": 186,
+    "line_end": 186,
+    "source_anchor": "第六十五条"
+  },
+  "article:66": {
+    "node_id": "article:66",
+    "type": "article",
+    "title": "第六十六条 机场气象台制作的机场预报应当对其预报时段内机场预期的地面风、主导能见度、天气现象、云和气温进行分析和说明。",
+    "line_start": 188,
+    "line_end": 188,
+    "source_anchor": "第六十六条"
+  },
+  "article:67": {
+    "node_id": "article:67",
+    "type": "article",
+    "title": "第六十七条 机场气象台以TAF电码格式制作、发布的机场预报及其修订报、更正报应当符合相关规定。",
+    "line_start": 189,
+    "line_end": 189,
+    "source_anchor": "第六十七条"
+  },
+  "article:68": {
+    "node_id": "article:68",
+    "type": "article",
+    "title": "第六十八条 机场气象台应当按规定时间发布有效时段为9小时的机场预报(FC)。",
+    "line_start": 190,
+    "line_end": 190,
+    "source_anchor": "第六十八条"
+  },
+  "article:69": {
+    "node_id": "article:69",
+    "type": "article",
+    "title": "第六十九条 机场气象台应当在与本机场相关的本日首次飞行任务起飞前3小时发布第一份机场预报(FC),之后按规定时间连续发布机场预报(FC),直至当日飞行活动结束。",
+    "line_start": 191,
+    "line_end": 191,
+    "source_anchor": "第六十九条"
+  },
+  "article:70": {
+    "node_id": "article:70",
+    "type": "article",
+    "title": "第七十条 为国际和地区飞行提供服务的机场气象台应当按规定时间发布有效时段为24小时或者30小时的机场预报(FT)。",
+    "line_start": 192,
+    "line_end": 192,
+    "source_anchor": "第七十条"
+  },
+  "article:71": {
+    "node_id": "article:71",
+    "type": "article",
+    "title": "第七十一条 机场气象台对其发布的机场预报不能持续检查时,应当对已发布机场预报予以取消。",
+    "line_start": 193,
+    "line_end": 193,
+    "source_anchor": "第七十一条"
+  },
+  "article:72": {
+    "node_id": "article:72",
+    "type": "article",
+    "title": "第七十二条 机场气象台发布的机场预报修订报、机场预报更正报的有效时段应当与所修订的、所更正的机场预报的有效时段一致。",
+    "line_start": 194,
+    "line_end": 194,
+    "source_anchor": "第七十二条"
+  },
+  "article:73": {
+    "node_id": "article:73",
+    "type": "article",
+    "title": "第七十三条 着陆预报应当指明机场地面风、主导能见度、天气现象、云和垂直能见度中的一个或者几个气象要素的重大变化,以满足本场民用航空气象用户和距离本场1小时以内飞行时间的航空器的需要。",
+    "line_start": 196,
+    "line_end": 196,
+    "source_anchor": "第七十三条"
+  },
+  "article:74": {
+    "node_id": "article:74",
+    "type": "article",
+    "title": "第七十四条 机场气象台以趋势预报形式发布的着陆预报应当符合相关规定。",
+    "line_start": 197,
+    "line_end": 197,
+    "source_anchor": "第七十四条"
+  },
+  "article:75": {
+    "node_id": "article:75",
+    "type": "article",
+    "title": "第七十五条 着陆预报应当由附加在非自动生成的机场例行天气报告或者特殊天气报告之后的该机场气象情况预期趋势的简要说明组成。着陆预报的有效时段应当为2小时。",
+    "line_start": 198,
+    "line_end": 198,
+    "source_anchor": "第七十五条"
+  },
+  "article:76": {
+    "node_id": "article:76",
+    "type": "article",
+    "title": "第七十六条 起飞预报应当描述机场跑道及爬升区域特定时段内预期的地面风向和风速及其变化、气温、修正海平面气压以及民用航空气象服务机构与航空运营人之间协定的任何其他要素的情况。",
+    "line_start": 200,
+    "line_end": 200,
+    "source_anchor": "第七十六条"
+  },
+  "article:77": {
+    "node_id": "article:77",
+    "type": "article",
+    "title": "第七十七条 机场气象台提供的起飞预报应当符合相关规定。",
+    "line_start": 201,
+    "line_end": 201,
+    "source_anchor": "第七十七条"
+  },
+  "article:78": {
+    "node_id": "article:78",
+    "type": "article",
+    "title": "第七十八条 起飞预报应当在航空器预计起飞前3小时内向航空运营人和飞行机组提供。",
+    "line_start": 202,
+    "line_end": 202,
+    "source_anchor": "第七十八条"
+  },
+  "article:79": {
+    "node_id": "article:79",
+    "type": "article",
+    "title": "第七十九条 机场气象台应当不断检查已发布的起飞预报,达到修订条件时,及时发布修订预报。",
+    "line_start": 203,
+    "line_end": 203,
+    "source_anchor": "第七十九条"
+  },
+  "section:4": {
+    "node_id": "section:4",
+    "type": "section",
+    "title": "第四节 资料的使用",
+    "line_start": 483,
+    "line_end": 485,
+    "source_anchor": "第四节"
+  },
+  "article:80": {
+    "node_id": "article:80",
+    "type": "article",
+    "title": "第八十条 区域预报应当对航空器飞行的时间和空间范围内的大气温度、风、重要天气现象及与之结合的云进行分析和说明。",
+    "line_start": 205,
+    "line_end": 205,
+    "source_anchor": "第八十条"
+  },
+  "article:81": {
+    "node_id": "article:81",
+    "type": "article",
+    "title": "第八十一条 区域预报应当以缩写明语形式或者图表形式发布,主要包括:",
+    "line_start": 206,
+    "line_end": 208,
+    "source_anchor": "第八十一条"
+  },
+  "article:82": {
+    "node_id": "article:82",
+    "type": "article",
+    "title": "第八十二条 民航气象中心制作和发布的中、高层区域预报应当符合相关规定。",
+    "line_start": 209,
+    "line_end": 209,
+    "source_anchor": "第八十二条"
+  },
+  "article:83": {
+    "node_id": "article:83",
+    "type": "article",
+    "title": "第八十三条 民航地区气象中心制作的本地区中层区域预报、制作和发布的低层区域预报应当符合相关规定。",
+    "line_start": 210,
+    "line_end": 210,
+    "source_anchor": "第八十三条"
+  },
+  "article:84": {
+    "node_id": "article:84",
+    "type": "article",
+    "title": "第八十四条 民航气象中心以预告图形式发布的区域预报应当至少包括全国范围内的高层高空风和温度预告图、中层高空风和温度预告图、高层重要天气预告图、中层重要天气预告图。",
+    "line_start": 211,
+    "line_end": 211,
+    "source_anchor": "第八十四条"
+  },
+  "article:85": {
+    "node_id": "article:85",
+    "type": "article",
+    "title": "第八十五条 民航地区气象中心以预告图形式发布的区域预报应当包括低层高空风和温度预告图和低层重要天气预告图。以缩写明语形式发布的低层区域预报应当采用GAMET格式。",
+    "line_start": 212,
+    "line_end": 212,
+    "source_anchor": "第八十五条"
+  },
+  "article:86": {
+    "node_id": "article:86",
+    "type": "article",
+    "title": "第八十六条 民航气象中心应当收集民航地区气象中心发布的区域预报。",
+    "line_start": 213,
+    "line_end": 213,
+    "source_anchor": "第八十六条"
+  },
+  "article:87": {
+    "node_id": "article:87",
+    "type": "article",
+    "title": "第八十七条 高空风、高空温度预告图的发布间隔不大于12小时,重要天气预告图的发布间隔不大于6小时,GAMET形式的区域预报发布间隔不大于6小时。",
+    "line_start": 214,
+    "line_end": 214,
+    "source_anchor": "第八十七条"
+  },
+  "section:5": {
+    "node_id": "section:5",
+    "type": "section",
+    "title": "第五节 为搜寻和援救单位提供的服务",
+    "line_start": 387,
+    "line_end": 401,
+    "source_anchor": "第五节"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 航空天气预报",
+    "line_start": 163,
+    "line_end": 214,
+    "source_anchor": "第五章"
+  },
+  "article:88": {
+    "node_id": "article:88",
+    "type": "article",
+    "title": "第八十八条 重要气象情报应当对有关航路上发生或预期发生可能影响航空器飞行安全的天气现象,以及这些天气现象在时间和空间上的发展作出简要说明。",
+    "line_start": 217,
+    "line_end": 217,
+    "source_anchor": "第八十八条"
+  },
+  "article:89": {
+    "node_id": "article:89",
+    "type": "article",
+    "title": "第八十九条 气象监视台应当按照气象情报制作的规定以缩写明语形式制作、发布重要气象情报。重要气象情报应当以“SIGMET” 标明。",
+    "line_start": 218,
+    "line_end": 218,
+    "source_anchor": "第八十九条"
+  },
+  "article:90": {
+    "node_id": "article:90",
+    "type": "article",
+    "title": "第九十条 重要气象情报应当在有效时段开始前4小时内发布。有关火山灰云和热带气旋的重要气象情报,应当在有效时段开始前12小时内尽早发布。火山灰云和热带气旋的重要气象情报应当至少每6小时更新一次。",
+    "line_start": 219,
+    "line_end": 219,
+    "source_anchor": "第九十条"
+  },
+  "article:91": {
+    "node_id": "article:91",
+    "type": "article",
+    "title": "第九十一条 重要气象情报的有效时段应当不超过4小时,在出现火山灰云和热带气旋的情况下,重要气象情报的有效时段应当延长到6小时。",
+    "line_start": 220,
+    "line_end": 220,
+    "source_anchor": "第九十一条"
+  },
+  "article:92": {
+    "node_id": "article:92",
+    "type": "article",
+    "title": "第九十二条 当有关的天气现象在该地区不再出现或预期不再出现,气象监视台应当发布一份重要气象情报以取消相应的重要气象情报。",
+    "line_start": 221,
+    "line_end": 221,
+    "source_anchor": "第九十二条"
+  },
+  "article:93": {
+    "node_id": "article:93",
+    "type": "article",
+    "title": "第九十三条 气象监视台应当与相关航空情报部门保持密切合作,以保证重要气象情报中和航行通告中包含的火山灰情报一致。",
+    "line_start": 222,
+    "line_end": 222,
+    "source_anchor": "第九十三条"
+  },
+  "article:94": {
+    "node_id": "article:94",
+    "type": "article",
+    "title": "第九十四条 低空气象情报应当对未包括在已发布的低空飞行区域预报中有关航路上可能影响低空飞行安全的天气现象,以及这些现象在时间和空间上的发展作出简要说明。",
+    "line_start": 224,
+    "line_end": 224,
+    "source_anchor": "第九十四条"
+  },
+  "article:95": {
+    "node_id": "article:95",
+    "type": "article",
+    "title": "第九十五条 气象监视台应当按照气象情报制作的规定以缩写明语形式制作、发布低空气象情报。低空气象情报应当以“AIRMET”标明。",
+    "line_start": 225,
+    "line_end": 225,
+    "source_anchor": "第九十五条"
+  },
+  "article:96": {
+    "node_id": "article:96",
+    "type": "article",
+    "title": "第九十六条 低空气象情报的有效时段应当不超过4小时。",
+    "line_start": 226,
+    "line_end": 226,
+    "source_anchor": "第九十六条"
+  },
+  "article:97": {
+    "node_id": "article:97",
+    "type": "article",
+    "title": "第九十七条 当有关的天气现象在该地区不再出现或预期不再出现时,气象监视台应当发布一份低空气象情报以取消相应的低空气象情报。",
+    "line_start": 227,
+    "line_end": 227,
+    "source_anchor": "第九十七条"
+  },
+  "article:98": {
+    "node_id": "article:98",
+    "type": "article",
+    "title": "第九十八条 机场警报应当对可能严重影响地面航空器和机场设备、设施安全的气象情况作出简要说明。",
+    "line_start": 229,
+    "line_end": 229,
+    "source_anchor": "第九十八条"
+  },
+  "article:99": {
+    "node_id": "article:99",
+    "type": "article",
+    "title": "第九十九条 机场气象台应当依据机场警报的发布规定和本机场的最低运行标准、运行方式、航空运营人的运行标准等,与机场运行管理部门、空中交通服务部门、航空运营人共同协商制定本机场的机场警报发布标准。",
+    "line_start": 230,
+    "line_end": 230,
+    "source_anchor": "第九十九条"
+  },
+  "article:100": {
+    "node_id": "article:100",
+    "type": "article",
+    "title": "第一百条 当机场范围内发生或者预期发生达到发布机场警报标准的重要天气时,机场气象台应当按照机场警报的制作规定制作发布机场警报。",
+    "line_start": 231,
+    "line_end": 231,
+    "source_anchor": "第一百条"
+  },
+  "article:101": {
+    "node_id": "article:101",
+    "type": "article",
+    "title": "第一百一条 机场警报应当以缩写明语形式或与航空气象用户协商的格式发布。",
+    "line_start": 232,
+    "line_end": 232,
+    "source_anchor": "第一百一条"
+  },
+  "article:102": {
+    "node_id": "article:102",
+    "type": "article",
+    "title": "第一百二条 当所涉及的天气现象不再出现或预期不再出现时,机场气象台应当取消相应的机场警报。",
+    "line_start": 233,
+    "line_end": 233,
+    "source_anchor": "第一百二条"
+  },
+  "article:103": {
+    "node_id": "article:103",
+    "type": "article",
+    "title": "第一百三条 风切变警报应当对观测到的或者预期出现的风切变作出简要说明,对可能严重影响跑道道面及其上空500 米以下的处于着陆滑跑或起飞滑跑阶段、进近着陆、起飞爬升或盘旋进近的航空器的风切变作出简要说明。",
+    "line_start": 235,
+    "line_end": 235,
+    "source_anchor": "第一百三条"
+  },
+  "article:104": {
+    "node_id": "article:104",
+    "type": "article",
+    "title": "第一百四条 机场跑道区、进近着陆区及起飞爬升区发生或者预期发生风切变时,机场气象台应当按照相关规定制作发布风切变警报。",
+    "line_start": 236,
+    "line_end": 236,
+    "source_anchor": "第一百四条"
+  },
+  "article:105": {
+    "node_id": "article:105",
+    "type": "article",
+    "title": "第一百五条 风切变警报应当以缩写明语形式或与航空气象用户协商的格式发布。",
+    "line_start": 237,
+    "line_end": 237,
+    "source_anchor": "第一百五条"
+  },
+  "article:106": {
+    "node_id": "article:106",
+    "type": "article",
+    "title": "第一百六条 当风切变不再出现或者预期不再出现时,机场气象台应当取消相应的风切变警报。",
+    "line_start": 238,
+    "line_end": 238,
+    "source_anchor": "第一百六条"
+  },
+  "article:107": {
+    "node_id": "article:107",
+    "type": "article",
+    "title": "第一百七条 在使用自动探测设备探测风切变的机场气象台应当按照相关规定,由自动探测设备分发风切变告警。",
+    "line_start": 239,
+    "line_end": 239,
+    "source_anchor": "第一百七条"
+  },
+  "article:108": {
+    "node_id": "article:108",
+    "type": "article",
+    "title": "第一百八条 风切变告警应当提供关于观测到的如下风切变的最新简要情报:可能对最后进近航径上或最初起飞航径上的航空器以及在跑道上进行着陆滑跑或起飞滑跑的航空器造成不利影响的,风的变化达到风切变告警标准的风切变。",
+    "line_start": 240,
+    "line_end": 240,
+    "source_anchor": "第一百八条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 重要气象情报、低空气象情报、机场警报、风切变警报和告警",
+    "line_start": 215,
+    "line_end": 240,
+    "source_anchor": "第六章"
+  },
+  "article:109": {
+    "node_id": "article:109",
+    "type": "article",
+    "title": "第一百九条 飞行气象情报的种类如下:",
+    "line_start": 243,
+    "line_end": 247,
+    "source_anchor": "第一百九条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 飞行气象情报交换",
+    "line_start": 241,
+    "line_end": 281,
+    "source_anchor": "第七章"
+  },
+  "section:6": {
+    "node_id": "section:6",
+    "type": "section",
+    "title": "第六节 为航空情报服务机构提供的服务",
+    "line_start": 402,
+    "line_end": 410,
+    "source_anchor": "第六节"
+  },
+  "chapter:8": {
+    "node_id": "chapter:8",
+    "type": "chapter",
+    "title": "第八章 气象服务",
+    "line_start": 282,
+    "line_end": 410,
+    "source_anchor": "第八章"
+  },
+  "chapter:9": {
+    "node_id": "chapter:9",
+    "type": "chapter",
+    "title": "第九章 气象设施设备",
+    "line_start": 411,
+    "line_end": 444,
+    "source_anchor": "第九章"
+  },
+  "article:200": {
+    "node_id": "article:200",
+    "type": "article",
+    "title": "第二百条 民用航空气象资料的分类、立卷要遵循其形成规律,保持其有机的联系,一般按类别进行整理、立卷,按不同载体,分别存放在专用的固定场所和设施内;保存范围内的资料应当完整、准确、连续、清晰。",
+    "line_start": 473,
+    "line_end": 473,
+    "source_anchor": "第二百条"
+  },
+  "article:201": {
+    "node_id": "article:201",
+    "type": "article",
+    "title": "第二百一条 以磁带、磁盘、光盘、计算机硬盘等保存的机读载体资料,其读取设备及程序至少应当保留至资料保存结束期限。",
+    "line_start": 474,
+    "line_end": 474,
+    "source_anchor": "第二百一条"
+  },
+  "article:202": {
+    "node_id": "article:202",
+    "type": "article",
+    "title": "第二百二条 民用航空气象服务机构应当对机读载体资料备份保存,并根据存放资料载体的介质使用期限、物理化学属性和软硬件环境定期检查,进行清洁、复制或者迁移,并做好记录。在复制或者迁移过程中要注意对资料的保护,防止资料丢失和计算机病毒侵害。",
+    "line_start": 475,
+    "line_end": 475,
+    "source_anchor": "第二百二条"
+  },
+  "article:203": {
+    "node_id": "article:203",
+    "type": "article",
+    "title": "第二百三条 存放民用航空气象资料的固定场所和设备应当具有温度和湿度控制、防火、防水、防有害生物、防尘、防污染、防晒、防磁、防雷、防盗等功能。",
+    "line_start": 476,
+    "line_end": 477,
+    "source_anchor": "第二百三条"
+  },
+  "article:204": {
+    "node_id": "article:204",
+    "type": "article",
+    "title": "第二百四条 民用航空气象服务机构所保存的民用航空气象资料受到损害或者发生丢失时,应当及时修复或者弥补。",
+    "line_start": 478,
+    "line_end": 478,
+    "source_anchor": "第二百四条"
+  },
+  "article:205": {
+    "node_id": "article:205",
+    "type": "article",
+    "title": "第二百五条 民用航空气象服务机构应当定期查验民用航空气象资料的保存期限,对已超过保存期限的资料按照规定实施销毁。",
+    "line_start": 479,
+    "line_end": 479,
+    "source_anchor": "第二百五条"
+  },
+  "article:206": {
+    "node_id": "article:206",
+    "type": "article",
+    "title": "第二百六条 民用航空气象服务机构销毁资料应当填制销毁清册。清册应当包括:销毁资料的序号、名称、编号、密级、数量、来源、编制单位、编制时间、销毁理由、销毁时间和销毁方式以及相关人的签名栏等项。销毁清册应当永久保存。",
+    "line_start": 480,
+    "line_end": 480,
+    "source_anchor": "第二百六条"
+  },
+  "article:207": {
+    "node_id": "article:207",
+    "type": "article",
+    "title": "第二百七条 民航气象中心、民航地区中心、机场气象台、机场气象站应当按照民用航空气象信息系统业务运行管理的规定保存民用航空气象信息系统的资料。",
+    "line_start": 481,
+    "line_end": 481,
+    "source_anchor": "第二百七条"
+  },
+  "article:208": {
+    "node_id": "article:208",
+    "type": "article",
+    "title": "第二百八条 有关飞行事故或者不安全事件的民用航空气象资料,民用航空气象服务机构应当按照有关要求保存。",
+    "line_start": 482,
+    "line_end": 482,
+    "source_anchor": "第二百八条"
+  },
+  "article:209": {
+    "node_id": "article:209",
+    "type": "article",
+    "title": "第二百九条 民用航空气象人员使用资料时应当遵守民用航空气象服务机构资料管理的规定要求。",
+    "line_start": 484,
+    "line_end": 484,
+    "source_anchor": "第二百九条"
+  },
+  "chapter:10": {
+    "node_id": "chapter:10",
+    "type": "chapter",
+    "title": "第十章 气象资料管理",
+    "line_start": 445,
+    "line_end": 485,
+    "source_anchor": "第十章"
+  },
+  "chapter:11": {
+    "node_id": "chapter:11",
+    "type": "chapter",
+    "title": "第十一章 质量管理",
+    "line_start": 486,
+    "line_end": 519,
+    "source_anchor": "第十一章"
+  },
+  "chapter:12": {
+    "node_id": "chapter:12",
+    "type": "chapter",
+    "title": "第十二章 法律责任",
+    "line_start": 520,
+    "line_end": 530,
+    "source_anchor": "第十二章"
+  },
+  "chapter:13": {
+    "node_id": "chapter:13",
+    "type": "chapter",
+    "title": "第十三章 附 则",
+    "line_start": 531,
+    "line_end": 575,
+    "source_anchor": "第十三章"
+  }
+}

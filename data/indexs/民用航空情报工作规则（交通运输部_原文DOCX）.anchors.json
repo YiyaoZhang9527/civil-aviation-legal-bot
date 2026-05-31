@@ -1,0 +1,1018 @@
+{
+  "law:民用航空情报工作规则(交通运输部_原文DOCX)": {
+    "node_id": "law:民用航空情报工作规则(交通运输部_原文DOCX)",
+    "type": "law",
+    "title": "民用航空情报工作规则（交通运输部_原文DOCX）",
+    "line_start": 0,
+    "line_end": 349,
+    "source_anchor": "民用航空情报工作规则（交通运输部_原文DOCX）"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为规范民用航空情报工作,保障空中航行的安全、正常和效率,依据《中华人民共和国民用航空法》和《中华人民共和国飞行基本规则》,制定本规则。",
+    "line_start": 1,
+    "line_end": 1,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规则适用于中华人民共和国领域内的民用航空情报工作。提供民用航空情报服务以及其他与民用航空情报工作有关的单位和个人应当遵守本规则。",
+    "line_start": 2,
+    "line_end": 2,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 民用航空情报服务的任务是收集、整理、编辑民用航空资料,设计、制作、发布有关中华人民共和国领域内以及根据我国缔结或者参加的国际条约规定区域内的航空情报服务产品,提供及时、准确、完整的民用航空活动所需的航空情报。",
+    "line_start": 3,
+    "line_end": 3,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 中国民用航空局(以下简称民航局)负责统一管理全国民用航空情报工作,民航地区管理局(以下简称地区管理局)负责监督管理本地区民用航空情报工作。",
+    "line_start": 4,
+    "line_end": 4,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 中华人民共和国领域内以及根据我国缔结或者参加的国际条约规定,由中华人民共和国提供空中交通服务的飞行情报区的民用航空情报服务由民航局空中交通管理局(以下简称民航局空管局)负责组织实施。",
+    "line_start": 5,
+    "line_end": 5,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 民用航空活动应当接受和使用统一有效的民用航空情报。",
+    "line_start": 6,
+    "line_end": 6,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 民航局鼓励和支持民用航空情报的技术研究与创新。",
+    "line_start": 7,
+    "line_end": 7,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 本规则所用术语的含义在本规则附件一《定义》中规定。",
+    "line_start": 8,
+    "line_end": 8,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 民用航空情报工作的基本内容包括:",
+    "line_start": 10,
+    "line_end": 17,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 违反本规则规定获得或者使用航空情报的个人和单位应当由民航地区管理局责令限期改正,并给予警告;逾期未改正或者情节严重的,对个人或者其主要负责人处以200元以上1000元以下罚款,并对单位处以1万元以上3万元以下罚款。",
+    "line_start": 339,
+    "line_end": 339,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 本规则自2016年4月17日起施行。1988年5月16日民航局发布的《民用航空航行情报工作规则》(CCAR-175 TM)同时废止。",
+    "line_start": 341,
+    "line_end": 349,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 具有独立数据库的航空情报服务机构的航空情报自动化系统,应当建立本地的系统备份。",
+    "line_start": 330,
+    "line_end": 330,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 全国民用航空情报中心及地区民用航空情报中心应当建立航空情报自动化系统异地备份机制。",
+    "line_start": 331,
+    "line_end": 331,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 地区民用航空情报中心应当在本辖区内指定一个机场民用航空情报单位的系统作为本地区异地备份系统。",
+    "line_start": 332,
+    "line_end": 332,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 航空情报服务机构以外的用户,需要接入航空情报自动化系统的,应当由民航局空管局批准。",
+    "line_start": 333,
+    "line_end": 333,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 民用航空情报服务机构违反本规则第十条规定,未按本规则要求建立航空情报质量管理制度的,地区管理局应当责令限期改正,并给予警告;逾期未改正的,对其主要负责人处以200元以上1000元以下罚款,并对单位处以5000元以上1万元以下罚款。",
+    "line_start": 335,
+    "line_end": 335,
+    "source_anchor": "第十六条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 一般规定",
+    "line_start": 9,
+    "line_end": 30,
+    "source_anchor": "第二章"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 航空情报服务机构违反本规则第二十五条规定,不符合设置条件或者不能满足提供航空情报服务要求的,地区管理局应当责令限期改正,并给予警告;逾期未改正的,对其主要负责人处以200元以上1000元以下罚款,并对单位处以1万元以上3万元以下罚款。",
+    "line_start": 336,
+    "line_end": 336,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 航空情报服务机构未按本规则规定履行工作职责的,地区管理局应当责令限期改正,并给予警告;逾期未改正或者造成严重后果的,对其主要负责人处以200元以上1000元以下罚款,并对单位处以1万元以上3万元以下罚款。",
+    "line_start": 337,
+    "line_end": 337,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 航空情报原始资料提供单位未按照要求提供资料的,地区管理局应当责令限期改正,并给予警告;逾期未改正或者情节严重的,对其主要负责人处以200元以上1000元以下罚款,并对单位处以1万元以上3万元以下罚款。",
+    "line_start": 338,
+    "line_end": 338,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 地区民用航空情报中心应当履行下列职责:",
+    "line_start": 47,
+    "line_end": 54,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 机场民用航空情报单位应当履行下列职责:",
+    "line_start": 55,
+    "line_end": 59,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 全国民用航空情报中心、地区民用航空情报中心、国际机场民用航空情报单位应当提供24小时航空情报服务;其他航空情报服务机构应当在其负责区域内航空器飞行的整个期间及前后各90分钟的时间内提供航空情报服务。民用航空情报服务机构应当安排航空情报员在规定的服务时间内值勤。",
+    "line_start": 60,
+    "line_end": 60,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 航空情报服务机构应当制定相应的应急预案,并应当每年组织应急演练。",
+    "line_start": 61,
+    "line_end": 61,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 航空情报服务机构应当建立工作差错追究制度。",
+    "line_start": 62,
+    "line_end": 62,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 航空情报服务机构应当具备下列基本条件:",
+    "line_start": 63,
+    "line_end": 70,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 航空情报服务机构的办公场所应当设在便于机组接受航空情报服务的位置。",
+    "line_start": 71,
+    "line_end": 71,
+    "source_anchor": "第二十六条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 民用航空情报服务机构与职责",
+    "line_start": 31,
+    "line_end": 71,
+    "source_anchor": "第三章"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 从事航空情报服务工作的人员,应当按照《民用航空情报员执照管理规则》的要求,取得航空情报员执照,并按规定保持有效。未持有有效执照的人员,不得在航空情报服务机构独立从事航空情报服务工作。",
+    "line_start": 73,
+    "line_end": 73,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 航空情报人员所在单位应当按照规定组织对航空情报人员的专业培训,航空情报人员应当按照规定接受培训和考核。航空情报人员的培训工作,按照民用航空情报培训相关规定执行。",
+    "line_start": 74,
+    "line_end": 74,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 承担民用航空情报专业培训任务的机构应当具备下列基本条件:",
+    "line_start": 75,
+    "line_end": 78,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 航空情报人员所在单位应当有计划地补充、培养专业技术人才,不断提高航空情报人员的业务素质。",
+    "line_start": 79,
+    "line_end": 79,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 民用航空情报员应当加入飞行机组进行一年不少于两次的航线实习。",
+    "line_start": 80,
+    "line_end": 80,
+    "source_anchor": "第三十一条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 航空情报人员资质与培训",
+    "line_start": 72,
+    "line_end": 80,
+    "source_anchor": "第四章"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 航空情报原始资料分为基本资料和临时资料。",
+    "line_start": 82,
+    "line_end": 84,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 下列有关业务部门或者单位,应当向所在地的航空情报服务机构提供及时、准确、完整的航空情报原始资料:",
+    "line_start": 85,
+    "line_end": 135,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 航空情报原始资料提供部门或者单位应当指定机构或者专人,负责向航空情报服务机构提供航空情报原始资料,并与航空情报服务机构保持直接的、固定的联系。",
+    "line_start": 136,
+    "line_end": 136,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 航空情报原始资料提供部门或者单位应当按照下述的时间要求,提前将原始资料通知航空情报服务机构:",
+    "line_start": 137,
+    "line_end": 140,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 向航空情报服务机构提供原始资料时,应当填写本规则附件二《航空情报原始资料通知单》。提交航空情报原始资料的方式包括直接送达、特快专递、传真等。向同级航空情报服务机构提供原始资料时,通常采用直接送达的方式。",
+    "line_start": 141,
+    "line_end": 142,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 航空情报服务机构应当依据《航空情报原始资料通知单》编辑修订航空情报服务产品,签发航行通告。《航空情报原始资料通知单》应作为正式记录存档备查。",
+    "line_start": 143,
+    "line_end": 144,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 原始资料提供部门或者单位应当对所提供的航空情报原始资料核证和审批,对原始资料的真实性和准确性负责,并保持资料的可追溯性;涉及多个提供部门或者单位的,由主办部门协调一致后,统一提供给航空情报服务机构。",
+    "line_start": 145,
+    "line_end": 145,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 全国民用航空情报中心和地区民用航空情报中心应当设立专门部门,负责航空情报原始资料的收集和管理。",
+    "line_start": 146,
+    "line_end": 146,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 航空情报服务机构应当对收到的航空情报原始资料及时进行审核,审核的主要内容包括:",
+    "line_start": 147,
+    "line_end": 153,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 航空情报服务机构与航空情报原始资料提供部门或者单位应当建立定期协调、定期培训和资料定期符合性检查机制。",
+    "line_start": 154,
+    "line_end": 155,
+    "source_anchor": "第四十一条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 航空情报原始资料的提供和收集",
+    "line_start": 81,
+    "line_end": 155,
+    "source_anchor": "第五章"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 民用航空情报服务产品分为基本服务产品和非基本服务产品。",
+    "line_start": 158,
+    "line_end": 160,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 航空情报服务产品由全国民用航空情报中心编印发行。航空情报服务产品应当综合配套,并保证准确和完整。",
+    "line_start": 161,
+    "line_end": 161,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 采用航空资料定期颁发制颁发的航空资料,其执行日期应当从航空资料定期颁发制的共同生效日期表(以下简称共同生效日期表)中选定。共同生效日期表见本规则附件三。",
+    "line_start": 162,
+    "line_end": 164,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 按航空资料定期颁发制颁发的航空情报基本服务产品,应当遵守下列规定:",
+    "line_start": 165,
+    "line_end": 170,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 航空情报服务产品应当逐步实行电子媒介和互联网分发,减少纸张发行。",
+    "line_start": 171,
+    "line_end": 171,
+    "source_anchor": "第四十六条"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 航空情报服务产品应当以快捷、可靠的方式直接分发至用户指定的地址,并建立用户记录和分发反馈记录。",
+    "line_start": 172,
+    "line_end": 172,
+    "source_anchor": "第四十七条"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 根据我国与有关国家签订的国际航空运输协定,需双方相互提供航空情报服务产品的,由全国民用航空情报中心负责组织实施。",
+    "line_start": 173,
+    "line_end": 173,
+    "source_anchor": "第四十八条"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 航空情报服务产品应当按照规定使用、修订、更换和销毁。航空情报服务产品用户,应当建立完善的资料管理制度,确保资料的可靠、准确、完整。",
+    "line_start": 174,
+    "line_end": 174,
+    "source_anchor": "第四十九条"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 飞行前航空情报服务",
+    "line_start": 294,
+    "line_end": 319,
+    "source_anchor": "第一节"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 《中华人民共和国航空资料汇编》是外国民用航空器在我国境内飞行必备的综合性资料。",
+    "line_start": 176,
+    "line_end": 176,
+    "source_anchor": "第五十条"
+  },
+  "article:51": {
+    "node_id": "article:51",
+    "type": "article",
+    "title": "第五十一条 《中华人民共和国航空资料汇编》应当根据我国民用航空法律、法规和规章,并应参照国际民用航空组织有关文件的规定和要求,用中、英两种文字编辑出版。",
+    "line_start": 177,
+    "line_end": 177,
+    "source_anchor": "第五十一条"
+  },
+  "article:52": {
+    "node_id": "article:52",
+    "type": "article",
+    "title": "第五十二条 《中华人民共和国航空资料汇编》应当符合本规则附件五的要求,包括经批准国际机场及其他对外开放机场、航路、设施以及有关的规章制度等内容。",
+    "line_start": 178,
+    "line_end": 178,
+    "source_anchor": "第五十二条"
+  },
+  "article:53": {
+    "node_id": "article:53",
+    "type": "article",
+    "title": "第五十三条 《中华人民共和国航空资料汇编》应当采用活页资料形式,每页资料上印有易于查找的页码标志,并且在资料下方注明出版日期、生效日期。",
+    "line_start": 179,
+    "line_end": 179,
+    "source_anchor": "第五十三条"
+  },
+  "article:54": {
+    "node_id": "article:54",
+    "type": "article",
+    "title": "第五十四条 需要对外提供未编入《中华人民共和国航空资料汇编》的资料,应当由民航局报经国家有关主管部门批准。",
+    "line_start": 180,
+    "line_end": 180,
+    "source_anchor": "第五十四条"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 飞行后航空情报收集",
+    "line_start": 320,
+    "line_end": 323,
+    "source_anchor": "第二节"
+  },
+  "article:55": {
+    "node_id": "article:55",
+    "type": "article",
+    "title": "第五十五条 《中国民航国内航空资料汇编》是我国民用航空器进行境内飞行必备的综合性资料,应当使用中文编辑出版。",
+    "line_start": 182,
+    "line_end": 182,
+    "source_anchor": "第五十五条"
+  },
+  "article:56": {
+    "node_id": "article:56",
+    "type": "article",
+    "title": "第五十六条 《中国民航国内航空资料汇编》应当符合本规则附件六的要求,包括民用机场和军民合用机场的民用部分、航路、设施以及有关的规章制度等内容。",
+    "line_start": 183,
+    "line_end": 184,
+    "source_anchor": "第五十六条"
+  },
+  "article:57": {
+    "node_id": "article:57",
+    "type": "article",
+    "title": "第五十七条 《中国民航国内航空资料汇编》应当采用活页资料形式,分成若干分册出版。每页资料印有易于查找的页码标志、资料的出版日期和生效日期。",
+    "line_start": 185,
+    "line_end": 185,
+    "source_anchor": "第五十七条"
+  },
+  "article:58": {
+    "node_id": "article:58",
+    "type": "article",
+    "title": "第五十八条 为保证我国民用航空器在军用机场备降的需要,应当出版《军用备降机场手册》,作为《中国民航国内航空资料汇编》的补充。",
+    "line_start": 186,
+    "line_end": 187,
+    "source_anchor": "第五十八条"
+  },
+  "article:59": {
+    "node_id": "article:59",
+    "type": "article",
+    "title": "第五十九条 仅用于通用航空的民用机场航空资料可以由地区民用航空情报中心根据需要参照《中国民航国内航空资料汇编》的要求编辑、分发,并向全国民用航空情报中心备案。",
+    "line_start": 188,
+    "line_end": 188,
+    "source_anchor": "第五十九条"
+  },
+  "article:60": {
+    "node_id": "article:60",
+    "type": "article",
+    "title": "第六十条 《中国民航国内航空资料汇编》、《军用备降机场手册》不得向外国任何单位或者个人提供。",
+    "line_start": 189,
+    "line_end": 189,
+    "source_anchor": "第六十条"
+  },
+  "section:3": {
+    "node_id": "section:3",
+    "type": "section",
+    "title": "第三节 中国民航国内航空资料汇编",
+    "line_start": 181,
+    "line_end": 189,
+    "source_anchor": "第三节"
+  },
+  "article:61": {
+    "node_id": "article:61",
+    "type": "article",
+    "title": "第六十一条 航图是保证航空器运行以及其他航空活动所需要的有关规定、限制、标准、数据和地形等,以一定的图表形式集中编绘、提供使用的各种图的总称。",
+    "line_start": 191,
+    "line_end": 191,
+    "source_anchor": "第六十一条"
+  },
+  "article:62": {
+    "node_id": "article:62",
+    "type": "article",
+    "title": "第六十二条 航图分为特种航图和航空地图。",
+    "line_start": 192,
+    "line_end": 194,
+    "source_anchor": "第六十二条"
+  },
+  "article:63": {
+    "node_id": "article:63",
+    "type": "article",
+    "title": "第六十三条 编辑制作航图应当符合《民用航空图编绘规范》要求。",
+    "line_start": 195,
+    "line_end": 195,
+    "source_anchor": "第六十三条"
+  },
+  "article:64": {
+    "node_id": "article:64",
+    "type": "article",
+    "title": "第六十四条 绘制航图应采用国家测绘主管部门提供的航空地图或者地形图作为参照图或者底图。绘制的航图比例尺应当等于或者小于参照图或者底图的比例尺。航图一般使用高斯-克吕格投影,其中航路图、区域图使用等角正割圆锥投影。",
+    "line_start": 196,
+    "line_end": 196,
+    "source_anchor": "第六十四条"
+  },
+  "article:65": {
+    "node_id": "article:65",
+    "type": "article",
+    "title": "第六十五条 航图应当标绘与其飞行阶段相关的资料,标绘的资料应当符合下列要求:",
+    "line_start": 197,
+    "line_end": 200,
+    "source_anchor": "第六十五条"
+  },
+  "article:66": {
+    "node_id": "article:66",
+    "type": "article",
+    "title": "第六十六条 航图上应当标注航图的种类名称、地名和机场名、航图代号、出版单位、出版日期、生效日期、磁北、真北、磁差、比例尺等要素。",
+    "line_start": 201,
+    "line_end": 201,
+    "source_anchor": "第六十六条"
+  },
+  "article:67": {
+    "node_id": "article:67",
+    "type": "article",
+    "title": "第六十七条 航空地图为特别制定的航图补充基础资料,主要用于目视飞行及制定飞行计划。",
+    "line_start": 202,
+    "line_end": 202,
+    "source_anchor": "第六十七条"
+  },
+  "article:68": {
+    "node_id": "article:68",
+    "type": "article",
+    "title": "第六十八条 航路图主要用于机组仪表飞行时,沿规定的空中交通服务航路和程序实施领航。",
+    "line_start": 203,
+    "line_end": 204,
+    "source_anchor": "第六十八条"
+  },
+  "article:69": {
+    "node_id": "article:69",
+    "type": "article",
+    "title": "第六十九条 提供仪表飞行的机场及其跑道,应当绘制标准仪表进场图、标准仪表离场图。",
+    "line_start": 205,
+    "line_end": 205,
+    "source_anchor": "第六十九条"
+  },
+  "article:70": {
+    "node_id": "article:70",
+    "type": "article",
+    "title": "第七十条 提供仪表飞行的跑道,应当绘制包括进近、着陆、复飞、等待程序及机场运行最低标准等内容的仪表进近图。",
+    "line_start": 206,
+    "line_end": 207,
+    "source_anchor": "第七十条"
+  },
+  "article:71": {
+    "node_id": "article:71",
+    "type": "article",
+    "title": "第七十一条 提供目视飞行的跑道,应当绘制目视进近图。",
+    "line_start": 208,
+    "line_end": 208,
+    "source_anchor": "第七十一条"
+  },
+  "article:72": {
+    "node_id": "article:72",
+    "type": "article",
+    "title": "第七十二条 对于民用机场,应当绘制机场图。",
+    "line_start": 209,
+    "line_end": 210,
+    "source_anchor": "第七十二条"
+  },
+  "article:73": {
+    "node_id": "article:73",
+    "type": "article",
+    "title": "第七十三条 对于民用机场,应当绘制机场障碍物A型图,起飞航径区内无重要障碍物的机场可以不绘制,但应当在《中华人民共和国航空资料汇编》和《中国民航国内航空资料汇编》中予以说明。",
+    "line_start": 211,
+    "line_end": 212,
+    "source_anchor": "第七十三条"
+  },
+  "article:74": {
+    "node_id": "article:74",
+    "type": "article",
+    "title": "第七十四条 空中走廊图、放油区图等按照国家有关主管部门的规定绘制。",
+    "line_start": 213,
+    "line_end": 213,
+    "source_anchor": "第七十四条"
+  },
+  "section:4": {
+    "node_id": "section:4",
+    "type": "section",
+    "title": "第四节 航 图",
+    "line_start": 190,
+    "line_end": 213,
+    "source_anchor": "第四节"
+  },
+  "article:75": {
+    "node_id": "article:75",
+    "type": "article",
+    "title": "第七十五条 航空资料汇编补充资料应当公布有效期在3个月以上的临时变更,或者有效期不到3个月但篇幅大、图表多的临时性数据资料。",
+    "line_start": 215,
+    "line_end": 215,
+    "source_anchor": "第七十五条"
+  },
+  "article:76": {
+    "node_id": "article:76",
+    "type": "article",
+    "title": "第七十六条 航空资料汇编补充资料以黄色纸张印刷,补充资料的全部内容或者部分内容有效的,该补充资料应保留在航空资料汇编中。",
+    "line_start": 216,
+    "line_end": 216,
+    "source_anchor": "第七十六条"
+  },
+  "article:77": {
+    "node_id": "article:77",
+    "type": "article",
+    "title": "第七十七条 航空资料汇编补充资料不定期出版,按照日历年顺序编号。航空资料汇编补充资料发布后应当以触发性航行通告的形式予以提示。",
+    "line_start": 217,
+    "line_end": 217,
+    "source_anchor": "第七十七条"
+  },
+  "section:5": {
+    "node_id": "section:5",
+    "type": "section",
+    "title": "第五节 航空资料汇编补充资料",
+    "line_start": 214,
+    "line_end": 217,
+    "source_anchor": "第五节"
+  },
+  "article:78": {
+    "node_id": "article:78",
+    "type": "article",
+    "title": "第七十八条 《中华人民共和国航空资料汇编》、《中国民航国内航空资料汇编》和《军用备降机场手册》内容的变更,应当发布《中华人民共和国航空资料汇编》修订、《中国民航国内航空资料汇编》修订和《军用备降机场手册》修订等航空资料汇编修订,以保持汇编资料的准确和完整。",
+    "line_start": 219,
+    "line_end": 220,
+    "source_anchor": "第七十八条"
+  },
+  "article:79": {
+    "node_id": "article:79",
+    "type": "article",
+    "title": "第七十九条 每期航空资料汇编修订单中,应当标明修订资料汇编的名称、编号、出版部门、出版日期和生效日期等。",
+    "line_start": 221,
+    "line_end": 222,
+    "source_anchor": "第七十九条"
+  },
+  "article:80": {
+    "node_id": "article:80",
+    "type": "article",
+    "title": "第八十条 以航行通告方式发布过的航空情报,需要纳入或者修订相应的航空资料汇编时,应当及时印发航空资料汇编修订,并在修订单中注明被编入的航行通告编号。",
+    "line_start": 223,
+    "line_end": 223,
+    "source_anchor": "第八十条"
+  },
+  "article:81": {
+    "node_id": "article:81",
+    "type": "article",
+    "title": "第八十一条 航空资料汇编修订页中主要内容的变动,应当以明显的符号或者文字注释予以提示。",
+    "line_start": 224,
+    "line_end": 224,
+    "source_anchor": "第八十一条"
+  },
+  "article:82": {
+    "node_id": "article:82",
+    "type": "article",
+    "title": "第八十二条 全国民用航空情报中心应当定期印发航空资料汇编校核单,校核单应当列出全部有效资料的页码编号和出版日期。",
+    "line_start": 225,
+    "line_end": 225,
+    "source_anchor": "第八十二条"
+  },
+  "section:6": {
+    "node_id": "section:6",
+    "type": "section",
+    "title": "第六节 航空资料汇编修订",
+    "line_start": 218,
+    "line_end": 225,
+    "source_anchor": "第六节"
+  },
+  "article:83": {
+    "node_id": "article:83",
+    "type": "article",
+    "title": "第八十三条 涉及法律法规、空中航行、技术与管理、飞行安全等方面内容,但不适宜以航空资料汇编或者航行通告形式公布的,应当以航空资料通报方式公布(具体内容见本规则附件七),主要包括:",
+    "line_start": 227,
+    "line_end": 230,
+    "source_anchor": "第八十三条"
+  },
+  "article:84": {
+    "node_id": "article:84",
+    "type": "article",
+    "title": "第八十四条 航空资料通报不定期印发,航空资料通报应当按日历年连续编号,每年至少发布一次现行有效的航空资料通报校核单。",
+    "line_start": 231,
+    "line_end": 231,
+    "source_anchor": "第八十四条"
+  },
+  "section:7": {
+    "node_id": "section:7",
+    "type": "section",
+    "title": "第七节 航空资料通报",
+    "line_start": 226,
+    "line_end": 231,
+    "source_anchor": "第七节"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 航空情报服务产品",
+    "line_start": 156,
+    "line_end": 231,
+    "source_anchor": "第六章"
+  },
+  "article:85": {
+    "node_id": "article:85",
+    "type": "article",
+    "title": "第八十五条 航行通告是有关航行的设施、服务、程序等的设立、状况、变化,以及涉及航行安全的危险情况及其变化的通知。",
+    "line_start": 233,
+    "line_end": 234,
+    "source_anchor": "第八十五条"
+  },
+  "article:86": {
+    "node_id": "article:86",
+    "type": "article",
+    "title": "第八十六条 航行通告分为国际、国内和地区系列的航行通告,S系列的雪情通告,以及V系列的火山通告:",
+    "line_start": 235,
+    "line_end": 240,
+    "source_anchor": "第八十六条"
+  },
+  "article:87": {
+    "node_id": "article:87",
+    "type": "article",
+    "title": "第八十七条 遇有下列情况之一的,航空情报服务机构应当及时发布航行通告:",
+    "line_start": 241,
+    "line_end": 266,
+    "source_anchor": "第八十七条"
+  },
+  "article:88": {
+    "node_id": "article:88",
+    "type": "article",
+    "title": "第八十八条 遇有下列情况之一的,航空情报服务机构不得以航行通告形式发布,应在飞行前讲解或者通知驻地航空公司:",
+    "line_start": 267,
+    "line_end": 275,
+    "source_anchor": "第八十八条"
+  },
+  "article:89": {
+    "node_id": "article:89",
+    "type": "article",
+    "title": "第八十九条 航空情报服务机构应当建立航行通告的校核制度。",
+    "line_start": 276,
+    "line_end": 277,
+    "source_anchor": "第八十九条"
+  },
+  "article:90": {
+    "node_id": "article:90",
+    "type": "article",
+    "title": "第九十条 全国民用航空情报中心应当定期印发有效航行通告明语摘要。",
+    "line_start": 278,
+    "line_end": 278,
+    "source_anchor": "第九十条"
+  },
+  "article:91": {
+    "node_id": "article:91",
+    "type": "article",
+    "title": "第九十一条 航行通告应当按照标准格式,通过航空固定通信网络发布。",
+    "line_start": 279,
+    "line_end": 279,
+    "source_anchor": "第九十一条"
+  },
+  "article:92": {
+    "node_id": "article:92",
+    "type": "article",
+    "title": "第九十二条 航行通告的发布应当采用航行通告预定分发制度,将航行通告直接分发给预先指定的收报单位。",
+    "line_start": 280,
+    "line_end": 280,
+    "source_anchor": "第九十二条"
+  },
+  "article:93": {
+    "node_id": "article:93",
+    "type": "article",
+    "title": "第九十三条 全国民用航空情报中心应当就航空资料汇编修订、航空资料汇编补充资料、航空资料通报的发布,签发提示生效信息的触发性航行通告。",
+    "line_start": 281,
+    "line_end": 282,
+    "source_anchor": "第九十三条"
+  },
+  "article:94": {
+    "node_id": "article:94",
+    "type": "article",
+    "title": "第九十四条 机场民用航空情报单位,收到有关跑道、停止道、滑行道、停机坪上有积雪、结冰、雪浆或者跑道灯被积雪覆盖的报告时,应当及时发布雪情通告。",
+    "line_start": 283,
+    "line_end": 283,
+    "source_anchor": "第九十四条"
+  },
+  "article:95": {
+    "node_id": "article:95",
+    "type": "article",
+    "title": "第九十五条 雪情通告的最长有效时间为24小时。当雪情有下列重要变化时,应当及时发布新的雪情通告:",
+    "line_start": 284,
+    "line_end": 291,
+    "source_anchor": "第九十五条"
+  },
+  "article:96": {
+    "node_id": "article:96",
+    "type": "article",
+    "title": "第九十六条 地区民用航空情报中心或者机场民用航空情报单位收到火山活动的报告应当发布火山通告。火山通告最长有效时间为24小时,当告警等级发生变化时应当发布新的火山通告。",
+    "line_start": 292,
+    "line_end": 292,
+    "source_anchor": "第九十六条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 航行通告",
+    "line_start": 232,
+    "line_end": 292,
+    "source_anchor": "第七章"
+  },
+  "article:97": {
+    "node_id": "article:97",
+    "type": "article",
+    "title": "第九十七条 机场民用航空情报单位的飞行前航空情报服务主要包括:飞行前资料公告、讲解服务及资料查询。",
+    "line_start": 295,
+    "line_end": 295,
+    "source_anchor": "第九十七条"
+  },
+  "article:98": {
+    "node_id": "article:98",
+    "type": "article",
+    "title": "第九十八条 接受飞行前航空情报服务的单位,应当与有关机场民用航空情报单位签订服务协议。服务协议应当明确双方的责任与义务、服务内容与方式等。",
+    "line_start": 296,
+    "line_end": 296,
+    "source_anchor": "第九十八条"
+  },
+  "article:99": {
+    "node_id": "article:99",
+    "type": "article",
+    "title": "第九十九条 机场民用航空情报单位的航空情报员,应当于每日本机场飞行活动开始前90分钟,完成提供飞行前航空情报服务的各项准备工作,主要包括:",
+    "line_start": 297,
+    "line_end": 302,
+    "source_anchor": "第九十九条"
+  },
+  "article:100": {
+    "node_id": "article:100",
+    "type": "article",
+    "title": "第一百条 机场民用航空情报单位应当提供飞行前资料公告,提供飞行前资料公告应当遵守以下规定:",
+    "line_start": 303,
+    "line_end": 306,
+    "source_anchor": "第一百条"
+  },
+  "article:101": {
+    "node_id": "article:101",
+    "type": "article",
+    "title": "第一百一条 航空情报员认为有必要或者机组有要求时,应当提供讲解服务。",
+    "line_start": 307,
+    "line_end": 307,
+    "source_anchor": "第一百一条"
+  },
+  "article:102": {
+    "node_id": "article:102",
+    "type": "article",
+    "title": "第一百二条 航空情报员在提供讲解服务时,应当按照讲解服务清单,逐项进行提示或者检查,结合不同飞行的要求,对有关项目进行重点讲解。讲解服务清单的内容应当包括:",
+    "line_start": 308,
+    "line_end": 314,
+    "source_anchor": "第一百二条"
+  },
+  "article:103": {
+    "node_id": "article:103",
+    "type": "article",
+    "title": "第一百三条 为我国机组提供飞行前航空情报服务时,航空情报员应当讲解和受理查询与该机组飞行任务有关的资料。为外国机组提供飞行前航空情报服务时,航空情报员只能讲解和受理查询《中华人民共和国航空资料汇编》、批准对外提供的航行规定以及国际航行规定和资料。",
+    "line_start": 315,
+    "line_end": 315,
+    "source_anchor": "第一百三条"
+  },
+  "article:104": {
+    "node_id": "article:104",
+    "type": "article",
+    "title": "第一百四条 向机组提供自我准备所需要的规定和资料,包括:",
+    "line_start": 316,
+    "line_end": 319,
+    "source_anchor": "第一百四条"
+  },
+  "article:105": {
+    "node_id": "article:105",
+    "type": "article",
+    "title": "第一百五条 机场民用航空情报单位,应当收集机组飞行后对有关飞行保障设施工作情况的意见、鸟群活动等信息,以及机组填写的《空中交通服务设施服务状况及鸟情状况报告单》,具体内容见附件八。",
+    "line_start": 321,
+    "line_end": 321,
+    "source_anchor": "第一百五条"
+  },
+  "article:106": {
+    "node_id": "article:106",
+    "type": "article",
+    "title": "第一百六条 机场民用航空情报单位收集到《空中交通服务设施服务状况及鸟情状况报告单》或者其他相关信息后,应当根据信息内容及时转告有关部门处理。",
+    "line_start": 322,
+    "line_end": 322,
+    "source_anchor": "第一百六条"
+  },
+  "article:107": {
+    "node_id": "article:107",
+    "type": "article",
+    "title": "第一百七条 收到《空中交通服务设施服务状况及鸟情状况报告单》或者其他相关信息的有关部门,应当及时核实有关情况,并将处理情况反馈机场民用航空情报单位。",
+    "line_start": 323,
+    "line_end": 323,
+    "source_anchor": "第一百七条"
+  },
+  "chapter:8": {
+    "node_id": "chapter:8",
+    "type": "chapter",
+    "title": "第八章 飞行前和飞行后航空情报服务",
+    "line_start": 293,
+    "line_end": 323,
+    "source_anchor": "第八章"
+  },
+  "article:108": {
+    "node_id": "article:108",
+    "type": "article",
+    "title": "第一百八条 航空情报自动化系统是用于航空情报原始资料的收集、整理、审核以及航空情报服务产品的设计、制作与发布的信息系统。",
+    "line_start": 325,
+    "line_end": 325,
+    "source_anchor": "第一百八条"
+  },
+  "article:109": {
+    "node_id": "article:109",
+    "type": "article",
+    "title": "第一百九条 航空情报自动化系统包括民用航空情报数据库管理系统、航空情报动态信息管理系统、航空情报原始资料采集系统、航空情报发布系统等。",
+    "line_start": 326,
+    "line_end": 326,
+    "source_anchor": "第一百九条"
+  },
+  "chapter:9": {
+    "node_id": "chapter:9",
+    "type": "chapter",
+    "title": "第九章 航空情报自动化系统管理",
+    "line_start": 324,
+    "line_end": 333,
+    "source_anchor": "第九章"
+  },
+  "chapter:10": {
+    "node_id": "chapter:10",
+    "type": "chapter",
+    "title": "第十章 法律责任",
+    "line_start": 334,
+    "line_end": 339,
+    "source_anchor": "第十章"
+  },
+  "chapter:11": {
+    "node_id": "chapter:11",
+    "type": "chapter",
+    "title": "第十一章 附 则",
+    "line_start": 340,
+    "line_end": 349,
+    "source_anchor": "第十一章"
+  }
+}

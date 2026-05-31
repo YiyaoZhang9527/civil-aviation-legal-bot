@@ -1,0 +1,362 @@
+{
+  "law:航空安全员合格审定规则": {
+    "node_id": "law:航空安全员合格审定规则",
+    "type": "law",
+    "title": "中国民用航空地区管理局(以下简称地区管理局)负责本地区航空安全员合格审定工作,包括资格审查、执照颁发和监督管理等工作。",
+    "line_start": 0,
+    "line_end": 188,
+    "source_anchor": "中国民用航空地区管理局(以下简称地区管理局)负责本地区航空安全员合格审定工作,包括资格审查、执照颁发和监督管理等工作。"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了保证民用航空安全,规范航空安全员的合格审定工作,根据《中华人民共和国民用航空法》《中华人民共和国行政许可法》《中华人民共和国反恐怖主义法》《中华人民共和国民用航空安全保卫条例》和《国务院对确需保留的行政审批项目设定行政许可的决定》(国务院令第412号),制定本规则。",
+    "line_start": 2,
+    "line_end": 3,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 在中华人民共和国注册的公共航空运输企业所运营的航空器上航空安全员的资格审查及其执照的申请、颁发、监督管理适用本规则。",
+    "line_start": 4,
+    "line_end": 5,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 中国民用航空局(以下简称民航局)负责全国航空安全员合格审定工作的监督管理。",
+    "line_start": 6,
+    "line_end": 9,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 本规则使用的部分术语定义如下:",
+    "line_start": 10,
+    "line_end": 17,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 航空安全员实行执照管理制度。未持有按本规则颁发的有效执照的人员,不得担任航空安全员。",
+    "line_start": 18,
+    "line_end": 19,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 航空安全员在履行岗位职责时应当随身携带有效执照及按民用航空人员体检合格证管理相关规定颁发的有效的体检合格证。",
+    "line_start": 20,
+    "line_end": 21,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 申请航空安全员执照应当具备下列条件:",
+    "line_start": 24,
+    "line_end": 41,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 申请航空安全员执照,应当向地区管理局提交下列材料:",
+    "line_start": 42,
+    "line_end": 57,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 对于申请材料不齐全或者不符合法定形式的,地区管理局应当当场或者在5个工作日内一次告知申请人需要补正的全部内容。逾期不告知的,自收到申请材料之日起即为受理。",
+    "line_start": 58,
+    "line_end": 61,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 地区管理局应当在受理申请之日起20个工作日内作出行政许可决定。20个工作日内不能作出决定的,经地区管理局负责人批准,可以延长10个工作日,并应当将延长期限的理由告知申请人。",
+    "line_start": 62,
+    "line_end": 65,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 申请人的申请符合条件的,地区管理局应当依法为其颁发航空安全员执照。",
+    "line_start": 66,
+    "line_end": 69,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 航空安全员执照由地区管理局局长或者其授权人员签署颁发,并加盖本行政机关印章。",
+    "line_start": 70,
+    "line_end": 71,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 申请人在获得航空安全员执照后方可进行实习飞行,实习飞行不少于60小时。实习飞行结束后,由教员实施考核,并由申请人所在单位向颁发执照的地区管理局提交实习飞行考核报告。",
+    "line_start": 72,
+    "line_end": 75,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 申请人实习飞行考核合格的,地区管理局应当自收到实习飞行考核报告之日起20个工作日内对其执照进行实习飞行考核签注。",
+    "line_start": 76,
+    "line_end": 77,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 申请变更执照姓名的,申请人应当向颁发执照的地区管理局提交书面变更申请,并附有效执照、有效体检合格证和更名前后的身份证等复印件。",
+    "line_start": 78,
+    "line_end": 83,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 执照遗失或者损坏后,执照持有人申请补发或者换发的,应当向颁发执照的地区管理局提交书面申请。申请应当写明原执照所载明的基本信息。换发执照的,应当在领取新执照的同时交回原执照。",
+    "line_start": 84,
+    "line_end": 85,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 有下列情形之一的,地区管理局应当依法办理执照的注销或者收回手续:",
+    "line_start": 86,
+    "line_end": 99,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 有下列情形之一的,执照持有人所在单位不得安排其继续履行航空安全员岗位职责:",
+    "line_start": 100,
+    "line_end": 109,
+    "source_anchor": "第十八条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 执照的管理",
+    "line_start": 22,
+    "line_end": 109,
+    "source_anchor": "第二章"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 航空安全员的训练种类包括初任训练、定期训练、日常训练、重获资格训练和执行岗位任务所必需的其他相关训练。",
+    "line_start": 112,
+    "line_end": 113,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 从事航空安全员训练活动的机构应当具有相应的基础设施和教学、行政及辅助人员,按要求组织实施相关训练。",
+    "line_start": 114,
+    "line_end": 117,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 航空安全员训练机构应当对自评报告及备案材料的真实性负责。",
+    "line_start": 118,
+    "line_end": 119,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 民航局将航空安全员训练机构予以备案后,应当对外公示。",
+    "line_start": 120,
+    "line_end": 121,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 航空安全员的初任训练和定期训练应当由训练机构组织实施。训练机构应当建立和保管训练台账记录。",
+    "line_start": 122,
+    "line_end": 123,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 执照申请人的初任训练要求如下:",
+    "line_start": 124,
+    "line_end": 129,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 定期训练要求如下:",
+    "line_start": 130,
+    "line_end": 139,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 日常训练要求如下:",
+    "line_start": 140,
+    "line_end": 147,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 除初任训练、定期训练、日常训练内容外,执照持有人还应当根据《大型飞机公共航空运输承运人运行合格审定规则》(CCAR121)参加下列训练,并通过相应的考试考核:",
+    "line_start": 148,
+    "line_end": 155,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 执照持有人连续12个月以上且未超过15个月未履行航空安全员岗位职责的,在其参加重获资格训练并通过考试考核后方可履行航空安全员岗位职责。重获资格训练按照本规则关于定期训练要求执行。",
+    "line_start": 156,
+    "line_end": 157,
+    "source_anchor": "第二十八条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 训练及考试考核要求",
+    "line_start": 110,
+    "line_end": 157,
+    "source_anchor": "第三章"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 执照申请人在申请材料中隐瞒有关情况或者提供虚假信息的,地区管理局不予受理或者不予许可;自该行为发现之日起1年内不得申请本规则规定的执照;已取得执照的,由颁发执照的地区管理局撤销其执照。",
+    "line_start": 160,
+    "line_end": 161,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 在本规则规定的各类训练考试考核中作弊并取得执照的申请人或者持有人,自作弊行为发现之日起3年内不得申请本规则规定的执照;已取得执照的,由颁发执照的地区管理局撤销其执照。",
+    "line_start": 162,
+    "line_end": 163,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 训练机构在备案过程中提供虚假材料或者民航局检查发现训练机构不具备规定的训练条件的,由民航局对外公示其不具备训练能力。",
+    "line_start": 164,
+    "line_end": 165,
+    "source_anchor": "第三十一条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 监督管理",
+    "line_start": 158,
+    "line_end": 165,
+    "source_anchor": "第四章"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 违反本规则第五条、第六条规定,未持有或者携带有效执照履行航空安全员岗位职责的,地区管理局可以对其处以警告或者200元以上1000元以下的罚款,并可以对其所在单位处以警告或者1万元以上3万元以下的罚款。",
+    "line_start": 168,
+    "line_end": 169,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 执照申请人或者持有人在申请材料中隐瞒有关情况或者提供虚假信息的,或者伪造、篡改执照的,地区管理局可以对其处以警告或者200元以上1000元以下的罚款。",
+    "line_start": 170,
+    "line_end": 173,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 执照持有人所在单位对具有本规则第十八条所列情形的执照持有人安排其继续履行航空安全员岗位职责的,地区管理局可以对执照持有人所在单位处以警告或者1万元以上3万元以下的罚款。",
+    "line_start": 174,
+    "line_end": 175,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 违反本规则第二十三条、第二十六条、第二十七条,相关单位未按规定建立、保管训练台账记录或者篡改、伪造台账记录的,地区管理局可以对其处以警告或者1万元以上3万元以下的罚款。",
+    "line_start": 176,
+    "line_end": 177,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 违反本规则第二十五条至第二十八条,执照持有人未在规定时间内完成训练且未予补正而继续履行航空安全员岗位职责的,地区管理局可以对其处以200元以上1000元以下的罚款,并按照本规则第十七条的规定处理。",
+    "line_start": 178,
+    "line_end": 181,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 执照持有人在航空器上执行任务过程中,因未履行岗位职责造成严重后果、事故征候或者事故的,地区管理局可以对其处以警告或者200元以上1000元以下的罚款。",
+    "line_start": 182,
+    "line_end": 183,
+    "source_anchor": "第三十七条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 法律责任",
+    "line_start": 166,
+    "line_end": 183,
+    "source_anchor": "第五章"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 对航空安全员及其所在单位以及训练机构的撤销许可、行政处罚、行政强制等处理措施及其执行情况记入民航行业信用信息记录,并按照有关规定进行公示。",
+    "line_start": 186,
+    "line_end": 187,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 本规则自2019年1月1日起施行。原民航总局于2007年4月1日公布的《航空安全员合格审定规则》(民航总局令第184号)同时废止。",
+    "line_start": 188,
+    "line_end": 188,
+    "source_anchor": "第三十九条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 附则",
+    "line_start": 184,
+    "line_end": 188,
+    "source_anchor": "第六章"
+  }
+}

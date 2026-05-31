@@ -1,0 +1,298 @@
+{
+  "law:民用航空标准化管理规定": {
+    "node_id": "law:民用航空标准化管理规定",
+    "type": "law",
+    "title": "(一)有利于保障飞行安全、空防安全、生产安全、人体健康、人身财产安全和环境卫生,保护国家利益和消费者的正当权益;",
+    "line_start": 0,
+    "line_end": 84,
+    "source_anchor": "(一)有利于保障飞行安全、空防安全、生产安全、人体健康、人身财产安全和环境卫生,保护国家利益和消费者的正当权益;"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了规范民用航空标准化活动,加强民用航空标准化工作的管理,推动行业技术进步,保证航空安全,促进民用航空事业发展,根据《中华人民共和国民用航空法》《中华人民共和国标准化法》《中华人民共和国标准化法实施条例》,制定本规定。",
+    "line_start": 1,
+    "line_end": 1,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 在中华人民共和国境内从事民用航空(以下简称民航)标准化活动,适用本规定。",
+    "line_start": 2,
+    "line_end": 2,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 民航标准化工作的任务是制定标准、组织实施标准及对标准的实施进行监督。",
+    "line_start": 3,
+    "line_end": 3,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 民航标准化工作应当遵循统一管理、分工负责、共同推进的原则。",
+    "line_start": 4,
+    "line_end": 4,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 民航标准化工作应当纳入民航发展规划和年度计划。",
+    "line_start": 5,
+    "line_end": 5,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 民航标准分为国家标准、行业标准和企业标准。国家标准、行业标准按标准性质分为强制性标准和推荐性标准。",
+    "line_start": 6,
+    "line_end": 6,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 制定民航标准应当遵循下列原则:",
+    "line_start": 7,
+    "line_end": 12,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 中国民用航空局(以下简称民航局)鼓励积极采用国际标准和国外先进标准,积极参与国际标准的制定工作。",
+    "line_start": 13,
+    "line_end": 13,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 民航局依法对民航标准化工作实施统一管理。",
+    "line_start": 15,
+    "line_end": 15,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 民航局标准化管理职能部门负责统筹组织管理民航标准化工作,履行下列职责:",
+    "line_start": 16,
+    "line_end": 24,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 民航局各职能部门具体分工管理本部门业务范围内的标准化工作,履行下列职责:",
+    "line_start": 25,
+    "line_end": 31,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 民航标准化技术归口单位履行下列职责:",
+    "line_start": 32,
+    "line_end": 41,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 民航各企业应贯彻落实国家和民航局有关标准化的规定,开展标准化工作。",
+    "line_start": 42,
+    "line_end": 42,
+    "source_anchor": "第十三条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 组织机构和职责",
+    "line_start": 14,
+    "line_end": 42,
+    "source_anchor": "第二章"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 国家标准的制定、修订按照国家法律、行政法规和国务院标准化管理部门的有关规定执行。",
+    "line_start": 44,
+    "line_end": 44,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 行业标准的范围包括:",
+    "line_start": 45,
+    "line_end": 55,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 对于没有国家标准和行业标准的领域,民航企业应当制定企业标准。已有国家标准、行业标准的,鼓励企业制定严于国家标准和行业标准要求的企业标准。",
+    "line_start": 56,
+    "line_end": 56,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 强制性标准或强制性条文的内容应当限制在下列范围:",
+    "line_start": 57,
+    "line_end": 65,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 行业标准的制定、修订实行计划管理。每年由民航各单位向民航局标准化管理职能部门提出标准申报项目,由民航局标准化管理职能部门确定计划项目,并与标准起草单位签订任务委托协议。",
+    "line_start": 66,
+    "line_end": 66,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 标准制定应当公开、透明,制定过程中应当广泛征求意见。标准起草单位应当将标准征求意见稿发送相关单位征求意见,或者通过网络向社会公开征求意见。征求意见的期限一般不少于一个月。",
+    "line_start": 67,
+    "line_end": 69,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 行业标准由民航局标准化管理职能部门组织审查,经民航局批准后由民航局标准化管理职能部门统一编号、发布,由民航标准化技术归口单位负责出版、发行。民航局标准化管理职能部门负责将相关材料报国务院标准化管理部门备案。",
+    "line_start": 70,
+    "line_end": 70,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 民航标准实施后,应当根据科技进步、经济和社会发展的需要,适时对标准的适用性进行复审。复审周期一般不超过五年。",
+    "line_start": 71,
+    "line_end": 71,
+    "source_anchor": "第二十一条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 标准的制定",
+    "line_start": 43,
+    "line_end": 71,
+    "source_anchor": "第三章"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 强制性标准发布实施后,民航各单位必须贯彻执行。",
+    "line_start": 73,
+    "line_end": 73,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 推荐性标准发布实施后,鼓励民航各单位积极执行。",
+    "line_start": 74,
+    "line_end": 74,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 标准发布后,民航局各职能部门应当组织本部门业务范围内标准的宣传贯彻。",
+    "line_start": 75,
+    "line_end": 75,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 民航局各职能部门应当对本部门业务范围内标准的实施情况组织监督检查,并适时开展标准实施效益的评价工作。",
+    "line_start": 76,
+    "line_end": 76,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 任何单位和个人均有权向民航局标准化管理职能部门反映标准的实施情况和存在的问题,有权投诉、举报违反强制性标准的行为,相关部门应当及时答复或在其职能范围内做出相应处理。",
+    "line_start": 77,
+    "line_end": 77,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 标准属于科技成果,对具有技术创新或自主知识产权、技术水平高以及取得显著效益的国家标准和行业标准,应当纳入相关科技奖励范围,予以奖励。",
+    "line_start": 78,
+    "line_end": 78,
+    "source_anchor": "第二十七条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 标准的实施与监督",
+    "line_start": 72,
+    "line_end": 78,
+    "source_anchor": "第四章"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 对违反本规定或有关标准的单位及个人,依据《中华人民共和国标准化法》和《中华人民共和国标准化法实施条例》等法律法规给予处罚。",
+    "line_start": 80,
+    "line_end": 80,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 民航局标准化管理职能部门、民航标准化技术归口单位工作人员,因失职、渎职造成重大损失的,由有关主管部门给予处理,构成犯罪的依法追究刑事责任。",
+    "line_start": 81,
+    "line_end": 81,
+    "source_anchor": "第二十九条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 法律责任",
+    "line_start": 79,
+    "line_end": 81,
+    "source_anchor": "第五章"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 民航工程建设标准化活动按照国家工程建设标准化管理的有关规定实施。",
+    "line_start": 83,
+    "line_end": 83,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 本规定自2016年4月28日起施行。1998年7月20日发布的《中国民用航空标准化管理规定》(CCAR-375SE-R1)同时废止。",
+    "line_start": 84,
+    "line_end": 84,
+    "source_anchor": "第三十一条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 附 则",
+    "line_start": 82,
+    "line_end": 84,
+    "source_anchor": "第六章"
+  }
+}

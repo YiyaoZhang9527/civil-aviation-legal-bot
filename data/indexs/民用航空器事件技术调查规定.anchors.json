@@ -1,0 +1,122 @@
+{
+  "law:民用航空器事件技术调查规定": {
+    "node_id": "law:民用航空器事件技术调查规定",
+    "type": "law",
+    "title": "《交通运输部关于修改〈民用航空器事件调查规定〉的",
+    "line_start": 0,
+    "line_end": 893,
+    "source_anchor": "《交通运输部关于修改〈民用航空器事件调查规定〉的"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总  则",
+    "line_start": 172,
+    "line_end": 274,
+    "source_anchor": "第一章"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 根据我国批准的国际公约有关规定,有关国",
+    "line_start": 392,
+    "line_end": 436,
+    "source_anchor": "第十七条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 调查的组织",
+    "line_start": 275,
+    "line_end": 436,
+    "source_anchor": "第二章"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 民航局、地区管理局的调查员因身体、心",
+    "line_start": 460,
+    "line_end": 471,
+    "source_anchor": "第二十二条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 调查员的管理",
+    "line_start": 437,
+    "line_end": 471,
+    "source_anchor": "第三章"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 事件的报告",
+    "line_start": 472,
+    "line_end": 515,
+    "source_anchor": "第四章"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 事件的调查",
+    "line_start": 516,
+    "line_end": 686,
+    "source_anchor": "第五章"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 对于涉外的事故和严重征候调查,组织事件",
+    "line_start": 721,
+    "line_end": 732,
+    "source_anchor": "第四十条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 在调查的任何阶段,民航局、地区管理局",
+    "line_start": 733,
+    "line_end": 781,
+    "source_anchor": "第四十二条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 调查报告的管理",
+    "line_start": 687,
+    "line_end": 781,
+    "source_anchor": "第六章"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 事故发生单位及其有关人员有下列行为之一",
+    "line_start": 792,
+    "line_end": 813,
+    "source_anchor": "第五十条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 法律责任",
+    "line_start": 782,
+    "line_end": 813,
+    "source_anchor": "第七章"
+  },
+  "article:60": {
+    "node_id": "article:60",
+    "type": "article",
+    "title": "第六十条 本规定自2020 年4 月1 日起施行。原民航总",
+    "line_start": 891,
+    "line_end": 893,
+    "source_anchor": "第六十条"
+  },
+  "chapter:8": {
+    "node_id": "chapter:8",
+    "type": "chapter",
+    "title": "第八章 附则",
+    "line_start": 814,
+    "line_end": 893,
+    "source_anchor": "第八章"
+  }
+}

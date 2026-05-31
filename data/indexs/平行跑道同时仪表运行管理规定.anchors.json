@@ -1,0 +1,154 @@
+{
+  "law:平行跑道同时仪表运行管理规定": {
+    "node_id": "law:平行跑道同时仪表运行管理规定",
+    "type": "law",
+    "title": "《交通运输部关于修改〈平行跑道同时仪表运行管理规",
+    "line_start": 0,
+    "line_end": 1312,
+    "source_anchor": "《交通运输部关于修改〈平行跑道同时仪表运行管理规"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 当有关地面设施符合规定进近类型的必",
+    "line_start": 731,
+    "line_end": 873,
+    "source_anchor": "第四十三条"
+  },
+  "article:52": {
+    "node_id": "article:52",
+    "type": "article",
+    "title": "第五十二条 空中交通运行机构实施平行跑道同时仪",
+    "line_start": 874,
+    "line_end": 892,
+    "source_anchor": "第五十二条"
+  },
+  "article:53": {
+    "node_id": "article:53",
+    "type": "article",
+    "title": "第五十三条 试验运行应当划分为两个及以上阶段,分",
+    "line_start": 893,
+    "line_end": 897,
+    "source_anchor": "第五十三条"
+  },
+  "article:54": {
+    "node_id": "article:54",
+    "type": "article",
+    "title": "第五十四条 试验运行期间,民航局或者委托民航地区",
+    "line_start": 898,
+    "line_end": 900,
+    "source_anchor": "第五十四条"
+  },
+  "article:55": {
+    "node_id": "article:55",
+    "type": "article",
+    "title": "第五十五条 空中交通运行机构提供的有关平行跑道",
+    "line_start": 901,
+    "line_end": 902,
+    "source_anchor": "第五十五条"
+  },
+  "article:56": {
+    "node_id": "article:56",
+    "type": "article",
+    "title": "第五十六条 经技术专家组检查评估,试验运行存在不",
+    "line_start": 903,
+    "line_end": 908,
+    "source_anchor": "第五十六条"
+  },
+  "article:57": {
+    "node_id": "article:57",
+    "type": "article",
+    "title": "第五十七条 平行跑道同时仪表试验运行满一年,技术",
+    "line_start": 909,
+    "line_end": 911,
+    "source_anchor": "第五十七条"
+  },
+  "article:58": {
+    "node_id": "article:58",
+    "type": "article",
+    "title": "第五十八条 民航局根据试验运行实际情况和评估检",
+    "line_start": 912,
+    "line_end": 914,
+    "source_anchor": "第五十八条"
+  },
+  "article:59": {
+    "node_id": "article:59",
+    "type": "article",
+    "title": "第五十九条 实施平行跑道同时仪表运行的单位应当",
+    "line_start": 915,
+    "line_end": 917,
+    "source_anchor": "第五十九条"
+  },
+  "article:60": {
+    "node_id": "article:60",
+    "type": "article",
+    "title": "第六十条 实施平行跑道同时仪表运行的单位违反本规",
+    "line_start": 918,
+    "line_end": 923,
+    "source_anchor": "第六十条"
+  },
+  "article:61": {
+    "node_id": "article:61",
+    "type": "article",
+    "title": "第六十一条 违反本规定第五十二条的规定,擅自实施",
+    "line_start": 926,
+    "line_end": 929,
+    "source_anchor": "第六十一条"
+  },
+  "article:62": {
+    "node_id": "article:62",
+    "type": "article",
+    "title": "第六十二条 违反本规定第五十九条的规定,未能保持",
+    "line_start": 930,
+    "line_end": 938,
+    "source_anchor": "第六十二条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 罚  则",
+    "line_start": 924,
+    "line_end": 938,
+    "source_anchor": "第六章"
+  },
+  "article:63": {
+    "node_id": "article:63",
+    "type": "article",
+    "title": "第六十三条 本规定自2004 年6 月26 日起施行。",
+    "line_start": 941,
+    "line_end": 1117,
+    "source_anchor": "第六十三条"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 平行跑道的运行模式",
+    "line_start": 1200,
+    "line_end": 1233,
+    "source_anchor": "第一节"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 定  义",
+    "line_start": 1234,
+    "line_end": 1312,
+    "source_anchor": "第二节"
+  },
+  "section:3": {
+    "node_id": "section:3",
+    "type": "section",
+    "title": "第三节 非侵入区和正常运行区的相互关系",
+    "line_start": 1178,
+    "line_end": 1199,
+    "source_anchor": "第三节"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 附  则",
+    "line_start": 939,
+    "line_end": 1312,
+    "source_anchor": "第七章"
+  }
+}

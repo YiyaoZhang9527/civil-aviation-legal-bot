@@ -1,0 +1,106 @@
+{
+  "law:民用航空器适航指令规定": {
+    "node_id": "law:民用航空器适航指令规定",
+    "type": "law",
+    "title": "第8号",
+    "line_start": 0,
+    "line_end": 30,
+    "source_anchor": "第8号"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 依据",
+    "line_start": 6,
+    "line_end": 7,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 适用范围",
+    "line_start": 8,
+    "line_end": 13,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 要求",
+    "line_start": 14,
+    "line_end": 15,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 责任(一)在中华人民共和国登记册的民用航空器的所有人和使用人,必须保证其使用的民用航空器符合本规定的有关要求。",
+    "line_start": 16,
+    "line_end": 18,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 授权",
+    "line_start": 19,
+    "line_end": 21,
+    "source_anchor": "第五条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总则",
+    "line_start": 5,
+    "line_end": 21,
+    "source_anchor": "第一章"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 概述",
+    "line_start": 23,
+    "line_end": 24,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 适航指令的颁发",
+    "line_start": 25,
+    "line_end": 27,
+    "source_anchor": "第七条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 适航指令",
+    "line_start": 22,
+    "line_end": 27,
+    "source_anchor": "第二章"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 本规定由中国民用航空局负责解释。",
+    "line_start": 29,
+    "line_end": 29,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 本规定自发布之日起施行。",
+    "line_start": 30,
+    "line_end": 30,
+    "source_anchor": "第九条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 附则",
+    "line_start": 28,
+    "line_end": 30,
+    "source_anchor": "第三章"
+  }
+}

@@ -1,0 +1,834 @@
+{
+  "law:民用航空器驾驶员学校合格审定规则": {
+    "node_id": "law:民用航空器驾驶员学校合格审定规则",
+    "type": "law",
+    "title": "民用航空器驾驶员学校合格审定规则",
+    "line_start": 0,
+    "line_end": 2597,
+    "source_anchor": "民用航空器驾驶员学校合格审定规则"
+  },
+  "article:141.1": {
+    "node_id": "article:141.1",
+    "type": "article",
+    "title": "第141.1条 目的和依据",
+    "line_start": 5,
+    "line_end": 10,
+    "source_anchor": "第141.1条"
+  },
+  "article:141.3": {
+    "node_id": "article:141.3",
+    "type": "article",
+    "title": "第141.3条 适用范围",
+    "line_start": 11,
+    "line_end": 27,
+    "source_anchor": "第141.3条"
+  },
+  "article:141.5": {
+    "node_id": "article:141.5",
+    "type": "article",
+    "title": "第141.5条 职责划分",
+    "line_start": 28,
+    "line_end": 39,
+    "source_anchor": "第141.5条"
+  },
+  "article:141.7": {
+    "node_id": "article:141.7",
+    "type": "article",
+    "title": "第141.7条 定义",
+    "line_start": 40,
+    "line_end": 44,
+    "source_anchor": "第141.7条"
+  },
+  "chapter:A": {
+    "node_id": "chapter:A",
+    "type": "chapter",
+    "title": "A章 A章",
+    "line_start": 2,
+    "line_end": 44,
+    "source_anchor": "A章"
+  },
+  "article:141.11": {
+    "node_id": "article:141.11",
+    "type": "article",
+    "title": "第141.11条 申请条件",
+    "line_start": 47,
+    "line_end": 60,
+    "source_anchor": "第141.11条"
+  },
+  "article:141.13": {
+    "node_id": "article:141.13",
+    "type": "article",
+    "title": "第141.13条 条至第141.19 条的有关规定外,还应当符合下列要求:",
+    "line_start": 172,
+    "line_end": 182,
+    "source_anchor": "第141.13条"
+  },
+  "article:141.15": {
+    "node_id": "article:141.15",
+    "type": "article",
+    "title": "第141.15条 申请受理",
+    "line_start": 70,
+    "line_end": 78,
+    "source_anchor": "第141.15条"
+  },
+  "article:141.17": {
+    "node_id": "article:141.17",
+    "type": "article",
+    "title": "第141.17条 局方审查",
+    "line_start": 79,
+    "line_end": 86,
+    "source_anchor": "第141.17条"
+  },
+  "article:141.19": {
+    "node_id": "article:141.19",
+    "type": "article",
+    "title": "第141.19条 证件颁发",
+    "line_start": 87,
+    "line_end": 102,
+    "source_anchor": "第141.19条"
+  },
+  "article:141.21": {
+    "node_id": "article:141.21",
+    "type": "article",
+    "title": "第141.21条 证件内容",
+    "line_start": 103,
+    "line_end": 137,
+    "source_anchor": "第141.21条"
+  },
+  "article:141.23": {
+    "node_id": "article:141.23",
+    "type": "article",
+    "title": "第141.23条 证件有效性",
+    "line_start": 138,
+    "line_end": 149,
+    "source_anchor": "第141.23条"
+  },
+  "article:141.25": {
+    "node_id": "article:141.25",
+    "type": "article",
+    "title": "第141.25条 撤销和注销",
+    "line_start": 150,
+    "line_end": 159,
+    "source_anchor": "第141.25条"
+  },
+  "article:141.27": {
+    "node_id": "article:141.27",
+    "type": "article",
+    "title": "第141.27条 证件展示",
+    "line_start": 160,
+    "line_end": 166,
+    "source_anchor": "第141.27条"
+  },
+  "article:141.29": {
+    "node_id": "article:141.29",
+    "type": "article",
+    "title": "第141.29条 证件更新",
+    "line_start": 167,
+    "line_end": 171,
+    "source_anchor": "第141.29条"
+  },
+  "article:141.31": {
+    "node_id": "article:141.31",
+    "type": "article",
+    "title": "第141.31条 证件变更",
+    "line_start": 183,
+    "line_end": 194,
+    "source_anchor": "第141.31条"
+  },
+  "article:141.33": {
+    "node_id": "article:141.33",
+    "type": "article",
+    "title": "第141.33条 主运行基地",
+    "line_start": 195,
+    "line_end": 213,
+    "source_anchor": "第141.33条"
+  },
+  "article:141.35": {
+    "node_id": "article:141.35",
+    "type": "article",
+    "title": "第141.35条 条的相应规定。",
+    "line_start": 912,
+    "line_end": 912,
+    "source_anchor": "第141.35条"
+  },
+  "article:141.37": {
+    "node_id": "article:141.37",
+    "type": "article",
+    "title": "第141.37条 检查",
+    "line_start": 247,
+    "line_end": 251,
+    "source_anchor": "第141.37条"
+  },
+  "chapter:B": {
+    "node_id": "chapter:B",
+    "type": "chapter",
+    "title": "B章 和D 章的相关要求实施。",
+    "line_start": 1189,
+    "line_end": 1191,
+    "source_anchor": "B章"
+  },
+  "article:141.41": {
+    "node_id": "article:141.41",
+    "type": "article",
+    "title": "第141.41条 人员配备要求",
+    "line_start": 255,
+    "line_end": 264,
+    "source_anchor": "第141.41条"
+  },
+  "article:141.43": {
+    "node_id": "article:141.43",
+    "type": "article",
+    "title": "第141.43条 主任飞行教员的要求",
+    "line_start": 265,
+    "line_end": 289,
+    "source_anchor": "第141.43条"
+  },
+  "article:141.45": {
+    "node_id": "article:141.45",
+    "type": "article",
+    "title": "第141.45条 主任飞行教员的责任",
+    "line_start": 290,
+    "line_end": 297,
+    "source_anchor": "第141.45条"
+  },
+  "article:141.47": {
+    "node_id": "article:141.47",
+    "type": "article",
+    "title": "第141.47条 主任飞行教员的更换",
+    "line_start": 298,
+    "line_end": 311,
+    "source_anchor": "第141.47条"
+  },
+  "article:141.49": {
+    "node_id": "article:141.49",
+    "type": "article",
+    "title": "第141.49条 人员的保持",
+    "line_start": 312,
+    "line_end": 315,
+    "source_anchor": "第141.49条"
+  },
+  "article:141.51": {
+    "node_id": "article:141.51",
+    "type": "article",
+    "title": "第141.51条 飞行人员飞行经历和教学时间限制",
+    "line_start": 316,
+    "line_end": 329,
+    "source_anchor": "第141.51条"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 人员要求",
+    "line_start": 504,
+    "line_end": 749,
+    "source_anchor": "第一节"
+  },
+  "article:141.61": {
+    "node_id": "article:141.61",
+    "type": "article",
+    "title": "第141.61条 机场",
+    "line_start": 331,
+    "line_end": 353,
+    "source_anchor": "第141.61条"
+  },
+  "article:141.63": {
+    "node_id": "article:141.63",
+    "type": "article",
+    "title": "第141.63条 航空器",
+    "line_start": 354,
+    "line_end": 374,
+    "source_anchor": "第141.63条"
+  },
+  "article:141.65": {
+    "node_id": "article:141.65",
+    "type": "article",
+    "title": "第141.65条 飞行模拟机、飞行训练器、高级航空训练设备",
+    "line_start": 375,
+    "line_end": 405,
+    "source_anchor": "第141.65条"
+  },
+  "article:141.67": {
+    "node_id": "article:141.67",
+    "type": "article",
+    "title": "第141.67条 讲评区域",
+    "line_start": 406,
+    "line_end": 419,
+    "source_anchor": "第141.67条"
+  },
+  "article:141.69": {
+    "node_id": "article:141.69",
+    "type": "article",
+    "title": "第141.69条 地面训练设施",
+    "line_start": 420,
+    "line_end": 425,
+    "source_anchor": "第141.69条"
+  },
+  "article:141.71": {
+    "node_id": "article:141.71",
+    "type": "article",
+    "title": "第141.71条 条、第141.133 条、第141.137 条、第141.139 条或者第",
+    "line_start": 1248,
+    "line_end": 1248,
+    "source_anchor": "第141.71条"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 机场、航空器和设施要求",
+    "line_start": 750,
+    "line_end": 851,
+    "source_anchor": "第二节"
+  },
+  "article:141.81": {
+    "node_id": "article:141.81",
+    "type": "article",
+    "title": "第141.81条 训练课程内容",
+    "line_start": 431,
+    "line_end": 435,
+    "source_anchor": "第141.81条"
+  },
+  "article:141.83": {
+    "node_id": "article:141.83",
+    "type": "article",
+    "title": "第141.83条 训练课程批准程序的一般要求",
+    "line_start": 436,
+    "line_end": 440,
+    "source_anchor": "第141.83条"
+  },
+  "section:3": {
+    "node_id": "section:3",
+    "type": "section",
+    "title": "第三节 训练课程要求",
+    "line_start": 852,
+    "line_end": 912,
+    "source_anchor": "第三节"
+  },
+  "article:141.91": {
+    "node_id": "article:141.91",
+    "type": "article",
+    "title": "第141.91条 飞行训练",
+    "line_start": 443,
+    "line_end": 448,
+    "source_anchor": "第141.91条"
+  },
+  "article:141.93": {
+    "node_id": "article:141.93",
+    "type": "article",
+    "title": "第141.93条 地面训练",
+    "line_start": 449,
+    "line_end": 458,
+    "source_anchor": "第141.93条"
+  },
+  "article:141.95": {
+    "node_id": "article:141.95",
+    "type": "article",
+    "title": "第141.95条 训练质量",
+    "line_start": 459,
+    "line_end": 465,
+    "source_anchor": "第141.95条"
+  },
+  "article:141.97": {
+    "node_id": "article:141.97",
+    "type": "article",
+    "title": "第141.97条 限制",
+    "line_start": 466,
+    "line_end": 472,
+    "source_anchor": "第141.97条"
+  },
+  "section:4": {
+    "node_id": "section:4",
+    "type": "section",
+    "title": "第四节 训练运行规则",
+    "line_start": 913,
+    "line_end": 1059,
+    "source_anchor": "第四节"
+  },
+  "article:141.101": {
+    "node_id": "article:141.101",
+    "type": "article",
+    "title": "第141.101条 记录的保存",
+    "line_start": 474,
+    "line_end": 501,
+    "source_anchor": "第141.101条"
+  },
+  "section:5": {
+    "node_id": "section:5",
+    "type": "section",
+    "title": "第五节 记录",
+    "line_start": 1060,
+    "line_end": 1108,
+    "source_anchor": "第五节"
+  },
+  "chapter:C": {
+    "node_id": "chapter:C",
+    "type": "chapter",
+    "title": "C章 C章",
+    "line_start": 252,
+    "line_end": 501,
+    "source_anchor": "C章"
+  },
+  "article:141.111": {
+    "node_id": "article:141.111",
+    "type": "article",
+    "title": "第141.111条 条、第141.113 条、第141.115 条、第141.117 条或者第",
+    "line_start": 1242,
+    "line_end": 1242,
+    "source_anchor": "第141.111条"
+  },
+  "article:141.113": {
+    "node_id": "article:141.113",
+    "type": "article",
+    "title": "第141.113条 主任飞行教员的要求",
+    "line_start": 526,
+    "line_end": 587,
+    "source_anchor": "第141.113条"
+  },
+  "article:141.115": {
+    "node_id": "article:141.115",
+    "type": "article",
+    "title": "第141.115条 助理主任飞行教员的要求",
+    "line_start": 588,
+    "line_end": 650,
+    "source_anchor": "第141.115条"
+  },
+  "article:141.117": {
+    "node_id": "article:141.117",
+    "type": "article",
+    "title": "第141.117条 检查教员的要求",
+    "line_start": 651,
+    "line_end": 682,
+    "source_anchor": "第141.117条"
+  },
+  "article:141.119": {
+    "node_id": "article:141.119",
+    "type": "article",
+    "title": "第141.119条 主任飞行教员的责任",
+    "line_start": 683,
+    "line_end": 707,
+    "source_anchor": "第141.119条"
+  },
+  "article:141.121": {
+    "node_id": "article:141.121",
+    "type": "article",
+    "title": "第141.121条 主任飞行教员的更换",
+    "line_start": 708,
+    "line_end": 729,
+    "source_anchor": "第141.121条"
+  },
+  "article:141.123": {
+    "node_id": "article:141.123",
+    "type": "article",
+    "title": "第141.123条 条规定,人员配备不符合要求或者使用不合格人员担任",
+    "line_start": 1243,
+    "line_end": 1247,
+    "source_anchor": "第141.123条"
+  },
+  "article:141.125": {
+    "node_id": "article:141.125",
+    "type": "article",
+    "title": "第141.125条 飞行人员飞行经历和教学时间限制",
+    "line_start": 736,
+    "line_end": 749,
+    "source_anchor": "第141.125条"
+  },
+  "article:141.131": {
+    "node_id": "article:141.131",
+    "type": "article",
+    "title": "第141.131条 机场",
+    "line_start": 751,
+    "line_end": 773,
+    "source_anchor": "第141.131条"
+  },
+  "article:141.133": {
+    "node_id": "article:141.133",
+    "type": "article",
+    "title": "第141.133条 航空器",
+    "line_start": 774,
+    "line_end": 794,
+    "source_anchor": "第141.133条"
+  },
+  "article:141.135": {
+    "node_id": "article:141.135",
+    "type": "article",
+    "title": "第141.135条 飞行模拟机、飞行训练器、高级航空训练设",
+    "line_start": 795,
+    "line_end": 827,
+    "source_anchor": "第141.135条"
+  },
+  "article:141.137": {
+    "node_id": "article:141.137",
+    "type": "article",
+    "title": "第141.137条 讲评区域",
+    "line_start": 828,
+    "line_end": 839,
+    "source_anchor": "第141.137条"
+  },
+  "article:141.139": {
+    "node_id": "article:141.139",
+    "type": "article",
+    "title": "第141.139条 地面训练设施",
+    "line_start": 840,
+    "line_end": 845,
+    "source_anchor": "第141.139条"
+  },
+  "article:141.141": {
+    "node_id": "article:141.141",
+    "type": "article",
+    "title": "第141.141条 条规定,使用不符合规定要求的航空器或者设施实施训",
+    "line_start": 1249,
+    "line_end": 1276,
+    "source_anchor": "第141.141条"
+  },
+  "article:141.151": {
+    "node_id": "article:141.151",
+    "type": "article",
+    "title": "第141.151条 训练课程内容",
+    "line_start": 853,
+    "line_end": 906,
+    "source_anchor": "第141.151条"
+  },
+  "article:141.153": {
+    "node_id": "article:141.153",
+    "type": "article",
+    "title": "第141.153条 训练课程批准程序的一般要求",
+    "line_start": 907,
+    "line_end": 911,
+    "source_anchor": "第141.153条"
+  },
+  "article:141.161": {
+    "node_id": "article:141.161",
+    "type": "article",
+    "title": "第141.161条 飞行训练",
+    "line_start": 914,
+    "line_end": 937,
+    "source_anchor": "第141.161条"
+  },
+  "article:141.163": {
+    "node_id": "article:141.163",
+    "type": "article",
+    "title": "第141.163条 地面训练",
+    "line_start": 938,
+    "line_end": 948,
+    "source_anchor": "第141.163条"
+  },
+  "article:141.165": {
+    "node_id": "article:141.165",
+    "type": "article",
+    "title": "第141.165条 训练质量",
+    "line_start": 949,
+    "line_end": 964,
+    "source_anchor": "第141.165条"
+  },
+  "article:141.167": {
+    "node_id": "article:141.167",
+    "type": "article",
+    "title": "第141.167条 辅助运行基地",
+    "line_start": 965,
+    "line_end": 982,
+    "source_anchor": "第141.167条"
+  },
+  "article:141.169": {
+    "node_id": "article:141.169",
+    "type": "article",
+    "title": "第141.169条 学员注册",
+    "line_start": 983,
+    "line_end": 1006,
+    "source_anchor": "第141.169条"
+  },
+  "article:141.171": {
+    "node_id": "article:141.171",
+    "type": "article",
+    "title": "第141.171条 限制",
+    "line_start": 1007,
+    "line_end": 1041,
+    "source_anchor": "第141.171条"
+  },
+  "article:141.173": {
+    "node_id": "article:141.173",
+    "type": "article",
+    "title": "第141.173条 结业证书",
+    "line_start": 1042,
+    "line_end": 1059,
+    "source_anchor": "第141.173条"
+  },
+  "article:141.181": {
+    "node_id": "article:141.181",
+    "type": "article",
+    "title": "第141.181条 训练记录",
+    "line_start": 1061,
+    "line_end": 1082,
+    "source_anchor": "第141.181条"
+  },
+  "article:141.183": {
+    "node_id": "article:141.183",
+    "type": "article",
+    "title": "第141.183条 记录的保存",
+    "line_start": 1083,
+    "line_end": 1108,
+    "source_anchor": "第141.183条"
+  },
+  "article:141.191": {
+    "node_id": "article:141.191",
+    "type": "article",
+    "title": "第141.191条 受委托进行考试的资格要求",
+    "line_start": 1110,
+    "line_end": 1128,
+    "source_anchor": "第141.191条"
+  },
+  "article:141.193": {
+    "node_id": "article:141.193",
+    "type": "article",
+    "title": "第141.193条 权利",
+    "line_start": 1129,
+    "line_end": 1133,
+    "source_anchor": "第141.193条"
+  },
+  "article:141.195": {
+    "node_id": "article:141.195",
+    "type": "article",
+    "title": "第141.195条 限制和报告",
+    "line_start": 1134,
+    "line_end": 1161,
+    "source_anchor": "第141.195条"
+  },
+  "article:141.197": {
+    "node_id": "article:141.197",
+    "type": "article",
+    "title": "第141.197条 受委托进行考试的有效期",
+    "line_start": 1162,
+    "line_end": 1171,
+    "source_anchor": "第141.197条"
+  },
+  "section:6": {
+    "node_id": "section:6",
+    "type": "section",
+    "title": "第六节 委托考试",
+    "line_start": 1109,
+    "line_end": 1171,
+    "source_anchor": "第六节"
+  },
+  "chapter:D": {
+    "node_id": "chapter:D",
+    "type": "chapter",
+    "title": "D章 D章",
+    "line_start": 502,
+    "line_end": 1171,
+    "source_anchor": "D章"
+  },
+  "article:141.211": {
+    "node_id": "article:141.211",
+    "type": "article",
+    "title": "第141.211条 适用范围",
+    "line_start": 1174,
+    "line_end": 1181,
+    "source_anchor": "第141.211条"
+  },
+  "article:61.93": {
+    "node_id": "article:61.93",
+    "type": "article",
+    "title": "第61.93条 条(d)款的规定,申请换发相应的驾驶员执照和等级。",
+    "line_start": 1182,
+    "line_end": 1182,
+    "source_anchor": "第61.93条"
+  },
+  "article:141.213": {
+    "node_id": "article:141.213",
+    "type": "article",
+    "title": "第141.213条 境外驾驶员学校应当符合的条件",
+    "line_start": 1183,
+    "line_end": 1186,
+    "source_anchor": "第141.213条"
+  },
+  "article:141.215": {
+    "node_id": "article:141.215",
+    "type": "article",
+    "title": "第141.215条 境外驾驶员学校的合格审定和持续监督",
+    "line_start": 1187,
+    "line_end": 1188,
+    "source_anchor": "第141.215条"
+  },
+  "chapter:E": {
+    "node_id": "chapter:E",
+    "type": "chapter",
+    "title": "E章 E章",
+    "line_start": 1172,
+    "line_end": 1188,
+    "source_anchor": "E章"
+  },
+  "article:141.221": {
+    "node_id": "article:141.221",
+    "type": "article",
+    "title": "第141.221条 一般规定",
+    "line_start": 1194,
+    "line_end": 1197,
+    "source_anchor": "第141.221条"
+  },
+  "article:141.223": {
+    "node_id": "article:141.223",
+    "type": "article",
+    "title": "第141.223条 条、第141.225 条、本条(a)款(1)项或者(3)项中所列行为",
+    "line_start": 1229,
+    "line_end": 1230,
+    "source_anchor": "第141.223条"
+  },
+  "article:141.225": {
+    "node_id": "article:141.225",
+    "type": "article",
+    "title": "第141.225条 超出批准范围进行训练的处罚",
+    "line_start": 1202,
+    "line_end": 1204,
+    "source_anchor": "第141.225条"
+  },
+  "article:141.227": {
+    "node_id": "article:141.227",
+    "type": "article",
+    "title": "第141.227条 提供虚假信息的处罚",
+    "line_start": 1205,
+    "line_end": 1208,
+    "source_anchor": "第141.227条"
+  },
+  "article:141.229": {
+    "node_id": "article:141.229",
+    "type": "article",
+    "title": "第141.229条 欺骗、贿赂取得许可的处罚",
+    "line_start": 1209,
+    "line_end": 1216,
+    "source_anchor": "第141.229条"
+  },
+  "article:141.231": {
+    "node_id": "article:141.231",
+    "type": "article",
+    "title": "第141.231条 违章责任之一",
+    "line_start": 1217,
+    "line_end": 1228,
+    "source_anchor": "第141.231条"
+  },
+  "article:141.233": {
+    "node_id": "article:141.233",
+    "type": "article",
+    "title": "第141.233条 违章责任之二",
+    "line_start": 1231,
+    "line_end": 1241,
+    "source_anchor": "第141.233条"
+  },
+  "article:141.235": {
+    "node_id": "article:141.235",
+    "type": "article",
+    "title": "第141.235条 人员责任",
+    "line_start": 1277,
+    "line_end": 1284,
+    "source_anchor": "第141.235条"
+  },
+  "article:141.237": {
+    "node_id": "article:141.237",
+    "type": "article",
+    "title": "第141.237条 信用管理",
+    "line_start": 1285,
+    "line_end": 1296,
+    "source_anchor": "第141.237条"
+  },
+  "chapter:F": {
+    "node_id": "chapter:F",
+    "type": "chapter",
+    "title": "F章 F章",
+    "line_start": 1192,
+    "line_end": 1296,
+    "source_anchor": "F章"
+  },
+  "article:141.241": {
+    "node_id": "article:141.241",
+    "type": "article",
+    "title": "第141.241条 施行日期",
+    "line_start": 1300,
+    "line_end": 1414,
+    "source_anchor": "第141.241条"
+  },
+  "article:61.125": {
+    "node_id": "article:61.125",
+    "type": "article",
+    "title": "第61.125条 条要求的相应航空器等级的航空知识地面训练或者自",
+    "line_start": 1415,
+    "line_end": 1420,
+    "source_anchor": "第61.125条"
+  },
+  "article:61.127": {
+    "node_id": "article:61.127",
+    "type": "article",
+    "title": "第61.127条 条要求的相应航空器等级的飞行技能训练。训练时间",
+    "line_start": 1421,
+    "line_end": 1566,
+    "source_anchor": "第61.127条"
+  },
+  "article:61.83": {
+    "node_id": "article:61.83",
+    "type": "article",
+    "title": "第61.83条 条(c)款要求的仪表飞行技能训练。训练时间至少如",
+    "line_start": 2227,
+    "line_end": 2304,
+    "source_anchor": "第61.83条"
+  },
+  "article:61.155": {
+    "node_id": "article:61.155",
+    "type": "article",
+    "title": "第61.155条 条要求的相应航空器等级的航空知识地面训练。训练",
+    "line_start": 2305,
+    "line_end": 2308,
+    "source_anchor": "第61.155条"
+  },
+  "article:61.157": {
+    "node_id": "article:61.157",
+    "type": "article",
+    "title": "第61.157条 条要求的相应航空器等级的飞行技能训练。训练时间",
+    "line_start": 2309,
+    "line_end": 2584,
+    "source_anchor": "第61.157条"
+  },
+  "article:61.185": {
+    "node_id": "article:61.185",
+    "type": "article",
+    "title": "第61.185条 条要求的相应航空器等级的航空知识地面训练。",
+    "line_start": 1768,
+    "line_end": 1770,
+    "source_anchor": "第61.185条"
+  },
+  "article:61.187": {
+    "node_id": "article:61.187",
+    "type": "article",
+    "title": "第61.187条 条要求的相应航空器等级的飞行技能训练。",
+    "line_start": 1771,
+    "line_end": 1885,
+    "source_anchor": "第61.187条"
+  },
+  "article:61.205": {
+    "node_id": "article:61.205",
+    "type": "article",
+    "title": "第61.205条 条要求的教学原理和相应的航空知识地面训练。",
+    "line_start": 2091,
+    "line_end": 2093,
+    "source_anchor": "第61.205条"
+  },
+  "article:61.207": {
+    "node_id": "article:61.207",
+    "type": "article",
+    "title": "第61.207条 条要求的飞行教学技能和相应的飞行训练。",
+    "line_start": 2094,
+    "line_end": 2220,
+    "source_anchor": "第61.207条"
+  },
+  "article:61.129": {
+    "node_id": "article:61.129",
+    "type": "article",
+    "title": "第61.129条 条关于飞机类别的私用驾驶员执照的所有经历要求;",
+    "line_start": 2585,
+    "line_end": 2597,
+    "source_anchor": "第61.129条"
+  },
+  "chapter:G": {
+    "node_id": "chapter:G",
+    "type": "chapter",
+    "title": "G章 G章",
+    "line_start": 1297,
+    "line_end": 2597,
+    "source_anchor": "G章"
+  }
+}

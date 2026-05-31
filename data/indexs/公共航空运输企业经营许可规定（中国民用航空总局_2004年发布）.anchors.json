@@ -1,0 +1,634 @@
+{
+  "law:公共航空运输企业经营许可规定(中国民用航空总局_2004年发布)": {
+    "node_id": "law:公共航空运输企业经营许可规定(中国民用航空总局_2004年发布)",
+    "type": "law",
+    "title": "第138 号",
+    "line_start": 0,
+    "line_end": 642,
+    "source_anchor": "第138 号"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为实施公共航空运输企业经营许可,促进民用航空运输",
+    "line_start": 18,
+    "line_end": 20,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规定适用于中华人民共和国境内公共航空运输企业",
+    "line_start": 21,
+    "line_end": 26,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 中国民用航空总局(以下简称民航总局)负责公共航空",
+    "line_start": 27,
+    "line_end": 30,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 设立公共航空运输企业,应当按照其设立条件经所在地",
+    "line_start": 31,
+    "line_end": 39,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 实施公共航空运输企业经营许可,应当遵循以下基本原",
+    "line_start": 40,
+    "line_end": 46,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 公共航空运输企业必须遵守国家法律、行政法规和民用",
+    "line_start": 47,
+    "line_end": 49,
+    "source_anchor": "第六条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总    则",
+    "line_start": 16,
+    "line_end": 49,
+    "source_anchor": "第一章"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 设立公共航空运输企业应当具备下列条件:",
+    "line_start": 52,
+    "line_end": 62,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 外商投资设立公共航空运输企业,应当符合外商投资民",
+    "line_start": 63,
+    "line_end": 66,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 具有下列情形之一的,民航总局不受理设立公共航空运",
+    "line_start": 67,
+    "line_end": 77,
+    "source_anchor": "第九条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 公共航空运输企业设立的条件",
+    "line_start": 50,
+    "line_end": 77,
+    "source_anchor": "第二章"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 申请人申请筹建公共航空运输企业,应当提交下列文",
+    "line_start": 80,
+    "line_end": 88,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 筹建公共航空运输企业的申请报告应当包括以下内",
+    "line_start": 89,
+    "line_end": 96,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 筹建中外合资公共航空运输企业的,申请人应当按照",
+    "line_start": 97,
+    "line_end": 98,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 申请人申请筹建公共航空运输企业,应当将申请材料",
+    "line_start": 99,
+    "line_end": 105,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 对申请人申请筹建公共航空运输企业没有重大异议",
+    "line_start": 106,
+    "line_end": 116,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 民航总局对准予筹建的公共航空运输企业,应当自作",
+    "line_start": 117,
+    "line_end": 123,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 公共航空运输企业筹建决定应当包括以下内容:",
+    "line_start": 124,
+    "line_end": 131,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 经民航总局认可的筹建公共航空运输企业的有效期",
+    "line_start": 132,
+    "line_end": 138,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 申请公共航空运输企业筹建延期,应当向民航总局提",
+    "line_start": 139,
+    "line_end": 148,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 经准予筹建的公共航空运输企业,应当按照国家有关",
+    "line_start": 149,
+    "line_end": 151,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 申请人完成筹建工作后,应当经所在地民航地区管理",
+    "line_start": 152,
+    "line_end": 153,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 申请人申请公共航空运输企业经营许可,应当提交",
+    "line_start": 154,
+    "line_end": 175,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 筹建公共航空运输企业的组织形式为股份有限公",
+    "line_start": 176,
+    "line_end": 184,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 申请人申请经营许可,应当将申请材料提交所在地",
+    "line_start": 185,
+    "line_end": 191,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 对申请人的经营许可申请没有重大异议的,民航总",
+    "line_start": 192,
+    "line_end": 204,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 民航总局对准予经营许可的,应当自作出决定之日",
+    "line_start": 205,
+    "line_end": 209,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 公共航空运输企业经营许可证应当载明下列内容:",
+    "line_start": 210,
+    "line_end": 219,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 申请人持民航总局颁发的公共航空运输企业经营",
+    "line_start": 220,
+    "line_end": 223,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 公共航空运输企业正式投入航线运营前,应当按规",
+    "line_start": 224,
+    "line_end": 227,
+    "source_anchor": "第二十八条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 公共航空运输企业经营许可程序",
+    "line_start": 78,
+    "line_end": 227,
+    "source_anchor": "第三章"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 公共航空运输企业经营许可证所载明的事项发生",
+    "line_start": 229,
+    "line_end": 231,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 公共航空运输企业变更经营许可证所载企业名称、企",
+    "line_start": 232,
+    "line_end": 242,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 公共航空运输企业申请扩大经营许可证所载明的",
+    "line_start": 243,
+    "line_end": 250,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 公共航空运输企业申请变更经营许可证所载明的",
+    "line_start": 251,
+    "line_end": 261,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 公共航空运输企业扩大经营范围和变更基地机场",
+    "line_start": 262,
+    "line_end": 263,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 公共航空运输企业申请扩大经营许可证所载经营",
+    "line_start": 264,
+    "line_end": 269,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 公共航空运输企业改制为股份有限公司,变更经营",
+    "line_start": 270,
+    "line_end": 288,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 已准予运营的公共航空运输企业间新设合并或分",
+    "line_start": 289,
+    "line_end": 298,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 外商投资公共航空运输企业新设合并或者分立设",
+    "line_start": 299,
+    "line_end": 301,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 公共航空运输企业合并、分立,涉及吸收方公共航",
+    "line_start": 302,
+    "line_end": 304,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 公共航空运输企业合并、分立后的经营范围,由民",
+    "line_start": 305,
+    "line_end": 308,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 公共航空运输企业取得经营许可证1 年内未能实际",
+    "line_start": 309,
+    "line_end": 310,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 公共航空运输企业合并完成后吸收合并的被合并",
+    "line_start": 311,
+    "line_end": 314,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 公共航空运输企业经营许可证自注销之日起,其名",
+    "line_start": 315,
+    "line_end": 316,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 公共航空运输企业应当于企业经营许可证有效期",
+    "line_start": 317,
+    "line_end": 330,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 公共航空运输企业经营许可证有效期满,企业不再",
+    "line_start": 331,
+    "line_end": 332,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 公共航空运输企业变更经营许可证所载事项的,应",
+    "line_start": 333,
+    "line_end": 338,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 申请人应当对所提交的文件、资料的真实性、合法",
+    "line_start": 339,
+    "line_end": 341,
+    "source_anchor": "第四十六条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 经营许可证变更、注销和换发",
+    "line_start": 228,
+    "line_end": 341,
+    "source_anchor": "第四章"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 民航总局、民航地区管理局依据职责对公共航空运",
+    "line_start": 344,
+    "line_end": 347,
+    "source_anchor": "第四十七条"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 民航总局、民航地区管理局可以采取以下措施进行",
+    "line_start": 348,
+    "line_end": 353,
+    "source_anchor": "第四十八条"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 公共航空运输企业应当在民航总局许可的企业经",
+    "line_start": 354,
+    "line_end": 356,
+    "source_anchor": "第四十九条"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 公共航空运输企业经营许可证不得涂改、出借、买卖",
+    "line_start": 357,
+    "line_end": 363,
+    "source_anchor": "第五十条"
+  },
+  "article:51": {
+    "node_id": "article:51",
+    "type": "article",
+    "title": "第五十一条 公共航空运输企业应当保证其运营条件持续符合",
+    "line_start": 364,
+    "line_end": 370,
+    "source_anchor": "第五十一条"
+  },
+  "article:52": {
+    "node_id": "article:52",
+    "type": "article",
+    "title": "第五十二条 公共航空运输企业经许可开展航空运输经营活动,",
+    "line_start": 371,
+    "line_end": 372,
+    "source_anchor": "第五十二条"
+  },
+  "article:53": {
+    "node_id": "article:53",
+    "type": "article",
+    "title": "第五十三条 公共航空运输企业之间联合、兼并、收购或变更投",
+    "line_start": 373,
+    "line_end": 374,
+    "source_anchor": "第五十三条"
+  },
+  "article:54": {
+    "node_id": "article:54",
+    "type": "article",
+    "title": "第五十四条 具有独立法人资格的公共航空运输企业不得混用",
+    "line_start": 375,
+    "line_end": 377,
+    "source_anchor": "第五十四条"
+  },
+  "article:55": {
+    "node_id": "article:55",
+    "type": "article",
+    "title": "第五十五条 民航总局根据监督管理的需要,可以要求公共航空运输",
+    "line_start": 378,
+    "line_end": 380,
+    "source_anchor": "第五十五条"
+  },
+  "article:56": {
+    "node_id": "article:56",
+    "type": "article",
+    "title": "第五十六条 公共航空运输企业应当对民航总局、民航地区管理",
+    "line_start": 381,
+    "line_end": 383,
+    "source_anchor": "第五十六条"
+  },
+  "article:57": {
+    "node_id": "article:57",
+    "type": "article",
+    "title": "第五十七条 民航总局、民航地区管理局实施监督检查,应当遵",
+    "line_start": 384,
+    "line_end": 389,
+    "source_anchor": "第五十七条"
+  },
+  "article:58": {
+    "node_id": "article:58",
+    "type": "article",
+    "title": "第五十八条 民航总局、民航地区管理局鼓励、支持和保护任何",
+    "line_start": 390,
+    "line_end": 391,
+    "source_anchor": "第五十八条"
+  },
+  "article:59": {
+    "node_id": "article:59",
+    "type": "article",
+    "title": "第五十九条 公共航空运输企业经营许可证颁发、变更、注销的,",
+    "line_start": 392,
+    "line_end": 394,
+    "source_anchor": "第五十九条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 监督检查",
+    "line_start": 342,
+    "line_end": 394,
+    "source_anchor": "第五章"
+  },
+  "article:60": {
+    "node_id": "article:60",
+    "type": "article",
+    "title": "第六十条 违反本规定第四条的规定,未经同意,擅自筹建、设",
+    "line_start": 397,
+    "line_end": 401,
+    "source_anchor": "第六十条"
+  },
+  "article:61": {
+    "node_id": "article:61",
+    "type": "article",
+    "title": "第六十一条 公共航空运输企业违反本规定第二十九条的规定,",
+    "line_start": 402,
+    "line_end": 405,
+    "source_anchor": "第六十一条"
+  },
+  "article:62": {
+    "node_id": "article:62",
+    "type": "article",
+    "title": "第六十二条 申请人违反本规定第四十六条的规定,隐瞒有关情",
+    "line_start": 406,
+    "line_end": 409,
+    "source_anchor": "第六十二条"
+  },
+  "article:63": {
+    "node_id": "article:63",
+    "type": "article",
+    "title": "第六十三条 公共航空运输企业违反本规定第四十九条的",
+    "line_start": 410,
+    "line_end": 415,
+    "source_anchor": "第六十三条"
+  },
+  "article:64": {
+    "node_id": "article:64",
+    "type": "article",
+    "title": "第六十四条 公共航空运输企业违反本规定第五十条第一款的",
+    "line_start": 416,
+    "line_end": 424,
+    "source_anchor": "第六十四条"
+  },
+  "article:65": {
+    "node_id": "article:65",
+    "type": "article",
+    "title": "第六十五条 公共航空运输企业违反本规定第五十三条、第五十四条",
+    "line_start": 425,
+    "line_end": 430,
+    "source_anchor": "第六十五条"
+  },
+  "article:66": {
+    "node_id": "article:66",
+    "type": "article",
+    "title": "第六十六条 公共航空运输企业违反本规定第五十五条、第五十",
+    "line_start": 431,
+    "line_end": 435,
+    "source_anchor": "第六十六条"
+  },
+  "article:67": {
+    "node_id": "article:67",
+    "type": "article",
+    "title": "第六十七条 民航地区管理局违反第十三条第二款、第二十三条",
+    "line_start": 436,
+    "line_end": 439,
+    "source_anchor": "第六十七条"
+  },
+  "article:68": {
+    "node_id": "article:68",
+    "type": "article",
+    "title": "第六十八条 民航总局的工作人员,在办理公共航空运输企业经",
+    "line_start": 440,
+    "line_end": 449,
+    "source_anchor": "第六十八条"
+  },
+  "article:69": {
+    "node_id": "article:69",
+    "type": "article",
+    "title": "第六十九条 民航总局或民航地区管理局的工作人员办理公共",
+    "line_start": 450,
+    "line_end": 455,
+    "source_anchor": "第六十九条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 法律责任",
+    "line_start": 395,
+    "line_end": 455,
+    "source_anchor": "第六章"
+  },
+  "article:70": {
+    "node_id": "article:70",
+    "type": "article",
+    "title": "第七十条 本规定自公布之日起30 日后施行。1993 年1 月16",
+    "line_start": 458,
+    "line_end": 536,
+    "source_anchor": "第七十条"
+  },
+  "article:93": {
+    "node_id": "article:93",
+    "type": "article",
+    "title": "第九十三条 规定,设立公共航空运输企业,应当有“不少于国务院",
+    "line_start": 537,
+    "line_end": 642,
+    "source_anchor": "第九十三条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 附      则",
+    "line_start": 456,
+    "line_end": 642,
+    "source_anchor": "第七章"
+  }
+}

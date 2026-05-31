@@ -1,0 +1,1058 @@
+{
+  "law:公共航空运输企业航空安全保卫规则(交通运输部_原文PDF)": {
+    "node_id": "law:公共航空运输企业航空安全保卫规则(交通运输部_原文PDF)",
+    "type": "law",
+    "title": "(一)督促和指导公共航空运输企业实施《国家民用航空安全保卫规划》,建立和运行航空安保管理体系;",
+    "line_start": 0,
+    "line_end": 544,
+    "source_anchor": "(一)督促和指导公共航空运输企业实施《国家民用航空安全保卫规划》,建立和运行航空安保管理体系;"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了规范公共航空运输企业航空安全保卫工作,保证旅客、机组、航空器和公众的安全,根据《中华人民共和国民用航空安全保卫条例》,制定本规则。",
+    "line_start": 2,
+    "line_end": 3,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规则适用于在中华人民共和国境内依法设立的公共航空运输企业,在中华人民共和国境内从事公共航空运输的外国航空运输企业,以及与公共航空运输活动有关的单位和个人。",
+    "line_start": 4,
+    "line_end": 5,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 中国民用航空局(以下简称民航局)对公共航空运输企业航空安全保卫(以下简称航空安保)工作实施监督管理。其主要职责包括:",
+    "line_start": 6,
+    "line_end": 27,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 民航地区管理局对本辖区公共航空运输企业航空安保工作实施指导、检查和监督,对违法、违规行为进行查处。其主要职责包括:",
+    "line_start": 28,
+    "line_end": 41,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 公共航空运输企业在运输过程中对其运输的旅客、行李、货物和邮件的航空安保工作承担直接责任。",
+    "line_start": 42,
+    "line_end": 43,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 公共航空运输企业应当指定一名负责航空安保工作的副总经理,负责协调有关部门执行航空安保方案。",
+    "line_start": 48,
+    "line_end": 53,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 公共航空运输企业的分公司应当设立相应的航空安保机构,基地等分支机构也应当设置相应机构或配备人员履行航空安保职责。",
+    "line_start": 54,
+    "line_end": 55,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 公共航空运输企业承担航空安保职责的人员应当按照《国家民用航空安全保卫培训方案》规定经过相应的培训,并培训合格。",
+    "line_start": 56,
+    "line_end": 57,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 公共航空运输企业应当在通航的机场指定或通过航空安保协议指定一名航空安保协调员,履行航空安保协调、信息通报等职责。",
+    "line_start": 58,
+    "line_end": 59,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 民航局、民航地区管理局工作人员工作过程中,有滥用职权、玩忽职守行为的,由有关部门依法予以处分。",
+    "line_start": 510,
+    "line_end": 511,
+    "source_anchor": "第十条"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 旅客订座和离港信息",
+    "line_start": 178,
+    "line_end": 187,
+    "source_anchor": "第一节"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 违反本规则有关规定,构成犯罪的,依法追究刑事责任。",
+    "line_start": 512,
+    "line_end": 513,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 在中华人民共和国境内从事公务机运输业务的航空器经营人,参照执行本规则。",
+    "line_start": 516,
+    "line_end": 517,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 本规则中下列用语的含义:",
+    "line_start": 518,
+    "line_end": 541,
+    "source_anchor": "第十三条"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 办理乘机手续",
+    "line_start": 188,
+    "line_end": 195,
+    "source_anchor": "第二节"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 香港特别行政区、澳门特别行政区和台湾地区的公共航空运输企业,参照本规则有关外国航空运输企业安保要求的规定执行。香港、澳门和台湾航线的安保要求,参照本规则有关国际和地区航线安保要求的规定执行。",
+    "line_start": 542,
+    "line_end": 543,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 本规则自2016年5月22日起施行。",
+    "line_start": 544,
+    "line_end": 544,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 违反本规则第一百零四条规定,未按规定接受审计、评估、考察,或未按规定报告情况的,由民航地区管理局对公共航空运输企业予以警告;情节严重的,处以1万元以上3万元以下罚款。",
+    "line_start": 502,
+    "line_end": 503,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 违反本规则第一百零五条规定,未按规定制定应急处置预案、配备相应设施设备并定期开展演练的,由民航地区管理局责令限期改正;逾期未改正的,处以1万元以上3万元以下罚款。",
+    "line_start": 504,
+    "line_end": 505,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 违反本规则第一百一十七条规定,不接受、不配合监督检查的,由民航局、民航地区管理局予以警告;情节严重的,处以1万元以上3万元以下罚款。",
+    "line_start": 506,
+    "line_end": 507,
+    "source_anchor": "第十八条"
+  },
+  "section:3": {
+    "node_id": "section:3",
+    "type": "section",
+    "title": "第三节 旅客及其手提行李",
+    "line_start": 196,
+    "line_end": 213,
+    "source_anchor": "第三节"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 违反本规则有关规定,不执行安保指令和信息通告的,由民航地区管理局责令限期改正。",
+    "line_start": 508,
+    "line_end": 509,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 公共航空运输企业的经费保障应当满足航空安保运行、演练、培训以及设施设备等方面的需要。",
+    "line_start": 86,
+    "line_end": 87,
+    "source_anchor": "第二十条"
+  },
+  "section:4": {
+    "node_id": "section:4",
+    "type": "section",
+    "title": "第四节 托运行李",
+    "line_start": 214,
+    "line_end": 237,
+    "source_anchor": "第四节"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 一般规定",
+    "line_start": 44,
+    "line_end": 87,
+    "source_anchor": "第二章"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 公共航空运输企业运行应当根据本规则及其他航空安保法规标准制定航空安保方案,并适时修订。",
+    "line_start": 92,
+    "line_end": 95,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 从事国际、地区和特殊管理航线运营的公共航空运输企业,其航空安保方案还应当符合相应规定。",
+    "line_start": 96,
+    "line_end": 97,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 公共航空运输企业航空安保方案应当由企业法定代表人或其授权人员签署,并以书面形式独立成册、采用易于修订的活页形式,在修订过的每一页上注有最后一次修订的日期。",
+    "line_start": 100,
+    "line_end": 101,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 航空安保方案的内容应当包括:",
+    "line_start": 102,
+    "line_end": 113,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 公共航空运输企业的航空安保方案应当符合民航局和民航地区管理局的规定。",
+    "line_start": 116,
+    "line_end": 117,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 公共航空运输企业分公司为执行本企业航空安保方案制定的实施程序应当报分公司所在地民航地区管理局备案。",
+    "line_start": 118,
+    "line_end": 119,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 新成立的公共航空运输企业的航空安保方案应当在申请运行合格证时一并报送。",
+    "line_start": 120,
+    "line_end": 121,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 民航地区管理局审查公共航空运输企业运行合格证时,一并审查公共航空运输企业安保方案。",
+    "line_start": 122,
+    "line_end": 123,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 民航局接到民航地区管理局审查意见后,应当在20个工作日内予以备案。",
+    "line_start": 124,
+    "line_end": 125,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 航空安保方案具有约束力,公共航空运输企业及有关单位应当执行。",
+    "line_start": 126,
+    "line_end": 127,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 公共航空运输企业应当在下列情形下对航空安保方案进行修订,以确保其持续有效:",
+    "line_start": 130,
+    "line_end": 137,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 为了保护国家安全和公共利益的需要,民航局可以要求公共航空运输企业对其航空安保方案作出紧急修订。公共航空运输企业应当在收到通知后10个工作日内完成修订。",
+    "line_start": 138,
+    "line_end": 139,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 公共航空运输企业根据本规则第三十一条、第三十二条对航空安保方案作出修订的,应当在修订内容实施前至少5个工作日报民航地区管理局备案。",
+    "line_start": 140,
+    "line_end": 143,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 公共航空运输企业在其运营基地至少保存一份完整的航空安保方案,在其每个通航的机场有一份可供随时查阅的航空安保方案或者相关部分。",
+    "line_start": 146,
+    "line_end": 147,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 公共航空运输企业应当向其通航的机场管理机构提交其航空安保方案的有关部分。",
+    "line_start": 148,
+    "line_end": 149,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 公共航空运输企业应当根据工作需要,将航空安保方案的相关内容分发给公共航空运输企业相关部门以及其他有安保业务关系的单位。",
+    "line_start": 150,
+    "line_end": 151,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 公共航空运输企业将安保业务外包给航空安保服务机构的,应当将方案中与外包安保业务相关的部分提供给航空安保服务机构。",
+    "line_start": 152,
+    "line_end": 153,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 公共航空运输企业应当将航空安保方案文本保存在便于安保工作人员查阅的地方。",
+    "line_start": 154,
+    "line_end": 155,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 航空安保方案为敏感信息,应当对其进行编号并做好登记,妥善保存。",
+    "line_start": 156,
+    "line_end": 157,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 航空安保方案的分发、查阅范围必须受到限制,只限于履行职责需要此种信息的应知人员。",
+    "line_start": 158,
+    "line_end": 159,
+    "source_anchor": "第四十条"
+  },
+  "section:5": {
+    "node_id": "section:5",
+    "type": "section",
+    "title": "第五节 托运枪支弹药",
+    "line_start": 238,
+    "line_end": 253,
+    "source_anchor": "第五节"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 公共航空运输企业应当与通航的境内机场、航空配餐、地面服务代理等签订航空安保协议,以便本企业航空安保方案中列明的措施和程序得到有效执行。",
+    "line_start": 162,
+    "line_end": 163,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 公共航空运输企业将安保业务外包的,应当签订航空安保协议,内容至少包括:",
+    "line_start": 164,
+    "line_end": 173,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 航空安保协议应当妥善保存,以便民航局、民航地区管理局检查。",
+    "line_start": 174,
+    "line_end": 175,
+    "source_anchor": "第四十三条"
+  },
+  "section:6": {
+    "node_id": "section:6",
+    "type": "section",
+    "title": "第六节 押解和遣返人员",
+    "line_start": 254,
+    "line_end": 275,
+    "source_anchor": "第六节"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 航空安保方案",
+    "line_start": 88,
+    "line_end": 175,
+    "source_anchor": "第三章"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 公共航空运输企业应当将使用的旅客订座和离港信息系统的类型、供应商信息向民航地区管理局备案。",
+    "line_start": 180,
+    "line_end": 181,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 旅客订座和离港信息应当受到保护,不得被随意对外提供。",
+    "line_start": 182,
+    "line_end": 185,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 公共航空运输企业旅客订座系统应当按规定设置获取旅客身份证件信息的程序。",
+    "line_start": 186,
+    "line_end": 187,
+    "source_anchor": "第四十六条"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 旅客办理乘机手续时,公共航空运输企业及其代理人应当采取措施核对乘机人的身份证件和行李。",
+    "line_start": 190,
+    "line_end": 191,
+    "source_anchor": "第四十七条"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 公共航空运输企业应当制定程序,核对加入机组人员的身份证件、工作证件和乘机证明文件,确保人证相符。",
+    "line_start": 192,
+    "line_end": 193,
+    "source_anchor": "第四十八条"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 旅客办理乘机手续时,公共航空运输企业及其代理人应当告知其相关安全保卫规定。",
+    "line_start": 194,
+    "line_end": 195,
+    "source_anchor": "第四十九条"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 公共航空运输企业应当制定程序,确保旅客及其手提行李在登机前经过安全检查。",
+    "line_start": 198,
+    "line_end": 199,
+    "source_anchor": "第五十条"
+  },
+  "article:51": {
+    "node_id": "article:51",
+    "type": "article",
+    "title": "第五十一条 公共航空运输企业不得运输拒绝接受安全检查的旅客,不得违反航空安保法规标准运输未经安全检查的行李。",
+    "line_start": 200,
+    "line_end": 201,
+    "source_anchor": "第五十一条"
+  },
+  "article:52": {
+    "node_id": "article:52",
+    "type": "article",
+    "title": "第五十二条 旅客登机时,公共航空运输企业或其地面服务代理应当查验登机凭证,核对旅客人数。",
+    "line_start": 202,
+    "line_end": 203,
+    "source_anchor": "第五十二条"
+  },
+  "article:53": {
+    "node_id": "article:53",
+    "type": "article",
+    "title": "第五十三条 已经安全检查和未经安全检查的人员不得相混或接触。如发生相混或接触,公共航空运输企业应当要求机场管理机构采取以下措施:",
+    "line_start": 204,
+    "line_end": 211,
+    "source_anchor": "第五十三条"
+  },
+  "article:54": {
+    "node_id": "article:54",
+    "type": "article",
+    "title": "第五十四条 公共航空运输企业应当采取措施,防止旅客下机时将物品遗留在航空器上。",
+    "line_start": 212,
+    "line_end": 213,
+    "source_anchor": "第五十四条"
+  },
+  "article:55": {
+    "node_id": "article:55",
+    "type": "article",
+    "title": "第五十五条 公共航空运输企业应当确保只接收旅客本人的托运行李,以及公共航空运输企业的代理人或授权代表接收的托运行李。",
+    "line_start": 216,
+    "line_end": 217,
+    "source_anchor": "第五十五条"
+  },
+  "article:56": {
+    "node_id": "article:56",
+    "type": "article",
+    "title": "第五十六条 对通过安全检查的托运行李,公共航空运输企业应当采取措施或要求机场管理机构采取措施,防止未经授权的人员接触,直至在目的地交还旅客或移交给另一承运人。",
+    "line_start": 218,
+    "line_end": 219,
+    "source_anchor": "第五十六条"
+  },
+  "article:57": {
+    "node_id": "article:57",
+    "type": "article",
+    "title": "第五十七条 在机场办理乘机手续柜台以外地点托运的行李,已经过安全检查的,必须从托运地点开始实施安保控制直至装上航空器,防止未经授权的人员接触;未经过安全检查的,应当在机场采取相应的安检措施。",
+    "line_start": 220,
+    "line_end": 221,
+    "source_anchor": "第五十七条"
+  },
+  "article:58": {
+    "node_id": "article:58",
+    "type": "article",
+    "title": "第五十八条 公共航空运输企业应当采取措施,对已经过安全检查的托运行李在地面存储和运输期间,保证有专人监管,防止未经授权的人员接触。",
+    "line_start": 222,
+    "line_end": 223,
+    "source_anchor": "第五十八条"
+  },
+  "article:59": {
+    "node_id": "article:59",
+    "type": "article",
+    "title": "第五十九条 公共航空运输企业和机场管理机构应当采取措施,确保行李分拣、存放、装卸区仅允许授权人员持证进入,在装机前应当核对行李标签及数量,防止非本航班承运的行李装上航空器。",
+    "line_start": 224,
+    "line_end": 225,
+    "source_anchor": "第五十九条"
+  },
+  "article:60": {
+    "node_id": "article:60",
+    "type": "article",
+    "title": "第六十条 公共航空运输企业及其地面服务代理人对转机的托运行李应当采取安保控制措施。",
+    "line_start": 226,
+    "line_end": 227,
+    "source_anchor": "第六十条"
+  },
+  "article:61": {
+    "node_id": "article:61",
+    "type": "article",
+    "title": "第六十一条 错运行李和无人认领行李的存放场所应当采取安保控制措施,直到行李被运走、认领或者处理完毕。",
+    "line_start": 228,
+    "line_end": 231,
+    "source_anchor": "第六十一条"
+  },
+  "article:62": {
+    "node_id": "article:62",
+    "type": "article",
+    "title": "第六十二条 公共航空运输企业对已经办理乘机手续而未登机旅客的行李,不得装入或者留在航空器上。旅客在航空器飞行中途中止旅行时,必须将其行李卸下。",
+    "line_start": 232,
+    "line_end": 233,
+    "source_anchor": "第六十二条"
+  },
+  "article:63": {
+    "node_id": "article:63",
+    "type": "article",
+    "title": "第六十三条 对非旅客本人原因产生的无人陪伴行李经过安全检查后,承运人可以运输。",
+    "line_start": 234,
+    "line_end": 235,
+    "source_anchor": "第六十三条"
+  },
+  "article:64": {
+    "node_id": "article:64",
+    "type": "article",
+    "title": "第六十四条 因安保原因或因拒绝接受安全检查而不准登机的旅客,其托运行李应当从航空器上卸下。",
+    "line_start": 236,
+    "line_end": 237,
+    "source_anchor": "第六十四条"
+  },
+  "article:65": {
+    "node_id": "article:65",
+    "type": "article",
+    "title": "第六十五条 无枪支运输许可证件的,公共航空运输企业不得接收托运枪支弹药。",
+    "line_start": 240,
+    "line_end": 241,
+    "source_anchor": "第六十五条"
+  },
+  "article:66": {
+    "node_id": "article:66",
+    "type": "article",
+    "title": "第六十六条 公共航空运输企业运输托运的枪支弹药时应当:",
+    "line_start": 242,
+    "line_end": 251,
+    "source_anchor": "第六十六条"
+  },
+  "article:67": {
+    "node_id": "article:67",
+    "type": "article",
+    "title": "第六十七条 托运的枪支弹药在装卸期间实行专人全程安保监控,在运输途中应当存放在旅客接触不到的区域。",
+    "line_start": 252,
+    "line_end": 253,
+    "source_anchor": "第六十七条"
+  },
+  "article:68": {
+    "node_id": "article:68",
+    "type": "article",
+    "title": "第六十八条 公共航空运输企业运输因司法或行政强制措施而被押解的人员,应按照国家有关规定执行。",
+    "line_start": 256,
+    "line_end": 257,
+    "source_anchor": "第六十八条"
+  },
+  "article:69": {
+    "node_id": "article:69",
+    "type": "article",
+    "title": "第六十九条 机场公安机关应当提前将押解计划通知公共航空运输企业航空安保部门。",
+    "line_start": 258,
+    "line_end": 259,
+    "source_anchor": "第六十九条"
+  },
+  "article:70": {
+    "node_id": "article:70",
+    "type": "article",
+    "title": "第七十条 公共航空运输企业应当制定程序,确保:",
+    "line_start": 260,
+    "line_end": 269,
+    "source_anchor": "第七十条"
+  },
+  "article:71": {
+    "node_id": "article:71",
+    "type": "article",
+    "title": "第七十一条 公共航空运输企业应当对遣返非法入境人员的运输申请进行安保评估,决定是否运输或是否在运输中采取额外的航空安保措施。",
+    "line_start": 270,
+    "line_end": 275,
+    "source_anchor": "第七十一条"
+  },
+  "article:72": {
+    "node_id": "article:72",
+    "type": "article",
+    "title": "第七十二条 公共航空运输企业应当按照航空安保方案规定的程序,防止未经授权人员携带武器乘机。",
+    "line_start": 278,
+    "line_end": 279,
+    "source_anchor": "第七十二条"
+  },
+  "article:73": {
+    "node_id": "article:73",
+    "type": "article",
+    "title": "第七十三条 除非同时满足以下条件,任何人员不得携带武器乘机:",
+    "line_start": 280,
+    "line_end": 285,
+    "source_anchor": "第七十三条"
+  },
+  "article:74": {
+    "node_id": "article:74",
+    "type": "article",
+    "title": "第七十四条 在接到警卫人员乘坐航空器的通知后,公共航空运输企业应当做好下列工作:",
+    "line_start": 286,
+    "line_end": 295,
+    "source_anchor": "第七十四条"
+  },
+  "section:7": {
+    "node_id": "section:7",
+    "type": "section",
+    "title": "第七节 携带武器乘机",
+    "line_start": 276,
+    "line_end": 295,
+    "source_anchor": "第七节"
+  },
+  "article:75": {
+    "node_id": "article:75",
+    "type": "article",
+    "title": "第七十五条 公共航空运输企业在其航空安保方案中应当包括适当措施,管控过站和转机旅客及其手提行李,防止过站和转机旅客将物品遗留在航空器上。",
+    "line_start": 298,
+    "line_end": 299,
+    "source_anchor": "第七十五条"
+  },
+  "article:76": {
+    "node_id": "article:76",
+    "type": "article",
+    "title": "第七十六条 公共航空运输企业应当采取措施,防止过站和转机的人员与未经安全检查的其他人员接触。如果发生接触,则相关人员重新登机前必须再次经过安全检查。",
+    "line_start": 300,
+    "line_end": 301,
+    "source_anchor": "第七十六条"
+  },
+  "article:77": {
+    "node_id": "article:77",
+    "type": "article",
+    "title": "第七十七条 乘坐国际、地区航线班机在境内机场过站和转机的人员及其行李,应当进行安全检查。但与中国签订互认航空安保标准条款的除外。",
+    "line_start": 302,
+    "line_end": 303,
+    "source_anchor": "第七十七条"
+  },
+  "section:8": {
+    "node_id": "section:8",
+    "type": "section",
+    "title": "第八节 过站和转机",
+    "line_start": 296,
+    "line_end": 303,
+    "source_anchor": "第八节"
+  },
+  "article:78": {
+    "node_id": "article:78",
+    "type": "article",
+    "title": "第七十八条 公共航空运输企业应当采取措施,以便航空器执行飞行任务期间在地面停放时得到有效监护,监护措施及监护机构应当在其航空安保方案或者安保协议中列明。",
+    "line_start": 306,
+    "line_end": 307,
+    "source_anchor": "第七十八条"
+  },
+  "article:79": {
+    "node_id": "article:79",
+    "type": "article",
+    "title": "第七十九条 公共航空运输企业应当采取措施,以便航空器在机场过夜或未执行航班飞行任务停放期间得到有效守护,守护机构及守护措施应当在其航空安保方案或者安保协议中列明。",
+    "line_start": 308,
+    "line_end": 309,
+    "source_anchor": "第七十九条"
+  },
+  "article:80": {
+    "node_id": "article:80",
+    "type": "article",
+    "title": "第八十条 公共航空运输企业应当与航空器监护部门、机务维修部门、武警守卫部队等单位之间建立航空器监护和守护交接制度,并在其航空安保方案中列明。",
+    "line_start": 310,
+    "line_end": 311,
+    "source_anchor": "第八十条"
+  },
+  "article:81": {
+    "node_id": "article:81",
+    "type": "article",
+    "title": "第八十一条 对于未使用而长期停场的航空器,应当将所有进出口关闭,将舱口梯或者旅客登机桥撤走,防止未经授权人员接触航空器。",
+    "line_start": 312,
+    "line_end": 313,
+    "source_anchor": "第八十一条"
+  },
+  "article:82": {
+    "node_id": "article:82",
+    "type": "article",
+    "title": "第八十二条 公共航空运输企业应当采取适当措施,确保每日始发和每航段的航空器经过航空器安保检查。",
+    "line_start": 314,
+    "line_end": 315,
+    "source_anchor": "第八十二条"
+  },
+  "section:9": {
+    "node_id": "section:9",
+    "type": "section",
+    "title": "第九节 航空器地面的安保措施",
+    "line_start": 304,
+    "line_end": 315,
+    "source_anchor": "第九节"
+  },
+  "article:83": {
+    "node_id": "article:83",
+    "type": "article",
+    "title": "第八十三条 公共航空运输企业航空器清洁部门应当制定航空安保措施,其内容主要包括:",
+    "line_start": 318,
+    "line_end": 329,
+    "source_anchor": "第八十三条"
+  },
+  "article:84": {
+    "node_id": "article:84",
+    "type": "article",
+    "title": "第八十四条 航空器清洁工作外包的,外包协议中应当包含上述安保要求,并存档备查。",
+    "line_start": 330,
+    "line_end": 331,
+    "source_anchor": "第八十四条"
+  },
+  "section:10": {
+    "node_id": "section:10",
+    "type": "section",
+    "title": "第十节 航空器清洁工作的安保措施",
+    "line_start": 316,
+    "line_end": 331,
+    "source_anchor": "第十节"
+  },
+  "article:85": {
+    "node_id": "article:85",
+    "type": "article",
+    "title": "第八十五条 公共航空运输企业应当对航空配餐和机上供应品执行航空安保措施,并在其航空安保方案中列明。",
+    "line_start": 334,
+    "line_end": 335,
+    "source_anchor": "第八十五条"
+  },
+  "article:86": {
+    "node_id": "article:86",
+    "type": "article",
+    "title": "第八十六条 航空配餐企业应当制定符合规定的航空安保方案,报民航地区管理局备案。",
+    "line_start": 336,
+    "line_end": 337,
+    "source_anchor": "第八十六条"
+  },
+  "article:87": {
+    "node_id": "article:87",
+    "type": "article",
+    "title": "第八十七条 航空配餐企业航空安保措施的内容主要包括:",
+    "line_start": 338,
+    "line_end": 349,
+    "source_anchor": "第八十七条"
+  },
+  "article:88": {
+    "node_id": "article:88",
+    "type": "article",
+    "title": "第八十八条 机上供应品的储存和配送应采取相应的航空安保措施。",
+    "line_start": 350,
+    "line_end": 351,
+    "source_anchor": "第八十八条"
+  },
+  "article:89": {
+    "node_id": "article:89",
+    "type": "article",
+    "title": "第八十九条 公共航空运输企业应当制定机组人员核对航空配餐和机上供应品的程序,确保程序得到有效实施。",
+    "line_start": 352,
+    "line_end": 353,
+    "source_anchor": "第八十九条"
+  },
+  "section:11": {
+    "node_id": "section:11",
+    "type": "section",
+    "title": "第十一节 航空配餐和机上供应品",
+    "line_start": 332,
+    "line_end": 353,
+    "source_anchor": "第十一节"
+  },
+  "article:90": {
+    "node_id": "article:90",
+    "type": "article",
+    "title": "第九十条 公共航空运输企业开通国际航线的,应当对拟飞往机场的安全状况作出安保评估,并报民航地区管理局备案。",
+    "line_start": 356,
+    "line_end": 357,
+    "source_anchor": "第九十条"
+  },
+  "article:91": {
+    "node_id": "article:91",
+    "type": "article",
+    "title": "第九十一条 公共航空运输企业应当对开航的国外机场进行持续的安保评估,根据评估,补充修改航空安保方案。",
+    "line_start": 358,
+    "line_end": 359,
+    "source_anchor": "第九十一条"
+  },
+  "article:92": {
+    "node_id": "article:92",
+    "type": "article",
+    "title": "第九十二条 公共航空运输企业驻外运营机构应当密切关注通航机场安保情况,并及时上报公共航空运输企业。",
+    "line_start": 360,
+    "line_end": 361,
+    "source_anchor": "第九十二条"
+  },
+  "section:12": {
+    "node_id": "section:12",
+    "type": "section",
+    "title": "第十二节 航线评估",
+    "line_start": 354,
+    "line_end": 361,
+    "source_anchor": "第十二节"
+  },
+  "article:93": {
+    "node_id": "article:93",
+    "type": "article",
+    "title": "第九十三条 通航我国的外国航空运输企业应当遵守双边通航协议中设定的航空安保条款。",
+    "line_start": 364,
+    "line_end": 365,
+    "source_anchor": "第九十三条"
+  },
+  "article:94": {
+    "node_id": "article:94",
+    "type": "article",
+    "title": "第九十四条 通航我国的外国航空运输企业应当根据我国航空安保法规标准,制定本企业飞往中国境内航线航班的航空安保方案,并将方案及其中文版本报通航机场所在地民航地区管理局审查,民航地区管理局审查通过后报民航局备案。",
+    "line_start": 366,
+    "line_end": 367,
+    "source_anchor": "第九十四条"
+  },
+  "article:95": {
+    "node_id": "article:95",
+    "type": "article",
+    "title": "第九十五条 外国航空运输企业空中安全保卫人员执行通航中国航班任务,按照双方签订的安保合作协议执行。",
+    "line_start": 368,
+    "line_end": 369,
+    "source_anchor": "第九十五条"
+  },
+  "article:96": {
+    "node_id": "article:96",
+    "type": "article",
+    "title": "第九十六条 民航局、民航地区管理局应当依据面临的安保威胁,对通航我国的外国航空运输企业及相关机场实施持续的安保考察和评估。",
+    "line_start": 370,
+    "line_end": 371,
+    "source_anchor": "第九十六条"
+  },
+  "section:13": {
+    "node_id": "section:13",
+    "type": "section",
+    "title": "第十三节 对外国航空运输企业的安保要求",
+    "line_start": 362,
+    "line_end": 371,
+    "source_anchor": "第十三节"
+  },
+  "article:97": {
+    "node_id": "article:97",
+    "type": "article",
+    "title": "第九十七条 公共航空运输企业应当建立航空安保信息报告制度。",
+    "line_start": 374,
+    "line_end": 375,
+    "source_anchor": "第九十七条"
+  },
+  "article:98": {
+    "node_id": "article:98",
+    "type": "article",
+    "title": "第九十八条 发生以下情况之一,公共航空运输企业应当立即报告民航地区管理局:",
+    "line_start": 376,
+    "line_end": 389,
+    "source_anchor": "第九十八条"
+  },
+  "article:99": {
+    "node_id": "article:99",
+    "type": "article",
+    "title": "第九十九条 公共航空运输企业应当每月向民航地区管理局报告以下情况:",
+    "line_start": 390,
+    "line_end": 399,
+    "source_anchor": "第九十九条"
+  },
+  "article:100": {
+    "node_id": "article:100",
+    "type": "article",
+    "title": "第一百条 公共航空运输企业在运行中发现机场、空管等单位不符合安保标准或要求,或者安保设施达不到标准时,应当及时通报机场管理机构、空管部门并报告其所在地民航地区管理局。",
+    "line_start": 400,
+    "line_end": 401,
+    "source_anchor": "第一百条"
+  },
+  "section:14": {
+    "node_id": "section:14",
+    "type": "section",
+    "title": "第十四节 信息报告",
+    "line_start": 372,
+    "line_end": 401,
+    "source_anchor": "第十四节"
+  },
+  "article:101": {
+    "node_id": "article:101",
+    "type": "article",
+    "title": "第一百一条 公共航空运输企业承担的安全检查工作,按照《中国民用航空安全检查规则》执行。",
+    "line_start": 404,
+    "line_end": 405,
+    "source_anchor": "第一百一条"
+  },
+  "article:102": {
+    "node_id": "article:102",
+    "type": "article",
+    "title": "第一百二条 航空器驾驶舱和客舱的安保应当按照《公共航空旅客运输飞行中安全保卫规则》及公共航空运输企业航空安保方案规定的程序规定执行。",
+    "line_start": 406,
+    "line_end": 407,
+    "source_anchor": "第一百二条"
+  },
+  "article:103": {
+    "node_id": "article:103",
+    "type": "article",
+    "title": "第一百三条 威胁增加时的航空安保措施,按照安保等级管理有关规定执行。",
+    "line_start": 408,
+    "line_end": 409,
+    "source_anchor": "第一百三条"
+  },
+  "article:104": {
+    "node_id": "article:104",
+    "type": "article",
+    "title": "第一百四条 公共航空运输企业接受国际组织或机构、外国政府部门安保审计、评估、考察的,应当在活动开始前至少20个工作日内报告民航局,并按照局方有关规定执行。",
+    "line_start": 410,
+    "line_end": 415,
+    "source_anchor": "第一百四条"
+  },
+  "section:15": {
+    "node_id": "section:15",
+    "type": "section",
+    "title": "第十五节 其他规定",
+    "line_start": 402,
+    "line_end": 415,
+    "source_anchor": "第十五节"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 运行安保措施",
+    "line_start": 176,
+    "line_end": 415,
+    "source_anchor": "第四章"
+  },
+  "article:105": {
+    "node_id": "article:105",
+    "type": "article",
+    "title": "第一百五条 公共航空运输企业应当制定安保应急处置预案,并保证实施预案所需的设备、人员、资金等条件;",
+    "line_start": 418,
+    "line_end": 421,
+    "source_anchor": "第一百五条"
+  },
+  "article:106": {
+    "node_id": "article:106",
+    "type": "article",
+    "title": "第一百六条 公共航空运输企业应当制定程序,按照本企业所在地区和航线航班飞往地区的威胁等级,启动相应级别的航空安保措施。",
+    "line_start": 422,
+    "line_end": 423,
+    "source_anchor": "第一百六条"
+  },
+  "article:107": {
+    "node_id": "article:107",
+    "type": "article",
+    "title": "第一百七条 航空器受到非法干扰威胁时,公共航空运输企业应当采取以下措施:",
+    "line_start": 424,
+    "line_end": 431,
+    "source_anchor": "第一百七条"
+  },
+  "article:108": {
+    "node_id": "article:108",
+    "type": "article",
+    "title": "第一百八条 民航局根据威胁评估结果或针对民用航空的具体威胁,有权发布安保指令和信息通告,采取应对措施。",
+    "line_start": 432,
+    "line_end": 437,
+    "source_anchor": "第一百八条"
+  },
+  "article:109": {
+    "node_id": "article:109",
+    "type": "article",
+    "title": "第一百九条 公共航空运输企业没有能力执行安保指令中的措施的,应当在安保指令规定的时间内向民航地区管理局提交替代措施。",
+    "line_start": 438,
+    "line_end": 439,
+    "source_anchor": "第一百九条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 安保应急处置",
+    "line_start": 416,
+    "line_end": 449,
+    "source_anchor": "第五章"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 监督管理",
+    "line_start": 450,
+    "line_end": 469,
+    "source_anchor": "第六章"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 法律责任",
+    "line_start": 470,
+    "line_end": 513,
+    "source_anchor": "第七章"
+  },
+  "chapter:8": {
+    "node_id": "chapter:8",
+    "type": "chapter",
+    "title": "第八章 附 则",
+    "line_start": 514,
+    "line_end": 544,
+    "source_anchor": "第八章"
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "law:民用航空飞行标准委任代表和委任单位代表管理规定": {
+    "node_id": "law:民用航空飞行标准委任代表和委任单位代表管理规定",
+    "type": "law",
+    "title": "第94号",
+    "line_start": 0,
+    "line_end": 133,
+    "source_anchor": "第94号"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为委任民用航空飞行标准职能部门以外的人员和单位代表民用航空飞行标准职能部门从事有关民用航空飞行标准检查工作,更加有效地对民用航空器的运行实施管理,根据《中华人民共和国民用航空法》第三条制定本规定。",
+    "line_start": 7,
+    "line_end": 7,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 民用航空飞行标准委任代表(以下简称委任代表)和民用航空飞行标准委任单位代表(以下简称委任单位代表)的委任程序、委任条件及其职责权限,适用本规定。",
+    "line_start": 8,
+    "line_end": 8,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 本规定使用的术语含义如下:",
+    "line_start": 9,
+    "line_end": 12,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 民航总局飞行标准职能部门负责委任代表和委任单位代表的委任工作,并对其工作进行监督检查。",
+    "line_start": 13,
+    "line_end": 13,
+    "source_anchor": "第四条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总则",
+    "line_start": 6,
+    "line_end": 13,
+    "source_anchor": "第一章"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 委任代表分为下列类别:",
+    "line_start": 15,
+    "line_end": 20,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 委任代表应当具备以下基本条件:",
+    "line_start": 21,
+    "line_end": 26,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 委任代表申请人应当按照民航总局飞行标准职能部门规定的程序和方法提出申请。申请书应当由申请人所在单位签署推荐意见,并提交民航地区管理机构。申请人经民航地区管理机构飞行标准职能部门审核考核合格后,由民航总局飞行标准职能部门委任并颁发委托代表证书。",
+    "line_start": 27,
+    "line_end": 28,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 委任代表应当接受并通过民航总局或者民航地区管理机构飞行标准职能部门组织的定期培训和考试。培训和考试的结果要记入个人技术档案,作为能否继续担任委任代表和是否终止其任期的依据。",
+    "line_start": 29,
+    "line_end": 29,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 委任代表证书的有效期为三年。委任代表申请连任的,应当在委任代表证书有效期期满前三个月按照本规定第七条规定重新提高申请。",
+    "line_start": 30,
+    "line_end": 30,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 民航总局飞行标准职能部门在下列情形下可以终止委任代表的任期,给予书面通知并收回委任代表证书:",
+    "line_start": 31,
+    "line_end": 37,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 委任代表在委任期内,应当定期向负责指导其工作的飞行标准职能部门报告工作情况,对重要的或者不能决断的问题应当随时报告。",
+    "line_start": 38,
+    "line_end": 38,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 飞行检查委任代表按专业项目分为:",
+    "line_start": 40,
+    "line_end": 45,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 申请人申请担任飞行检查委任代表时,可以申请一个或者多个专业项目的飞行检查委任代表,在每个专业项目中可以申请一个或者多个航空器等级。飞行检查委任代表的专业项目经审查考核通过后在飞行检查委任代表证书中载明。",
+    "line_start": 46,
+    "line_end": 46,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 飞行检查委任代表除应当符合本规定第六条的要求外,还应当具备下列条件:",
+    "line_start": 47,
+    "line_end": 52,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 飞行通信考试员除应当符合本规定第六条、第十四条的要求外,还应当满足《中国民用航空飞行人员训练管理规定》(CCAR-62FS)第二十五条中有关英语考试的要求。",
+    "line_start": 53,
+    "line_end": 53,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 飞行检查委任代表有权在飞行标准职能部门的监督下,在所授权的专业和航空器等级上,对飞行标准职能部门指定地区或者范围内的飞行人员进行飞行人员执照考试、训练质量检查和其他飞行技术检查,并对被检查人员的飞行技术状况作出鉴定结论。",
+    "line_start": 54,
+    "line_end": 55,
+    "source_anchor": "第十六条"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 航空人员体检委任单位代表",
+    "line_start": 112,
+    "line_end": 127,
+    "source_anchor": "第一节"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 航空人员体检委任代表按专业项目分为:",
+    "line_start": 57,
+    "line_end": 66,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 申请人在申请航空人员体检委任代表时,可以申请一个或者多个专业项目的体检委任代表。航空人员体检委任代表的专业项目经审查考核通过后在航空人员体检委任代表证书中载明。",
+    "line_start": 67,
+    "line_end": 67,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 专科体检医师除应当符合本规定第六条的要求外,还应当具备以下条件:",
+    "line_start": 68,
+    "line_end": 77,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 主检医师除应当符合本规定第六条、第十九条的要求外,还应当具备以下条件:",
+    "line_start": 78,
+    "line_end": 81,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 专科体检医师在授权的范围内,对体检合格证申请人按航空人员体检鉴定标准进行体检并作出鉴定结论;主检医师根据各专科的鉴定结论作出鉴定总结论,并有权修订专科体检医师的鉴定结论。",
+    "line_start": 82,
+    "line_end": 84,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 飞行标准职能部门认为其指导的航空体检委任代表作出的鉴定结论不正确时,可以对鉴定结论作出修改。",
+    "line_start": 85,
+    "line_end": 85,
+    "source_anchor": "第二十二条"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 航空人员体检委任代表",
+    "line_start": 56,
+    "line_end": 85,
+    "source_anchor": "第二节"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 飞行签派检查委任代表除应当符合本规定第六条的要求外,还应当具备以下条件:",
+    "line_start": 87,
+    "line_end": 91,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 飞行签派检查委任代表有权在飞行标准职能部门的监督下,对飞行标准职能部门指定地区或者范围内的飞行签派员进行执照考试、训练质量检查和其他技术检查,并对被检查人员的技术状况作出鉴定结论。",
+    "line_start": 92,
+    "line_end": 93,
+    "source_anchor": "第二十四条"
+  },
+  "section:3": {
+    "node_id": "section:3",
+    "type": "section",
+    "title": "第三节 飞行签派检查委任代表",
+    "line_start": 86,
+    "line_end": 93,
+    "source_anchor": "第三节"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 委任代表",
+    "line_start": 14,
+    "line_end": 93,
+    "source_anchor": "第二章"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 委任单位代表分为下列类别:",
+    "line_start": 95,
+    "line_end": 97,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 委任单位代表应当具备下列基本条件:",
+    "line_start": 98,
+    "line_end": 102,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 委任单位代表申请人应当按照民航总局飞行标准职能部门规定的程序和方法提出申请,由民航地区管理机构审查考试。考核合格的由民航总局飞行标准职能部门委任并颁发委任单位代表证书。",
+    "line_start": 103,
+    "line_end": 104,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 委任单位代表证书的有效期为四年。委任单位代表申请连任的,应当在委任单位代表证书有效期期满前三个月按本规定第二十七条的要求重新提出申请。",
+    "line_start": 105,
+    "line_end": 105,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 民航总局飞行标准职能部门在下列情形下可以终止委任单位代表的任期,给予书面通知并收回委任单位代表证书。",
+    "line_start": 106,
+    "line_end": 110,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 委任单位代表在委任期间,应当每年至少向指导其工作的飞行标准职能部门书面报告一次其工作情况,对重要的或者不能决断的问题应当随时报告。",
+    "line_start": 111,
+    "line_end": 111,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 航空人员体检委任单位代表除应当符合本规定第二十六条的要求外,还应当具备以下条件:",
+    "line_start": 113,
+    "line_end": 118,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 航空人员体检委任单位代表可以申请下列一项或者多项体检鉴定项目。体检鉴定项目经审核批准后在委任单位代表证书中载明:",
+    "line_start": 119,
+    "line_end": 125,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 航空人员体检委任单位代表在授权的范围内,对飞行标准职能部门指定地区或者范围内的体检合格证申请人按航空人员体检鉴定标准进行体检,作出鉴定结论,并对检查结果和鉴定结论的真实性、准确性负责。",
+    "line_start": 126,
+    "line_end": 127,
+    "source_anchor": "第三十三条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 委任单位代表",
+    "line_start": 94,
+    "line_end": 127,
+    "source_anchor": "第三章"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 委任代表、委任单位代表申请人在申请过程中有欺骗行为的,民航地区管理机构飞行标准职能部门终止受理其申请;已取得委任证书的,民航总局飞行标准职能部门收回其委任代表或者委任单位代表证书。",
+    "line_start": 129,
+    "line_end": 129,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 委任代表、委任单位代表在履行所委任的职责过程中,违反民用航空规章和标准,弄虚作假、徇私舞弊的,由民航总局飞行标准职能部门予以警告、暂停或者收回其委任代表或者委任单位代表证书。",
+    "line_start": 130,
+    "line_end": 130,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 委任代表、委任单位代表有本规定第三十四条、第三十五条行为,被终止受理其申请或者被收回其委任证书的,民航总局飞行标准职能部门予以书面通知,并在两年内不受理其担任委任代表或者委任单位代表的申请。",
+    "line_start": 131,
+    "line_end": 131,
+    "source_anchor": "第三十六条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 监督措施",
+    "line_start": 128,
+    "line_end": 131,
+    "source_anchor": "第四章"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 本规定自发布之日起施行。",
+    "line_start": 133,
+    "line_end": 133,
+    "source_anchor": "第三十七条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 附则",
+    "line_start": 132,
+    "line_end": 133,
+    "source_anchor": "第五章"
+  }
+}

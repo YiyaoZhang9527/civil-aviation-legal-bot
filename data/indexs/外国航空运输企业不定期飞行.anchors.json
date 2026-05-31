@@ -1,0 +1,314 @@
+{
+  "law:外国航空运输企业不定期飞行": {
+    "node_id": "law:外国航空运输企业不定期飞行",
+    "type": "law",
+    "title": "第167 号",
+    "line_start": 0,
+    "line_end": 278,
+    "source_anchor": "第167 号"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为规范对外国航空运输企业从事在中华人民共和",
+    "line_start": 20,
+    "line_end": 24,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本细则适用于外国航空运输企业(以下简称外航)",
+    "line_start": 25,
+    "line_end": 27,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 本细则规定的民用航空运输不定期飞行经营许可",
+    "line_start": 28,
+    "line_end": 32,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 外航在外国和中华人民共和国之间从事不定期飞",
+    "line_start": 33,
+    "line_end": 36,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 民航总局对不定期飞行的经营许可实行互惠对等",
+    "line_start": 37,
+    "line_end": 41,
+    "source_anchor": "第五条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总  则",
+    "line_start": 18,
+    "line_end": 41,
+    "source_anchor": "第一章"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 申请不定期飞行经营许可,申请人应在预计飞行日",
+    "line_start": 45,
+    "line_end": 49,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 申请不定期飞行经营许可,申请人应当说明拟运营",
+    "line_start": 50,
+    "line_end": 51,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 申请不定期飞行经营许可,可以直接申请,也可委",
+    "line_start": 52,
+    "line_end": 55,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 申请人应提供说明下列情况的文件:",
+    "line_start": 56,
+    "line_end": 71,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 首次申请不定期飞行经营许可,除提交本细则第九",
+    "line_start": 72,
+    "line_end": 82,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 无论是直接申请还是通过代理人申请,申请人应",
+    "line_start": 83,
+    "line_end": 84,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 民航总局有权对可能妨碍或危害公共利益的不",
+    "line_start": 85,
+    "line_end": 86,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 申请材料齐全、符合法定形式的,民航总局受理",
+    "line_start": 87,
+    "line_end": 91,
+    "source_anchor": "第十三条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 不定期飞行经营许可的申请",
+    "line_start": 42,
+    "line_end": 91,
+    "source_anchor": "第二章"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 民航总局自受理申请之日起四日内进行审查,并",
+    "line_start": 94,
+    "line_end": 95,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 申请人的申请符合本细则规定的条件和标准的,",
+    "line_start": 96,
+    "line_end": 100,
+    "source_anchor": "第十五条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 不定期飞行经营许可的决定",
+    "line_start": 92,
+    "line_end": 100,
+    "source_anchor": "第三章"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 申请人应按照民航总局所许可的飞行计划经营",
+    "line_start": 103,
+    "line_end": 104,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 除民航总局根据对外关系、经济贸易、公众需求",
+    "line_start": 105,
+    "line_end": 123,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 申请人经营运输危险品货物的不定期飞行经营",
+    "line_start": 124,
+    "line_end": 126,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 特殊情况下,申请人申请使用湿租航空器从事不",
+    "line_start": 127,
+    "line_end": 135,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 申请人从中华人民共和国大陆境内始发载运旅",
+    "line_start": 136,
+    "line_end": 138,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 申请人在中华人民共和国大陆境内从事不定",
+    "line_start": 139,
+    "line_end": 144,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 申请人从事不定期飞行,应当按照有关规定交",
+    "line_start": 145,
+    "line_end": 149,
+    "source_anchor": "第二十二条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 不定期飞行经营许可的限制条件",
+    "line_start": 101,
+    "line_end": 149,
+    "source_anchor": "第四章"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 申请人应当于不定期飞行实施后十日内填报",
+    "line_start": 152,
+    "line_end": 155,
+    "source_anchor": "第二十三条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 不定期飞行经营许可的载量统计",
+    "line_start": 150,
+    "line_end": 155,
+    "source_anchor": "第五章"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 民航总局受理申请的部门及其工作人员在办",
+    "line_start": 158,
+    "line_end": 167,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 民航总局受理申请部门的工作人员在不定期",
+    "line_start": 168,
+    "line_end": 171,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 申请人隐瞒有关情况或者提供虚假文件申请",
+    "line_start": 172,
+    "line_end": 175,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 申请人以欺骗、贿赂等不正当手段取得不定期",
+    "line_start": 176,
+    "line_end": 179,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 被许可从事不定期飞行的申请人有下列行为",
+    "line_start": 180,
+    "line_end": 191,
+    "source_anchor": "第二十八条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 法律责任",
+    "line_start": 156,
+    "line_end": 191,
+    "source_anchor": "第六章"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 本细则规定的期限以工作日计算,不含法定",
+    "line_start": 194,
+    "line_end": 195,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 香港特别行政区和澳门特别行政区的航空器",
+    "line_start": 196,
+    "line_end": 200,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 本细则自2006 年7 月21 日起施行。1990",
+    "line_start": 201,
+    "line_end": 278,
+    "source_anchor": "第三十一条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 附  则",
+    "line_start": 192,
+    "line_end": 278,
+    "source_anchor": "第七章"
+  }
+}

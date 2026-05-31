@@ -1,0 +1,386 @@
+{
+  "law:民用航空预先飞行计划管理办法": {
+    "node_id": "law:民用航空预先飞行计划管理办法",
+    "type": "law",
+    "title": "第166 号",
+    "line_start": 0,
+    "line_end": 307,
+    "source_anchor": "第166 号"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为保障民用航空飞行活动的安全和顺畅,根据《中华人民共",
+    "line_start": 18,
+    "line_end": 19,
+    "source_anchor": "第一条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 预先飞行计划受理部门及其工作人员在预先飞行计划管",
+    "line_start": 288,
+    "line_end": 291,
+    "source_anchor": "第三十五条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 航空营运人在中华人民共和国领空以及中华人民共和国缔结",
+    "line_start": 21,
+    "line_end": 28,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 航空营运人、预先飞行计划受理部门以及相关人员应当遵守",
+    "line_start": 29,
+    "line_end": 30,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 航空营运人进行民用航空飞行活动,其预先飞行计划应当获",
+    "line_start": 31,
+    "line_end": 36,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 本办法所称预先飞行计划是指航空营运人为达到其飞行活动",
+    "line_start": 37,
+    "line_end": 47,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 民航总局对民用航空飞行活动预先飞行计划实施统一管理。",
+    "line_start": 48,
+    "line_end": 52,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 航空营运人提交预先飞行计划申请,应当具备下列条件:",
+    "line_start": 53,
+    "line_end": 64,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 根据国家有关规定,下列航空器预先飞行计划应当向国家外",
+    "line_start": 65,
+    "line_end": 77,
+    "source_anchor": "第八条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总则",
+    "line_start": 16,
+    "line_end": 77,
+    "source_anchor": "第一章"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 在航班换季前,外国航空营运人和中国港澳台地区航空营运",
+    "line_start": 82,
+    "line_end": 87,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 外国航空营运人和中国港澳台地区航空营运人在中国境内机",
+    "line_start": 88,
+    "line_end": 108,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 在航班换季前和航季运行期间,外国航空营运人和中国港",
+    "line_start": 109,
+    "line_end": 112,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 在航班换季前,中国航空营运人新航季定期航班预先飞行",
+    "line_start": 113,
+    "line_end": 115,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 规定的方式和内容提出预先飞行计划申请。",
+    "line_start": 136,
+    "line_end": 136,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 在航班换季前和航季运行期间,中国航空营运人提出的预",
+    "line_start": 126,
+    "line_end": 135,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 本节定期航班预先飞行计划申请的时限应当符合下列规",
+    "line_start": 137,
+    "line_end": 143,
+    "source_anchor": "第十五条"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 定期航班预先飞行计划的批准",
+    "line_start": 226,
+    "line_end": 260,
+    "source_anchor": "第一节"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 外国航空营运人和中国港澳台地区航空营运人在中国境内",
+    "line_start": 146,
+    "line_end": 167,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 外国航空营运人和中国港澳台地区航空营运人在中国境内",
+    "line_start": 168,
+    "line_end": 174,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 除本办法第十六条和第十七条规定的情形外,外国航空营",
+    "line_start": 175,
+    "line_end": 179,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 中国航空营运人进行加班和不定期飞行,使用的航空器型",
+    "line_start": 180,
+    "line_end": 190,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 中国航空营运人进行加班和不定期飞行,使用的航空器型",
+    "line_start": 191,
+    "line_end": 198,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 紧急情形下的加班和不定期飞行应当说明理由,预先飞",
+    "line_start": 199,
+    "line_end": 201,
+    "source_anchor": "第二十一条"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 加班和不定期飞行预先飞行计划的批准",
+    "line_start": 261,
+    "line_end": 285,
+    "source_anchor": "第二节"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 预先飞行计划申请",
+    "line_start": 78,
+    "line_end": 201,
+    "source_anchor": "第二章"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 除本办法第二十三条和第二十四条规定的情形外,预先",
+    "line_start": 204,
+    "line_end": 205,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 外国航空营运人按照本办法第九条和第十六条规定与经",
+    "line_start": 206,
+    "line_end": 211,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 中国航空营运人加班和不定期飞行预先飞行计划的航线",
+    "line_start": 212,
+    "line_end": 218,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 预先飞行计划受理部门收到申请,需要申请人补齐申请",
+    "line_start": 219,
+    "line_end": 223,
+    "source_anchor": "第二十五条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 预先飞行计划申请的受理",
+    "line_start": 202,
+    "line_end": 223,
+    "source_anchor": "第三章"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 对于本办法第九条规定与经营许可一并提出的定期航班",
+    "line_start": 228,
+    "line_end": 232,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 对于本办法第九条和第十条规定的在航班换季前单独提",
+    "line_start": 233,
+    "line_end": 240,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 对于本办法第十一条规定的在航班换季前定期航班预先",
+    "line_start": 241,
+    "line_end": 248,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 对于本办法第十二条规定的定期航班预先飞行计划申",
+    "line_start": 249,
+    "line_end": 254,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 在民航总局定期航班计划文件下发之日至新航季开始期间",
+    "line_start": 255,
+    "line_end": 260,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 对于本办法第十六条规定的与经营许可申请一并提出的",
+    "line_start": 263,
+    "line_end": 272,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 对于本办法第十七条和第十八条规定的预先飞行计划申",
+    "line_start": 273,
+    "line_end": 275,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 对于本办法第十九条和第二十条规定的预先飞行计划申",
+    "line_start": 276,
+    "line_end": 278,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 对于本办法第二十一条规定的预先飞行计划申请,受理",
+    "line_start": 279,
+    "line_end": 285,
+    "source_anchor": "第三十四条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 预先飞行计划的批准",
+    "line_start": 224,
+    "line_end": 285,
+    "source_anchor": "第四章"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 航空营运人违反本办法第四条规定,在其预先飞行计划",
+    "line_start": 292,
+    "line_end": 297,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 航空营运人以欺诈、贿赂等不正当手段取得预先飞行计",
+    "line_start": 298,
+    "line_end": 303,
+    "source_anchor": "第三十七条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 法律责任",
+    "line_start": 286,
+    "line_end": 303,
+    "source_anchor": "第五章"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 中华人民共和国缔结或者参加的国际条约对某一空域预",
+    "line_start": 305,
+    "line_end": 306,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 本办法自2006 年5 月3 日起施行。",
+    "line_start": 307,
+    "line_end": 307,
+    "source_anchor": "第三十九条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 附则",
+    "line_start": 304,
+    "line_end": 307,
+    "source_anchor": "第六章"
+  }
+}

@@ -1,0 +1,458 @@
+{
+  "law:通用航空经营许可管理规定": {
+    "node_id": "law:通用航空经营许可管理规定",
+    "type": "law",
+    "title": "中华人民共和国交通运输部人",
+    "line_start": 0,
+    "line_end": 474,
+    "source_anchor": "中华人民共和国交通运输部人"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了规范对通用航空的行业管理,促进通用航空安",
+    "line_start": 11,
+    "line_end": 15,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 “本规定适用于中华人民共和国境内从事经营性通用",
+    "line_start": 16,
+    "line_end": 18,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 “从事经营性通用航空活动的企业,应当取得通用航",
+    "line_start": 19,
+    "line_end": 21,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 “取得通用航空经营许可的企业(以下简称通用航空",
+    "line_start": 22,
+    "line_end": 25,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 “中国民用航空局(以下简称民航局)负责对全国通用",
+    "line_start": 26,
+    "line_end": 31,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 “实施通用航空经营许可管理遵循下列基本原则:",
+    "line_start": 32,
+    "line_end": 44,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 经营性通用航空活动分为三类:",
+    "line_start": 45,
+    "line_end": 62,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 “申请取得通用航空经营许可的,应当具备下列条件:",
+    "line_start": 63,
+    "line_end": 76,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 ”取得通用航空经营许可,申请人应当具有满足下现",
+    "line_start": 77,
+    "line_end": 93,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 “申请人应当疝企业住所地民航地区管理局提出通用",
+    "line_start": 96,
+    "line_end": 115,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 ”民航地区管理局应当自受理通用航空经营许可申",
+    "line_start": 116,
+    "line_end": 125,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 ”对从事其他类经营活动的经营许可申请,民航地",
+    "line_start": 126,
+    "line_end": 129,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 民航地区管理局应当将颁发经营许可证的相关审",
+    "line_start": 130,
+    "line_end": 132,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 经营许可证应当载明,",
+    "line_start": 133,
+    "line_end": 145,
+    "source_anchor": "第十四条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 ”经营许可程序",
+    "line_start": 94,
+    "line_end": 145,
+    "source_anchor": "第三章"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 ”经营许可证分为正本和副本,正本和副本具有同",
+    "line_start": 148,
+    "line_end": 153,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 “经营许可证所载事项发生变更的,通用航空企业",
+    "line_start": 154,
+    "line_end": 157,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 “民航地区管理局应当将经营许可证的变更、注销",
+    "line_start": 158,
+    "line_end": 161,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 ”除法律、法规、规章另有规定外,经营许可证持续",
+    "line_start": 162,
+    "line_end": 164,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 “经营许可证不得涂改、倒卖、出租、出借或者以其",
+    "line_start": 165,
+    "line_end": 167,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 ”发生经营许可证遗失、损毁、灭失等情况的,通用",
+    "line_start": 168,
+    "line_end": 171,
+    "source_anchor": "第二十条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 ”经营许可证的管理",
+    "line_start": 146,
+    "line_end": 171,
+    "source_anchor": "第四章"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 通用航空企业开展经营性通用航空活动时,应",
+    "line_start": 174,
+    "line_end": 176,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 “开展经营活动前,通用航空企业应当接照民圾",
+    "line_start": 177,
+    "line_end": 189,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 “从事载客类经营活动的通用航空企业,应当接",
+    "line_start": 190,
+    "line_end": 193,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 “从事载客类经营活动的通用航空企业,应当接",
+    "line_start": 194,
+    "line_end": 198,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 通用航空企业在和通用航空用户、消费者订立",
+    "line_start": 199,
+    "line_end": 207,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 “通用航空企业应当在每年 3月31 日前,通过通",
+    "line_start": 208,
+    "line_end": 225,
+    "source_anchor": "第二十六条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 ”通用航空企业经营规范",
+    "line_start": 172,
+    "line_end": 225,
+    "source_anchor": "第五章"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 “民航局建立健全通用航空经营许可及相应监督",
+    "line_start": 228,
+    "line_end": 231,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 “民航地区管理局对辖区内的经营性通用航空活",
+    "line_start": 232,
+    "line_end": 242,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 通用航空企业应当配合民航局.民航地区管理",
+    "line_start": 243,
+    "line_end": 246,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 通用航空企业存在违法行为需要改正的,民航地",
+    "line_start": 247,
+    "line_end": 249,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 “民航地区管理局采取告知承诺制审批方式作出",
+    "line_start": 250,
+    "line_end": 254,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 ”任何自然人、法人和其他组织有权向民航局、民",
+    "line_start": 255,
+    "line_end": 258,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 民航局建立健全通用航空诚信经营评价体系,",
+    "line_start": 259,
+    "line_end": 263,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 ”通用航空企业违反本规定,有下列情形之一的,",
+    "line_start": 264,
+    "line_end": 286,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 通用航空企业有下列情形之一的,民航地区管",
+    "line_start": 287,
+    "line_end": 296,
+    "source_anchor": "第三十五条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 ”监督入碍",
+    "line_start": 226,
+    "line_end": 296,
+    "source_anchor": "第六章"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 违反本规定第三条,未取得经营许可证擅自从",
+    "line_start": 299,
+    "line_end": 306,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 “申请人隐瞒有关情况或者提供虚假材料申请通",
+    "line_start": 307,
+    "line_end": 314,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 ”违反本规定第十五条第二款,通用航空企业未",
+    "line_start": 315,
+    "line_end": 319,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 ”违反本规定第十六条,通用航空企业未按规定",
+    "line_start": 320,
+    "line_end": 323,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 ”违反本规定第十九条,通用航空企业涂改、余卖、",
+    "line_start": 324,
+    "line_end": 328,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 ”违反本规定第二十条,通用航空企业发生经营",
+    "line_start": 329,
+    "line_end": 336,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 通用航空企业有下列违法情形之一的,由民航",
+    "line_start": 337,
+    "line_end": 346,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 通用航空企业有下列速法情形之一的,由民衣",
+    "line_start": 347,
+    "line_end": 364,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 和违反本规定第二十九条,通用航空企业不配合",
+    "line_start": 365,
+    "line_end": 369,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 通用航空企业违反《中华人民共和国民用航空",
+    "line_start": 370,
+    "line_end": 374,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 通用航空企业违反《中华人民共和国安全生产",
+    "line_start": 375,
+    "line_end": 378,
+    "source_anchor": "第四十六条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 ”法律焉任",
+    "line_start": 297,
+    "line_end": 378,
+    "source_anchor": "第七章"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 “本规定下列用语的食义是:",
+    "line_start": 381,
+    "line_end": 390,
+    "source_anchor": "第四十七条"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 “经营性通用航空活动中涉及的危险唱管理办",
+    "line_start": 391,
+    "line_end": 393,
+    "source_anchor": "第四十八条"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 依照法律、.行政法规规定应当完成运行合格审",
+    "line_start": 394,
+    "line_end": 402,
+    "source_anchor": "第四十九条"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 “本规定自2021年1月1日起施行。交通运输部",
+    "line_start": 403,
+    "line_end": 474,
+    "source_anchor": "第五十条"
+  },
+  "chapter:8": {
+    "node_id": "chapter:8",
+    "type": "chapter",
+    "title": "第八章 附 则",
+    "line_start": 379,
+    "line_end": 474,
+    "source_anchor": "第八章"
+  }
+}

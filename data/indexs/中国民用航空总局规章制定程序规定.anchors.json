@@ -1,0 +1,402 @@
+{
+  "law:中国民用航空总局规章制定程序规定": {
+    "node_id": "law:中国民用航空总局规章制定程序规定",
+    "type": "law",
+    "title": "中国民用航空总局规章制定程序规定",
+    "line_start": 0,
+    "line_end": 303,
+    "source_anchor": "中国民用航空总局规章制定程序规定"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了规范民航规章的制定程序,保证民航规章质量,促进",
+    "line_start": 5,
+    "line_end": 8,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规定所称民航规章,是指中国民用航空总局(以下简称",
+    "line_start": 9,
+    "line_end": 16,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 民航规章只能以民航总局的名义制定,民航总局的职能部",
+    "line_start": 17,
+    "line_end": 19,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 制定民航规章,应当遵循下列原则:",
+    "line_start": 20,
+    "line_end": 26,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 民航总局法制机构(以下简称法制机构)负责对规章制定",
+    "line_start": 27,
+    "line_end": 38,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 民航规章应当结构严谨,内容完备,形式规范,条理清晰,",
+    "line_start": 39,
+    "line_end": 41,
+    "source_anchor": "第六条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总  则",
+    "line_start": 3,
+    "line_end": 41,
+    "source_anchor": "第一章"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 民航规章规定的事项应当属于执行法律或者国务院的行政",
+    "line_start": 44,
+    "line_end": 51,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 民航总局实行立法年度制度,每年的1 月1 日起至12 月最",
+    "line_start": 52,
+    "line_end": 55,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 民航总局职能部门认为需要制定、修订规章的,应当在新",
+    "line_start": 56,
+    "line_end": 61,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 法制机构负责立项审查。",
+    "line_start": 62,
+    "line_end": 65,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 法制机构对制定、修订规章的立项申请进行汇总、协调,",
+    "line_start": 66,
+    "line_end": 73,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 年度立法计划应当严格执行。法制机构负责对年度立法",
+    "line_start": 74,
+    "line_end": 76,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 规章制定工作计划可以根据实际情况予以调整。拟增加",
+    "line_start": 77,
+    "line_end": 80,
+    "source_anchor": "第十三条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 立  项",
+    "line_start": 42,
+    "line_end": 80,
+    "source_anchor": "第二章"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 规章由报请立项的部门起草。",
+    "line_start": 83,
+    "line_end": 89,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 起草规章,应当符合下列基本要求:",
+    "line_start": 90,
+    "line_end": 101,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 起草规章,应当根据情况进行立法调研,了解实践中存",
+    "line_start": 102,
+    "line_end": 106,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 规章内容涉及一般性问题的,起草部门应当组织召开座",
+    "line_start": 107,
+    "line_end": 115,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 起草的内容涉及国务院其他部门的职责或与其关系紧密",
+    "line_start": 116,
+    "line_end": 122,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 规章送审稿应当经起草部门负责人集体讨论决定,由起",
+    "line_start": 123,
+    "line_end": 126,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 报送规章送审稿时,起草部门应当提交下列文件和材料:",
+    "line_start": 127,
+    "line_end": 135,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 规章送审稿说明应当包括以下内容:",
+    "line_start": 136,
+    "line_end": 143,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 规章送审稿一般包括如下内容:",
+    "line_start": 144,
+    "line_end": 156,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 规章送审稿不符合本规定第二十条、第二十一条、第",
+    "line_start": 157,
+    "line_end": 162,
+    "source_anchor": "第二十三条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 起  草",
+    "line_start": 81,
+    "line_end": 162,
+    "source_anchor": "第三章"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 规章送审稿由法制机构负责统一审查,审查内容包括:",
+    "line_start": 165,
+    "line_end": 172,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 法制机构可以书面征求有关部门对规章送审稿的意",
+    "line_start": 173,
+    "line_end": 182,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 法制机构在审查过程中应当客观公正、实事求是地对",
+    "line_start": 183,
+    "line_end": 190,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 规章送审稿有下列情形之一的,法制机构可以予以缓",
+    "line_start": 191,
+    "line_end": 205,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 法制机构综合各方面的意见,对规章送审稿进行修改,",
+    "line_start": 206,
+    "line_end": 212,
+    "source_anchor": "第二十八条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 审  查",
+    "line_start": 163,
+    "line_end": 212,
+    "source_anchor": "第四章"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 规章应当由局务会审议决定。",
+    "line_start": 215,
+    "line_end": 218,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 规章草案经局务会审议后,起草部门根据审议中提出的",
+    "line_start": 219,
+    "line_end": 227,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 民航总局与国务院其他部门联合发布的规章应当在草",
+    "line_start": 228,
+    "line_end": 234,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 规章应当自公布之日起30 日后施行,但涉及国家安全",
+    "line_start": 235,
+    "line_end": 237,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 规章签署后,应当在民航总局网站(www.caac.gov.cn)、",
+    "line_start": 238,
+    "line_end": 242,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 规章公布后30 日内,由法制机构按照《法规规章备案",
+    "line_start": 243,
+    "line_end": 245,
+    "source_anchor": "第三十四条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 决定、公布和备案",
+    "line_start": 213,
+    "line_end": 245,
+    "source_anchor": "第五章"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 规章解释权属于民航总局,民航总局职能部门、民航",
+    "line_start": 248,
+    "line_end": 261,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 在民航行业内或者社会公众反映强烈的规章,公布施",
+    "line_start": 262,
+    "line_end": 271,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 规章有下列情况之一的,应予修改:",
+    "line_start": 272,
+    "line_end": 278,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 规章有下列情况之一的,应予废止:",
+    "line_start": 279,
+    "line_end": 286,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 规章的修改、废止,可以由规章的起草部门提出,也",
+    "line_start": 287,
+    "line_end": 291,
+    "source_anchor": "第三十九条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 解释、评估、修改与废止",
+    "line_start": 246,
+    "line_end": 291,
+    "source_anchor": "第六章"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 民航总局代国务院草拟法律、行政法规建议稿的程序,",
+    "line_start": 294,
+    "line_end": 297,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 民航规章汇编可以由法制机构在对现行民航规章清理",
+    "line_start": 298,
+    "line_end": 300,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 本规定自发布之日起30 日后施行。1990 制定、1995",
+    "line_start": 301,
+    "line_end": 303,
+    "source_anchor": "第四十二条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 附   则",
+    "line_start": 292,
+    "line_end": 303,
+    "source_anchor": "第七章"
+  }
+}

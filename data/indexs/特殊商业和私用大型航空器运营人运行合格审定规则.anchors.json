@@ -1,0 +1,842 @@
+{
+  "law:特殊商业和私用大型航空器运营人运行合格审定规则": {
+    "node_id": "law:特殊商业和私用大型航空器运营人运行合格审定规则",
+    "type": "law",
+    "title": "特殊商业和私用大型航空器运营人",
+    "line_start": 0,
+    "line_end": 2011,
+    "source_anchor": "特殊商业和私用大型航空器运营人"
+  },
+  "article:136.1": {
+    "node_id": "article:136.1",
+    "type": "article",
+    "title": "第136.1条 目的和依据",
+    "line_start": 6,
+    "line_end": 11,
+    "source_anchor": "第136.1条"
+  },
+  "article:136.3": {
+    "node_id": "article:136.3",
+    "type": "article",
+    "title": "第136.3条 适用范围",
+    "line_start": 12,
+    "line_end": 27,
+    "source_anchor": "第136.3条"
+  },
+  "article:136.5": {
+    "node_id": "article:136.5",
+    "type": "article",
+    "title": "第136.5条 职责划分",
+    "line_start": 28,
+    "line_end": 38,
+    "source_anchor": "第136.5条"
+  },
+  "article:136.7": {
+    "node_id": "article:136.7",
+    "type": "article",
+    "title": "第136.7条 特殊商业运营人的基本要求",
+    "line_start": 39,
+    "line_end": 68,
+    "source_anchor": "第136.7条"
+  },
+  "article:136.9": {
+    "node_id": "article:136.9",
+    "type": "article",
+    "title": "第136.9条 私用大型航空器运营人的基本要求",
+    "line_start": 69,
+    "line_end": 91,
+    "source_anchor": "第136.9条"
+  },
+  "article:136.11": {
+    "node_id": "article:136.11",
+    "type": "article",
+    "title": "第136.11条 运营人的内部安全报告程序",
+    "line_start": 92,
+    "line_end": 103,
+    "source_anchor": "第136.11条"
+  },
+  "chapter:A": {
+    "node_id": "chapter:A",
+    "type": "chapter",
+    "title": "A章 A章",
+    "line_start": 3,
+    "line_end": 103,
+    "source_anchor": "A章"
+  },
+  "article:136.21": {
+    "node_id": "article:136.21",
+    "type": "article",
+    "title": "第136.21条 运行种类",
+    "line_start": 105,
+    "line_end": 130,
+    "source_anchor": "第136.21条"
+  },
+  "article:136.23": {
+    "node_id": "article:136.23",
+    "type": "article",
+    "title": "第136.23条 申请条件",
+    "line_start": 131,
+    "line_end": 136,
+    "source_anchor": "第136.23条"
+  },
+  "article:136.53": {
+    "node_id": "article:136.53",
+    "type": "article",
+    "title": "第136.53条 运行手册要求",
+    "line_start": 391,
+    "line_end": 414,
+    "source_anchor": "第136.53条"
+  },
+  "article:136.61": {
+    "node_id": "article:136.61",
+    "type": "article",
+    "title": "第136.61条 航空器要求",
+    "line_start": 509,
+    "line_end": 513,
+    "source_anchor": "第136.61条"
+  },
+  "article:136.83": {
+    "node_id": "article:136.83",
+    "type": "article",
+    "title": "第136.83条 运营人的记录保存",
+    "line_start": 627,
+    "line_end": 656,
+    "source_anchor": "第136.83条"
+  },
+  "article:136.123": {
+    "node_id": "article:136.123",
+    "type": "article",
+    "title": "第136.123条 运行手册要求",
+    "line_start": 977,
+    "line_end": 1000,
+    "source_anchor": "第136.123条"
+  },
+  "article:136.169": {
+    "node_id": "article:136.169",
+    "type": "article",
+    "title": "第136.169条 运行手册要求",
+    "line_start": 1351,
+    "line_end": 1377,
+    "source_anchor": "第136.169条"
+  },
+  "article:136.177": {
+    "node_id": "article:136.177",
+    "type": "article",
+    "title": "第136.177条 对乘客的安全简介",
+    "line_start": 1472,
+    "line_end": 1511,
+    "source_anchor": "第136.177条"
+  },
+  "article:136.211": {
+    "node_id": "article:136.211",
+    "type": "article",
+    "title": "第136.211条 取酬驾驶员的资格要求和飞行时间限制",
+    "line_start": 1889,
+    "line_end": 1903,
+    "source_anchor": "第136.211条"
+  },
+  "article:136.25": {
+    "node_id": "article:136.25",
+    "type": "article",
+    "title": "第136.25条 申请材料",
+    "line_start": 169,
+    "line_end": 182,
+    "source_anchor": "第136.25条"
+  },
+  "article:136.27": {
+    "node_id": "article:136.27",
+    "type": "article",
+    "title": "第136.27条 局方审查",
+    "line_start": 183,
+    "line_end": 206,
+    "source_anchor": "第136.27条"
+  },
+  "article:136.29": {
+    "node_id": "article:136.29",
+    "type": "article",
+    "title": "第136.29条 证件颁发",
+    "line_start": 207,
+    "line_end": 216,
+    "source_anchor": "第136.29条"
+  },
+  "article:136.31": {
+    "node_id": "article:136.31",
+    "type": "article",
+    "title": "第136.31条 证件内容",
+    "line_start": 217,
+    "line_end": 252,
+    "source_anchor": "第136.31条"
+  },
+  "article:136.33": {
+    "node_id": "article:136.33",
+    "type": "article",
+    "title": "第136.33条 有效期限及运行间断",
+    "line_start": 253,
+    "line_end": 262,
+    "source_anchor": "第136.33条"
+  },
+  "article:136.35": {
+    "node_id": "article:136.35",
+    "type": "article",
+    "title": "第136.35条 撤销和注销",
+    "line_start": 263,
+    "line_end": 272,
+    "source_anchor": "第136.35条"
+  },
+  "article:136.37": {
+    "node_id": "article:136.37",
+    "type": "article",
+    "title": "第136.37条 保存和使用",
+    "line_start": 273,
+    "line_end": 277,
+    "source_anchor": "第136.37条"
+  },
+  "article:136.39": {
+    "node_id": "article:136.39",
+    "type": "article",
+    "title": "第136.39条 运行合格证的修改",
+    "line_start": 278,
+    "line_end": 294,
+    "source_anchor": "第136.39条"
+  },
+  "article:136.41": {
+    "node_id": "article:136.41",
+    "type": "article",
+    "title": "第136.41条 运行规范的修改",
+    "line_start": 295,
+    "line_end": 353,
+    "source_anchor": "第136.41条"
+  },
+  "chapter:B": {
+    "node_id": "chapter:B",
+    "type": "chapter",
+    "title": "B章 合格审定",
+    "line_start": 104,
+    "line_end": 353,
+    "source_anchor": "B章"
+  },
+  "article:136.51": {
+    "node_id": "article:136.51",
+    "type": "article",
+    "title": "第136.51条 运营人的记录保存",
+    "line_start": 356,
+    "line_end": 390,
+    "source_anchor": "第136.51条"
+  },
+  "article:136.55": {
+    "node_id": "article:136.55",
+    "type": "article",
+    "title": "第136.55条 运行手册的内容",
+    "line_start": 415,
+    "line_end": 450,
+    "source_anchor": "第136.55条"
+  },
+  "article:136.57": {
+    "node_id": "article:136.57",
+    "type": "article",
+    "title": "第136.57条 驾驶员的资格要求和飞行时间限制",
+    "line_start": 451,
+    "line_end": 463,
+    "source_anchor": "第136.57条"
+  },
+  "article:136.59": {
+    "node_id": "article:136.59",
+    "type": "article",
+    "title": "第136.59条 人员要求",
+    "line_start": 464,
+    "line_end": 508,
+    "source_anchor": "第136.59条"
+  },
+  "article:136.63": {
+    "node_id": "article:136.63",
+    "type": "article",
+    "title": "第136.63条 私用农林喷洒作业飞行的限制",
+    "line_start": 514,
+    "line_end": 522,
+    "source_anchor": "第136.63条"
+  },
+  "article:136.65": {
+    "node_id": "article:136.65",
+    "type": "article",
+    "title": "第136.65条 喷洒限制",
+    "line_start": 523,
+    "line_end": 525,
+    "source_anchor": "第136.65条"
+  },
+  "article:136.67": {
+    "node_id": "article:136.67",
+    "type": "article",
+    "title": "第136.67条 安全带和肩带的使用",
+    "line_start": 526,
+    "line_end": 529,
+    "source_anchor": "第136.67条"
+  },
+  "article:136.69": {
+    "node_id": "article:136.69",
+    "type": "article",
+    "title": "第136.69条 偏离机场起落航线的飞行",
+    "line_start": 530,
+    "line_end": 533,
+    "source_anchor": "第136.69条"
+  },
+  "article:136.71": {
+    "node_id": "article:136.71",
+    "type": "article",
+    "title": "第136.71条 在非人口稠密区的作业飞行",
+    "line_start": 534,
+    "line_end": 540,
+    "source_anchor": "第136.71条"
+  },
+  "article:136.73": {
+    "node_id": "article:136.73",
+    "type": "article",
+    "title": "第136.73条 在人口稠密区的作业飞行",
+    "line_start": 541,
+    "line_end": 593,
+    "source_anchor": "第136.73条"
+  },
+  "article:136.75": {
+    "node_id": "article:136.75",
+    "type": "article",
+    "title": "第136.75条 对在人口稠密区上空作业飞行的驾驶员和",
+    "line_start": 594,
+    "line_end": 607,
+    "source_anchor": "第136.75条"
+  },
+  "chapter:C": {
+    "node_id": "chapter:C",
+    "type": "chapter",
+    "title": "C章 C章",
+    "line_start": 354,
+    "line_end": 607,
+    "source_anchor": "C章"
+  },
+  "article:136.81": {
+    "node_id": "article:136.81",
+    "type": "article",
+    "title": "第136.81条 适用范围",
+    "line_start": 610,
+    "line_end": 626,
+    "source_anchor": "第136.81条"
+  },
+  "article:136.85": {
+    "node_id": "article:136.85",
+    "type": "article",
+    "title": "第136.85条 (e)款、第136.123 条(e)款、第136.169 条(e)款和",
+    "line_start": 1935,
+    "line_end": 1935,
+    "source_anchor": "第136.85条"
+  },
+  "article:136.87": {
+    "node_id": "article:136.87",
+    "type": "article",
+    "title": "第136.87条 运行手册的内容",
+    "line_start": 681,
+    "line_end": 714,
+    "source_anchor": "第136.87条"
+  },
+  "article:136.89": {
+    "node_id": "article:136.89",
+    "type": "article",
+    "title": "第136.89条 驾驶员的资格要求和飞行时间限制",
+    "line_start": 715,
+    "line_end": 728,
+    "source_anchor": "第136.89条"
+  },
+  "article:136.91": {
+    "node_id": "article:136.91",
+    "type": "article",
+    "title": "第136.91条 直升机",
+    "line_start": 729,
+    "line_end": 732,
+    "source_anchor": "第136.91条"
+  },
+  "article:136.93": {
+    "node_id": "article:136.93",
+    "type": "article",
+    "title": "第136.93条 人员要求",
+    "line_start": 733,
+    "line_end": 741,
+    "source_anchor": "第136.93条"
+  },
+  "article:136.95": {
+    "node_id": "article:136.95",
+    "type": "article",
+    "title": "第136.95条 知识和技能要求",
+    "line_start": 751,
+    "line_end": 776,
+    "source_anchor": "第136.95条"
+  },
+  "article:136.97": {
+    "node_id": "article:136.97",
+    "type": "article",
+    "title": "第136.97条 直升机与载荷组合的级别划分",
+    "line_start": 777,
+    "line_end": 788,
+    "source_anchor": "第136.97条"
+  },
+  "article:136.99": {
+    "node_id": "article:136.99",
+    "type": "article",
+    "title": "第136.99条 操作规则",
+    "line_start": 789,
+    "line_end": 790,
+    "source_anchor": "第136.99条"
+  },
+  "article:136.111": {
+    "node_id": "article:136.111",
+    "type": "article",
+    "title": "第136.111条 直升机与载荷组合飞行手册",
+    "line_start": 916,
+    "line_end": 930,
+    "source_anchor": "第136.111条"
+  },
+  "article:136.101": {
+    "node_id": "article:136.101",
+    "type": "article",
+    "title": "第136.101条 运载人员",
+    "line_start": 837,
+    "line_end": 847,
+    "source_anchor": "第136.101条"
+  },
+  "article:136.103": {
+    "node_id": "article:136.103",
+    "type": "article",
+    "title": "第136.103条 机组成员训练、近期经历和检查的要求",
+    "line_start": 848,
+    "line_end": 862,
+    "source_anchor": "第136.103条"
+  },
+  "article:136.105": {
+    "node_id": "article:136.105",
+    "type": "article",
+    "title": "第136.105条 条(b)款规定的最大空速。",
+    "line_start": 901,
+    "line_end": 915,
+    "source_anchor": "第136.105条"
+  },
+  "article:136.107": {
+    "node_id": "article:136.107",
+    "type": "article",
+    "title": "第136.107条 条规定的重量时,该直升机与载荷组合不得运行。",
+    "line_start": 899,
+    "line_end": 900,
+    "source_anchor": "第136.107条"
+  },
+  "article:136.109": {
+    "node_id": "article:136.109",
+    "type": "article",
+    "title": "第136.109条 操作极限",
+    "line_start": 892,
+    "line_end": 898,
+    "source_anchor": "第136.109条"
+  },
+  "article:136.113": {
+    "node_id": "article:136.113",
+    "type": "article",
+    "title": "第136.113条 标志和标牌",
+    "line_start": 931,
+    "line_end": 943,
+    "source_anchor": "第136.113条"
+  },
+  "chapter:D": {
+    "node_id": "chapter:D",
+    "type": "chapter",
+    "title": "D章 D章",
+    "line_start": 608,
+    "line_end": 943,
+    "source_anchor": "D章"
+  },
+  "article:136.121": {
+    "node_id": "article:136.121",
+    "type": "article",
+    "title": "第136.121条 运营人的记录保存",
+    "line_start": 946,
+    "line_end": 976,
+    "source_anchor": "第136.121条"
+  },
+  "article:136.125": {
+    "node_id": "article:136.125",
+    "type": "article",
+    "title": "第136.125条 运行手册的内容",
+    "line_start": 1001,
+    "line_end": 1034,
+    "source_anchor": "第136.125条"
+  },
+  "article:136.127": {
+    "node_id": "article:136.127",
+    "type": "article",
+    "title": "第136.127条 驾驶员的资格要求和飞行时间限制",
+    "line_start": 1035,
+    "line_end": 1048,
+    "source_anchor": "第136.127条"
+  },
+  "article:136.129": {
+    "node_id": "article:136.129",
+    "type": "article",
+    "title": "第136.129条 机长的资格要求",
+    "line_start": 1049,
+    "line_end": 1078,
+    "source_anchor": "第136.129条"
+  },
+  "article:136.131": {
+    "node_id": "article:136.131",
+    "type": "article",
+    "title": "第136.131条 跳伞教练要求",
+    "line_start": 1079,
+    "line_end": 1089,
+    "source_anchor": "第136.131条"
+  },
+  "article:136.133": {
+    "node_id": "article:136.133",
+    "type": "article",
+    "title": "第136.133条 登机前对乘客跳伞员的简介",
+    "line_start": 1090,
+    "line_end": 1095,
+    "source_anchor": "第136.133条"
+  },
+  "article:136.135": {
+    "node_id": "article:136.135",
+    "type": "article",
+    "title": "第136.135条 跳伞装置要求",
+    "line_start": 1096,
+    "line_end": 1116,
+    "source_anchor": "第136.135条"
+  },
+  "article:136.137": {
+    "node_id": "article:136.137",
+    "type": "article",
+    "title": "第136.137条 叠伞员要求",
+    "line_start": 1117,
+    "line_end": 1139,
+    "source_anchor": "第136.137条"
+  },
+  "article:136.139": {
+    "node_id": "article:136.139",
+    "type": "article",
+    "title": "第136.139条 叠伞设施",
+    "line_start": 1140,
+    "line_end": 1148,
+    "source_anchor": "第136.139条"
+  },
+  "article:136.141": {
+    "node_id": "article:136.141",
+    "type": "article",
+    "title": "第136.141条 标志和标牌",
+    "line_start": 1149,
+    "line_end": 1154,
+    "source_anchor": "第136.141条"
+  },
+  "chapter:E": {
+    "node_id": "chapter:E",
+    "type": "chapter",
+    "title": "E章 E章",
+    "line_start": 944,
+    "line_end": 1154,
+    "source_anchor": "E章"
+  },
+  "article:136.151": {
+    "node_id": "article:136.151",
+    "type": "article",
+    "title": "第136.151条 适用范围",
+    "line_start": 1157,
+    "line_end": 1163,
+    "source_anchor": "第136.151条"
+  },
+  "article:136.153": {
+    "node_id": "article:136.153",
+    "type": "article",
+    "title": "第136.153条 本章中使用的术语及其解释",
+    "line_start": 1164,
+    "line_end": 1213,
+    "source_anchor": "第136.153条"
+  },
+  "article:136.155": {
+    "node_id": "article:136.155",
+    "type": "article",
+    "title": "第136.155条 航空器代管人的权利",
+    "line_start": 1214,
+    "line_end": 1218,
+    "source_anchor": "第136.155条"
+  },
+  "article:136.157": {
+    "node_id": "article:136.157",
+    "type": "article",
+    "title": "第136.157条 代管协议",
+    "line_start": 1219,
+    "line_end": 1234,
+    "source_anchor": "第136.157条"
+  },
+  "article:136.159": {
+    "node_id": "article:136.159",
+    "type": "article",
+    "title": "第136.159条 航空器所有权人使用代管航空器",
+    "line_start": 1235,
+    "line_end": 1243,
+    "source_anchor": "第136.159条"
+  },
+  "article:136.161": {
+    "node_id": "article:136.161",
+    "type": "article",
+    "title": "第136.161条 航空器所有权人的航空器使用控制责任",
+    "line_start": 1244,
+    "line_end": 1263,
+    "source_anchor": "第136.161条"
+  },
+  "article:136.163": {
+    "node_id": "article:136.163",
+    "type": "article",
+    "title": "第136.163条 航空器所有权人对使用控制责任的理解",
+    "line_start": 1264,
+    "line_end": 1286,
+    "source_anchor": "第136.163条"
+  },
+  "article:136.165": {
+    "node_id": "article:136.165",
+    "type": "article",
+    "title": "第136.165条 航空器代管人在确保遵守规章方面的责",
+    "line_start": 1287,
+    "line_end": 1291,
+    "source_anchor": "第136.165条"
+  },
+  "article:136.167": {
+    "node_id": "article:136.167",
+    "type": "article",
+    "title": "第136.167条 航空器代管人的记录保存",
+    "line_start": 1292,
+    "line_end": 1350,
+    "source_anchor": "第136.167条"
+  },
+  "article:136.171": {
+    "node_id": "article:136.171",
+    "type": "article",
+    "title": "第136.171条 运行手册的内容",
+    "line_start": 1378,
+    "line_end": 1429,
+    "source_anchor": "第136.171条"
+  },
+  "article:136.173": {
+    "node_id": "article:136.173",
+    "type": "article",
+    "title": "第136.173条 航空器排班和飞行定位要求",
+    "line_start": 1430,
+    "line_end": 1445,
+    "source_anchor": "第136.173条"
+  },
+  "article:136.175": {
+    "node_id": "article:136.175",
+    "type": "article",
+    "title": "第136.175条 必需的运行信息",
+    "line_start": 1446,
+    "line_end": 1471,
+    "source_anchor": "第136.175条"
+  },
+  "article:136.179": {
+    "node_id": "article:136.179",
+    "type": "article",
+    "title": "第136.179条 运输类涡轮飞机的着陆限制",
+    "line_start": 1512,
+    "line_end": 1547,
+    "source_anchor": "第136.179条"
+  },
+  "article:136.181": {
+    "node_id": "article:136.181",
+    "type": "article",
+    "title": "第136.181条 仪表飞行规则的起飞、进近和着陆最低标",
+    "line_start": 1548,
+    "line_end": 1575,
+    "source_anchor": "第136.181条"
+  },
+  "article:136.183": {
+    "node_id": "article:136.183",
+    "type": "article",
+    "title": "第136.183条 航空人员配备和使用要求",
+    "line_start": 1576,
+    "line_end": 1577,
+    "source_anchor": "第136.183条"
+  },
+  "article:136.185": {
+    "node_id": "article:136.185",
+    "type": "article",
+    "title": "第136.185条 飞行机组的经历和资格要求",
+    "line_start": 1597,
+    "line_end": 1612,
+    "source_anchor": "第136.185条"
+  },
+  "article:136.191": {
+    "node_id": "article:136.191",
+    "type": "article",
+    "title": "第136.191条 飞行机组的飞行、值勤和休息时间要求",
+    "line_start": 1670,
+    "line_end": 1705,
+    "source_anchor": "第136.191条"
+  },
+  "article:136.187": {
+    "node_id": "article:136.187",
+    "type": "article",
+    "title": "第136.187条 驾驶员的使用限制和搭配要求",
+    "line_start": 1613,
+    "line_end": 1637,
+    "source_anchor": "第136.187条"
+  },
+  "article:136.189": {
+    "node_id": "article:136.189",
+    "type": "article",
+    "title": "第136.189条 飞行、值勤和休息时间要求",
+    "line_start": 1638,
+    "line_end": 1665,
+    "source_anchor": "第136.189条"
+  },
+  "article:136.193": {
+    "node_id": "article:136.193",
+    "type": "article",
+    "title": "第136.193条 机组成员的应急生存训练",
+    "line_start": 1706,
+    "line_end": 1776,
+    "source_anchor": "第136.193条"
+  },
+  "chapter:F": {
+    "node_id": "chapter:F",
+    "type": "chapter",
+    "title": "F章 F章",
+    "line_start": 1155,
+    "line_end": 1776,
+    "source_anchor": "F章"
+  },
+  "article:136.201": {
+    "node_id": "article:136.201",
+    "type": "article",
+    "title": "第136.201条 私用大型航空器运营人的权利",
+    "line_start": 1779,
+    "line_end": 1787,
+    "source_anchor": "第136.201条"
+  },
+  "article:136.203": {
+    "node_id": "article:136.203",
+    "type": "article",
+    "title": "第136.203条 对使用航空器代管人服务的运营人的要",
+    "line_start": 1788,
+    "line_end": 1794,
+    "source_anchor": "第136.203条"
+  },
+  "article:136.205": {
+    "node_id": "article:136.205",
+    "type": "article",
+    "title": "第136.205条 运营人的记录保存",
+    "line_start": 1795,
+    "line_end": 1827,
+    "source_anchor": "第136.205条"
+  },
+  "article:136.207": {
+    "node_id": "article:136.207",
+    "type": "article",
+    "title": "第136.207条 (e)款规定的除外。",
+    "line_start": 1936,
+    "line_end": 1936,
+    "source_anchor": "第136.207条"
+  },
+  "article:136.209": {
+    "node_id": "article:136.209",
+    "type": "article",
+    "title": "第136.209条 运行手册的内容",
+    "line_start": 1855,
+    "line_end": 1888,
+    "source_anchor": "第136.209条"
+  },
+  "chapter:G": {
+    "node_id": "chapter:G",
+    "type": "chapter",
+    "title": "G章 相关规定,实施农林喷洒作业、直升机机外载荷作业、",
+    "line_start": 1939,
+    "line_end": 1962,
+    "source_anchor": "G章"
+  },
+  "article:136.221": {
+    "node_id": "article:136.221",
+    "type": "article",
+    "title": "第136.221条 一般规定",
+    "line_start": 1906,
+    "line_end": 1909,
+    "source_anchor": "第136.221条"
+  },
+  "article:136.223": {
+    "node_id": "article:136.223",
+    "type": "article",
+    "title": "第136.223条 未取得相应证件的处罚",
+    "line_start": 1910,
+    "line_end": 1913,
+    "source_anchor": "第136.223条"
+  },
+  "article:136.225": {
+    "node_id": "article:136.225",
+    "type": "article",
+    "title": "第136.225条 提供虚假信息的处罚",
+    "line_start": 1914,
+    "line_end": 1918,
+    "source_anchor": "第136.225条"
+  },
+  "article:136.227": {
+    "node_id": "article:136.227",
+    "type": "article",
+    "title": "第136.227条 欺骗、贿赂取得许可的处罚",
+    "line_start": 1919,
+    "line_end": 1926,
+    "source_anchor": "第136.227条"
+  },
+  "article:136.229": {
+    "node_id": "article:136.229",
+    "type": "article",
+    "title": "第136.229条 对违反本规则实施运行的处罚(一)",
+    "line_start": 1927,
+    "line_end": 1934,
+    "source_anchor": "第136.229条"
+  },
+  "article:136.231": {
+    "node_id": "article:136.231",
+    "type": "article",
+    "title": "第136.231条 对违反本规则实施运行的处罚(二)",
+    "line_start": 1937,
+    "line_end": 1938,
+    "source_anchor": "第136.231条"
+  },
+  "chapter:H": {
+    "node_id": "chapter:H",
+    "type": "chapter",
+    "title": "H章 H章",
+    "line_start": 1904,
+    "line_end": 1938,
+    "source_anchor": "H章"
+  },
+  "article:136.233": {
+    "node_id": "article:136.233",
+    "type": "article",
+    "title": "第136.233条 航空人员的责任处罚",
+    "line_start": 1943,
+    "line_end": 1949,
+    "source_anchor": "第136.233条"
+  },
+  "article:136.235": {
+    "node_id": "article:136.235",
+    "type": "article",
+    "title": "第136.235条 信用管理",
+    "line_start": 1950,
+    "line_end": 1962,
+    "source_anchor": "第136.235条"
+  },
+  "article:136.237": {
+    "node_id": "article:136.237",
+    "type": "article",
+    "title": "第136.237条 施行",
+    "line_start": 1966,
+    "line_end": 2011,
+    "source_anchor": "第136.237条"
+  },
+  "chapter:I": {
+    "node_id": "chapter:I",
+    "type": "chapter",
+    "title": "I章 I章",
+    "line_start": 1963,
+    "line_end": 2011,
+    "source_anchor": "I章"
+  }
+}

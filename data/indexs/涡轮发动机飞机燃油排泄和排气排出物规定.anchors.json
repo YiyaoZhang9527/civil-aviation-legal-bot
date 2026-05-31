@@ -1,0 +1,290 @@
+{
+  "law:涡轮发动机飞机燃油排泄和排气排出物规定": {
+    "node_id": "law:涡轮发动机飞机燃油排泄和排气排出物规定",
+    "type": "law",
+    "title": "燃油排泄和排气排出物规定》的决定",
+    "line_start": 0,
+    "line_end": 1177,
+    "source_anchor": "燃油排泄和排气排出物规定》的决定"
+  },
+  "article:34.1": {
+    "node_id": "article:34.1",
+    "type": "article",
+    "title": "第34.1条 定义",
+    "line_start": 498,
+    "line_end": 583,
+    "source_anchor": "第34.1条"
+  },
+  "article:34.2": {
+    "node_id": "article:34.2",
+    "type": "article",
+    "title": "第34.2条 缩写词",
+    "line_start": 584,
+    "line_end": 637,
+    "source_anchor": "第34.2条"
+  },
+  "article:34.3": {
+    "node_id": "article:34.3",
+    "type": "article",
+    "title": "第34.3条 总则",
+    "line_start": 638,
+    "line_end": 657,
+    "source_anchor": "第34.3条"
+  },
+  "article:34.5": {
+    "node_id": "article:34.5",
+    "type": "article",
+    "title": "第34.5条 专用测试程序",
+    "line_start": 658,
+    "line_end": 661,
+    "source_anchor": "第34.5条"
+  },
+  "article:34.6": {
+    "node_id": "article:34.6",
+    "type": "article",
+    "title": "第34.6条 航空器安全性",
+    "line_start": 662,
+    "line_end": 667,
+    "source_anchor": "第34.6条"
+  },
+  "article:34.7": {
+    "node_id": "article:34.7",
+    "type": "article",
+    "title": "第34.7条 豁免",
+    "line_start": 668,
+    "line_end": 708,
+    "source_anchor": "第34.7条"
+  },
+  "article:34.8": {
+    "node_id": "article:34.8",
+    "type": "article",
+    "title": "第34.8条 引用文件",
+    "line_start": 709,
+    "line_end": 719,
+    "source_anchor": "第34.8条"
+  },
+  "chapter:A": {
+    "node_id": "chapter:A",
+    "type": "chapter",
+    "title": "A章 总则",
+    "line_start": 496,
+    "line_end": 719,
+    "source_anchor": "A章"
+  },
+  "article:34.10": {
+    "node_id": "article:34.10",
+    "type": "article",
+    "title": "第34.10条 适用范围",
+    "line_start": 722,
+    "line_end": 727,
+    "source_anchor": "第34.10条"
+  },
+  "article:34.11": {
+    "node_id": "article:34.11",
+    "type": "article",
+    "title": "第34.11条 燃油排泄标准",
+    "line_start": 728,
+    "line_end": 745,
+    "source_anchor": "第34.11条"
+  },
+  "chapter:B": {
+    "node_id": "chapter:B",
+    "type": "chapter",
+    "title": "B章 发动机燃油排泄",
+    "line_start": 720,
+    "line_end": 745,
+    "source_anchor": "B章"
+  },
+  "article:34.20": {
+    "node_id": "article:34.20",
+    "type": "article",
+    "title": "第34.20条 适用范围",
+    "line_start": 748,
+    "line_end": 750,
+    "source_anchor": "第34.20条"
+  },
+  "article:34.21": {
+    "node_id": "article:34.21",
+    "type": "article",
+    "title": "第34.21条 排气排出物标准",
+    "line_start": 751,
+    "line_end": 869,
+    "source_anchor": "第34.21条"
+  },
+  "chapter:C": {
+    "node_id": "chapter:C",
+    "type": "chapter",
+    "title": "C章 新的航空涡轮发动机的排气排出物",
+    "line_start": 746,
+    "line_end": 869,
+    "source_anchor": "C章"
+  },
+  "article:34.30": {
+    "node_id": "article:34.30",
+    "type": "article",
+    "title": "第34.30条 适用范围",
+    "line_start": 872,
+    "line_end": 873,
+    "source_anchor": "第34.30条"
+  },
+  "article:34.31": {
+    "node_id": "article:34.31",
+    "type": "article",
+    "title": "第34.31条 排气排出物标准",
+    "line_start": 875,
+    "line_end": 885,
+    "source_anchor": "第34.31条"
+  },
+  "chapter:D": {
+    "node_id": "chapter:D",
+    "type": "chapter",
+    "title": "D章 在用的航空涡轮发动机的排气排出物",
+    "line_start": 870,
+    "line_end": 885,
+    "source_anchor": "D章"
+  },
+  "article:34.40": {
+    "node_id": "article:34.40",
+    "type": "article",
+    "title": "第34.40条 适用范围",
+    "line_start": 888,
+    "line_end": 919,
+    "source_anchor": "第34.40条"
+  },
+  "article:34.41": {
+    "node_id": "article:34.41",
+    "type": "article",
+    "title": "第34.41条 二氧化碳排放评定度量",
+    "line_start": 920,
+    "line_end": 929,
+    "source_anchor": "第34.41条"
+  },
+  "article:34.42": {
+    "node_id": "article:34.42",
+    "type": "article",
+    "title": "第34.42条 基准飞机质量",
+    "line_start": 930,
+    "line_end": 945,
+    "source_anchor": "第34.42条"
+  },
+  "article:34.43": {
+    "node_id": "article:34.43",
+    "type": "article",
+    "title": "第34.43条 最高允许二氧化碳排放评定度量值",
+    "line_start": 946,
+    "line_end": 974,
+    "source_anchor": "第34.43条"
+  },
+  "article:34.44": {
+    "node_id": "article:34.44",
+    "type": "article",
+    "title": "第34.44条 确定飞机燃油里程的基准条件",
+    "line_start": 975,
+    "line_end": 1008,
+    "source_anchor": "第34.44条"
+  },
+  "article:34.45": {
+    "node_id": "article:34.45",
+    "type": "article",
+    "title": "第34.45条 试验程序",
+    "line_start": 1009,
+    "line_end": 1028,
+    "source_anchor": "第34.45条"
+  },
+  "chapter:E": {
+    "node_id": "chapter:E",
+    "type": "chapter",
+    "title": "E章 飞机二氧化碳排放要求",
+    "line_start": 886,
+    "line_end": 1028,
+    "source_anchor": "E章"
+  },
+  "article:34.60": {
+    "node_id": "article:34.60",
+    "type": "article",
+    "title": "第34.60条 说明",
+    "line_start": 1032,
+    "line_end": 1056,
+    "source_anchor": "第34.60条"
+  },
+  "article:34.61": {
+    "node_id": "article:34.61",
+    "type": "article",
+    "title": "第34.61条 涡轮发动机燃油规范",
+    "line_start": 1057,
+    "line_end": 1077,
+    "source_anchor": "第34.61条"
+  },
+  "article:34.62": {
+    "node_id": "article:34.62",
+    "type": "article",
+    "title": "第34.62条 推进发动机的测试程序",
+    "line_start": 1078,
+    "line_end": 1123,
+    "source_anchor": "第34.62条"
+  },
+  "article:34.64": {
+    "node_id": "article:34.64",
+    "type": "article",
+    "title": "第34.64条 测量气态排出物的采样和分析程序",
+    "line_start": 1124,
+    "line_end": 1131,
+    "source_anchor": "第34.64条"
+  },
+  "article:34.71": {
+    "node_id": "article:34.71",
+    "type": "article",
+    "title": "第34.71条 对气态排出物标准的符合性",
+    "line_start": 1132,
+    "line_end": 1150,
+    "source_anchor": "第34.71条"
+  },
+  "chapter:G": {
+    "node_id": "chapter:G",
+    "type": "chapter",
+    "title": "G章 发动机排气中气态排出物的测试程序(航空器和航空",
+    "line_start": 1029,
+    "line_end": 1150,
+    "source_anchor": "G章"
+  },
+  "article:34.80": {
+    "node_id": "article:34.80",
+    "type": "article",
+    "title": "第34.80条 说明",
+    "line_start": 1153,
+    "line_end": 1160,
+    "source_anchor": "第34.80条"
+  },
+  "article:34.81": {
+    "node_id": "article:34.81",
+    "type": "article",
+    "title": "第34.81条 燃油规范",
+    "line_start": 1161,
+    "line_end": 1163,
+    "source_anchor": "第34.81条"
+  },
+  "article:34.82": {
+    "node_id": "article:34.82",
+    "type": "article",
+    "title": "第34.82条 测量烟雾排放的采样和分析程序",
+    "line_start": 1164,
+    "line_end": 1167,
+    "source_anchor": "第34.82条"
+  },
+  "article:34.89": {
+    "node_id": "article:34.89",
+    "type": "article",
+    "title": "第34.89条 对烟雾排放标准的符合性",
+    "line_start": 1168,
+    "line_end": 1177,
+    "source_anchor": "第34.89条"
+  },
+  "chapter:H": {
+    "node_id": "chapter:H",
+    "type": "chapter",
+    "title": "H章 发动机烟雾排放的测试程序(航空涡轮发动机)",
+    "line_start": 1151,
+    "line_end": 1177,
+    "source_anchor": "H章"
+  }
+}

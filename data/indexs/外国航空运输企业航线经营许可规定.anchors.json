@@ -1,0 +1,370 @@
+{
+  "law:外国航空运输企业航线经营许可规定": {
+    "node_id": "law:外国航空运输企业航线经营许可规定",
+    "type": "law",
+    "title": "外航应当在其本国政府通过外交途径对其正式指定后依据本规定向民航局申请经营外国地点和中华人民共和国地点间规定航线的经营许可。",
+    "line_start": 0,
+    "line_end": 64,
+    "source_anchor": "外航应当在其本国政府通过外交途径对其正式指定后依据本规定向民航局申请经营外国地点和中华人民共和国地点间规定航线的经营许可。"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了规范对外国航空运输企业经营外国地点和中华人民共和国地点间规定航线的管理,根据《中华人民共和国民用航空法》,制定本规定。",
+    "line_start": 1,
+    "line_end": 1,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 外国航空运输企业(以下简称“外航”)申请经营外国地点和中华人民共和国地点间规定航线,应当符合中外双方政府民用航空运输协定或者有关协议的规定,并先经其本国政府通过外交途径对其进行指定,双方航空运输协定或有关协议另有规定的除外。",
+    "line_start": 2,
+    "line_end": 2,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 中国民用航空局(以下简称“民航局”)负责外航航线经营许可的统一管理。",
+    "line_start": 3,
+    "line_end": 5,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 民航局审批外航经营许可实行互惠对等的原则。外国政府航空主管部门对中华人民共和国航空运输企业申请经营中华人民共和国地点和外国地点间规定航线的经营许可进行不合理限制的,民航局采取对等措施。",
+    "line_start": 6,
+    "line_end": 6,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 外航申请经营许可应当在计划开航之日六十日前向民航局提出。",
+    "line_start": 8,
+    "line_end": 9,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 外航申请经营许可应当向民航局递交由该外航总部法定代表人或者经其书面授权的人员使用中文或者英文签发的申请书及其附带材料。",
+    "line_start": 10,
+    "line_end": 20,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 外航根据民航局颁发的经营许可开始经营外国地点和中华人民共和国地点间规定航线后要求经营新航线的,应当向民航局申请新航线的经营许可。",
+    "line_start": 21,
+    "line_end": 22,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 外航根据民航局颁发的经营许可经营规定航线或者在申请新航线经营许可的过程中,本规定第六条第(二)、(三)、(四)、(五)、(六)、(七)项中的内容发生变更的,应当自变更之日起三十日内书面通知民航局或者在提交新航线经营许可的申请时书面通知民航局。",
+    "line_start": 23,
+    "line_end": 23,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 外航委托代理机构代表其向民航局申请经营许可的,应当委托具有办理相应业务能力的代理机构,并应当出具正式委托书。",
+    "line_start": 24,
+    "line_end": 24,
+    "source_anchor": "第九条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 经营许可申请程序",
+    "line_start": 7,
+    "line_end": 24,
+    "source_anchor": "第二章"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 民航局对外航提交的申请材料进行形式审查。民航局认为必要的,可以进行实质性审查。",
+    "line_start": 26,
+    "line_end": 27,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 申请材料齐全、符合法定形式的,民航局受理外航的申请。申请材料不齐全或者不符合法定形式的,民航局在五个工作日内一次性通知该外航需要补充的全部内容,逾期不通知的,自收到申请材料之日起即为受理。",
+    "line_start": 28,
+    "line_end": 29,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 除双方航空运输协定或有关协议另有规定外,民航局自受理申请之日起二十个工作日内做出是否批准的决定。民航局在二十个工作日内不能做出决定的,经民航局局长批准,可以延长十个工作日,并将延长期限的理由告知外航。",
+    "line_start": 30,
+    "line_end": 30,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 民航局依法做出批准决定后,自做出批准决定之日起十个工作日内向外航颁发经营许可。民航局依法做出不予批准决定的,向外航出具书面决定并说明理由。",
+    "line_start": 31,
+    "line_end": 31,
+    "source_anchor": "第十三条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 经营许可的审查和批准",
+    "line_start": 25,
+    "line_end": 31,
+    "source_anchor": "第三章"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 外航应当在经营许可规定的有效期满前三十日向民航局提出延长经营许可的申请。逾期提出且没有正当理由的,民航局做出不予受理的书面决定。外航在经营许可有效期满后未提出延续申请的,民航局注销其经营许可。",
+    "line_start": 33,
+    "line_end": 33,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 外航申请延长经营许可,应当提供下列文件:",
+    "line_start": 34,
+    "line_end": 36,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 外航申请改变所持经营许可内容的,应当以书面形式向民航局提出,并详细列明需要改变的内容及原因。",
+    "line_start": 37,
+    "line_end": 37,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 民航局对外航提出延长或者变更经营许可的申请,在本规定第十二条、第十三条规定的期限内做出决定。",
+    "line_start": 38,
+    "line_end": 38,
+    "source_anchor": "第十七条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 经营许可的延长和变更",
+    "line_start": 32,
+    "line_end": 38,
+    "source_anchor": "第四章"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 外航应当在经营许可允许的范围和有效期内经营外国地点和中华人民共和国地点间规定航线。",
+    "line_start": 40,
+    "line_end": 40,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 外航应当采取有效措施,妥善保管民航局颁发的经营许可,防止损坏或者遗失。",
+    "line_start": 41,
+    "line_end": 41,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 外航损坏或者遗失经营许可的,应当立即向民航局书面报告,并提出补发经营许可的申请。",
+    "line_start": 42,
+    "line_end": 42,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 外航不得涂改、转让、租赁、买卖民航局颁发的经营许可。经涂改、转让、租赁、买卖的经营许可无效。",
+    "line_start": 43,
+    "line_end": 43,
+    "source_anchor": "第二十一条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 经营许可的管理",
+    "line_start": 39,
+    "line_end": 43,
+    "source_anchor": "第五章"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 外航依照民航局颁发的经营许可经营航线的过程中,应当按照夏秋和冬春两个航季申请航班计划,并在每个航季开始前六十日按规定的格式及内容向民航局提出。民航局根据本规定对航班计划进行审核后,做出批准或者不批准的决定。外航未按规定时限提出航班计划申请的,按照停航处理。",
+    "line_start": 45,
+    "line_end": 45,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 航班计划包括航线、班次、班期、航班号、机型、是否使用湿租航空器及是否利用代码共享的方式经营航班等内容。",
+    "line_start": 46,
+    "line_end": 46,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 外航在每个航季的航班经营过程中,不得随意更改航班计划。因商业原因需要更改航班计划的,外航应当在拟更改日三十日前向民航局提出申请,获得批准后方可执行。",
+    "line_start": 47,
+    "line_end": 47,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 因天气、飞机故障等原因需要临时更改航班计划的,外航应当立即向民航局提出申请,获得批准后方可执行。",
+    "line_start": 48,
+    "line_end": 48,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 外航应当按照民航局批准的航班计划经营外国地点和中华人民共和国地点间的规定航线。外航因商业原因计划停止执行全部或部分规定航线的,应当书面通知民航局并说明理由。外航擅自停航的,民航局对其提出的新航季航班计划不予批准。",
+    "line_start": 49,
+    "line_end": 49,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 因市场需求需要安排临时加班飞行的,外航应当在拟加班日五个工作日前向民航局提出申请,获得批准后方可经营,双方航空运输协定或有关协议另有规定的除外。",
+    "line_start": 50,
+    "line_end": 51,
+    "source_anchor": "第二十七条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 航班计划申请和批准",
+    "line_start": 44,
+    "line_end": 51,
+    "source_anchor": "第六章"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 外航依照经营许可的规定开始经营规定航线后,应当在每月十五日前按本规定附件《外国航空公司运输业务量统计表》的要求,向民航局提供上月航线运输业务量统计资料,并对资料内容的准确性、真实性和完整性负责。",
+    "line_start": 53,
+    "line_end": 53,
+    "source_anchor": "第二十八条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 运输业务量统计资料",
+    "line_start": 52,
+    "line_end": 53,
+    "source_anchor": "第七章"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 外航以欺骗、贿赂等不正当手段取得经营许可的,民航局撤销该项许可,给予警告并处以三万元以下罚款,该申请人自被撤销许可之日起三年内不得重新申请;构成犯罪的,依法追究刑事责任。",
+    "line_start": 55,
+    "line_end": 55,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 违反本规定第八条规定,外航没有按时书面通知变更信息的,民航局依法给予警告,或者处以三万元以下罚款。",
+    "line_start": 56,
+    "line_end": 56,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 违反本规定第二十一条规定,外航涂改、转让、租赁、买卖经营许可的,民航局依法给予警告,并处以三万元以下罚款;情节严重的,暂停或者吊销其经营许可;构成犯罪的,依法追究其刑事责任。",
+    "line_start": 57,
+    "line_end": 57,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 违反本规定第二十四条规定,外航未经批准擅自更改航班计划的,民航局依法给予警告,并处以三万元以下罚款;情节严重的,暂停或者吊销其经营许可。",
+    "line_start": 58,
+    "line_end": 58,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 违反本规定第二十八条相关规定,外航向民航局迟报、瞒报有关情况,提供虚假材料或者拒绝提供反映其经营活动的情况或者资料的,民航局依法给予警告,并处以三万元以下罚款;情节严重的,暂停或者吊销其经营许可;构成犯罪的,依法追究其刑事责任。",
+    "line_start": 59,
+    "line_end": 59,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 外航有违反法律、法规、规章规定的其他行为的,按照有关规定予以处理。",
+    "line_start": 60,
+    "line_end": 60,
+    "source_anchor": "第三十四条"
+  },
+  "chapter:8": {
+    "node_id": "chapter:8",
+    "type": "chapter",
+    "title": "第八章 法律责任",
+    "line_start": 54,
+    "line_end": 60,
+    "source_anchor": "第八章"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 中华人民共和国香港特别行政区、澳门特别行政区和台湾地区的航空运输企业申请经营许可,参照本规定执行。",
+    "line_start": 62,
+    "line_end": 62,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 中华人民共和国香港特别行政区、澳门特别行政区和台湾地区与外国之间的定期飞行,按相关法律和程序办理。",
+    "line_start": 63,
+    "line_end": 63,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 本规定自2016年4月4日起施行。1996年3月2日发布的《外国航空公司经营许可的申请程序(暂行)》(民航运函〔1996〕243号)同时废止。",
+    "line_start": 64,
+    "line_end": 64,
+    "source_anchor": "第三十七条"
+  },
+  "chapter:9": {
+    "node_id": "chapter:9",
+    "type": "chapter",
+    "title": "第九章 附 则",
+    "line_start": 61,
+    "line_end": 64,
+    "source_anchor": "第九章"
+  }
+}

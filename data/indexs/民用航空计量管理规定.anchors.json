@@ -1,0 +1,170 @@
+{
+  "law:民用航空计量管理规定": {
+    "node_id": "law:民用航空计量管理规定",
+    "type": "law",
+    "title": "《民用航空计量管理规定》已于2024 年3 月22 日经第",
+    "line_start": 0,
+    "line_end": 109,
+    "source_anchor": "《民用航空计量管理规定》已于2024 年3 月22 日经第"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了加强对民航计量工作的监督管理,保障民",
+    "line_start": 13,
+    "line_end": 16,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 在中华人民共和国境内开展民航计量器具管",
+    "line_start": 17,
+    "line_end": 19,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 民航计量实行国家法定计量单位制度,包括国",
+    "line_start": 20,
+    "line_end": 22,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 中国民用航空局(以下简称中国民航局)依据",
+    "line_start": 23,
+    "line_end": 26,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 民航计量器具包括通用计量器具和民航专用",
+    "line_start": 27,
+    "line_end": 36,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 中国民航局可以根据工作需要,委托民航企",
+    "line_start": 37,
+    "line_end": 41,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 建立和使用民航专用计量标准,应当满足下列",
+    "line_start": 42,
+    "line_end": 47,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 民航最高专用计量标准依照《中华人民共和国",
+    "line_start": 48,
+    "line_end": 52,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 民航计量检定机构出具的计量数据应当具备",
+    "line_start": 53,
+    "line_end": 54,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 民航计量检定机构应当建立计量数据、结果以",
+    "line_start": 55,
+    "line_end": 57,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 开展强制检定工作的民航计量检定机构,应",
+    "line_start": 58,
+    "line_end": 68,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 制定民航部门计量技术规范应当遵循下列",
+    "line_start": 69,
+    "line_end": 73,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 已有国家计量技术规范的,一般不再制定民",
+    "line_start": 74,
+    "line_end": 77,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 民航部门计量技术规范免费向社会公开。",
+    "line_start": 78,
+    "line_end": 78,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 对具有技术创新或者自主知识产权、技术水",
+    "line_start": 79,
+    "line_end": 81,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 中国民航局依据职责对民航计量器具管理、",
+    "line_start": 82,
+    "line_end": 83,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 民航企业、事业单位有下列行为之一的,由",
+    "line_start": 84,
+    "line_end": 92,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 违反本规定,《中华人民共和国计量法》《中",
+    "line_start": 93,
+    "line_end": 95,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 本规定中下列用语的含义是:",
+    "line_start": 96,
+    "line_end": 104,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 本规定自2024 年6 月1 日起施行。原中国",
+    "line_start": 105,
+    "line_end": 109,
+    "source_anchor": "第二十条"
+  }
+}

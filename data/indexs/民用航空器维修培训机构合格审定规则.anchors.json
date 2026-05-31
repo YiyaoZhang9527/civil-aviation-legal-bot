@@ -1,0 +1,362 @@
+{
+  "law:民用航空器维修培训机构合格审定规则": {
+    "node_id": "law:民用航空器维修培训机构合格审定规则",
+    "type": "law",
+    "title": "《民用航空器维修培训机构合格审定规则》已于2022",
+    "line_start": 0,
+    "line_end": 539,
+    "source_anchor": "《民用航空器维修培训机构合格审定规则》已于2022"
+  },
+  "article:147.1": {
+    "node_id": "article:147.1",
+    "type": "article",
+    "title": "第147.1条 目的和依据",
+    "line_start": 17,
+    "line_end": 21,
+    "source_anchor": "第147.1条"
+  },
+  "article:147.2": {
+    "node_id": "article:147.2",
+    "type": "article",
+    "title": "第147.2条 适用范围",
+    "line_start": 22,
+    "line_end": 25,
+    "source_anchor": "第147.2条"
+  },
+  "article:147.3": {
+    "node_id": "article:147.3",
+    "type": "article",
+    "title": "第147.3条 管理机构",
+    "line_start": 26,
+    "line_end": 33,
+    "source_anchor": "第147.3条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总  则",
+    "line_start": 15,
+    "line_end": 33,
+    "source_anchor": "第一章"
+  },
+  "article:147.4": {
+    "node_id": "article:147.4",
+    "type": "article",
+    "title": "第147.4条 培训类别",
+    "line_start": 36,
+    "line_end": 48,
+    "source_anchor": "第147.4条"
+  },
+  "article:147.5": {
+    "node_id": "article:147.5",
+    "type": "article",
+    "title": "第147.5条 申请条件",
+    "line_start": 49,
+    "line_end": 56,
+    "source_anchor": "第147.5条"
+  },
+  "article:147.6": {
+    "node_id": "article:147.6",
+    "type": "article",
+    "title": "第147.6条 申请材料",
+    "line_start": 57,
+    "line_end": 70,
+    "source_anchor": "第147.6条"
+  },
+  "article:147.7": {
+    "node_id": "article:147.7",
+    "type": "article",
+    "title": "第147.7条 受理、审查和批准",
+    "line_start": 71,
+    "line_end": 83,
+    "source_anchor": "第147.7条"
+  },
+  "article:147.8": {
+    "node_id": "article:147.8",
+    "type": "article",
+    "title": "第147.8条 维修培训机构合格证",
+    "line_start": 84,
+    "line_end": 97,
+    "source_anchor": "第147.8条"
+  },
+  "article:147.9": {
+    "node_id": "article:147.9",
+    "type": "article",
+    "title": "第147.9条 变更申请和办理",
+    "line_start": 98,
+    "line_end": 108,
+    "source_anchor": "第147.9条"
+  },
+  "article:147.10": {
+    "node_id": "article:147.10",
+    "type": "article",
+    "title": "第147.10条 维修培训机构的权利",
+    "line_start": 109,
+    "line_end": 121,
+    "source_anchor": "第147.10条"
+  },
+  "article:147.11": {
+    "node_id": "article:147.11",
+    "type": "article",
+    "title": "第147.11条 维修培训机构的义务",
+    "line_start": 122,
+    "line_end": 132,
+    "source_anchor": "第147.11条"
+  },
+  "article:147.12": {
+    "node_id": "article:147.12",
+    "type": "article",
+    "title": "第147.12条 认可情形",
+    "line_start": 133,
+    "line_end": 147,
+    "source_anchor": "第147.12条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 维修培训机构合格证的申请、颁发和管理",
+    "line_start": 34,
+    "line_end": 147,
+    "source_anchor": "第二章"
+  },
+  "article:147.13": {
+    "node_id": "article:147.13",
+    "type": "article",
+    "title": "第147.13条 设施设备",
+    "line_start": 150,
+    "line_end": 178,
+    "source_anchor": "第147.13条"
+  },
+  "article:147.14": {
+    "node_id": "article:147.14",
+    "type": "article",
+    "title": "第147.14条 人员",
+    "line_start": 179,
+    "line_end": 197,
+    "source_anchor": "第147.14条"
+  },
+  "article:147.15": {
+    "node_id": "article:147.15",
+    "type": "article",
+    "title": "第147.15条 教学大纲",
+    "line_start": 198,
+    "line_end": 208,
+    "source_anchor": "第147.15条"
+  },
+  "article:147.16": {
+    "node_id": "article:147.16",
+    "type": "article",
+    "title": "第147.16条 培训实施规范",
+    "line_start": 209,
+    "line_end": 228,
+    "source_anchor": "第147.16条"
+  },
+  "article:147.17": {
+    "node_id": "article:147.17",
+    "type": "article",
+    "title": "第147.17条 培训质量管理",
+    "line_start": 229,
+    "line_end": 250,
+    "source_anchor": "第147.17条"
+  },
+  "article:147.18": {
+    "node_id": "article:147.18",
+    "type": "article",
+    "title": "第147.18条 基础知识考试和实作评估",
+    "line_start": 251,
+    "line_end": 267,
+    "source_anchor": "第147.18条"
+  },
+  "article:147.19": {
+    "node_id": "article:147.19",
+    "type": "article",
+    "title": "第147.19条 档案和记录",
+    "line_start": 268,
+    "line_end": 292,
+    "source_anchor": "第147.19条"
+  },
+  "article:147.20": {
+    "node_id": "article:147.20",
+    "type": "article",
+    "title": "第147.20条 管理手册",
+    "line_start": 293,
+    "line_end": 310,
+    "source_anchor": "第147.20条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 航空器维修人员执照培训机构的要求",
+    "line_start": 148,
+    "line_end": 310,
+    "source_anchor": "第三章"
+  },
+  "article:147.21": {
+    "node_id": "article:147.21",
+    "type": "article",
+    "title": "第147.21条 设施设备",
+    "line_start": 313,
+    "line_end": 334,
+    "source_anchor": "第147.21条"
+  },
+  "article:147.22": {
+    "node_id": "article:147.22",
+    "type": "article",
+    "title": "第147.22条 人员",
+    "line_start": 335,
+    "line_end": 348,
+    "source_anchor": "第147.22条"
+  },
+  "article:147.23": {
+    "node_id": "article:147.23",
+    "type": "article",
+    "title": "第147.23条 教学大纲",
+    "line_start": 349,
+    "line_end": 361,
+    "source_anchor": "第147.23条"
+  },
+  "article:147.24": {
+    "node_id": "article:147.24",
+    "type": "article",
+    "title": "第147.24条 培训实施规范",
+    "line_start": 362,
+    "line_end": 377,
+    "source_anchor": "第147.24条"
+  },
+  "article:147.25": {
+    "node_id": "article:147.25",
+    "type": "article",
+    "title": "第147.25条 培训质量管理",
+    "line_start": 378,
+    "line_end": 395,
+    "source_anchor": "第147.25条"
+  },
+  "article:147.26": {
+    "node_id": "article:147.26",
+    "type": "article",
+    "title": "第147.26条 培训考核和培训合格证书",
+    "line_start": 396,
+    "line_end": 416,
+    "source_anchor": "第147.26条"
+  },
+  "article:147.27": {
+    "node_id": "article:147.27",
+    "type": "article",
+    "title": "第147.27条 档案和记录",
+    "line_start": 417,
+    "line_end": 440,
+    "source_anchor": "第147.27条"
+  },
+  "article:147.28": {
+    "node_id": "article:147.28",
+    "type": "article",
+    "title": "第147.28条 管理手册",
+    "line_start": 441,
+    "line_end": 458,
+    "source_anchor": "第147.28条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 机型维修、发动机型号培训机构的要求",
+    "line_start": 311,
+    "line_end": 458,
+    "source_anchor": "第四章"
+  },
+  "article:147.29": {
+    "node_id": "article:147.29",
+    "type": "article",
+    "title": "第147.29条 年度报告",
+    "line_start": 461,
+    "line_end": 465,
+    "source_anchor": "第147.29条"
+  },
+  "article:147.30": {
+    "node_id": "article:147.30",
+    "type": "article",
+    "title": "第147.30条 监督检查",
+    "line_start": 466,
+    "line_end": 470,
+    "source_anchor": "第147.30条"
+  },
+  "article:147.31": {
+    "node_id": "article:147.31",
+    "type": "article",
+    "title": "第147.31条 信用管理",
+    "line_start": 471,
+    "line_end": 485,
+    "source_anchor": "第147.31条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 监督管理",
+    "line_start": 459,
+    "line_end": 485,
+    "source_anchor": "第五章"
+  },
+  "article:147.32": {
+    "node_id": "article:147.32",
+    "type": "article",
+    "title": "第147.32条 提供虚假材料的处罚",
+    "line_start": 488,
+    "line_end": 492,
+    "source_anchor": "第147.32条"
+  },
+  "article:147.33": {
+    "node_id": "article:147.33",
+    "type": "article",
+    "title": "第147.33条 欺骗、贿赂取得许可的处罚",
+    "line_start": 493,
+    "line_end": 497,
+    "source_anchor": "第147.33条"
+  },
+  "article:147.34": {
+    "node_id": "article:147.34",
+    "type": "article",
+    "title": "第147.34条 不能保持本单位持续符合本规则要求的处罚",
+    "line_start": 498,
+    "line_end": 507,
+    "source_anchor": "第147.34条"
+  },
+  "article:147.35": {
+    "node_id": "article:147.35",
+    "type": "article",
+    "title": "第147.35条 不如实报告信息的处罚",
+    "line_start": 508,
+    "line_end": 513,
+    "source_anchor": "第147.35条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 法律责任",
+    "line_start": 486,
+    "line_end": 513,
+    "source_anchor": "第六章"
+  },
+  "article:147.36": {
+    "node_id": "article:147.36",
+    "type": "article",
+    "title": "第147.36条 术语和定义",
+    "line_start": 516,
+    "line_end": 530,
+    "source_anchor": "第147.36条"
+  },
+  "article:147.37": {
+    "node_id": "article:147.37",
+    "type": "article",
+    "title": "第147.37条 生效和废止",
+    "line_start": 531,
+    "line_end": 539,
+    "source_anchor": "第147.37条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 附  则",
+    "line_start": 514,
+    "line_end": 539,
+    "source_anchor": "第七章"
+  }
+}

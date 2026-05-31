@@ -1,0 +1,1026 @@
+{
+  "law:民用航空通信导航监视工作规则(交通运输部_原文DOCX)": {
+    "node_id": "law:民用航空通信导航监视工作规则(交通运输部_原文DOCX)",
+    "type": "law",
+    "title": "本规则是组织实施通信导航监视工作的依据。提供通信导航监视服务的单位以及其他与通信导航监视工作有关的单位和个人,应当遵守本规则。",
+    "line_start": 0,
+    "line_end": 352,
+    "source_anchor": "本规则是组织实施通信导航监视工作的依据。提供通信导航监视服务的单位以及其他与通信导航监视工作有关的单位和个人,应当遵守本规则。"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了规范民用航空通信导航监视(以下简称通信导航监视)工作,保障民用航空活动的安全、正常和高效,依据《中华人民共和国民用航空法》《中华人民共和国飞行基本规则》和《民用机场管理条例》,制定本规则。",
+    "line_start": 1,
+    "line_end": 1,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规则适用于在中华人民共和国领域内以及根据我国缔结或者参加的国际条约的规定,提供通信导航监视服务以及与通信导航监视服务有关的活动。",
+    "line_start": 2,
+    "line_end": 3,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 中国民用航空局(以下简称民航局)负责统一管理全国通信导航监视工作,民航地区管理局(以下简称地区管理局)负责监督管理本地区通信导航监视工作。",
+    "line_start": 4,
+    "line_end": 4,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 通信导航监视工作的主要任务是通过配置和管理相应的人员及设施设备,为民用航空活动提供准确、及时、连续、可靠的通信导航监视服务。",
+    "line_start": 5,
+    "line_end": 5,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 组织与实施通信导航监视工作,贯彻安全第一、保障可靠、服务优质的方针,遵循科学配置、协调运行、集中统一、分工负责的原则。",
+    "line_start": 6,
+    "line_end": 6,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 民航局鼓励和支持通信导航监视领域的科学技术研究与应用、人才培养、国际合作与交流,不断提高通信导航监视服务水平。对通信导航监视工作做出突出贡献的单位和个人,给予奖励。",
+    "line_start": 7,
+    "line_end": 7,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 本规则所用术语的含义在本规则附件一《定义》中规定。",
+    "line_start": 8,
+    "line_end": 8,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 通信导航监视服务由通信导航监视运行保障单位提供。通信导航监视运行保障单位应当在指定的职责范围内提供通信导航监视服务。",
+    "line_start": 11,
+    "line_end": 11,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 通信导航监视运行保障单位应当具备下列基本条件:",
+    "line_start": 12,
+    "line_end": 16,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 通信导航监视运行保障单位违反本规则第四章的规定,有下列情形之一的,由地区管理局责令改正,给予警告;未改正或者造成严重后果的,对单位处以1万元以上3万元以下罚款:",
+    "line_start": 318,
+    "line_end": 323,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 通信导航监视运行保障单位违反本规则第五章的规定,有下列情形之一的,由地区管理局责令改正,给予警告;未改正或者造成严重后果的,对单位处以1万元以上3万元以下罚款:",
+    "line_start": 324,
+    "line_end": 333,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 通信导航监视服务保障单位违反本规则第一百四十三条规定,未按要求建立资料管理制度或者未按要求保存相应资料的,由地区管理局责令改正,给予警告;逾期未改正的,对单位处以5000元以上1万元以下罚款。",
+    "line_start": 334,
+    "line_end": 334,
+    "source_anchor": "第十二条"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 一般规定",
+    "line_start": 145,
+    "line_end": 157,
+    "source_anchor": "第一节"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 通信导航监视运行保障单位违反本规则第一百四十八条的规定,不接受民航局和地区管理局监督检查的,或在监督检查过程中向执法人员隐瞒情况或者提供虚假情况的,由地区管理局责令改正,给予警告;情节严重的,对单位处以1万元以下罚款。",
+    "line_start": 335,
+    "line_end": 335,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 本规则自2016年4月28日起实施。1990年5月26日发布,1990年11月1日起施行的《中国民用航空通信导航雷达工作规则》(中国民航总局令第5号,CCAR-115TM)同时废止。",
+    "line_start": 337,
+    "line_end": 352,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 通信导航监视运行保障单位违反本规则第三十条规定,未按要求配备通信导航监视设施设备或者未能保证设施设备正常运行的,地区管理局应当责令限期改正,给予警告;逾期未改正或者造成严重后果的,对单位处以1万元以上3万元以下罚款。",
+    "line_start": 313,
+    "line_end": 313,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 通信导航监视运行保障单位违反本规则第四十条规定,实施新技术应用时未按要求建立相应的管理程序和制度的,由地区管理局责令限期改正,给予警告;逾期未改正或者造成严重后果的,对单位处以1万元以上3万元以下罚款。",
+    "line_start": 314,
+    "line_end": 314,
+    "source_anchor": "第十六条"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 运行管理制度",
+    "line_start": 158,
+    "line_end": 204,
+    "source_anchor": "第二节"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 通信导航监视运行保障单位违反本规则第四十一条规定,未经验证实施新技术应用的,由地区管理局责令改正,给予警告;未改正或者造成严重后果的,对单位处以1万元以上3万元以下罚款。",
+    "line_start": 315,
+    "line_end": 315,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 违反本规则第四十七条规定,危害通信导航监视设施设备的单位和个人,由地区管理局责令立即停止危害行为或者限期改正,给予警告;逾期未改正或者情节严重的,对单位处以1万元以上3万元以下罚款,对个人处以200元以上1000元以下罚款。",
+    "line_start": 316,
+    "line_end": 316,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 通信导航监视运行保障单位违反本规则第四十八条规定,未按要求对通信导航监视设施设备及其电磁环境采取必要防护措施的,由地区管理局责令改正,给予警告;情节严重的,对单位处以1万元以上3万元以下罚款。",
+    "line_start": 317,
+    "line_end": 317,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 通信导航监视运行保障单位应当每年组织通信导航监视从业人员进行专业培训,确保其专业知识更新。",
+    "line_start": 36,
+    "line_end": 37,
+    "source_anchor": "第二十条"
+  },
+  "section:3": {
+    "node_id": "section:3",
+    "type": "section",
+    "title": "第三节 维护和维修管理",
+    "line_start": 205,
+    "line_end": 220,
+    "source_anchor": "第三节"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 机构与人员",
+    "line_start": 9,
+    "line_end": 37,
+    "source_anchor": "第二章"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 使用直接关系民用航空飞行活动安全的通信导航监视设备,应当符合民航局有关规定。",
+    "line_start": 40,
+    "line_end": 40,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 购置和使用实行使用许可管理的通信导航监视设备,应当从民航局定期公布的《民用航空通信导航监视设备使用许可目录》中选取。",
+    "line_start": 41,
+    "line_end": 42,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 通信导航监视的发展与建设由民航局组织制定相关规划。",
+    "line_start": 44,
+    "line_end": 44,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 通信导航监视发展与建设应当服从国家和民航发展总体规划,以运行需求为引导,坚持统一规划、科学合理、资源共享的原则,提高系统综合保障服务能力,确保飞行安全。",
+    "line_start": 45,
+    "line_end": 45,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 通信导航监视运行保障单位以及与通信导航监视服务有关的单位负责提出通信导航监视服务发展和建设相关规划的需求和建议。",
+    "line_start": 46,
+    "line_end": 47,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 新建、改建、扩建通信导航监视设施设备时,应当符合通信导航监视发展和建设的相关规划,并按有关规定建设防雷设施、安全保卫设施、消防设施以及环境监控和告警装置等设施设备。",
+    "line_start": 48,
+    "line_end": 48,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 民航局和地区管理局对通信导航监视工程的立项、可行性研究、初步设计、工程实施和验收实施管理。",
+    "line_start": 49,
+    "line_end": 49,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 通信导航监视工程的建设管理应当按照民航局有关规定执行。",
+    "line_start": 50,
+    "line_end": 50,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 新建、改建、扩建的通信导航监视设施设备投入使用后的评估按照民航局有关规定执行。",
+    "line_start": 51,
+    "line_end": 52,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 通信导航监视运行保障单位应当根据运行需求和民航局相关规定,配置通信导航监视设施设备,并保证设施设备在规定使用周期内正常运行。",
+    "line_start": 54,
+    "line_end": 55,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 通信导航监视运行保障单位应当根据空中交通管制运行需求、空中航行服务需求及飞行程序设计方案要求设置或者迁移无线电通信导航监视台(站)。",
+    "line_start": 56,
+    "line_end": 56,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 用于提供应急服务或通用航空保障等非固定台(站)址的无线电通信导航监视台(站)应当在批准的范围内设置和使用。",
+    "line_start": 57,
+    "line_end": 57,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 无线电通信导航监视台(站)的选址工作由通信导航监视运行保障单位或者空管项目建设单位负责并自行或会同从事民航专业工程设计、咨询的单位组织实施。",
+    "line_start": 58,
+    "line_end": 58,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 通信导航监视运行保障单位设置或者迁移无线电通信导航监视台(站)址时,应当向所在地地区管理局提交台(站)址选址报告。",
+    "line_start": 59,
+    "line_end": 59,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 无线电通信导航监视台(站)的选址报告应当包括以下主要内容:",
+    "line_start": 60,
+    "line_end": 67,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 无线电导航台(站)址应当同时满足导航台(站)场地设置规范、电磁环境要求和飞行程序设计方案。不能同时满足的,负责选址的单位应当与飞行程序设计单位会商,对飞行程序设计方案或者比选台(站)址进行调整,直至符合运行需求为止。",
+    "line_start": 68,
+    "line_end": 68,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 无线电通信导航监视台(站)或设备的频率、呼号、地址等代码资源由民航局统一规划和管理。",
+    "line_start": 69,
+    "line_end": 71,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 通信导航监视运行保障单位需要撤销无线电通信导航监视台(站)时,应当向审批机关申请办理撤销手续。",
+    "line_start": 72,
+    "line_end": 72,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 通信导航监视新技术应用(以下简称新技术应用)政策、规划、规章和标准由民航局统一制定和发布。民航局负责统一组织指导和管理新技术应用活动,地区管理局负责监督管理本地区新技术应用活动。",
+    "line_start": 74,
+    "line_end": 75,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 通信导航监视运行保障单位实施新技术应用,应当贯彻和执行有关新技术应用的政策、规划、规章和标准。并建立相应的管理程序和制度。",
+    "line_start": 76,
+    "line_end": 76,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 新技术应用前,应当按照民航局相关规定进行验证。",
+    "line_start": 77,
+    "line_end": 78,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 实施新技术应用的单位应当具备应用条件,制定安全保证措施,并对应用活动的安全负责。",
+    "line_start": 79,
+    "line_end": 79,
+    "source_anchor": "第四十二条"
+  },
+  "section:4": {
+    "node_id": "section:4",
+    "type": "section",
+    "title": "第四节 运行监控",
+    "line_start": 221,
+    "line_end": 229,
+    "source_anchor": "第四节"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 用于民用航空导航设备的开放与运行管理,按照《民用航空导航设备开放与运行管理规定》执行。",
+    "line_start": 81,
+    "line_end": 82,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 通信导航监视运行保障单位应当执行国家和民用航空的有关规定,保证通信导航监视设备的开放、运行和关闭符合民航局的相关规定和标准,保持通信导航监视设备的持续适用。",
+    "line_start": 83,
+    "line_end": 83,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 通信导航监视运行保障单位应当会同航空情报服务机构保证开放运行的通信导航监视设备资料的完整性、准确性、及时性和一致性。",
+    "line_start": 84,
+    "line_end": 84,
+    "source_anchor": "第四十五条"
+  },
+  "section:5": {
+    "node_id": "section:5",
+    "type": "section",
+    "title": "第五节 信息引接管理",
+    "line_start": 230,
+    "line_end": 237,
+    "source_anchor": "第五节"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 通信导航监视设施设备及其电磁环境的保护工作应当按照国家和民用航空的有关规定具体实施。",
+    "line_start": 86,
+    "line_end": 87,
+    "source_anchor": "第四十六条"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 任何单位或者个人不得侵占、破坏或者擅自移动通信导航监视设施设备。",
+    "line_start": 88,
+    "line_end": 89,
+    "source_anchor": "第四十七条"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 通信导航监视运行保障单位应当按照国家和民用航空有关法律、法规、规章和标准的要求,对通信导航监视设施设备及其电磁环境保护区域采取必要的防护措施。",
+    "line_start": 90,
+    "line_end": 90,
+    "source_anchor": "第四十八条"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 通信导航监视运行保障单位应当向地方政府提出对有关无线电通信导航监视台(站)的电磁环境保护的范围和要求。",
+    "line_start": 91,
+    "line_end": 92,
+    "source_anchor": "第四十九条"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 通信导航监视设备的无线电频率受到有害干扰时,通信导航监视运行保障单位在进行自查后,应当及时报告所在地地方无线电管理机构和地区管理局,并配合所在地地方无线电管理机构排除有害干扰。",
+    "line_start": 93,
+    "line_end": 93,
+    "source_anchor": "第五十条"
+  },
+  "article:51": {
+    "node_id": "article:51",
+    "type": "article",
+    "title": "第五十一条 在民用航空无线电台(站)电磁环境保护区域内进行工程施工或者设置使用各类设施设备,应当按照国家和民用航空有关台(站)设置和电磁环境保护规定执行。",
+    "line_start": 94,
+    "line_end": 94,
+    "source_anchor": "第五十一条"
+  },
+  "section:6": {
+    "node_id": "section:6",
+    "type": "section",
+    "title": "第六节 应急管理",
+    "line_start": 238,
+    "line_end": 252,
+    "source_anchor": "第六节"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 设施与设备",
+    "line_start": 38,
+    "line_end": 94,
+    "source_anchor": "第三章"
+  },
+  "article:52": {
+    "node_id": "article:52",
+    "type": "article",
+    "title": "第五十二条 通信导航监视设施设备的系统配置、参数设置和运行,应该遵照国家和民用航空的相关规定和标准执行。",
+    "line_start": 97,
+    "line_end": 97,
+    "source_anchor": "第五十二条"
+  },
+  "article:53": {
+    "node_id": "article:53",
+    "type": "article",
+    "title": "第五十三条 通信导航监视设备应当使用协调世界时,并使用统一的授时系统;独立设置的通信导航监视设施中的设备可以使用独立的授时系统,并定期校准。",
+    "line_start": 98,
+    "line_end": 98,
+    "source_anchor": "第五十三条"
+  },
+  "article:54": {
+    "node_id": "article:54",
+    "type": "article",
+    "title": "第五十四条 通信导航监视运行保障单位应当确保通信导航监视服务的持续提供。因故无法提供服务时,通信导航监视运行保障单位应当及时通知相关运行单位,并按照航空情报服务相关规定,及时通知航空情报服务机构发布航行通告。",
+    "line_start": 99,
+    "line_end": 100,
+    "source_anchor": "第五十四条"
+  },
+  "article:55": {
+    "node_id": "article:55",
+    "type": "article",
+    "title": "第五十五条 通信导航监视设备因维护、维修、检测、调试、飞行校验需要暂时停止提供相应服务的,通信导航监视运行保障单位应当:",
+    "line_start": 101,
+    "line_end": 106,
+    "source_anchor": "第五十五条"
+  },
+  "article:56": {
+    "node_id": "article:56",
+    "type": "article",
+    "title": "第五十六条 通信导航监视设备运行的正常率和完好率应当符合民航局有关规定。",
+    "line_start": 107,
+    "line_end": 107,
+    "source_anchor": "第五十六条"
+  },
+  "article:57": {
+    "node_id": "article:57",
+    "type": "article",
+    "title": "第五十七条 未经授权的单位或者个人不得对通信导航监视设备进行本地或者远程操作。",
+    "line_start": 108,
+    "line_end": 108,
+    "source_anchor": "第五十七条"
+  },
+  "article:58": {
+    "node_id": "article:58",
+    "type": "article",
+    "title": "第五十八条 通信导航监视服务应当使用规定的缩略语和代码。在服务中提供的含有非标准缩略语和代码的,应当对其所使用的缩略语和代码提供相应的解释和解码。",
+    "line_start": 109,
+    "line_end": 109,
+    "source_anchor": "第五十八条"
+  },
+  "article:59": {
+    "node_id": "article:59",
+    "type": "article",
+    "title": "第五十九条 通信的任务是利用通信网络或者通信终端传输、交换和处理民用航空生产信息,为民用航空活动提供语音或者数据通信,使其能够安全、高效运行。",
+    "line_start": 111,
+    "line_end": 111,
+    "source_anchor": "第五十九条"
+  },
+  "article:60": {
+    "node_id": "article:60",
+    "type": "article",
+    "title": "第六十条 通信包括地空通信和地地通信。",
+    "line_start": 112,
+    "line_end": 112,
+    "source_anchor": "第六十条"
+  },
+  "article:61": {
+    "node_id": "article:61",
+    "type": "article",
+    "title": "第六十一条 地空通信主要包括空中交通服务通信、航务管理通信、站坪管理通信和对空气象广播等。",
+    "line_start": 113,
+    "line_end": 114,
+    "source_anchor": "第六十一条"
+  },
+  "article:62": {
+    "node_id": "article:62",
+    "type": "article",
+    "title": "第六十二条 按照不同的职责和业务类型,空中交通服务地空通信分为塔台地空通信、起飞线地空通信、地面放行通信、地面管制通信、进近或终端区地空通信、航路地空通信、搜寻救援通信、通用航空通信、航站情报通播等。",
+    "line_start": 115,
+    "line_end": 115,
+    "source_anchor": "第六十二条"
+  },
+  "article:63": {
+    "node_id": "article:63",
+    "type": "article",
+    "title": "第六十三条 地空通信可使用无线电语音和数据通信等方式。",
+    "line_start": 116,
+    "line_end": 116,
+    "source_anchor": "第六十三条"
+  },
+  "article:64": {
+    "node_id": "article:64",
+    "type": "article",
+    "title": "第六十四条 民用航空地地通信方式可使用民航专用通信网和公用通信网方式实现语音与数据的交换与传输。",
+    "line_start": 117,
+    "line_end": 117,
+    "source_anchor": "第六十四条"
+  },
+  "article:65": {
+    "node_id": "article:65",
+    "type": "article",
+    "title": "第六十五条 通信导航监视运行保障单位应当根据飞行和空中交通管制运行的需求,及时提供和开放地空通信服务。",
+    "line_start": 118,
+    "line_end": 118,
+    "source_anchor": "第六十五条"
+  },
+  "article:66": {
+    "node_id": "article:66",
+    "type": "article",
+    "title": "第六十六条 民用航空专用航空电信网络由民航局指定的通信导航监视运行保障单位统一管理。",
+    "line_start": 119,
+    "line_end": 119,
+    "source_anchor": "第六十六条"
+  },
+  "article:67": {
+    "node_id": "article:67",
+    "type": "article",
+    "title": "第六十七条 通信设备发生故障时,通信导航监视运行保障单位应当及时采取措施,避免或者减少对相应通信服务的影响。",
+    "line_start": 120,
+    "line_end": 120,
+    "source_anchor": "第六十七条"
+  },
+  "article:68": {
+    "node_id": "article:68",
+    "type": "article",
+    "title": "第六十八条 地空通信、管制中心间通信和安全运行所需的民航专用电话通信,应当配置语音和数据记录设备,并完整记录通信内容。记录内容的保存和重放应当符合《民用航空空中交通管理规则》和本规则第一百二十八条的规定。",
+    "line_start": 121,
+    "line_end": 121,
+    "source_anchor": "第六十八条"
+  },
+  "article:69": {
+    "node_id": "article:69",
+    "type": "article",
+    "title": "第六十九条 通用航空飞行的通信服务,由从事通用航空活动的单位或者个人负责提供,并制定相应的服务保障措施。",
+    "line_start": 122,
+    "line_end": 122,
+    "source_anchor": "第六十九条"
+  },
+  "article:70": {
+    "node_id": "article:70",
+    "type": "article",
+    "title": "第七十条 所有在中华人民共和国领域内活动的民用航空器,应当按照国家和民用航空的有关规定实施通信。",
+    "line_start": 123,
+    "line_end": 123,
+    "source_anchor": "第七十条"
+  },
+  "article:71": {
+    "node_id": "article:71",
+    "type": "article",
+    "title": "第七十一条 导航的任务是为航空器提供飞行引导信息,使其能够安全、正常飞行。",
+    "line_start": 125,
+    "line_end": 125,
+    "source_anchor": "第七十一条"
+  },
+  "article:72": {
+    "node_id": "article:72",
+    "type": "article",
+    "title": "第七十二条 导航服务包括机场(终端区)导航服务和航路、航线导航服务。",
+    "line_start": 126,
+    "line_end": 126,
+    "source_anchor": "第七十二条"
+  },
+  "article:73": {
+    "node_id": "article:73",
+    "type": "article",
+    "title": "第七十三条 机场(终端区)导航设施包括无方向信标台、指点信标台、全向信标台、测距台、仪表着陆系统、卫星导航地面设施以及其他导航设施等。",
+    "line_start": 127,
+    "line_end": 127,
+    "source_anchor": "第七十三条"
+  },
+  "article:74": {
+    "node_id": "article:74",
+    "type": "article",
+    "title": "第七十四条 机场(终端区)导航设施的设置应当根据机场等级和运行标准、空域方案和飞行程序、机场区域的地理环境和场地条件等确定。",
+    "line_start": 128,
+    "line_end": 128,
+    "source_anchor": "第七十四条"
+  },
+  "article:75": {
+    "node_id": "article:75",
+    "type": "article",
+    "title": "第七十五条 航路、航线导航设施包括全向信标台、测距台、无方向信标台、卫星导航地面设施等。",
+    "line_start": 129,
+    "line_end": 129,
+    "source_anchor": "第七十五条"
+  },
+  "article:76": {
+    "node_id": "article:76",
+    "type": "article",
+    "title": "第七十六条 航路、航线导航设施的设置应当根据空域方案和飞行程序、当地地理环境和场地条件等确定。",
+    "line_start": 130,
+    "line_end": 130,
+    "source_anchor": "第七十六条"
+  },
+  "article:77": {
+    "node_id": "article:77",
+    "type": "article",
+    "title": "第七十七条 导航设备发生故障或不能提供有效导航信号时,通信导航监视运行保障单位应当及时采取措施,同时通知相关单位,并按照规定发布航行通告,减少对航空器安全飞行的影响。",
+    "line_start": 131,
+    "line_end": 131,
+    "source_anchor": "第七十七条"
+  },
+  "article:78": {
+    "node_id": "article:78",
+    "type": "article",
+    "title": "第七十八条 通用航空飞行的导航服务,由从事通用航空活动的单位或者相关通信导航监视运行保障单位负责提供,并制定相应的服务保障措施。",
+    "line_start": 132,
+    "line_end": 132,
+    "source_anchor": "第七十八条"
+  },
+  "article:79": {
+    "node_id": "article:79",
+    "type": "article",
+    "title": "第七十九条 所有为航空器提供服务的各类型无线电导航设施设备,应当按照有关规定进行飞行校验或者验证。",
+    "line_start": 133,
+    "line_end": 133,
+    "source_anchor": "第七十九条"
+  },
+  "article:80": {
+    "node_id": "article:80",
+    "type": "article",
+    "title": "第八十条 监视的任务是对航空器及其他目标进行可靠的探测,提供准确的航空器及其他探测目标的位置、状态和告警信息。",
+    "line_start": 135,
+    "line_end": 135,
+    "source_anchor": "第八十条"
+  },
+  "article:81": {
+    "node_id": "article:81",
+    "type": "article",
+    "title": "第八十一条 监视设备包括信息探测系统、信息处理与显示系统。",
+    "line_start": 136,
+    "line_end": 136,
+    "source_anchor": "第八十一条"
+  },
+  "article:82": {
+    "node_id": "article:82",
+    "type": "article",
+    "title": "第八十二条 信息探测系统包括一次监视雷达、二次监视雷达、场面监视雷达、自动相关监视系统、多点相关定位系统等。",
+    "line_start": 137,
+    "line_end": 137,
+    "source_anchor": "第八十二条"
+  },
+  "article:83": {
+    "node_id": "article:83",
+    "type": "article",
+    "title": "第八十三条 信息探测系统的设置和布局应当根据其覆盖范围、机场运行和空中交通服务需求等确定。",
+    "line_start": 138,
+    "line_end": 138,
+    "source_anchor": "第八十三条"
+  },
+  "article:84": {
+    "node_id": "article:84",
+    "type": "article",
+    "title": "第八十四条 信息处理与显示系统包括空中交通管制自动化系统及其他自动化系统。",
+    "line_start": 139,
+    "line_end": 139,
+    "source_anchor": "第八十四条"
+  },
+  "article:85": {
+    "node_id": "article:85",
+    "type": "article",
+    "title": "第八十五条 信息处理与显示系统的设置,应当根据机场运行和空中交通服务需求以及民航局的相关规定等确定。",
+    "line_start": 140,
+    "line_end": 140,
+    "source_anchor": "第八十五条"
+  },
+  "article:86": {
+    "node_id": "article:86",
+    "type": "article",
+    "title": "第八十六条 信息处理与显示系统应当配置记录设备。记录内容的保存和重放应当符合《民用航空空中交通管理规则》和本规则第一百二十八条的规定。",
+    "line_start": 141,
+    "line_end": 141,
+    "source_anchor": "第八十六条"
+  },
+  "article:87": {
+    "node_id": "article:87",
+    "type": "article",
+    "title": "第八十七条 监视设备发生故障时,通信导航监视运行保障单位应当及时采取措施,避免或者减少对空中交通服务和飞行的影响。",
+    "line_start": 142,
+    "line_end": 142,
+    "source_anchor": "第八十七条"
+  },
+  "article:88": {
+    "node_id": "article:88",
+    "type": "article",
+    "title": "第八十八条 通用航空飞行的监视服务,由从事通用航空活动的单位或者相关通信导航监视运行保障单位负责提供,并制定相应的服务保障措施。",
+    "line_start": 143,
+    "line_end": 143,
+    "source_anchor": "第八十八条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 通信导航监视服务",
+    "line_start": 95,
+    "line_end": 143,
+    "source_anchor": "第四章"
+  },
+  "article:89": {
+    "node_id": "article:89",
+    "type": "article",
+    "title": "第八十九条 通信导航监视运行保障单位应当依据国家和民用航空有关规定建立质量管理体系。",
+    "line_start": 146,
+    "line_end": 146,
+    "source_anchor": "第八十九条"
+  },
+  "article:90": {
+    "node_id": "article:90",
+    "type": "article",
+    "title": "第九十条 通信导航监视服务质量管理体系应当包括通信导航监视服务机构、设施设备、人员、技术标准、规范规程、工作制度、运行程序、质量考核及改进措施等。",
+    "line_start": 147,
+    "line_end": 147,
+    "source_anchor": "第九十条"
+  },
+  "article:91": {
+    "node_id": "article:91",
+    "type": "article",
+    "title": "第九十一条 通信导航监视服务质量管理体系应当保证通信导航监视服务的有效性、完整性、及时性和准确性符合国家和民用航空的有关规定,并能有效监控服务质量。",
+    "line_start": 148,
+    "line_end": 148,
+    "source_anchor": "第九十一条"
+  },
+  "article:92": {
+    "node_id": "article:92",
+    "type": "article",
+    "title": "第九十二条 通信导航监视运行保障单位应当依据有关的民用航空法律、法规、规章、规范性文件、技术标准以及质量管理体系要求及时制定和修订运行手册,并保持运行手册的持续有效。",
+    "line_start": 149,
+    "line_end": 149,
+    "source_anchor": "第九十二条"
+  },
+  "article:93": {
+    "node_id": "article:93",
+    "type": "article",
+    "title": "第九十三条 运行手册应当包括以下主要内容:",
+    "line_start": 150,
+    "line_end": 156,
+    "source_anchor": "第九十三条"
+  },
+  "article:94": {
+    "node_id": "article:94",
+    "type": "article",
+    "title": "第九十四条 运行手册应当在相关的工作场所设置和保存,便于使用和查阅。",
+    "line_start": 157,
+    "line_end": 157,
+    "source_anchor": "第九十四条"
+  },
+  "article:95": {
+    "node_id": "article:95",
+    "type": "article",
+    "title": "第九十五条 通信导航监视运行保障单位应当制定运行管理制度。运行管理制度应当至少包括:",
+    "line_start": 159,
+    "line_end": 167,
+    "source_anchor": "第九十五条"
+  },
+  "article:96": {
+    "node_id": "article:96",
+    "type": "article",
+    "title": "第九十六条 岗位值班工作制度应当至少包括:",
+    "line_start": 168,
+    "line_end": 176,
+    "source_anchor": "第九十六条"
+  },
+  "article:97": {
+    "node_id": "article:97",
+    "type": "article",
+    "title": "第九十七条 机房管理制度应当至少包括:",
+    "line_start": 177,
+    "line_end": 180,
+    "source_anchor": "第九十七条"
+  },
+  "article:98": {
+    "node_id": "article:98",
+    "type": "article",
+    "title": "第九十八条 设备管理制度应当至少包括:",
+    "line_start": 181,
+    "line_end": 183,
+    "source_anchor": "第九十八条"
+  },
+  "article:99": {
+    "node_id": "article:99",
+    "type": "article",
+    "title": "第九十九条 备件管理制度应当至少包括:",
+    "line_start": 184,
+    "line_end": 188,
+    "source_anchor": "第九十九条"
+  },
+  "article:100": {
+    "node_id": "article:100",
+    "type": "article",
+    "title": "第一百条 器材和工具管理制度应当至少包括:",
+    "line_start": 189,
+    "line_end": 193,
+    "source_anchor": "第一百条"
+  },
+  "article:101": {
+    "node_id": "article:101",
+    "type": "article",
+    "title": "第一百一条 技术资料管理制度应当至少包括:",
+    "line_start": 194,
+    "line_end": 196,
+    "source_anchor": "第一百一条"
+  },
+  "article:102": {
+    "node_id": "article:102",
+    "type": "article",
+    "title": "第一百二条 设备和人员安全操作制度应当至少包括:",
+    "line_start": 197,
+    "line_end": 201,
+    "source_anchor": "第一百二条"
+  },
+  "article:103": {
+    "node_id": "article:103",
+    "type": "article",
+    "title": "第一百三条 运行检查制度应当至少包括:",
+    "line_start": 202,
+    "line_end": 204,
+    "source_anchor": "第一百三条"
+  },
+  "article:104": {
+    "node_id": "article:104",
+    "type": "article",
+    "title": "第一百四条 通信导航监视运行保障单位应当按照国家和民用航空有关规定建立通信导航监视设备维护和维修管理制度,组织实施设备维护和维修,保证设备安全正常运行。",
+    "line_start": 206,
+    "line_end": 206,
+    "source_anchor": "第一百四条"
+  },
+  "article:105": {
+    "node_id": "article:105",
+    "type": "article",
+    "title": "第一百五条 通信导航监视设备维护管理制度应当至少包括:",
+    "line_start": 207,
+    "line_end": 209,
+    "source_anchor": "第一百五条"
+  },
+  "article:106": {
+    "node_id": "article:106",
+    "type": "article",
+    "title": "第一百六条 通信导航监视设备维修管理制度应当至少包括:",
+    "line_start": 210,
+    "line_end": 213,
+    "source_anchor": "第一百六条"
+  },
+  "article:107": {
+    "node_id": "article:107",
+    "type": "article",
+    "title": "第一百七条 通信导航监视设备维修由各级通信导航监视运行保障单位组织实施。",
+    "line_start": 214,
+    "line_end": 214,
+    "source_anchor": "第一百七条"
+  },
+  "article:108": {
+    "node_id": "article:108",
+    "type": "article",
+    "title": "第一百八条 通信导航监视运行保障单位组织实施设备维修应当具备下列基本条件:",
+    "line_start": 215,
+    "line_end": 219,
+    "source_anchor": "第一百八条"
+  },
+  "article:109": {
+    "node_id": "article:109",
+    "type": "article",
+    "title": "第一百九条 委托其他通信导航监视运行保障单位实施本单位通信导航监视设备维护和维修时,应当签署有关服务协议,并明确服务内容、责任、权利和义务。",
+    "line_start": 220,
+    "line_end": 220,
+    "source_anchor": "第一百九条"
+  },
+  "section:7": {
+    "node_id": "section:7",
+    "type": "section",
+    "title": "第七节 运行记录",
+    "line_start": 253,
+    "line_end": 263,
+    "source_anchor": "第七节"
+  },
+  "section:8": {
+    "node_id": "section:8",
+    "type": "section",
+    "title": "第八节 不安全事件管理",
+    "line_start": 264,
+    "line_end": 275,
+    "source_anchor": "第八节"
+  },
+  "section:9": {
+    "node_id": "section:9",
+    "type": "section",
+    "title": "第九节 安全保卫",
+    "line_start": 276,
+    "line_end": 281,
+    "source_anchor": "第九节"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 运行管理",
+    "line_start": 144,
+    "line_end": 281,
+    "source_anchor": "第五章"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 飞行校验与验证",
+    "line_start": 282,
+    "line_end": 286,
+    "source_anchor": "第六章"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 资料管理",
+    "line_start": 287,
+    "line_end": 299,
+    "source_anchor": "第七章"
+  },
+  "chapter:8": {
+    "node_id": "chapter:8",
+    "type": "chapter",
+    "title": "第八章 监督检查",
+    "line_start": 300,
+    "line_end": 306,
+    "source_anchor": "第八章"
+  },
+  "chapter:9": {
+    "node_id": "chapter:9",
+    "type": "chapter",
+    "title": "第九章 法律责任",
+    "line_start": 307,
+    "line_end": 335,
+    "source_anchor": "第九章"
+  },
+  "chapter:10": {
+    "node_id": "chapter:10",
+    "type": "chapter",
+    "title": "第十章 附 则",
+    "line_start": 336,
+    "line_end": 352,
+    "source_anchor": "第十章"
+  }
+}

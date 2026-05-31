@@ -1,0 +1,378 @@
+{
+  "law:载人自由气球适航规定": {
+    "node_id": "law:载人自由气球适航规定",
+    "type": "law",
+    "title": "《载人自由气球适航规定》已于2022年7月5日经第17次部务会议通过,现予公布,自2022年9月1日起施行。",
+    "line_start": 0,
+    "line_end": 371,
+    "source_anchor": "《载人自由气球适航规定》已于2022年7月5日经第17次部务会议通过,现予公布,自2022年9月1日起施行。"
+  },
+  "article:31.1": {
+    "node_id": "article:31.1",
+    "type": "article",
+    "title": "第31.1条 适用范围",
+    "line_start": 66,
+    "line_end": 70,
+    "source_anchor": "第31.1条"
+  },
+  "article:31.3": {
+    "node_id": "article:31.3",
+    "type": "article",
+    "title": "第31.3条 定义",
+    "line_start": 71,
+    "line_end": 83,
+    "source_anchor": "第31.3条"
+  },
+  "chapter:A": {
+    "node_id": "chapter:A",
+    "type": "chapter",
+    "title": "A章 总则",
+    "line_start": 64,
+    "line_end": 83,
+    "source_anchor": "A章"
+  },
+  "article:31.12": {
+    "node_id": "article:31.12",
+    "type": "article",
+    "title": "第31.12条 符合性验证",
+    "line_start": 86,
+    "line_end": 90,
+    "source_anchor": "第31.12条"
+  },
+  "article:31.14": {
+    "node_id": "article:31.14",
+    "type": "article",
+    "title": "第31.14条 重量限制",
+    "line_start": 91,
+    "line_end": 97,
+    "source_anchor": "第31.14条"
+  },
+  "article:31.16": {
+    "node_id": "article:31.16",
+    "type": "article",
+    "title": "第31.16条 空重",
+    "line_start": 98,
+    "line_end": 99,
+    "source_anchor": "第31.16条"
+  },
+  "article:31.17": {
+    "node_id": "article:31.17",
+    "type": "article",
+    "title": "第31.17条 性能:爬升",
+    "line_start": 100,
+    "line_end": 102,
+    "source_anchor": "第31.17条"
+  },
+  "article:31.19": {
+    "node_id": "article:31.19",
+    "type": "article",
+    "title": "第31.19条 性能:失控下降",
+    "line_start": 103,
+    "line_end": 108,
+    "source_anchor": "第31.19条"
+  },
+  "article:31.20": {
+    "node_id": "article:31.20",
+    "type": "article",
+    "title": "第31.20条 操纵性",
+    "line_start": 109,
+    "line_end": 111,
+    "source_anchor": "第31.20条"
+  },
+  "chapter:B": {
+    "node_id": "chapter:B",
+    "type": "chapter",
+    "title": "B章 飞行",
+    "line_start": 84,
+    "line_end": 111,
+    "source_anchor": "B章"
+  },
+  "article:31.21": {
+    "node_id": "article:31.21",
+    "type": "article",
+    "title": "第31.21条 载荷",
+    "line_start": 114,
+    "line_end": 115,
+    "source_anchor": "第31.21条"
+  },
+  "article:31.23": {
+    "node_id": "article:31.23",
+    "type": "article",
+    "title": "第31.23条 载荷系数",
+    "line_start": 116,
+    "line_end": 118,
+    "source_anchor": "第31.23条"
+  },
+  "article:31.25": {
+    "node_id": "article:31.25",
+    "type": "article",
+    "title": "第31.25条 安全系数",
+    "line_start": 119,
+    "line_end": 124,
+    "source_anchor": "第31.25条"
+  },
+  "article:31.27": {
+    "node_id": "article:31.27",
+    "type": "article",
+    "title": "第31.27条 强度",
+    "line_start": 125,
+    "line_end": 137,
+    "source_anchor": "第31.27条"
+  },
+  "article:31.30": {
+    "node_id": "article:31.30",
+    "type": "article",
+    "title": "第31.30条 约束索带",
+    "line_start": 138,
+    "line_end": 146,
+    "source_anchor": "第31.30条"
+  },
+  "chapter:C": {
+    "node_id": "chapter:C",
+    "type": "chapter",
+    "title": "C章 结构",
+    "line_start": 112,
+    "line_end": 146,
+    "source_anchor": "C章"
+  },
+  "article:31.31": {
+    "node_id": "article:31.31",
+    "type": "article",
+    "title": "第31.31条 一般规定",
+    "line_start": 149,
+    "line_end": 150,
+    "source_anchor": "第31.31条"
+  },
+  "article:31.33": {
+    "node_id": "article:31.33",
+    "type": "article",
+    "title": "第31.33条 材料",
+    "line_start": 151,
+    "line_end": 154,
+    "source_anchor": "第31.33条"
+  },
+  "article:31.35": {
+    "node_id": "article:31.35",
+    "type": "article",
+    "title": "第31.35条 制造方法",
+    "line_start": 155,
+    "line_end": 156,
+    "source_anchor": "第31.35条"
+  },
+  "article:31.37": {
+    "node_id": "article:31.37",
+    "type": "article",
+    "title": "第31.37条 紧固件",
+    "line_start": 157,
+    "line_end": 161,
+    "source_anchor": "第31.37条"
+  },
+  "article:31.39": {
+    "node_id": "article:31.39",
+    "type": "article",
+    "title": "第31.39条 零部件保护",
+    "line_start": 162,
+    "line_end": 163,
+    "source_anchor": "第31.39条"
+  },
+  "article:31.41": {
+    "node_id": "article:31.41",
+    "type": "article",
+    "title": "第31.41条 检查措施",
+    "line_start": 164,
+    "line_end": 165,
+    "source_anchor": "第31.41条"
+  },
+  "article:31.43": {
+    "node_id": "article:31.43",
+    "type": "article",
+    "title": "第31.43条 接头系数",
+    "line_start": 166,
+    "line_end": 169,
+    "source_anchor": "第31.43条"
+  },
+  "article:31.44": {
+    "node_id": "article:31.44",
+    "type": "article",
+    "title": "第31.44条 球囊的防撕裂保护",
+    "line_start": 170,
+    "line_end": 171,
+    "source_anchor": "第31.44条"
+  },
+  "article:31.45": {
+    "node_id": "article:31.45",
+    "type": "article",
+    "title": "第31.45条 燃料罐",
+    "line_start": 172,
+    "line_end": 185,
+    "source_anchor": "第31.45条"
+  },
+  "article:31.46": {
+    "node_id": "article:31.46",
+    "type": "article",
+    "title": "第31.46条 增压燃料系统",
+    "line_start": 186,
+    "line_end": 191,
+    "source_anchor": "第31.46条"
+  },
+  "article:31.47": {
+    "node_id": "article:31.47",
+    "type": "article",
+    "title": "第31.47条 加热器系统",
+    "line_start": 192,
+    "line_end": 210,
+    "source_anchor": "第31.47条"
+  },
+  "article:31.49": {
+    "node_id": "article:31.49",
+    "type": "article",
+    "title": "第31.49条 操纵系统",
+    "line_start": 211,
+    "line_end": 216,
+    "source_anchor": "第31.49条"
+  },
+  "article:31.51": {
+    "node_id": "article:31.51",
+    "type": "article",
+    "title": "第31.51条 可抛放压舱物",
+    "line_start": 217,
+    "line_end": 218,
+    "source_anchor": "第31.51条"
+  },
+  "article:31.53": {
+    "node_id": "article:31.53",
+    "type": "article",
+    "title": "第31.53条 锚绳",
+    "line_start": 219,
+    "line_end": 220,
+    "source_anchor": "第31.53条"
+  },
+  "article:31.55": {
+    "node_id": "article:31.55",
+    "type": "article",
+    "title": "第31.55条 放气装置",
+    "line_start": 221,
+    "line_end": 223,
+    "source_anchor": "第31.55条"
+  },
+  "article:31.57": {
+    "node_id": "article:31.57",
+    "type": "article",
+    "title": "第31.57条 操纵拉索",
+    "line_start": 224,
+    "line_end": 239,
+    "source_anchor": "第31.57条"
+  },
+  "article:31.59": {
+    "node_id": "article:31.59",
+    "type": "article",
+    "title": "第31.59条 吊篮、吊架或者其他载人器具",
+    "line_start": 240,
+    "line_end": 252,
+    "source_anchor": "第31.59条"
+  },
+  "article:31.61": {
+    "node_id": "article:31.61",
+    "type": "article",
+    "title": "第31.61条 静电放电",
+    "line_start": 253,
+    "line_end": 254,
+    "source_anchor": "第31.61条"
+  },
+  "article:31.63": {
+    "node_id": "article:31.63",
+    "type": "article",
+    "title": "第31.63条 乘员约束装置",
+    "line_start": 255,
+    "line_end": 260,
+    "source_anchor": "第31.63条"
+  },
+  "article:31.65": {
+    "node_id": "article:31.65",
+    "type": "article",
+    "title": "第31.65条 航行灯",
+    "line_start": 261,
+    "line_end": 302,
+    "source_anchor": "第31.65条"
+  },
+  "chapter:D": {
+    "node_id": "chapter:D",
+    "type": "chapter",
+    "title": "D章 设计构造",
+    "line_start": 147,
+    "line_end": 302,
+    "source_anchor": "D章"
+  },
+  "article:31.71": {
+    "node_id": "article:31.71",
+    "type": "article",
+    "title": "第31.71条 功能与安装",
+    "line_start": 305,
+    "line_end": 313,
+    "source_anchor": "第31.71条"
+  },
+  "chapter:E": {
+    "node_id": "chapter:E",
+    "type": "chapter",
+    "title": "E章 设备",
+    "line_start": 303,
+    "line_end": 313,
+    "source_anchor": "E章"
+  },
+  "article:31.81": {
+    "node_id": "article:31.81",
+    "type": "article",
+    "title": "第31.81条 一般规定",
+    "line_start": 316,
+    "line_end": 323,
+    "source_anchor": "第31.81条"
+  },
+  "article:31.82": {
+    "node_id": "article:31.82",
+    "type": "article",
+    "title": "第31.82条 持续适航文件",
+    "line_start": 324,
+    "line_end": 325,
+    "source_anchor": "第31.82条"
+  },
+  "article:31.83": {
+    "node_id": "article:31.83",
+    "type": "article",
+    "title": "第31.83条 醒目性",
+    "line_start": 326,
+    "line_end": 327,
+    "source_anchor": "第31.83条"
+  },
+  "article:31.85": {
+    "node_id": "article:31.85",
+    "type": "article",
+    "title": "第31.85条 要求的基本设备",
+    "line_start": 328,
+    "line_end": 340,
+    "source_anchor": "第31.85条"
+  },
+  "chapter:F": {
+    "node_id": "chapter:F",
+    "type": "chapter",
+    "title": "F章 使用限制与资料",
+    "line_start": 314,
+    "line_end": 340,
+    "source_anchor": "F章"
+  },
+  "article:31.91": {
+    "node_id": "article:31.91",
+    "type": "article",
+    "title": "第31.91条 施行",
+    "line_start": 343,
+    "line_end": 371,
+    "source_anchor": "第31.91条"
+  },
+  "chapter:G": {
+    "node_id": "chapter:G",
+    "type": "chapter",
+    "title": "G章 附则",
+    "line_start": 341,
+    "line_end": 371,
+    "source_anchor": "G章"
+  }
+}

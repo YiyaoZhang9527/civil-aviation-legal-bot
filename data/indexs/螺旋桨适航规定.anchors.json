@@ -1,0 +1,250 @@
+{
+  "law:螺旋桨适航规定": {
+    "node_id": "law:螺旋桨适航规定",
+    "type": "law",
+    "title": "《螺旋桨适航规定》已于2025 年11 月21 日经第28 次部务",
+    "line_start": 0,
+    "line_end": 510,
+    "source_anchor": "《螺旋桨适航规定》已于2025 年11 月21 日经第28 次部务"
+  },
+  "chapter:A": {
+    "node_id": "chapter:A",
+    "type": "chapter",
+    "title": "A章 总    则",
+    "line_start": 21,
+    "line_end": 99,
+    "source_anchor": "A章"
+  },
+  "chapter:B": {
+    "node_id": "chapter:B",
+    "type": "chapter",
+    "title": "B章 设计和构造",
+    "line_start": 100,
+    "line_end": 257,
+    "source_anchor": "B章"
+  },
+  "chapter:C": {
+    "node_id": "chapter:C",
+    "type": "chapter",
+    "title": "C章 试验和检查",
+    "line_start": 258,
+    "line_end": 432,
+    "source_anchor": "C章"
+  },
+  "chapter:D": {
+    "node_id": "chapter:D",
+    "type": "chapter",
+    "title": "D章 附    则",
+    "line_start": 433,
+    "line_end": 510,
+    "source_anchor": "D章"
+  },
+  "article:35.1": {
+    "node_id": "article:35.1",
+    "type": "article",
+    "title": "第35.1条 适用范围",
+    "line_start": 22,
+    "line_end": 37,
+    "source_anchor": "第35.1条"
+  },
+  "article:35.2": {
+    "node_id": "article:35.2",
+    "type": "article",
+    "title": "第35.2条 螺旋桨构型",
+    "line_start": 38,
+    "line_end": 45,
+    "source_anchor": "第35.2条"
+  },
+  "article:35.3": {
+    "node_id": "article:35.3",
+    "type": "article",
+    "title": "第35.3条 螺旋桨安装和使用手册",
+    "line_start": 46,
+    "line_end": 63,
+    "source_anchor": "第35.3条"
+  },
+  "article:35.4": {
+    "node_id": "article:35.4",
+    "type": "article",
+    "title": "第35.4条 条要求的持续适航文件中公布。另外,如果螺旋桨系统",
+    "line_start": 148,
+    "line_end": 174,
+    "source_anchor": "第35.4条"
+  },
+  "article:35.5": {
+    "node_id": "article:35.5",
+    "type": "article",
+    "title": "第35.5条 螺旋桨的额定值和使用限制",
+    "line_start": 73,
+    "line_end": 88,
+    "source_anchor": "第35.5条"
+  },
+  "article:35.7": {
+    "node_id": "article:35.7",
+    "type": "article",
+    "title": "第35.7条 特征和特性",
+    "line_start": 89,
+    "line_end": 99,
+    "source_anchor": "第35.7条"
+  },
+  "article:35.15": {
+    "node_id": "article:35.15",
+    "type": "article",
+    "title": "第35.15条 安全性分析",
+    "line_start": 101,
+    "line_end": 147,
+    "source_anchor": "第35.15条"
+  },
+  "article:35.16": {
+    "node_id": "article:35.16",
+    "type": "article",
+    "title": "第35.16条 螺旋桨关键件",
+    "line_start": 175,
+    "line_end": 183,
+    "source_anchor": "第35.16条"
+  },
+  "article:35.17": {
+    "node_id": "article:35.17",
+    "type": "article",
+    "title": "第35.17条 材料和制造方法",
+    "line_start": 184,
+    "line_end": 193,
+    "source_anchor": "第35.17条"
+  },
+  "article:35.19": {
+    "node_id": "article:35.19",
+    "type": "article",
+    "title": "第35.19条 耐久性",
+    "line_start": 194,
+    "line_end": 196,
+    "source_anchor": "第35.19条"
+  },
+  "article:35.21": {
+    "node_id": "article:35.21",
+    "type": "article",
+    "title": "第35.21条 可变距和可反桨螺旋桨",
+    "line_start": 197,
+    "line_end": 206,
+    "source_anchor": "第35.21条"
+  },
+  "article:35.22": {
+    "node_id": "article:35.22",
+    "type": "article",
+    "title": "第35.22条 可顺桨螺旋桨",
+    "line_start": 207,
+    "line_end": 218,
+    "source_anchor": "第35.22条"
+  },
+  "article:35.23": {
+    "node_id": "article:35.23",
+    "type": "article",
+    "title": "第35.23条 螺旋桨控制系统",
+    "line_start": 219,
+    "line_end": 254,
+    "source_anchor": "第35.23条"
+  },
+  "article:35.24": {
+    "node_id": "article:35.24",
+    "type": "article",
+    "title": "第35.24条 强度",
+    "line_start": 255,
+    "line_end": 257,
+    "source_anchor": "第35.24条"
+  },
+  "article:35.33": {
+    "node_id": "article:35.33",
+    "type": "article",
+    "title": "第35.33条 通用要求",
+    "line_start": 259,
+    "line_end": 272,
+    "source_anchor": "第35.33条"
+  },
+  "article:35.34": {
+    "node_id": "article:35.34",
+    "type": "article",
+    "title": "第35.34条 检查、调整和修理",
+    "line_start": 273,
+    "line_end": 280,
+    "source_anchor": "第35.34条"
+  },
+  "article:35.35": {
+    "node_id": "article:35.35",
+    "type": "article",
+    "title": "第35.35条 离心载荷试验",
+    "line_start": 281,
+    "line_end": 303,
+    "source_anchor": "第35.35条"
+  },
+  "article:35.36": {
+    "node_id": "article:35.36",
+    "type": "article",
+    "title": "第35.36条 鸟撞",
+    "line_start": 304,
+    "line_end": 312,
+    "source_anchor": "第35.36条"
+  },
+  "article:35.37": {
+    "node_id": "article:35.37",
+    "type": "article",
+    "title": "第35.37条 疲劳极限和评估",
+    "line_start": 313,
+    "line_end": 336,
+    "source_anchor": "第35.37条"
+  },
+  "article:35.38": {
+    "node_id": "article:35.38",
+    "type": "article",
+    "title": "第35.38条 雷击",
+    "line_start": 337,
+    "line_end": 344,
+    "source_anchor": "第35.38条"
+  },
+  "article:35.39": {
+    "node_id": "article:35.39",
+    "type": "article",
+    "title": "第35.39条 持久试验",
+    "line_start": 345,
+    "line_end": 377,
+    "source_anchor": "第35.39条"
+  },
+  "article:35.40": {
+    "node_id": "article:35.40",
+    "type": "article",
+    "title": "第35.40条 功能试验",
+    "line_start": 378,
+    "line_end": 398,
+    "source_anchor": "第35.40条"
+  },
+  "article:35.41": {
+    "node_id": "article:35.41",
+    "type": "article",
+    "title": "第35.41条 超转和超扭",
+    "line_start": 399,
+    "line_end": 411,
+    "source_anchor": "第35.41条"
+  },
+  "article:35.42": {
+    "node_id": "article:35.42",
+    "type": "article",
+    "title": "第35.42条 螺旋桨控制系统部件",
+    "line_start": 412,
+    "line_end": 421,
+    "source_anchor": "第35.42条"
+  },
+  "article:35.43": {
+    "node_id": "article:35.43",
+    "type": "article",
+    "title": "第35.43条 螺旋桨液压部件",
+    "line_start": 422,
+    "line_end": 432,
+    "source_anchor": "第35.43条"
+  },
+  "article:35.51": {
+    "node_id": "article:35.51",
+    "type": "article",
+    "title": "第35.51条 施行",
+    "line_start": 434,
+    "line_end": 510,
+    "source_anchor": "第35.51条"
+  }
+}

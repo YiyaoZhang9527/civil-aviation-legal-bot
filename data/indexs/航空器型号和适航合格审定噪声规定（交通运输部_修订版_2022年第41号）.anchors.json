@@ -1,0 +1,314 @@
+{
+  "law:航空器型号和适航合格审定噪声规定(交通运输部_修订版_2022年第41号)": {
+    "node_id": "law:航空器型号和适航合格审定噪声规定(交通运输部_修订版_2022年第41号)",
+    "type": "law",
+    "title": "《交通运输部关于修改〈航空器型号和适航合格审定噪",
+    "line_start": 0,
+    "line_end": 5594,
+    "source_anchor": "《交通运输部关于修改〈航空器型号和适航合格审定噪"
+  },
+  "article:36.11": {
+    "node_id": "article:36.11",
+    "type": "article",
+    "title": "第36.11条",
+    "line_start": 736,
+    "line_end": 777,
+    "source_anchor": "第36.11条"
+  },
+  "article:13.4": {
+    "node_id": "article:13.4",
+    "type": "article",
+    "title": "第13.4条 条规定的噪声限制。",
+    "line_start": 106,
+    "line_end": 183,
+    "source_anchor": "第13.4条"
+  },
+  "article:36.1": {
+    "node_id": "article:36.1",
+    "type": "article",
+    "title": "第36.1条",
+    "line_start": 460,
+    "line_end": 488,
+    "source_anchor": "第36.1条"
+  },
+  "article:36.2": {
+    "node_id": "article:36.2",
+    "type": "article",
+    "title": "第36.2条",
+    "line_start": 568,
+    "line_end": 570,
+    "source_anchor": "第36.2条"
+  },
+  "article:36.3": {
+    "node_id": "article:36.3",
+    "type": "article",
+    "title": "第36.3条",
+    "line_start": 592,
+    "line_end": 598,
+    "source_anchor": "第36.3条"
+  },
+  "article:36.5": {
+    "node_id": "article:36.5",
+    "type": "article",
+    "title": "第36.5条",
+    "line_start": 599,
+    "line_end": 606,
+    "source_anchor": "第36.5条"
+  },
+  "article:36.6": {
+    "node_id": "article:36.6",
+    "type": "article",
+    "title": "第36.6条",
+    "line_start": 607,
+    "line_end": 648,
+    "source_anchor": "第36.6条"
+  },
+  "article:36.7": {
+    "node_id": "article:36.7",
+    "type": "article",
+    "title": "第36.7条 (f)的要求适用。",
+    "line_start": 815,
+    "line_end": 824,
+    "source_anchor": "第36.7条"
+  },
+  "article:36.9": {
+    "node_id": "article:36.9",
+    "type": "article",
+    "title": "第36.9条",
+    "line_start": 720,
+    "line_end": 735,
+    "source_anchor": "第36.9条"
+  },
+  "article:36.13": {
+    "node_id": "article:36.13",
+    "type": "article",
+    "title": "第36.13条",
+    "line_start": 778,
+    "line_end": 794,
+    "source_anchor": "第36.13条"
+  },
+  "chapter:A": {
+    "node_id": "chapter:A",
+    "type": "chapter",
+    "title": "A章 A章",
+    "line_start": 5108,
+    "line_end": 5152,
+    "source_anchor": "A章"
+  },
+  "article:36.101": {
+    "node_id": "article:36.101",
+    "type": "article",
+    "title": "第36.101条",
+    "line_start": 797,
+    "line_end": 801,
+    "source_anchor": "第36.101条"
+  },
+  "article:36.103": {
+    "node_id": "article:36.103",
+    "type": "article",
+    "title": "第36.103条",
+    "line_start": 802,
+    "line_end": 814,
+    "source_anchor": "第36.103条"
+  },
+  "article:36.105": {
+    "node_id": "article:36.105",
+    "type": "article",
+    "title": "第36.105条",
+    "line_start": 825,
+    "line_end": 836,
+    "source_anchor": "第36.105条"
+  },
+  "article:36.106": {
+    "node_id": "article:36.106",
+    "type": "article",
+    "title": "第36.106条",
+    "line_start": 837,
+    "line_end": 852,
+    "source_anchor": "第36.106条"
+  },
+  "chapter:B": {
+    "node_id": "chapter:B",
+    "type": "chapter",
+    "title": "B章 B章",
+    "line_start": 5153,
+    "line_end": 5447,
+    "source_anchor": "B章"
+  },
+  "chapter:C": {
+    "node_id": "chapter:C",
+    "type": "chapter",
+    "title": "C章 C章",
+    "line_start": 5448,
+    "line_end": 5511,
+    "source_anchor": "C章"
+  },
+  "chapter:D": {
+    "node_id": "chapter:D",
+    "type": "chapter",
+    "title": "D章 D章",
+    "line_start": 5512,
+    "line_end": 5594,
+    "source_anchor": "D章"
+  },
+  "chapter:E": {
+    "node_id": "chapter:E",
+    "type": "chapter",
+    "title": "E章 E章",
+    "line_start": 862,
+    "line_end": 865,
+    "source_anchor": "E章"
+  },
+  "article:36.501": {
+    "node_id": "article:36.501",
+    "type": "article",
+    "title": "第36.501条",
+    "line_start": 868,
+    "line_end": 898,
+    "source_anchor": "第36.501条"
+  },
+  "chapter:F": {
+    "node_id": "chapter:F",
+    "type": "chapter",
+    "title": "F章 F章",
+    "line_start": 866,
+    "line_end": 898,
+    "source_anchor": "F章"
+  },
+  "chapter:G": {
+    "node_id": "chapter:G",
+    "type": "chapter",
+    "title": "G章 G章",
+    "line_start": 899,
+    "line_end": 902,
+    "source_anchor": "G章"
+  },
+  "article:36.801": {
+    "node_id": "article:36.801",
+    "type": "article",
+    "title": "第36.801条 条的要求和本规定附件J 获得的噪声测量数据必须修正到本规",
+    "line_start": 920,
+    "line_end": 922,
+    "source_anchor": "第36.801条"
+  },
+  "article:36.803": {
+    "node_id": "article:36.803",
+    "type": "article",
+    "title": "第36.803条",
+    "line_start": 915,
+    "line_end": 919,
+    "source_anchor": "第36.803条"
+  },
+  "article:36.805": {
+    "node_id": "article:36.805",
+    "type": "article",
+    "title": "第36.805条",
+    "line_start": 923,
+    "line_end": 958,
+    "source_anchor": "第36.805条"
+  },
+  "chapter:H": {
+    "node_id": "chapter:H",
+    "type": "chapter",
+    "title": "H章 最大审定起飞重量不大于3175 公斤",
+    "line_start": 5064,
+    "line_end": 5065,
+    "source_anchor": "H章"
+  },
+  "article:36.1101": {
+    "node_id": "article:36.1101",
+    "type": "article",
+    "title": "第36.1101条",
+    "line_start": 961,
+    "line_end": 965,
+    "source_anchor": "第36.1101条"
+  },
+  "article:36.1103": {
+    "node_id": "article:36.1103",
+    "type": "article",
+    "title": "第36.1103条",
+    "line_start": 966,
+    "line_end": 980,
+    "source_anchor": "第36.1103条"
+  },
+  "chapter:K": {
+    "node_id": "chapter:K",
+    "type": "chapter",
+    "title": "K章 K章",
+    "line_start": 959,
+    "line_end": 980,
+    "source_anchor": "K章"
+  },
+  "article:36.1501": {
+    "node_id": "article:36.1501",
+    "type": "article",
+    "title": "第36.1501条",
+    "line_start": 983,
+    "line_end": 992,
+    "source_anchor": "第36.1501条"
+  },
+  "article:36.1581": {
+    "node_id": "article:36.1581",
+    "type": "article",
+    "title": "第36.1581条",
+    "line_start": 993,
+    "line_end": 1030,
+    "source_anchor": "第36.1581条"
+  },
+  "article:36.1583": {
+    "node_id": "article:36.1583",
+    "type": "article",
+    "title": "第36.1583条",
+    "line_start": 1038,
+    "line_end": 1050,
+    "source_anchor": "第36.1583条"
+  },
+  "chapter:O": {
+    "node_id": "chapter:O",
+    "type": "chapter",
+    "title": "O章 O章",
+    "line_start": 981,
+    "line_end": 1050,
+    "source_anchor": "O章"
+  },
+  "article:36.2001": {
+    "node_id": "article:36.2001",
+    "type": "article",
+    "title": "第36.2001条",
+    "line_start": 1053,
+    "line_end": 3567,
+    "source_anchor": "第36.2001条"
+  },
+  "chapter:P": {
+    "node_id": "chapter:P",
+    "type": "chapter",
+    "title": "P章 P章",
+    "line_start": 1051,
+    "line_end": 3567,
+    "source_anchor": "P章"
+  },
+  "article:21.17": {
+    "node_id": "article:21.17",
+    "type": "article",
+    "title": "第21.17条 条的规定,航空器型号合格证申请人应当表明航空器满足本规",
+    "line_start": 571,
+    "line_end": 576,
+    "source_anchor": "第21.17条"
+  },
+  "article:21.101": {
+    "node_id": "article:21.101",
+    "type": "article",
+    "title": "第21.101条 (一)的规定,申请第21.93 条规定的型号设计声学更改的",
+    "line_start": 577,
+    "line_end": 591,
+    "source_anchor": "第21.101条"
+  },
+  "article:27.25": {
+    "node_id": "article:27.25",
+    "type": "article",
+    "title": "第27.25条 条(a)或者《运输类旋翼航空器适航规定》(CCAR-29)第29.25",
+    "line_start": 1031,
+    "line_end": 1037,
+    "source_anchor": "第27.25条"
+  }
+}

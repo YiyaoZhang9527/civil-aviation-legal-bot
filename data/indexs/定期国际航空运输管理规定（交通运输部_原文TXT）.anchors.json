@@ -1,0 +1,202 @@
+{
+  "law:定期国际航空运输管理规定(交通运输部_原文TXT)": {
+    "node_id": "law:定期国际航空运输管理规定(交通运输部_原文TXT)",
+    "type": "law",
+    "title": "(一)已按照《公共航空运输企业经营许可规定》申请增加了国际航班经营范围;",
+    "line_start": 0,
+    "line_end": 110,
+    "source_anchor": "(一)已按照《公共航空运输企业经营许可规定》申请增加了国际航班经营范围;"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规定适用于在中华人民共和国境内设立的公共航空运输企业(以下简称空运企业)经营定期旅客、行李、货物、邮件的国际航空运输(以下称国际航班)。",
+    "line_start": 2,
+    "line_end": 3,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 申请国际航线经营许可的空运企业,应当具备以下条件:",
+    "line_start": 4,
+    "line_end": 21,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 申请国际航线经营许可的空运企业(以下简称申请人),应当向民航局提交书面申请以及下列材料:",
+    "line_start": 22,
+    "line_end": 43,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 民航局对申请人的申请,除按本规定第三条规定审核外,还应当考虑以下因素:",
+    "line_start": 44,
+    "line_end": 51,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 申请人提交的申请材料不齐全或者不符合法定形式的,民航局在接收该申请材料时或者在五日内一次告知申请人需要补正的全部内容,逾期不告知的,自收到申请材料之日起即为受理。",
+    "line_start": 52,
+    "line_end": 55,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 民航局应当自受理申请之日起二十日内作出批准或者不予批准的书面决定。二十日内不能作出决定的,经民航局负责人批准,可以延长十日,并应当将延长期限的理由告知申请人。",
+    "line_start": 56,
+    "line_end": 57,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 民航局应当公开国际航线航权分配原则,并公示申请人申请开通国际航线的信息,公示期不少于5日。利害关系人有异议的,可以在公示期内提出,由民航局按照相关法规、规定予以处理。民航局作出的准予国际航线经营许可的决定,应当予以公开,供社会公众查阅。",
+    "line_start": 58,
+    "line_end": 59,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 空运企业需要调整或补充航班计划的,按照民航局有关国际航权和航班管理办法办理。",
+    "line_start": 60,
+    "line_end": 61,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 申请人取得国际航线经营许可后,应当于国际航线经营许可颁发之日起一年内开通航线,并自开航之日起连续正常运营不少于三个月。",
+    "line_start": 62,
+    "line_end": 65,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 空运企业应当主动归还不能完全使用的航权。暂停或终止经营国际航线的,应当在计划暂停之日三十日前、或终止之日六十日前向民航局提出申请。因不可抗力原因暂停或终止经营国际航线的除外。",
+    "line_start": 66,
+    "line_end": 67,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 空运企业暂停或终止经营国际航线,应当符合航空运输宏观调控政策,并向民航局提交以下材料:",
+    "line_start": 68,
+    "line_end": 73,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 民航局在收到空运企业暂停或终止经营国际航线申请之日起二十日内,作出批准或者不予批准的决定。",
+    "line_start": 74,
+    "line_end": 77,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 民航局根据各空运企业现有航线的实际经营情况,保留航权使用充分的航空公司经营权利。对于未有效执行的航权,民航局将予以收回。",
+    "line_start": 78,
+    "line_end": 81,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 国际航线经营许可不得转让、买卖和交换。",
+    "line_start": 82,
+    "line_end": 83,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 经营国际航班的空运企业,应当遵守我国政府与外国政府签订的航空运输协定以及我国有关法律、法规、规章和民航局有关规定。",
+    "line_start": 84,
+    "line_end": 85,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 民航局和民航地区管理局依法对空运企业的国际航班运营情况进行监督检查。",
+    "line_start": 86,
+    "line_end": 89,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 空运企业不能持续符合国际航线经营许可条件的,不得从事国际航线经营许可相关的国际航空运输活动。",
+    "line_start": 90,
+    "line_end": 91,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 对已经依法取得国际航线经营许可和国际航班经营范围的空运企业,民航局或民航地区管理局发现其不再具备安全生产条件的,由民航局撤销有关国际航线经营许可,直至撤销国际航班经营范围。",
+    "line_start": 92,
+    "line_end": 93,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 空运企业有下列情形之一的,由民航局或民航地区管理局责令改正,给予警告;情节严重的,处一万元以上三万元以下罚款:",
+    "line_start": 94,
+    "line_end": 101,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 空运企业隐瞒有关情况或者提供虚假材料申请国际航线经营许可的,民航局不予受理或者不予许可,并给予警告;空运企业在一年内不得再次申请该许可。",
+    "line_start": 102,
+    "line_end": 103,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 空运企业以欺骗、贿赂等不正当手段取得国际航线经营许可的,由民航局撤销该项许可,给予警告,并处三万元以下罚款,该申请人自被撤销许可之日起三年内不得重新申报;构成犯罪的,依法追究刑事责任。",
+    "line_start": 104,
+    "line_end": 105,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 对空运企业的撤销许可、行政处罚、行政强制等处理措施及其执行情况记入守法信用信息记录,并按照有关规定进行公开。",
+    "line_start": 106,
+    "line_end": 107,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 本规定中实施行政许可的期限以工作日计算,不含法定节假日。",
+    "line_start": 108,
+    "line_end": 109,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 本规定自2017年7月1日起施行。1993年7月29日施行的《定期国际航空运输管理规定》(民航总局令第36号)同时废止。",
+    "line_start": 110,
+    "line_end": 110,
+    "source_anchor": "第二十五条"
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "law:中国民用航空无线电管理规定": {
+    "node_id": "law:中国民用航空无线电管理规定",
+    "type": "law",
+    "title": "中国民用航空无线电管理规定",
+    "line_start": 0,
+    "line_end": 371,
+    "source_anchor": "中国民用航空无线电管理规定"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总则",
+    "line_start": 14,
+    "line_end": 36,
+    "source_anchor": "第一章"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 航空无线电台站的设置",
+    "line_start": 37,
+    "line_end": 66,
+    "source_anchor": "第二章"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 航空无线电台执照",
+    "line_start": 67,
+    "line_end": 90,
+    "source_anchor": "第三章"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 航空无线电台站呼号频率的指配",
+    "line_start": 91,
+    "line_end": 139,
+    "source_anchor": "第四章"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 外国航空公司使用航空无线电台的管理",
+    "line_start": 140,
+    "line_end": 149,
+    "source_anchor": "第五章"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 航空无线电台站干扰的申诉与处理",
+    "line_start": 150,
+    "line_end": 175,
+    "source_anchor": "第六章"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 无线电通信纪律和保密",
+    "line_start": 176,
+    "line_end": 191,
+    "source_anchor": "第七章"
+  },
+  "chapter:8": {
+    "node_id": "chapter:8",
+    "type": "chapter",
+    "title": "第八章 附则",
+    "line_start": 192,
+    "line_end": 371,
+    "source_anchor": "第八章"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为加强民用航空无线电管理,保障民用航空飞行的安全与正常,根据",
+    "line_start": 16,
+    "line_end": 17,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 凡设置、使用民用航空无线电业务台站的单位和个人,均须遵守本规",
+    "line_start": 18,
+    "line_end": 19,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 民用航空无线电业务工作,实行统一领导,分级管理的原则,在国家",
+    "line_start": 20,
+    "line_end": 22,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 中国民用航空局(以下简称\"民航局\")无线电管理委员会的主要任务",
+    "line_start": 23,
+    "line_end": 31,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 民航局无线电管理委员会下设办公室,承办民用航空无线电管理的日",
+    "line_start": 32,
+    "line_end": 36,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 民用航空通信、导航、雷达无线电台站的设置,由民航局根据民用航",
+    "line_start": 39,
+    "line_end": 43,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 民用航空各单位需要设置航空无线电台站,应当经上级领导机关批准,",
+    "line_start": 44,
+    "line_end": 47,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 设置、使用民用航空无线电台站,应当具备以下条件:",
+    "line_start": 48,
+    "line_end": 52,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 各类民用航空地面无线电台站的设置地点,应当符合保证飞行安全的",
+    "line_start": 53,
+    "line_end": 54,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 民用航空地面无线电台站的设台审批权限是:",
+    "line_start": 55,
+    "line_end": 58,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 迁移民用航空地面无线电台站,必须经上级领导机关批准,并应向",
+    "line_start": 59,
+    "line_end": 60,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 撤销民用航空无线电台站,由设台单位向原批准设置该台的无线电",
+    "line_start": 61,
+    "line_end": 62,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 设置在机场范围以外的民用航空无线电台站的台址,在设台前应当",
+    "line_start": 63,
+    "line_end": 66,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 凡经批准设置或迁移的民用航空无线电台站,在启用前必须办理民",
+    "line_start": 69,
+    "line_end": 70,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 办理航空无线电台执照必须填写申请表一式两份,逐级上报至民航",
+    "line_start": 71,
+    "line_end": 73,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 地面航空无线电台执照和民用航空器无线电台执照有效期为三年。",
+    "line_start": 74,
+    "line_end": 76,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 在航空无线电台执照有效期内,如有设备、频率、呼号变更,应填",
+    "line_start": 77,
+    "line_end": 78,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 民用航空器无线电台,不需要办理设台申请手续,但在启用前,应",
+    "line_start": 79,
+    "line_end": 83,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 各单位需在机场内设置移动通信无线电台,应当向地区管理局无线",
+    "line_start": 84,
+    "line_end": 86,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 各类地面航空无线电台和航空器无线电台的执照应当妥善保管。如",
+    "line_start": 87,
+    "line_end": 90,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 各类民用航空无线电台站使用的报、话呼号由民航局无线电管理",
+    "line_start": 93,
+    "line_end": 94,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 同一机场的高频、甚高频航空固定和航空移动业务无线电台均使",
+    "line_start": 95,
+    "line_end": 98,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 民用机场以及军民合用的国际机场航空移动业务无线电台话呼均",
+    "line_start": 99,
+    "line_end": 101,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 民用航空器电台的话呼,根据不同情况可分别规定使用所飞行的",
+    "line_start": 102,
+    "line_end": 104,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 无方向信标台的呼号,由民航局无线电管理委员会商有关部门规",
+    "line_start": 105,
+    "line_end": 110,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 不与仪表着陆系统相配合的指点信标台呼号为:远距指点信标每",
+    "line_start": 111,
+    "line_end": 115,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 仪表着陆系统的呼号,是在该设备保障的着陆方向的本机场远距",
+    "line_start": 116,
+    "line_end": 118,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 其他导航设施的呼号按民航局无线电管理委员会核配的呼号执",
+    "line_start": 119,
+    "line_end": 120,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 民用航空机场内使用的移动通信无线电台的呼号由使用部门报发",
+    "line_start": 121,
+    "line_end": 122,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 航空固定业务和航空移动业务高频无线电台的工作频率,由民航局",
+    "line_start": 123,
+    "line_end": 126,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 航空移动业务甚高频无线电台和无方向信标台的工作频率,由民",
+    "line_start": 127,
+    "line_end": 131,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 机场内移动通信无线电台的工作频率,除使用国家无线电管理委",
+    "line_start": 132,
+    "line_end": 133,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 其他航空无线电台站的工作频率,由民航局无线电管理委员会按",
+    "line_start": 134,
+    "line_end": 136,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 各无线电台站频率一经指定,不准自行变更。如需要变更,应当",
+    "line_start": 137,
+    "line_end": 139,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 外国航空公司驻中国民用航空机场的工作人员需要使用的无线电",
+    "line_start": 142,
+    "line_end": 144,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 外国航空公司为与本公司的航空器联系而使用的地空通信无线电",
+    "line_start": 145,
+    "line_end": 146,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 外国民用航空器载有的无线电台设备,在停机坪停留期间,非经",
+    "line_start": 147,
+    "line_end": 149,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 民用航空各类无线电业务均属于安全业务,不应受到有害干扰,",
+    "line_start": 152,
+    "line_end": 153,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 民用航空各类无线电台受到干扰时,机组或地面操作使用人员应",
+    "line_start": 154,
+    "line_end": 157,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 民用航空各类无线电台站相互间产生的有害干扰。有关部门收到有",
+    "line_start": 158,
+    "line_end": 161,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 民航各类无线电台站受到国内其他非民用航空无线电台站或不明",
+    "line_start": 162,
+    "line_end": 167,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 我国民航各类无线电台站受到国外电台产生的有害干扰,有关部",
+    "line_start": 168,
+    "line_end": 170,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 民航局无线电管理委员会收到国外提出受到我国民航无线电台站",
+    "line_start": 171,
+    "line_end": 175,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 使用无线电通信设备,必须严格遵守以下通信纪律。",
+    "line_start": 178,
+    "line_end": 184,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 各航空无线电台工作中,必须严格遵守国家保密规定。不得使用",
+    "line_start": 185,
+    "line_end": 187,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 为维护通信纪律和通信保密,民航局和地区管理局设立纠察台,",
+    "line_start": 188,
+    "line_end": 191,
+    "source_anchor": "第四十六条"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 为保障国家安全和执行特殊任务,必须严格执行国务院、中央军",
+    "line_start": 194,
+    "line_end": 195,
+    "source_anchor": "第四十七条"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 民用航空各无线电管理部门,要定期对民用航空各类无线电台站",
+    "line_start": 196,
+    "line_end": 198,
+    "source_anchor": "第四十八条"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 本规定执行中遇有问题,应当报民航局无线电管理委员会。本规",
+    "line_start": 199,
+    "line_end": 200,
+    "source_anchor": "第四十九条"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 本规定自发布之日起施行。",
+    "line_start": 201,
+    "line_end": 371,
+    "source_anchor": "第五十条"
+  }
+}

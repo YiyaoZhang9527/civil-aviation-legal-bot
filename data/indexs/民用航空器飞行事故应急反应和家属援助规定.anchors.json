@@ -1,0 +1,458 @@
+{
+  "law:民用航空器飞行事故应急反应和家属援助规定": {
+    "node_id": "law:民用航空器飞行事故应急反应和家属援助规定",
+    "type": "law",
+    "title": "第155 号",
+    "line_start": 0,
+    "line_end": 365,
+    "source_anchor": "第155 号"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为提高对民用航空器飞行事故的应急反应能力,减轻事",
+    "line_start": 17,
+    "line_end": 20,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规定适用于发生在中华人民共和国领域内(不含香港",
+    "line_start": 21,
+    "line_end": 25,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 本规定下列术语定义如下:",
+    "line_start": 26,
+    "line_end": 44,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 中国民用航空总局(以下简称民航总局)负责民用航空",
+    "line_start": 45,
+    "line_end": 53,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 民用航空器飞行事故采取立即报告制度,公共航空运输",
+    "line_start": 54,
+    "line_end": 56,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 民用航空器飞行事故应急反应工作,应当遵循预防为主,",
+    "line_start": 57,
+    "line_end": 59,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 家属援助工作应当遵循及时、便利、以人为本的基本原",
+    "line_start": 60,
+    "line_end": 62,
+    "source_anchor": "第七条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总则",
+    "line_start": 16,
+    "line_end": 62,
+    "source_anchor": "第一章"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 民用航空器飞行事故发生后,发现事故的单位或者个人",
+    "line_start": 64,
+    "line_end": 70,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 空中交通管制部门在规定的时间内同民用航空器失去联",
+    "line_start": 71,
+    "line_end": 72,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 民航总局接到事故相关信息后,应当立即报告国务院及",
+    "line_start": 73,
+    "line_end": 75,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 民用航空器飞行事故发生地的民航地区管理局和发生",
+    "line_start": 76,
+    "line_end": 83,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 发生民用航空器飞行事故的公共航空运输企业报告事",
+    "line_start": 84,
+    "line_end": 86,
+    "source_anchor": "第十二条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 事故报告",
+    "line_start": 63,
+    "line_end": 86,
+    "source_anchor": "第二章"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 民用航空器飞行事故发生后,根据国务院授权和《国",
+    "line_start": 88,
+    "line_end": 91,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 民航总局应当采取积极措施,预防民用航空器飞行事",
+    "line_start": 92,
+    "line_end": 93,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 民航总局按照《国家处置民用航空器飞行事故应急预",
+    "line_start": 94,
+    "line_end": 105,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 民航地区管理局及其派出机构应当根据本地区实际,",
+    "line_start": 106,
+    "line_end": 107,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 民用航空器飞行事故应急预案应当根据客观情况的变",
+    "line_start": 108,
+    "line_end": 109,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 民用航空器飞行事故发生后,民航总局和民航地区管",
+    "line_start": 110,
+    "line_end": 111,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 民航总局在启动民用航空器飞行事故应急预案的同",
+    "line_start": 112,
+    "line_end": 114,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 应急预案启动后,对于属于本规定适用范围内的民用",
+    "line_start": 115,
+    "line_end": 121,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 事故处理协调小组应当公布电话号码和联络方式,",
+    "line_start": 122,
+    "line_end": 125,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 事故处理协调小组有权向发生民用航空器飞行事故",
+    "line_start": 126,
+    "line_end": 128,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 事故处理协调小组有权会同公共航空运输企业共同",
+    "line_start": 129,
+    "line_end": 131,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 事故处理协调小组应当与发生民用航空器飞行事故",
+    "line_start": 132,
+    "line_end": 134,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 事故处理协调小组应当与发生民用航空器飞行事故",
+    "line_start": 135,
+    "line_end": 137,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 事故处理协调小组应当及时组织召开发生事故的公",
+    "line_start": 138,
+    "line_end": 140,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 事故处理协调小组应当及时向已经查明的罹难者、",
+    "line_start": 141,
+    "line_end": 142,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 事故处理协调小组应当就有关家属援助情况以适当",
+    "line_start": 143,
+    "line_end": 145,
+    "source_anchor": "第二十八条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 政府部门的应急准备与反应",
+    "line_start": 87,
+    "line_end": 145,
+    "source_anchor": "第三章"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 公共航空运输企业在本企业发生民用航空器飞行事",
+    "line_start": 147,
+    "line_end": 149,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 公共航空运输企业应当制定民用航空器飞行事故应急",
+    "line_start": 150,
+    "line_end": 152,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 公共航空运输企业应当向民航总局提交家属援助计",
+    "line_start": 153,
+    "line_end": 167,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 公共航空运输企业得知发生民用航空器飞行事故",
+    "line_start": 168,
+    "line_end": 176,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 公共航空运输企业应当立即公布供罹难者、幸存者、",
+    "line_start": 177,
+    "line_end": 178,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 公共航空运输企业应当尽快向已经初步获知的罹难",
+    "line_start": 179,
+    "line_end": 181,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 公共航空运输企业应当向事故协调小组提供经核正",
+    "line_start": 182,
+    "line_end": 183,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 公共航空运输企业应当向罹难者、幸存者、失踪者",
+    "line_start": 184,
+    "line_end": 196,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 公共航空运输企业应当及时公布家属联络等工作进",
+    "line_start": 197,
+    "line_end": 198,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 发生民用航空器飞行事故的航空器上有外籍旅客",
+    "line_start": 199,
+    "line_end": 202,
+    "source_anchor": "第三十八条"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 公共航空运输企业的应急反应和家属援助",
+    "line_start": 146,
+    "line_end": 202,
+    "source_anchor": "第四章"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 民用运输机场(以下简称机场)在本机场及其邻近",
+    "line_start": 204,
+    "line_end": 206,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 机场应当对发生在机场及其邻近区域内的民用航空器",
+    "line_start": 207,
+    "line_end": 211,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 机场管理机构制定机场应急救援计划,并负责机场",
+    "line_start": 212,
+    "line_end": 215,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 机场管理机构应当定期组织应急演练,应急演练的",
+    "line_start": 216,
+    "line_end": 217,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 机场应当成立由当地人民政府、民航地区管理局或",
+    "line_start": 218,
+    "line_end": 221,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 对于发生在机场及其邻近区域内的民用航空器飞行",
+    "line_start": 222,
+    "line_end": 224,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 机场管理机构应当协助发生民用航空器飞行事故的",
+    "line_start": 225,
+    "line_end": 229,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 参与应急救援的单位在应急救援过程中应当保护事",
+    "line_start": 230,
+    "line_end": 237,
+    "source_anchor": "第四十六条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 民用机场的应急反应",
+    "line_start": 203,
+    "line_end": 237,
+    "source_anchor": "第五章"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 本规定自2006年1月1日起施行。",
+    "line_start": 241,
+    "line_end": 241,
+    "source_anchor": "第四十七条"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 本规定以外的其他民用航空器飞行事故,参照本规",
+    "line_start": 242,
+    "line_end": 243,
+    "source_anchor": "第四十八条"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 在本规定生效之前已经取得经营许可证的公共航空",
+    "line_start": 244,
+    "line_end": 247,
+    "source_anchor": "第四十九条"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 本规定未做出具体规定的涉及民用航空器飞行事故处",
+    "line_start": 248,
+    "line_end": 365,
+    "source_anchor": "第五十条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 第六章",
+    "line_start": 238,
+    "line_end": 365,
+    "source_anchor": "第六章"
+  }
+}

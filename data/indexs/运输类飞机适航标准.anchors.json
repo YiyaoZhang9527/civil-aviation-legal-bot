@@ -1,0 +1,3354 @@
+{
+  "law:运输类飞机适航标准": {
+    "node_id": "law:运输类飞机适航标准",
+    "type": "law",
+    "title": "目    录",
+    "line_start": 0,
+    "line_end": 10489,
+    "source_anchor": "目    录"
+  },
+  "article:25.1": {
+    "node_id": "article:25.1",
+    "type": "article",
+    "title": "第25.1条 适用范围",
+    "line_start": 542,
+    "line_end": 546,
+    "source_anchor": "第25.1条"
+  },
+  "article:25.2": {
+    "node_id": "article:25.2",
+    "type": "article",
+    "title": "第25.2条 [备用]",
+    "line_start": 547,
+    "line_end": 548,
+    "source_anchor": "第25.2条"
+  },
+  "article:25.3": {
+    "node_id": "article:25.3",
+    "type": "article",
+    "title": "第25.3条 ETOPS 型号设计批准的专用条款",
+    "line_start": 549,
+    "line_end": 563,
+    "source_anchor": "第25.3条"
+  },
+  "chapter:A": {
+    "node_id": "chapter:A",
+    "type": "chapter",
+    "title": "A章 总则",
+    "line_start": 541,
+    "line_end": 563,
+    "source_anchor": "A章"
+  },
+  "article:25.21": {
+    "node_id": "article:25.21",
+    "type": "article",
+    "title": "第25.21条 证明符合性的若干规定",
+    "line_start": 566,
+    "line_end": 593,
+    "source_anchor": "第25.21条"
+  },
+  "article:25.23": {
+    "node_id": "article:25.23",
+    "type": "article",
+    "title": "第25.23条 载重分布限制",
+    "line_start": 594,
+    "line_end": 602,
+    "source_anchor": "第25.23条"
+  },
+  "article:25.25": {
+    "node_id": "article:25.25",
+    "type": "article",
+    "title": "第25.25条 重量限制",
+    "line_start": 603,
+    "line_end": 616,
+    "source_anchor": "第25.25条"
+  },
+  "article:25.27": {
+    "node_id": "article:25.27",
+    "type": "article",
+    "title": "第25.27条 重心限制",
+    "line_start": 617,
+    "line_end": 624,
+    "source_anchor": "第25.27条"
+  },
+  "article:25.29": {
+    "node_id": "article:25.29",
+    "type": "article",
+    "title": "第25.29条 空重和相应的重心",
+    "line_start": 625,
+    "line_end": 635,
+    "source_anchor": "第25.29条"
+  },
+  "article:25.31": {
+    "node_id": "article:25.31",
+    "type": "article",
+    "title": "第25.31条 可卸配重",
+    "line_start": 636,
+    "line_end": 638,
+    "source_anchor": "第25.31条"
+  },
+  "article:25.33": {
+    "node_id": "article:25.33",
+    "type": "article",
+    "title": "第25.33条 螺旋桨转速和桨距限制",
+    "line_start": 639,
+    "line_end": 653,
+    "source_anchor": "第25.33条"
+  },
+  "article:25.101": {
+    "node_id": "article:25.101",
+    "type": "article",
+    "title": "第25.101条 总则",
+    "line_start": 654,
+    "line_end": 723,
+    "source_anchor": "第25.101条"
+  },
+  "article:25.103": {
+    "node_id": "article:25.103",
+    "type": "article",
+    "title": "第25.103条 失速速度",
+    "line_start": 724,
+    "line_end": 799,
+    "source_anchor": "第25.103条"
+  },
+  "article:25.105": {
+    "node_id": "article:25.105",
+    "type": "article",
+    "title": "第25.105条 起飞",
+    "line_start": 800,
+    "line_end": 826,
+    "source_anchor": "第25.105条"
+  },
+  "article:25.107": {
+    "node_id": "article:25.107",
+    "type": "article",
+    "title": "第25.107条 起飞速度",
+    "line_start": 827,
+    "line_end": 879,
+    "source_anchor": "第25.107条"
+  },
+  "article:25.109": {
+    "node_id": "article:25.109",
+    "type": "article",
+    "title": "第25.109条 加速—停止距离",
+    "line_start": 880,
+    "line_end": 971,
+    "source_anchor": "第25.109条"
+  },
+  "article:25.111": {
+    "node_id": "article:25.111",
+    "type": "article",
+    "title": "第25.111条 起飞航迹",
+    "line_start": 972,
+    "line_end": 1016,
+    "source_anchor": "第25.111条"
+  },
+  "article:25.113": {
+    "node_id": "article:25.113",
+    "type": "article",
+    "title": "第25.113条 起飞距离和起飞滑跑距离",
+    "line_start": 1017,
+    "line_end": 1046,
+    "source_anchor": "第25.113条"
+  },
+  "article:25.115": {
+    "node_id": "article:25.115",
+    "type": "article",
+    "title": "第25.115条 起飞飞行航迹",
+    "line_start": 1047,
+    "line_end": 1058,
+    "source_anchor": "第25.115条"
+  },
+  "article:25.117": {
+    "node_id": "article:25.117",
+    "type": "article",
+    "title": "第25.117条 爬升:总则",
+    "line_start": 1059,
+    "line_end": 1062,
+    "source_anchor": "第25.117条"
+  },
+  "article:25.119": {
+    "node_id": "article:25.119",
+    "type": "article",
+    "title": "第25.119条 着陆爬升:全发工作",
+    "line_start": 1063,
+    "line_end": 1072,
+    "source_anchor": "第25.119条"
+  },
+  "article:25.121": {
+    "node_id": "article:25.121",
+    "type": "article",
+    "title": "第25.121条 爬升:单发停车",
+    "line_start": 1073,
+    "line_end": 1128,
+    "source_anchor": "第25.121条"
+  },
+  "article:25.123": {
+    "node_id": "article:25.123",
+    "type": "article",
+    "title": "第25.123条 航路飞行航迹",
+    "line_start": 1129,
+    "line_end": 1149,
+    "source_anchor": "第25.123条"
+  },
+  "article:25.125": {
+    "node_id": "article:25.125",
+    "type": "article",
+    "title": "第25.125条 着陆",
+    "line_start": 1150,
+    "line_end": 1194,
+    "source_anchor": "第25.125条"
+  },
+  "article:25.143": {
+    "node_id": "article:25.143",
+    "type": "article",
+    "title": "第25.143条 总则",
+    "line_start": 1195,
+    "line_end": 1275,
+    "source_anchor": "第25.143条"
+  },
+  "article:25.145": {
+    "node_id": "article:25.145",
+    "type": "article",
+    "title": "第25.145条 纵向操纵",
+    "line_start": 1276,
+    "line_end": 1316,
+    "source_anchor": "第25.145条"
+  },
+  "article:25.147": {
+    "node_id": "article:25.147",
+    "type": "article",
+    "title": "第25.147条 航向和横向操纵",
+    "line_start": 1317,
+    "line_end": 1358,
+    "source_anchor": "第25.147条"
+  },
+  "article:25.149": {
+    "node_id": "article:25.149",
+    "type": "article",
+    "title": "第25.149条 最小操纵速度",
+    "line_start": 1359,
+    "line_end": 1435,
+    "source_anchor": "第25.149条"
+  },
+  "article:25.161": {
+    "node_id": "article:25.161",
+    "type": "article",
+    "title": "第25.161条 条配平要求的最大值。",
+    "line_start": 3642,
+    "line_end": 3643,
+    "source_anchor": "第25.161条"
+  },
+  "article:25.171": {
+    "node_id": "article:25.171",
+    "type": "article",
+    "title": "第25.171条 总则",
+    "line_start": 1465,
+    "line_end": 1470,
+    "source_anchor": "第25.171条"
+  },
+  "article:25.173": {
+    "node_id": "article:25.173",
+    "type": "article",
+    "title": "第25.173条 纵向静稳定性",
+    "line_start": 1471,
+    "line_end": 1486,
+    "source_anchor": "第25.173条"
+  },
+  "article:25.175": {
+    "node_id": "article:25.175",
+    "type": "article",
+    "title": "第25.175条 纵向静稳定性的演示",
+    "line_start": 1487,
+    "line_end": 1544,
+    "source_anchor": "第25.175条"
+  },
+  "article:25.177": {
+    "node_id": "article:25.177",
+    "type": "article",
+    "title": "第25.177条 横向和航向静稳定性",
+    "line_start": 1545,
+    "line_end": 1561,
+    "source_anchor": "第25.177条"
+  },
+  "article:25.181": {
+    "node_id": "article:25.181",
+    "type": "article",
+    "title": "第25.181条 动稳定性",
+    "line_start": 1562,
+    "line_end": 1573,
+    "source_anchor": "第25.181条"
+  },
+  "article:25.201": {
+    "node_id": "article:25.201",
+    "type": "article",
+    "title": "第25.201条 失速演示",
+    "line_start": 1574,
+    "line_end": 1597,
+    "source_anchor": "第25.201条"
+  },
+  "article:25.203": {
+    "node_id": "article:25.203",
+    "type": "article",
+    "title": "第25.203条 失速特性",
+    "line_start": 1598,
+    "line_end": 1612,
+    "source_anchor": "第25.203条"
+  },
+  "article:25.205": {
+    "node_id": "article:25.205",
+    "type": "article",
+    "title": "第25.205条 [删除]",
+    "line_start": 1613,
+    "line_end": 1615,
+    "source_anchor": "第25.205条"
+  },
+  "article:25.207": {
+    "node_id": "article:25.207",
+    "type": "article",
+    "title": "第25.207条 失速警告",
+    "line_start": 1616,
+    "line_end": 1666,
+    "source_anchor": "第25.207条"
+  },
+  "article:25.231": {
+    "node_id": "article:25.231",
+    "type": "article",
+    "title": "第25.231条 纵向稳定性和操纵性",
+    "line_start": 1667,
+    "line_end": 1676,
+    "source_anchor": "第25.231条"
+  },
+  "article:25.233": {
+    "node_id": "article:25.233",
+    "type": "article",
+    "title": "第25.233条 航向稳定性和操纵性",
+    "line_start": 1677,
+    "line_end": 1687,
+    "source_anchor": "第25.233条"
+  },
+  "article:25.235": {
+    "node_id": "article:25.235",
+    "type": "article",
+    "title": "第25.235条 滑行条件",
+    "line_start": 1688,
+    "line_end": 1692,
+    "source_anchor": "第25.235条"
+  },
+  "article:25.237": {
+    "node_id": "article:25.237",
+    "type": "article",
+    "title": "第25.237条 风速",
+    "line_start": 1693,
+    "line_end": 1707,
+    "source_anchor": "第25.237条"
+  },
+  "article:25.239": {
+    "node_id": "article:25.239",
+    "type": "article",
+    "title": "第25.239条 水面喷溅特性、操纵性和稳定性",
+    "line_start": 1708,
+    "line_end": 1724,
+    "source_anchor": "第25.239条"
+  },
+  "article:25.251": {
+    "node_id": "article:25.251",
+    "type": "article",
+    "title": "第25.251条 振动和抖振",
+    "line_start": 1725,
+    "line_end": 1744,
+    "source_anchor": "第25.251条"
+  },
+  "article:25.253": {
+    "node_id": "article:25.253",
+    "type": "article",
+    "title": "第25.253条 高速特性",
+    "line_start": 1745,
+    "line_end": 1773,
+    "source_anchor": "第25.253条"
+  },
+  "article:25.255": {
+    "node_id": "article:25.255",
+    "type": "article",
+    "title": "第25.255条 失配平特性",
+    "line_start": 1774,
+    "line_end": 1806,
+    "source_anchor": "第25.255条"
+  },
+  "chapter:B": {
+    "node_id": "chapter:B",
+    "type": "chapter",
+    "title": "B章 飞行",
+    "line_start": 564,
+    "line_end": 1806,
+    "source_anchor": "B章"
+  },
+  "article:25.301": {
+    "node_id": "article:25.301",
+    "type": "article",
+    "title": "第25.301条 载荷",
+    "line_start": 1809,
+    "line_end": 1818,
+    "source_anchor": "第25.301条"
+  },
+  "article:25.303": {
+    "node_id": "article:25.303",
+    "type": "article",
+    "title": "第25.303条 安全系数",
+    "line_start": 1819,
+    "line_end": 1822,
+    "source_anchor": "第25.303条"
+  },
+  "article:25.305": {
+    "node_id": "article:25.305",
+    "type": "article",
+    "title": "第25.305条 强度和变形",
+    "line_start": 1823,
+    "line_end": 1843,
+    "source_anchor": "第25.305条"
+  },
+  "article:25.307": {
+    "node_id": "article:25.307",
+    "type": "article",
+    "title": "第25.307条 结构符合性的证明",
+    "line_start": 1844,
+    "line_end": 1857,
+    "source_anchor": "第25.307条"
+  },
+  "article:25.321": {
+    "node_id": "article:25.321",
+    "type": "article",
+    "title": "第25.321条 总则",
+    "line_start": 1858,
+    "line_end": 1877,
+    "source_anchor": "第25.321条"
+  },
+  "article:25.331": {
+    "node_id": "article:25.331",
+    "type": "article",
+    "title": "第25.331条 对称机动情况",
+    "line_start": 1878,
+    "line_end": 1941,
+    "source_anchor": "第25.331条"
+  },
+  "article:25.333": {
+    "node_id": "article:25.333",
+    "type": "article",
+    "title": "第25.333条 飞行机动包线",
+    "line_start": 1942,
+    "line_end": 1950,
+    "source_anchor": "第25.333条"
+  },
+  "article:25.335": {
+    "node_id": "article:25.335",
+    "type": "article",
+    "title": "第25.335条 设计空速",
+    "line_start": 1951,
+    "line_end": 2060,
+    "source_anchor": "第25.335条"
+  },
+  "article:25.337": {
+    "node_id": "article:25.337",
+    "type": "article",
+    "title": "第25.337条 限制机动载荷系数",
+    "line_start": 2061,
+    "line_end": 2103,
+    "source_anchor": "第25.337条"
+  },
+  "article:25.341": {
+    "node_id": "article:25.341",
+    "type": "article",
+    "title": "第25.341条 突风和紊流载荷",
+    "line_start": 2104,
+    "line_end": 2183,
+    "source_anchor": "第25.341条"
+  },
+  "article:25.343": {
+    "node_id": "article:25.343",
+    "type": "article",
+    "title": "第25.343条 设计燃油和滑油载重",
+    "line_start": 2184,
+    "line_end": 2201,
+    "source_anchor": "第25.343条"
+  },
+  "article:25.345": {
+    "node_id": "article:25.345",
+    "type": "article",
+    "title": "第25.345条 条的规定;",
+    "line_start": 3370,
+    "line_end": 3410,
+    "source_anchor": "第25.345条"
+  },
+  "article:25.349": {
+    "node_id": "article:25.349",
+    "type": "article",
+    "title": "第25.349条 滚转情况",
+    "line_start": 2228,
+    "line_end": 2249,
+    "source_anchor": "第25.349条"
+  },
+  "article:25.351": {
+    "node_id": "article:25.351",
+    "type": "article",
+    "title": "第25.351条 偏航机动情况",
+    "line_start": 2250,
+    "line_end": 2267,
+    "source_anchor": "第25.351条"
+  },
+  "article:25.361": {
+    "node_id": "article:25.361",
+    "type": "article",
+    "title": "第25.361条 发动机扭矩",
+    "line_start": 2268,
+    "line_end": 2289,
+    "source_anchor": "第25.361条"
+  },
+  "article:25.363": {
+    "node_id": "article:25.363",
+    "type": "article",
+    "title": "第25.363条 发动机和辅助动力装置支架的侧向载荷",
+    "line_start": 2290,
+    "line_end": 2298,
+    "source_anchor": "第25.363条"
+  },
+  "article:25.365": {
+    "node_id": "article:25.365",
+    "type": "article",
+    "title": "第25.365条 增压舱载荷",
+    "line_start": 2299,
+    "line_end": 2353,
+    "source_anchor": "第25.365条"
+  },
+  "article:25.367": {
+    "node_id": "article:25.367",
+    "type": "article",
+    "title": "第25.367条 发动机失效引起的非对称载荷",
+    "line_start": 2354,
+    "line_end": 2369,
+    "source_anchor": "第25.367条"
+  },
+  "article:25.371": {
+    "node_id": "article:25.371",
+    "type": "article",
+    "title": "第25.371条 陀螺载荷",
+    "line_start": 2370,
+    "line_end": 2377,
+    "source_anchor": "第25.371条"
+  },
+  "article:25.373": {
+    "node_id": "article:25.373",
+    "type": "article",
+    "title": "第25.373条 速度控制装置",
+    "line_start": 2378,
+    "line_end": 2387,
+    "source_anchor": "第25.373条"
+  },
+  "article:25.391": {
+    "node_id": "article:25.391",
+    "type": "article",
+    "title": "第25.391条 操纵面载荷:总则",
+    "line_start": 2388,
+    "line_end": 2398,
+    "source_anchor": "第25.391条"
+  },
+  "article:25.393": {
+    "node_id": "article:25.393",
+    "type": "article",
+    "title": "第25.393条 平行于铰链线的载荷",
+    "line_start": 2399,
+    "line_end": 2410,
+    "source_anchor": "第25.393条"
+  },
+  "article:25.395": {
+    "node_id": "article:25.395",
+    "type": "article",
+    "title": "第25.395条 操纵系统",
+    "line_start": 2411,
+    "line_end": 2420,
+    "source_anchor": "第25.395条"
+  },
+  "article:25.397": {
+    "node_id": "article:25.397",
+    "type": "article",
+    "title": "第25.397条 操纵系统载荷",
+    "line_start": 2421,
+    "line_end": 2446,
+    "source_anchor": "第25.397条"
+  },
+  "article:25.399": {
+    "node_id": "article:25.399",
+    "type": "article",
+    "title": "第25.399条 双操纵系统",
+    "line_start": 2447,
+    "line_end": 2456,
+    "source_anchor": "第25.399条"
+  },
+  "article:25.405": {
+    "node_id": "article:25.405",
+    "type": "article",
+    "title": "第25.405条 次操纵系统",
+    "line_start": 2457,
+    "line_end": 2470,
+    "source_anchor": "第25.405条"
+  },
+  "article:25.407": {
+    "node_id": "article:25.407",
+    "type": "article",
+    "title": "第25.407条 配平调整片的影响",
+    "line_start": 2471,
+    "line_end": 2482,
+    "source_anchor": "第25.407条"
+  },
+  "article:25.409": {
+    "node_id": "article:25.409",
+    "type": "article",
+    "title": "第25.409条 调整片",
+    "line_start": 2483,
+    "line_end": 2498,
+    "source_anchor": "第25.409条"
+  },
+  "article:25.415": {
+    "node_id": "article:25.415",
+    "type": "article",
+    "title": "第25.415条 地面突风情况",
+    "line_start": 2499,
+    "line_end": 2530,
+    "source_anchor": "第25.415条"
+  },
+  "article:25.427": {
+    "node_id": "article:25.427",
+    "type": "article",
+    "title": "第25.427条 非对称载荷",
+    "line_start": 2531,
+    "line_end": 2547,
+    "source_anchor": "第25.427条"
+  },
+  "article:25.445": {
+    "node_id": "article:25.445",
+    "type": "article",
+    "title": "第25.445条 辅助气动力面",
+    "line_start": 2548,
+    "line_end": 2557,
+    "source_anchor": "第25.445条"
+  },
+  "article:25.457": {
+    "node_id": "article:25.457",
+    "type": "article",
+    "title": "第25.457条 襟翼",
+    "line_start": 2558,
+    "line_end": 2561,
+    "source_anchor": "第25.457条"
+  },
+  "article:25.459": {
+    "node_id": "article:25.459",
+    "type": "article",
+    "title": "第25.459条 特殊装置",
+    "line_start": 2562,
+    "line_end": 2566,
+    "source_anchor": "第25.459条"
+  },
+  "article:25.471": {
+    "node_id": "article:25.471",
+    "type": "article",
+    "title": "第25.471条 总则",
+    "line_start": 2567,
+    "line_end": 2583,
+    "source_anchor": "第25.471条"
+  },
+  "article:25.473": {
+    "node_id": "article:25.473",
+    "type": "article",
+    "title": "第25.473条 着陆载荷情况和假定",
+    "line_start": 2584,
+    "line_end": 2604,
+    "source_anchor": "第25.473条"
+  },
+  "article:25.477": {
+    "node_id": "article:25.477",
+    "type": "article",
+    "title": "第25.477条 起落架布置",
+    "line_start": 2605,
+    "line_end": 2608,
+    "source_anchor": "第25.477条"
+  },
+  "article:25.479": {
+    "node_id": "article:25.479",
+    "type": "article",
+    "title": "第25.479条 水平着陆情况",
+    "line_start": 2609,
+    "line_end": 2637,
+    "source_anchor": "第25.479条"
+  },
+  "article:25.481": {
+    "node_id": "article:25.481",
+    "type": "article",
+    "title": "第25.481条 尾沉着陆情况",
+    "line_start": 2638,
+    "line_end": 2652,
+    "source_anchor": "第25.481条"
+  },
+  "article:25.483": {
+    "node_id": "article:25.483",
+    "type": "article",
+    "title": "第25.483条 单起落架着陆情况",
+    "line_start": 2653,
+    "line_end": 2659,
+    "source_anchor": "第25.483条"
+  },
+  "article:25.485": {
+    "node_id": "article:25.485",
+    "type": "article",
+    "title": "第25.485条 侧向载荷情况",
+    "line_start": 2660,
+    "line_end": 2669,
+    "source_anchor": "第25.485条"
+  },
+  "article:25.487": {
+    "node_id": "article:25.487",
+    "type": "article",
+    "title": "第25.487条 回跳着陆情况",
+    "line_start": 2670,
+    "line_end": 2675,
+    "source_anchor": "第25.487条"
+  },
+  "article:25.489": {
+    "node_id": "article:25.489",
+    "type": "article",
+    "title": "第25.489条 地面操纵情况",
+    "line_start": 2676,
+    "line_end": 2680,
+    "source_anchor": "第25.489条"
+  },
+  "article:25.491": {
+    "node_id": "article:25.491",
+    "type": "article",
+    "title": "第25.491条 滑行、起飞和着陆滑跑",
+    "line_start": 2681,
+    "line_end": 2685,
+    "source_anchor": "第25.491条"
+  },
+  "article:25.493": {
+    "node_id": "article:25.493",
+    "type": "article",
+    "title": "第25.493条 滑行刹车情况",
+    "line_start": 2686,
+    "line_end": 2743,
+    "source_anchor": "第25.493条"
+  },
+  "article:25.495": {
+    "node_id": "article:25.495",
+    "type": "article",
+    "title": "第25.495条 转弯",
+    "line_start": 2744,
+    "line_end": 2748,
+    "source_anchor": "第25.495条"
+  },
+  "article:25.497": {
+    "node_id": "article:25.497",
+    "type": "article",
+    "title": "第25.497条 尾轮侧偏",
+    "line_start": 2749,
+    "line_end": 2754,
+    "source_anchor": "第25.497条"
+  },
+  "article:25.499": {
+    "node_id": "article:25.499",
+    "type": "article",
+    "title": "第25.499条 前轮侧偏与操纵",
+    "line_start": 2755,
+    "line_end": 2779,
+    "source_anchor": "第25.499条"
+  },
+  "article:25.503": {
+    "node_id": "article:25.503",
+    "type": "article",
+    "title": "第25.503条 回转",
+    "line_start": 2780,
+    "line_end": 2784,
+    "source_anchor": "第25.503条"
+  },
+  "article:25.507": {
+    "node_id": "article:25.507",
+    "type": "article",
+    "title": "第25.507条 倒行刹车",
+    "line_start": 2785,
+    "line_end": 2792,
+    "source_anchor": "第25.507条"
+  },
+  "article:25.509": {
+    "node_id": "article:25.509",
+    "type": "article",
+    "title": "第25.509条 牵引载荷",
+    "line_start": 2793,
+    "line_end": 2839,
+    "source_anchor": "第25.509条"
+  },
+  "article:25.511": {
+    "node_id": "article:25.511",
+    "type": "article",
+    "title": "第25.511条 地面载荷:多轮起落架装置上的非对称载荷",
+    "line_start": 2840,
+    "line_end": 2895,
+    "source_anchor": "第25.511条"
+  },
+  "article:25.519": {
+    "node_id": "article:25.519",
+    "type": "article",
+    "title": "第25.519条 顶升和系留装置",
+    "line_start": 2896,
+    "line_end": 2917,
+    "source_anchor": "第25.519条"
+  },
+  "article:25.521": {
+    "node_id": "article:25.521",
+    "type": "article",
+    "title": "第25.521条 总则",
+    "line_start": 2918,
+    "line_end": 2925,
+    "source_anchor": "第25.521条"
+  },
+  "article:25.523": {
+    "node_id": "article:25.523",
+    "type": "article",
+    "title": "第25.523条 设计重量和重心位置",
+    "line_start": 2926,
+    "line_end": 2927,
+    "source_anchor": "第25.523条"
+  },
+  "article:25.525": {
+    "node_id": "article:25.525",
+    "type": "article",
+    "title": "第25.525条 载荷的假定",
+    "line_start": 2933,
+    "line_end": 2943,
+    "source_anchor": "第25.525条"
+  },
+  "article:25.527": {
+    "node_id": "article:25.527",
+    "type": "article",
+    "title": "第25.527条 船体和主浮筒载荷系数",
+    "line_start": 2944,
+    "line_end": 3009,
+    "source_anchor": "第25.527条"
+  },
+  "article:25.529": {
+    "node_id": "article:25.529",
+    "type": "article",
+    "title": "第25.529条 船体和主浮筒着水情况",
+    "line_start": 3010,
+    "line_end": 3028,
+    "source_anchor": "第25.529条"
+  },
+  "article:25.531": {
+    "node_id": "article:25.531",
+    "type": "article",
+    "title": "第25.531条 船体和主浮筒起飞情况",
+    "line_start": 3029,
+    "line_end": 3056,
+    "source_anchor": "第25.531条"
+  },
+  "article:25.533": {
+    "node_id": "article:25.533",
+    "type": "article",
+    "title": "第25.533条 船体和主浮筒底部压力",
+    "line_start": 3057,
+    "line_end": 3137,
+    "source_anchor": "第25.533条"
+  },
+  "article:25.535": {
+    "node_id": "article:25.535",
+    "type": "article",
+    "title": "第25.535条 辅助浮筒载荷",
+    "line_start": 3138,
+    "line_end": 3229,
+    "source_anchor": "第25.535条"
+  },
+  "article:25.537": {
+    "node_id": "article:25.537",
+    "type": "article",
+    "title": "第25.537条 水翼载荷",
+    "line_start": 3230,
+    "line_end": 3233,
+    "source_anchor": "第25.537条"
+  },
+  "article:25.561": {
+    "node_id": "article:25.561",
+    "type": "article",
+    "title": "第25.561条 条规定的乘员向前惯性力。卧铺不得有在应急情况下可能使睡卧者严重受伤的棱角",
+    "line_start": 4270,
+    "line_end": 4310,
+    "source_anchor": "第25.561条"
+  },
+  "article:25.562": {
+    "node_id": "article:25.562",
+    "type": "article",
+    "title": "第25.562条 条中规定的惯性力而受到严重伤害。",
+    "line_start": 4258,
+    "line_end": 4269,
+    "source_anchor": "第25.562条"
+  },
+  "article:25.563": {
+    "node_id": "article:25.563",
+    "type": "article",
+    "title": "第25.563条 水上迫降的结构要求",
+    "line_start": 3332,
+    "line_end": 3335,
+    "source_anchor": "第25.563条"
+  },
+  "article:25.571": {
+    "node_id": "article:25.571",
+    "type": "article",
+    "title": "第25.571条 结构的损伤容限和疲劳评定",
+    "line_start": 3336,
+    "line_end": 3369,
+    "source_anchor": "第25.571条"
+  },
+  "article:25.581": {
+    "node_id": "article:25.581",
+    "type": "article",
+    "title": "第25.581条 闪电防护",
+    "line_start": 3411,
+    "line_end": 3418,
+    "source_anchor": "第25.581条"
+  },
+  "chapter:C": {
+    "node_id": "chapter:C",
+    "type": "chapter",
+    "title": "C章 结构",
+    "line_start": 1807,
+    "line_end": 3418,
+    "source_anchor": "C章"
+  },
+  "article:25.601": {
+    "node_id": "article:25.601",
+    "type": "article",
+    "title": "第25.601条 总则",
+    "line_start": 3421,
+    "line_end": 3425,
+    "source_anchor": "第25.601条"
+  },
+  "article:25.603": {
+    "node_id": "article:25.603",
+    "type": "article",
+    "title": "第25.603条 材料",
+    "line_start": 3426,
+    "line_end": 3433,
+    "source_anchor": "第25.603条"
+  },
+  "article:25.605": {
+    "node_id": "article:25.605",
+    "type": "article",
+    "title": "第25.605条 制造方法",
+    "line_start": 3434,
+    "line_end": 3438,
+    "source_anchor": "第25.605条"
+  },
+  "article:25.607": {
+    "node_id": "article:25.607",
+    "type": "article",
+    "title": "第25.607条 紧固件",
+    "line_start": 3439,
+    "line_end": 3450,
+    "source_anchor": "第25.607条"
+  },
+  "article:25.609": {
+    "node_id": "article:25.609",
+    "type": "article",
+    "title": "第25.609条 结构保护",
+    "line_start": 3451,
+    "line_end": 3459,
+    "source_anchor": "第25.609条"
+  },
+  "article:25.611": {
+    "node_id": "article:25.611",
+    "type": "article",
+    "title": "第25.611条 可达性措施",
+    "line_start": 3460,
+    "line_end": 3469,
+    "source_anchor": "第25.611条"
+  },
+  "article:25.613": {
+    "node_id": "article:25.613",
+    "type": "article",
+    "title": "第25.613条 材料的强度性能和材料的设计值",
+    "line_start": 3470,
+    "line_end": 3487,
+    "source_anchor": "第25.613条"
+  },
+  "article:25.615": {
+    "node_id": "article:25.615",
+    "type": "article",
+    "title": "第25.615条 [删除]",
+    "line_start": 3488,
+    "line_end": 3490,
+    "source_anchor": "第25.615条"
+  },
+  "article:25.619": {
+    "node_id": "article:25.619",
+    "type": "article",
+    "title": "第25.619条 特殊系数",
+    "line_start": 3491,
+    "line_end": 3492,
+    "source_anchor": "第25.619条"
+  },
+  "article:25.621": {
+    "node_id": "article:25.621",
+    "type": "article",
+    "title": "第25.621条 铸件系数",
+    "line_start": 3498,
+    "line_end": 3538,
+    "source_anchor": "第25.621条"
+  },
+  "article:25.623": {
+    "node_id": "article:25.623",
+    "type": "article",
+    "title": "第25.623条 支承系数",
+    "line_start": 3539,
+    "line_end": 3545,
+    "source_anchor": "第25.623条"
+  },
+  "article:25.625": {
+    "node_id": "article:25.625",
+    "type": "article",
+    "title": "第25.625条 接头系数",
+    "line_start": 3546,
+    "line_end": 3569,
+    "source_anchor": "第25.625条"
+  },
+  "article:25.629": {
+    "node_id": "article:25.629",
+    "type": "article",
+    "title": "第25.629条 气动弹性稳定性要求",
+    "line_start": 3570,
+    "line_end": 3623,
+    "source_anchor": "第25.629条"
+  },
+  "article:25.631": {
+    "node_id": "article:25.631",
+    "type": "article",
+    "title": "第25.631条 鸟撞损伤",
+    "line_start": 3624,
+    "line_end": 3631,
+    "source_anchor": "第25.631条"
+  },
+  "article:25.651": {
+    "node_id": "article:25.651",
+    "type": "article",
+    "title": "第25.651条 强度符合性的证明",
+    "line_start": 3632,
+    "line_end": 3637,
+    "source_anchor": "第25.651条"
+  },
+  "article:25.655": {
+    "node_id": "article:25.655",
+    "type": "article",
+    "title": "第25.655条 安装",
+    "line_start": 3638,
+    "line_end": 3641,
+    "source_anchor": "第25.655条"
+  },
+  "article:25.657": {
+    "node_id": "article:25.657",
+    "type": "article",
+    "title": "第25.657条 铰链",
+    "line_start": 3644,
+    "line_end": 3652,
+    "source_anchor": "第25.657条"
+  },
+  "article:25.671": {
+    "node_id": "article:25.671",
+    "type": "article",
+    "title": "第25.671条 总则",
+    "line_start": 3653,
+    "line_end": 3673,
+    "source_anchor": "第25.671条"
+  },
+  "article:25.672": {
+    "node_id": "article:25.672",
+    "type": "article",
+    "title": "第25.672条 增稳系统及自动和带动力的操纵系统",
+    "line_start": 3674,
+    "line_end": 3691,
+    "source_anchor": "第25.672条"
+  },
+  "article:25.673": {
+    "node_id": "article:25.673",
+    "type": "article",
+    "title": "第25.673条 [删除]",
+    "line_start": 3692,
+    "line_end": 3694,
+    "source_anchor": "第25.673条"
+  },
+  "article:25.675": {
+    "node_id": "article:25.675",
+    "type": "article",
+    "title": "第25.675条 止动器",
+    "line_start": 3695,
+    "line_end": 3703,
+    "source_anchor": "第25.675条"
+  },
+  "article:25.677": {
+    "node_id": "article:25.677",
+    "type": "article",
+    "title": "第25.677条 配平系统",
+    "line_start": 3704,
+    "line_end": 3716,
+    "source_anchor": "第25.677条"
+  },
+  "article:25.679": {
+    "node_id": "article:25.679",
+    "type": "article",
+    "title": "第25.679条 操纵系统突风锁",
+    "line_start": 3717,
+    "line_end": 3724,
+    "source_anchor": "第25.679条"
+  },
+  "article:25.681": {
+    "node_id": "article:25.681",
+    "type": "article",
+    "title": "第25.681条 限制载荷静力试验",
+    "line_start": 3725,
+    "line_end": 3731,
+    "source_anchor": "第25.681条"
+  },
+  "article:25.683": {
+    "node_id": "article:25.683",
+    "type": "article",
+    "title": "第25.683条 操作试验",
+    "line_start": 3732,
+    "line_end": 3739,
+    "source_anchor": "第25.683条"
+  },
+  "article:25.685": {
+    "node_id": "article:25.685",
+    "type": "article",
+    "title": "第25.685条 操纵系统的细节设计",
+    "line_start": 3740,
+    "line_end": 3748,
+    "source_anchor": "第25.685条"
+  },
+  "article:25.689": {
+    "node_id": "article:25.689",
+    "type": "article",
+    "title": "第25.689条 钢索系统",
+    "line_start": 3749,
+    "line_end": 3763,
+    "source_anchor": "第25.689条"
+  },
+  "article:25.693": {
+    "node_id": "article:25.693",
+    "type": "article",
+    "title": "第25.693条 关节接头",
+    "line_start": 3764,
+    "line_end": 3769,
+    "source_anchor": "第25.693条"
+  },
+  "article:25.697": {
+    "node_id": "article:25.697",
+    "type": "article",
+    "title": "第25.697条 升力和阻力装置及其操纵器件",
+    "line_start": 3770,
+    "line_end": 3782,
+    "source_anchor": "第25.697条"
+  },
+  "article:25.699": {
+    "node_id": "article:25.699",
+    "type": "article",
+    "title": "第25.699条 升力和阻力装置指示器",
+    "line_start": 3783,
+    "line_end": 3793,
+    "source_anchor": "第25.699条"
+  },
+  "article:25.701": {
+    "node_id": "article:25.701",
+    "type": "article",
+    "title": "第25.701条 襟翼与缝翼的交连",
+    "line_start": 3794,
+    "line_end": 3806,
+    "source_anchor": "第25.701条"
+  },
+  "article:25.703": {
+    "node_id": "article:25.703",
+    "type": "article",
+    "title": "第25.703条 起飞警告系统",
+    "line_start": 3807,
+    "line_end": 3822,
+    "source_anchor": "第25.703条"
+  },
+  "article:25.721": {
+    "node_id": "article:25.721",
+    "type": "article",
+    "title": "第25.721条 总则",
+    "line_start": 3823,
+    "line_end": 3836,
+    "source_anchor": "第25.721条"
+  },
+  "article:25.723": {
+    "node_id": "article:25.723",
+    "type": "article",
+    "title": "第25.723条 减震试验",
+    "line_start": 3837,
+    "line_end": 3850,
+    "source_anchor": "第25.723条"
+  },
+  "article:25.725": {
+    "node_id": "article:25.725",
+    "type": "article",
+    "title": "第25.725条 [删除]",
+    "line_start": 3851,
+    "line_end": 3853,
+    "source_anchor": "第25.725条"
+  },
+  "article:25.727": {
+    "node_id": "article:25.727",
+    "type": "article",
+    "title": "第25.727条 [删除]",
+    "line_start": 3854,
+    "line_end": 3856,
+    "source_anchor": "第25.727条"
+  },
+  "article:25.729": {
+    "node_id": "article:25.729",
+    "type": "article",
+    "title": "第25.729条 收放机构",
+    "line_start": 3857,
+    "line_end": 3897,
+    "source_anchor": "第25.729条"
+  },
+  "article:25.731": {
+    "node_id": "article:25.731",
+    "type": "article",
+    "title": "第25.731条 机轮",
+    "line_start": 3898,
+    "line_end": 3910,
+    "source_anchor": "第25.731条"
+  },
+  "article:25.733": {
+    "node_id": "article:25.733",
+    "type": "article",
+    "title": "第25.733条 轮胎",
+    "line_start": 3911,
+    "line_end": 3947,
+    "source_anchor": "第25.733条"
+  },
+  "article:25.735": {
+    "node_id": "article:25.735",
+    "type": "article",
+    "title": "第25.735条 刹车",
+    "line_start": 3948,
+    "line_end": 4000,
+    "source_anchor": "第25.735条"
+  },
+  "article:25.737": {
+    "node_id": "article:25.737",
+    "type": "article",
+    "title": "第25.737条 滑橇",
+    "line_start": 4001,
+    "line_end": 4005,
+    "source_anchor": "第25.737条"
+  },
+  "article:25.751": {
+    "node_id": "article:25.751",
+    "type": "article",
+    "title": "第25.751条 主浮筒浮力",
+    "line_start": 4006,
+    "line_end": 4012,
+    "source_anchor": "第25.751条"
+  },
+  "article:25.753": {
+    "node_id": "article:25.753",
+    "type": "article",
+    "title": "第25.753条 主浮筒设计",
+    "line_start": 4013,
+    "line_end": 4015,
+    "source_anchor": "第25.753条"
+  },
+  "article:25.755": {
+    "node_id": "article:25.755",
+    "type": "article",
+    "title": "第25.755条 船体",
+    "line_start": 4016,
+    "line_end": 4022,
+    "source_anchor": "第25.755条"
+  },
+  "article:25.771": {
+    "node_id": "article:25.771",
+    "type": "article",
+    "title": "第25.771条 驾驶舱",
+    "line_start": 4023,
+    "line_end": 4034,
+    "source_anchor": "第25.771条"
+  },
+  "article:25.772": {
+    "node_id": "article:25.772",
+    "type": "article",
+    "title": "第25.772条 驾驶舱舱门",
+    "line_start": 4035,
+    "line_end": 4043,
+    "source_anchor": "第25.772条"
+  },
+  "article:25.773": {
+    "node_id": "article:25.773",
+    "type": "article",
+    "title": "第25.773条 驾驶舱视界",
+    "line_start": 4044,
+    "line_end": 4066,
+    "source_anchor": "第25.773条"
+  },
+  "article:25.775": {
+    "node_id": "article:25.775",
+    "type": "article",
+    "title": "第25.775条 风挡和窗户",
+    "line_start": 4071,
+    "line_end": 4090,
+    "source_anchor": "第25.775条"
+  },
+  "article:25.777": {
+    "node_id": "article:25.777",
+    "type": "article",
+    "title": "第25.777条 驾驶舱操纵器件",
+    "line_start": 4091,
+    "line_end": 4117,
+    "source_anchor": "第25.777条"
+  },
+  "article:25.779": {
+    "node_id": "article:25.779",
+    "type": "article",
+    "title": "第25.779条 驾驶舱操纵器件的动作和效果",
+    "line_start": 4118,
+    "line_end": 4153,
+    "source_anchor": "第25.779条"
+  },
+  "article:25.781": {
+    "node_id": "article:25.781",
+    "type": "article",
+    "title": "第25.781条 驾驶舱操纵手柄形状",
+    "line_start": 4154,
+    "line_end": 4158,
+    "source_anchor": "第25.781条"
+  },
+  "article:25.783": {
+    "node_id": "article:25.783",
+    "type": "article",
+    "title": "第25.783条 机身舱门",
+    "line_start": 4159,
+    "line_end": 4174,
+    "source_anchor": "第25.783条"
+  },
+  "article:25.785": {
+    "node_id": "article:25.785",
+    "type": "article",
+    "title": "第25.785条 座椅、卧铺、安全带和肩带",
+    "line_start": 4254,
+    "line_end": 4257,
+    "source_anchor": "第25.785条"
+  },
+  "article:25.787": {
+    "node_id": "article:25.787",
+    "type": "article",
+    "title": "第25.787条 储存舱",
+    "line_start": 4311,
+    "line_end": 4325,
+    "source_anchor": "第25.787条"
+  },
+  "article:25.789": {
+    "node_id": "article:25.789",
+    "type": "article",
+    "title": "第25.789条 客舱和机组舱以及厨房中物件的固定",
+    "line_start": 4326,
+    "line_end": 4332,
+    "source_anchor": "第25.789条"
+  },
+  "article:25.791": {
+    "node_id": "article:25.791",
+    "type": "article",
+    "title": "第25.791条 旅客通告标示和标牌",
+    "line_start": 4333,
+    "line_end": 4346,
+    "source_anchor": "第25.791条"
+  },
+  "article:25.793": {
+    "node_id": "article:25.793",
+    "type": "article",
+    "title": "第25.793条 地板表面",
+    "line_start": 4347,
+    "line_end": 4349,
+    "source_anchor": "第25.793条"
+  },
+  "article:25.795": {
+    "node_id": "article:25.795",
+    "type": "article",
+    "title": "第25.795条 保安事项",
+    "line_start": 4350,
+    "line_end": 4361,
+    "source_anchor": "第25.795条"
+  },
+  "article:25.801": {
+    "node_id": "article:25.801",
+    "type": "article",
+    "title": "第25.801条 水上迫降",
+    "line_start": 4362,
+    "line_end": 4363,
+    "source_anchor": "第25.801条"
+  },
+  "article:25.803": {
+    "node_id": "article:25.803",
+    "type": "article",
+    "title": "第25.803条 应急撒离",
+    "line_start": 4380,
+    "line_end": 4392,
+    "source_anchor": "第25.803条"
+  },
+  "article:25.805": {
+    "node_id": "article:25.805",
+    "type": "article",
+    "title": "第25.805条 [删除]",
+    "line_start": 4393,
+    "line_end": 4395,
+    "source_anchor": "第25.805条"
+  },
+  "article:25.807": {
+    "node_id": "article:25.807",
+    "type": "article",
+    "title": "第25.807条 应急出口",
+    "line_start": 4396,
+    "line_end": 4521,
+    "source_anchor": "第25.807条"
+  },
+  "article:25.809": {
+    "node_id": "article:25.809",
+    "type": "article",
+    "title": "第25.809条 应急出口布置",
+    "line_start": 4522,
+    "line_end": 4557,
+    "source_anchor": "第25.809条"
+  },
+  "article:25.810": {
+    "node_id": "article:25.810",
+    "type": "article",
+    "title": "第25.810条 应急撤离辅助设施与撤离路线",
+    "line_start": 4558,
+    "line_end": 4621,
+    "source_anchor": "第25.810条"
+  },
+  "article:25.811": {
+    "node_id": "article:25.811",
+    "type": "article",
+    "title": "第25.811条 应急出口的标记",
+    "line_start": 4622,
+    "line_end": 4666,
+    "source_anchor": "第25.811条"
+  },
+  "article:25.812": {
+    "node_id": "article:25.812",
+    "type": "article",
+    "title": "第25.812条 应急照明",
+    "line_start": 4667,
+    "line_end": 4759,
+    "source_anchor": "第25.812条"
+  },
+  "article:25.813": {
+    "node_id": "article:25.813",
+    "type": "article",
+    "title": "第25.813条 应急出口通路",
+    "line_start": 4760,
+    "line_end": 4840,
+    "source_anchor": "第25.813条"
+  },
+  "article:25.815": {
+    "node_id": "article:25.815",
+    "type": "article",
+    "title": "第25.815条 过道宽度",
+    "line_start": 4841,
+    "line_end": 4853,
+    "source_anchor": "第25.815条"
+  },
+  "article:25.817": {
+    "node_id": "article:25.817",
+    "type": "article",
+    "title": "第25.817条 最大并排座椅数",
+    "line_start": 4854,
+    "line_end": 4857,
+    "source_anchor": "第25.817条"
+  },
+  "article:25.819": {
+    "node_id": "article:25.819",
+    "type": "article",
+    "title": "第25.819条 下层服务舱(包括厨房)",
+    "line_start": 4858,
+    "line_end": 4893,
+    "source_anchor": "第25.819条"
+  },
+  "article:25.820": {
+    "node_id": "article:25.820",
+    "type": "article",
+    "title": "第25.820条 厕所门",
+    "line_start": 4894,
+    "line_end": 4899,
+    "source_anchor": "第25.820条"
+  },
+  "article:25.831": {
+    "node_id": "article:25.831",
+    "type": "article",
+    "title": "第25.831条 通风",
+    "line_start": 4900,
+    "line_end": 4933,
+    "source_anchor": "第25.831条"
+  },
+  "article:25.832": {
+    "node_id": "article:25.832",
+    "type": "article",
+    "title": "第25.832条 座舱臭氧浓度",
+    "line_start": 4934,
+    "line_end": 4947,
+    "source_anchor": "第25.832条"
+  },
+  "article:25.833": {
+    "node_id": "article:25.833",
+    "type": "article",
+    "title": "第25.833条 燃烧加温系统",
+    "line_start": 4948,
+    "line_end": 4953,
+    "source_anchor": "第25.833条"
+  },
+  "article:25.841": {
+    "node_id": "article:25.841",
+    "type": "article",
+    "title": "第25.841条 增压座舱",
+    "line_start": 4954,
+    "line_end": 4987,
+    "source_anchor": "第25.841条"
+  },
+  "article:25.843": {
+    "node_id": "article:25.843",
+    "type": "article",
+    "title": "第25.843条 增压座舱的试验",
+    "line_start": 4988,
+    "line_end": 5008,
+    "source_anchor": "第25.843条"
+  },
+  "article:25.851": {
+    "node_id": "article:25.851",
+    "type": "article",
+    "title": "第25.851条 灭火器",
+    "line_start": 5009,
+    "line_end": 5058,
+    "source_anchor": "第25.851条"
+  },
+  "article:25.853": {
+    "node_id": "article:25.853",
+    "type": "article",
+    "title": "第25.853条 座舱内部设施",
+    "line_start": 5059,
+    "line_end": 5086,
+    "source_anchor": "第25.853条"
+  },
+  "article:25.854": {
+    "node_id": "article:25.854",
+    "type": "article",
+    "title": "第25.854条 厕所防火",
+    "line_start": 5087,
+    "line_end": 5095,
+    "source_anchor": "第25.854条"
+  },
+  "article:25.855": {
+    "node_id": "article:25.855",
+    "type": "article",
+    "title": "第25.855条 货舱和行李舱",
+    "line_start": 5096,
+    "line_end": 5121,
+    "source_anchor": "第25.855条"
+  },
+  "article:25.856": {
+    "node_id": "article:25.856",
+    "type": "article",
+    "title": "第25.856条 隔热/隔音材料",
+    "line_start": 5122,
+    "line_end": 5130,
+    "source_anchor": "第25.856条"
+  },
+  "article:25.857": {
+    "node_id": "article:25.857",
+    "type": "article",
+    "title": "第25.857条 货舱等级",
+    "line_start": 5131,
+    "line_end": 5161,
+    "source_anchor": "第25.857条"
+  },
+  "article:25.858": {
+    "node_id": "article:25.858",
+    "type": "article",
+    "title": "第25.858条 货舱或行李舱烟雾或火警探测系统",
+    "line_start": 5162,
+    "line_end": 5170,
+    "source_anchor": "第25.858条"
+  },
+  "article:25.859": {
+    "node_id": "article:25.859",
+    "type": "article",
+    "title": "第25.859条 燃烧加温器的防火",
+    "line_start": 5171,
+    "line_end": 5172,
+    "source_anchor": "第25.859条"
+  },
+  "article:25.863": {
+    "node_id": "article:25.863",
+    "type": "article",
+    "title": "第25.863条 可燃液体的防火",
+    "line_start": 5229,
+    "line_end": 5243,
+    "source_anchor": "第25.863条"
+  },
+  "article:25.865": {
+    "node_id": "article:25.865",
+    "type": "article",
+    "title": "第25.865条 飞行操纵系统、发动机架和其它飞行结构的防火",
+    "line_start": 5244,
+    "line_end": 5247,
+    "source_anchor": "第25.865条"
+  },
+  "article:25.867": {
+    "node_id": "article:25.867",
+    "type": "article",
+    "title": "第25.867条 其它部件的防火",
+    "line_start": 5248,
+    "line_end": 5253,
+    "source_anchor": "第25.867条"
+  },
+  "article:25.869": {
+    "node_id": "article:25.869",
+    "type": "article",
+    "title": "第25.869条 系统防火",
+    "line_start": 5254,
+    "line_end": 5272,
+    "source_anchor": "第25.869条"
+  },
+  "article:25.871": {
+    "node_id": "article:25.871",
+    "type": "article",
+    "title": "第25.871条 定飞机水平的设施",
+    "line_start": 5273,
+    "line_end": 5275,
+    "source_anchor": "第25.871条"
+  },
+  "article:25.875": {
+    "node_id": "article:25.875",
+    "type": "article",
+    "title": "第25.875条 螺旋桨附近区域的加强",
+    "line_start": 5276,
+    "line_end": 5281,
+    "source_anchor": "第25.875条"
+  },
+  "article:25.899": {
+    "node_id": "article:25.899",
+    "type": "article",
+    "title": "第25.899条 电搭接和防静电保护",
+    "line_start": 5282,
+    "line_end": 5291,
+    "source_anchor": "第25.899条"
+  },
+  "chapter:D": {
+    "node_id": "chapter:D",
+    "type": "chapter",
+    "title": "D章 设计与构造",
+    "line_start": 3419,
+    "line_end": 5291,
+    "source_anchor": "D章"
+  },
+  "article:25.901": {
+    "node_id": "article:25.901",
+    "type": "article",
+    "title": "第25.901条 安装",
+    "line_start": 5294,
+    "line_end": 5314,
+    "source_anchor": "第25.901条"
+  },
+  "article:25.903": {
+    "node_id": "article:25.903",
+    "type": "article",
+    "title": "第25.903条 发动机",
+    "line_start": 5315,
+    "line_end": 5349,
+    "source_anchor": "第25.903条"
+  },
+  "article:25.904": {
+    "node_id": "article:25.904",
+    "type": "article",
+    "title": "第25.904条 起飞推力自动控制系统(ATTCS)",
+    "line_start": 5350,
+    "line_end": 5355,
+    "source_anchor": "第25.904条"
+  },
+  "article:25.905": {
+    "node_id": "article:25.905",
+    "type": "article",
+    "title": "第25.905条 螺旋桨",
+    "line_start": 5356,
+    "line_end": 5364,
+    "source_anchor": "第25.905条"
+  },
+  "article:25.907": {
+    "node_id": "article:25.907",
+    "type": "article",
+    "title": "第25.907条 螺旋桨振动",
+    "line_start": 5365,
+    "line_end": 5369,
+    "source_anchor": "第25.907条"
+  },
+  "article:25.925": {
+    "node_id": "article:25.925",
+    "type": "article",
+    "title": "第25.925条 螺旋桨间距",
+    "line_start": 5370,
+    "line_end": 5386,
+    "source_anchor": "第25.925条"
+  },
+  "article:25.929": {
+    "node_id": "article:25.929",
+    "type": "article",
+    "title": "第25.929条 螺旋桨除冰",
+    "line_start": 5387,
+    "line_end": 5392,
+    "source_anchor": "第25.929条"
+  },
+  "article:25.933": {
+    "node_id": "article:25.933",
+    "type": "article",
+    "title": "第25.933条 反推力系统",
+    "line_start": 5393,
+    "line_end": 5418,
+    "source_anchor": "第25.933条"
+  },
+  "article:25.934": {
+    "node_id": "article:25.934",
+    "type": "article",
+    "title": "第25.934条 涡轮喷气发动机反推力装置系统试验",
+    "line_start": 5419,
+    "line_end": 5423,
+    "source_anchor": "第25.934条"
+  },
+  "article:25.937": {
+    "node_id": "article:25.937",
+    "type": "article",
+    "title": "第25.937条 涡轮螺旋桨阻力限制系统",
+    "line_start": 5424,
+    "line_end": 5428,
+    "source_anchor": "第25.937条"
+  },
+  "article:25.939": {
+    "node_id": "article:25.939",
+    "type": "article",
+    "title": "第25.939条 涡轮发动机工作特性",
+    "line_start": 5429,
+    "line_end": 5435,
+    "source_anchor": "第25.939条"
+  },
+  "article:25.941": {
+    "node_id": "article:25.941",
+    "type": "article",
+    "title": "第25.941条 进气系统、发动机和排气系统的匹配性",
+    "line_start": 5436,
+    "line_end": 5449,
+    "source_anchor": "第25.941条"
+  },
+  "article:25.943": {
+    "node_id": "article:25.943",
+    "type": "article",
+    "title": "第25.943条 负加速度",
+    "line_start": 5450,
+    "line_end": 5454,
+    "source_anchor": "第25.943条"
+  },
+  "article:25.945": {
+    "node_id": "article:25.945",
+    "type": "article",
+    "title": "第25.945条 推力或功率增大系统",
+    "line_start": 5455,
+    "line_end": 5477,
+    "source_anchor": "第25.945条"
+  },
+  "article:25.951": {
+    "node_id": "article:25.951",
+    "type": "article",
+    "title": "第25.951条 总则",
+    "line_start": 5478,
+    "line_end": 5493,
+    "source_anchor": "第25.951条"
+  },
+  "article:25.952": {
+    "node_id": "article:25.952",
+    "type": "article",
+    "title": "第25.952条 燃油系统分析和试验",
+    "line_start": 5494,
+    "line_end": 5500,
+    "source_anchor": "第25.952条"
+  },
+  "article:25.953": {
+    "node_id": "article:25.953",
+    "type": "article",
+    "title": "第25.953条 燃油系统的独立性",
+    "line_start": 5501,
+    "line_end": 5505,
+    "source_anchor": "第25.953条"
+  },
+  "article:25.954": {
+    "node_id": "article:25.954",
+    "type": "article",
+    "title": "第25.954条 燃油系统的闪电防护",
+    "line_start": 5506,
+    "line_end": 5511,
+    "source_anchor": "第25.954条"
+  },
+  "article:25.955": {
+    "node_id": "article:25.955",
+    "type": "article",
+    "title": "第25.955条 燃油流量",
+    "line_start": 5512,
+    "line_end": 5529,
+    "source_anchor": "第25.955条"
+  },
+  "article:25.957": {
+    "node_id": "article:25.957",
+    "type": "article",
+    "title": "第25.957条 连通油箱之间的燃油流动",
+    "line_start": 5530,
+    "line_end": 5535,
+    "source_anchor": "第25.957条"
+  },
+  "article:25.959": {
+    "node_id": "article:25.959",
+    "type": "article",
+    "title": "第25.959条 确定的不可用燃油量时,其读数为“零”;",
+    "line_start": 6858,
+    "line_end": 6875,
+    "source_anchor": "第25.959条"
+  },
+  "article:25.961": {
+    "node_id": "article:25.961",
+    "type": "article",
+    "title": "第25.961条 燃油系统在热气候条件下的工作",
+    "line_start": 5541,
+    "line_end": 5544,
+    "source_anchor": "第25.961条"
+  },
+  "article:25.963": {
+    "node_id": "article:25.963",
+    "type": "article",
+    "title": "第25.963条 燃油箱:总则",
+    "line_start": 5571,
+    "line_end": 5587,
+    "source_anchor": "第25.963条"
+  },
+  "article:25.965": {
+    "node_id": "article:25.965",
+    "type": "article",
+    "title": "第25.965条 燃油箱试验",
+    "line_start": 5588,
+    "line_end": 5619,
+    "source_anchor": "第25.965条"
+  },
+  "article:25.967": {
+    "node_id": "article:25.967",
+    "type": "article",
+    "title": "第25.967条 燃油箱安装",
+    "line_start": 5620,
+    "line_end": 5639,
+    "source_anchor": "第25.967条"
+  },
+  "article:25.969": {
+    "node_id": "article:25.969",
+    "type": "article",
+    "title": "第25.969条 燃油箱的膨胀空间",
+    "line_start": 5640,
+    "line_end": 5644,
+    "source_anchor": "第25.969条"
+  },
+  "article:25.971": {
+    "node_id": "article:25.971",
+    "type": "article",
+    "title": "第25.971条 燃油箱沉淀槽",
+    "line_start": 5645,
+    "line_end": 5655,
+    "source_anchor": "第25.971条"
+  },
+  "article:25.973": {
+    "node_id": "article:25.973",
+    "type": "article",
+    "title": "第25.973条 油箱加油口接头",
+    "line_start": 5656,
+    "line_end": 5666,
+    "source_anchor": "第25.973条"
+  },
+  "article:25.975": {
+    "node_id": "article:25.975",
+    "type": "article",
+    "title": "第25.975条 燃油箱的通气和汽化器蒸气的排放",
+    "line_start": 5667,
+    "line_end": 5688,
+    "source_anchor": "第25.975条"
+  },
+  "article:25.977": {
+    "node_id": "article:25.977",
+    "type": "article",
+    "title": "第25.977条 燃油箱出油口",
+    "line_start": 5689,
+    "line_end": 5698,
+    "source_anchor": "第25.977条"
+  },
+  "article:25.979": {
+    "node_id": "article:25.979",
+    "type": "article",
+    "title": "第25.979条 压力加油系统",
+    "line_start": 5699,
+    "line_end": 5717,
+    "source_anchor": "第25.979条"
+  },
+  "article:25.981": {
+    "node_id": "article:25.981",
+    "type": "article",
+    "title": "第25.981条 燃油箱点燃防护",
+    "line_start": 5718,
+    "line_end": 5756,
+    "source_anchor": "第25.981条"
+  },
+  "article:25.991": {
+    "node_id": "article:25.991",
+    "type": "article",
+    "title": "第25.991条 燃油泵",
+    "line_start": 5757,
+    "line_end": 5764,
+    "source_anchor": "第25.991条"
+  },
+  "article:25.993": {
+    "node_id": "article:25.993",
+    "type": "article",
+    "title": "第25.993条 燃油系统导管和接头",
+    "line_start": 5765,
+    "line_end": 5775,
+    "source_anchor": "第25.993条"
+  },
+  "article:25.994": {
+    "node_id": "article:25.994",
+    "type": "article",
+    "title": "第25.994条 燃油系统部件的防护",
+    "line_start": 5776,
+    "line_end": 5779,
+    "source_anchor": "第25.994条"
+  },
+  "article:25.995": {
+    "node_id": "article:25.995",
+    "type": "article",
+    "title": "第25.995条 燃油阀",
+    "line_start": 5780,
+    "line_end": 5785,
+    "source_anchor": "第25.995条"
+  },
+  "article:25.997": {
+    "node_id": "article:25.997",
+    "type": "article",
+    "title": "第25.997条 燃油滤网或燃油滤",
+    "line_start": 5786,
+    "line_end": 5797,
+    "source_anchor": "第25.997条"
+  },
+  "article:25.999": {
+    "node_id": "article:25.999",
+    "type": "article",
+    "title": "第25.999条 燃油系统放液嘴",
+    "line_start": 5798,
+    "line_end": 5806,
+    "source_anchor": "第25.999条"
+  },
+  "article:25.1001": {
+    "node_id": "article:25.1001",
+    "type": "article",
+    "title": "第25.1001条 应急放油系统",
+    "line_start": 5807,
+    "line_end": 5845,
+    "source_anchor": "第25.1001条"
+  },
+  "article:25.1011": {
+    "node_id": "article:25.1011",
+    "type": "article",
+    "title": "第25.1011条 总则",
+    "line_start": 5846,
+    "line_end": 5856,
+    "source_anchor": "第25.1011条"
+  },
+  "article:25.1013": {
+    "node_id": "article:25.1013",
+    "type": "article",
+    "title": "第25.1013条 滑油箱",
+    "line_start": 5857,
+    "line_end": 5881,
+    "source_anchor": "第25.1013条"
+  },
+  "article:25.1015": {
+    "node_id": "article:25.1015",
+    "type": "article",
+    "title": "第25.1015条 滑油箱试验",
+    "line_start": 5882,
+    "line_end": 5894,
+    "source_anchor": "第25.1015条"
+  },
+  "article:25.1017": {
+    "node_id": "article:25.1017",
+    "type": "article",
+    "title": "第25.1017条 滑油导管和接头",
+    "line_start": 5895,
+    "line_end": 5903,
+    "source_anchor": "第25.1017条"
+  },
+  "article:25.1019": {
+    "node_id": "article:25.1019",
+    "type": "article",
+    "title": "第25.1019条 滑油滤网或滑油滤",
+    "line_start": 5904,
+    "line_end": 5920,
+    "source_anchor": "第25.1019条"
+  },
+  "article:25.1021": {
+    "node_id": "article:25.1021",
+    "type": "article",
+    "title": "第25.1021条 滑油系统放油嘴",
+    "line_start": 5921,
+    "line_end": 5926,
+    "source_anchor": "第25.1021条"
+  },
+  "article:25.1023": {
+    "node_id": "article:25.1023",
+    "type": "article",
+    "title": "第25.1023条 滑油散热器",
+    "line_start": 5927,
+    "line_end": 5934,
+    "source_anchor": "第25.1023条"
+  },
+  "article:25.1025": {
+    "node_id": "article:25.1025",
+    "type": "article",
+    "title": "第25.1025条 滑油阀",
+    "line_start": 5935,
+    "line_end": 5941,
+    "source_anchor": "第25.1025条"
+  },
+  "article:25.1027": {
+    "node_id": "article:25.1027",
+    "type": "article",
+    "title": "第25.1027条 螺旋桨顺桨系统",
+    "line_start": 5942,
+    "line_end": 5950,
+    "source_anchor": "第25.1027条"
+  },
+  "article:25.1041": {
+    "node_id": "article:25.1041",
+    "type": "article",
+    "title": "第25.1041条 条的规定。进行冷却试验时,飞机的形态和运行条件均必须取每一飞行阶段中对于",
+    "line_start": 5983,
+    "line_end": 6009,
+    "source_anchor": "第25.1041条"
+  },
+  "article:25.1043": {
+    "node_id": "article:25.1043",
+    "type": "article",
+    "title": "第25.1043条 冷却试验",
+    "line_start": 5956,
+    "line_end": 5957,
+    "source_anchor": "第25.1043条"
+  },
+  "article:25.1045": {
+    "node_id": "article:25.1045",
+    "type": "article",
+    "title": "第25.1045条 冷却试验程序",
+    "line_start": 5981,
+    "line_end": 5982,
+    "source_anchor": "第25.1045条"
+  },
+  "article:25.1091": {
+    "node_id": "article:25.1091",
+    "type": "article",
+    "title": "第25.1091条 进气",
+    "line_start": 6010,
+    "line_end": 6033,
+    "source_anchor": "第25.1091条"
+  },
+  "article:25.1093": {
+    "node_id": "article:25.1093",
+    "type": "article",
+    "title": "第25.1093条 进气系统的防冰",
+    "line_start": 6034,
+    "line_end": 6057,
+    "source_anchor": "第25.1093条"
+  },
+  "article:25.1101": {
+    "node_id": "article:25.1101",
+    "type": "article",
+    "title": "第25.1101条 汽化器空气预热器的设计",
+    "line_start": 6058,
+    "line_end": 6064,
+    "source_anchor": "第25.1101条"
+  },
+  "article:25.1103": {
+    "node_id": "article:25.1103",
+    "type": "article",
+    "title": "第25.1103条 进气系统管道和空气导管系统",
+    "line_start": 6065,
+    "line_end": 6082,
+    "source_anchor": "第25.1103条"
+  },
+  "article:25.1105": {
+    "node_id": "article:25.1105",
+    "type": "article",
+    "title": "第25.1105条 进气系统的空气滤",
+    "line_start": 6083,
+    "line_end": 6090,
+    "source_anchor": "第25.1105条"
+  },
+  "article:25.1107": {
+    "node_id": "article:25.1107",
+    "type": "article",
+    "title": "第25.1107条 中间冷却器和后冷却器",
+    "line_start": 6091,
+    "line_end": 6095,
+    "source_anchor": "第25.1107条"
+  },
+  "article:25.1121": {
+    "node_id": "article:25.1121",
+    "type": "article",
+    "title": "第25.1121条 总则",
+    "line_start": 6096,
+    "line_end": 6115,
+    "source_anchor": "第25.1121条"
+  },
+  "article:25.1123": {
+    "node_id": "article:25.1123",
+    "type": "article",
+    "title": "第25.1123条 排气管",
+    "line_start": 6116,
+    "line_end": 6122,
+    "source_anchor": "第25.1123条"
+  },
+  "article:25.1125": {
+    "node_id": "article:25.1125",
+    "type": "article",
+    "title": "第25.1125条 排气热交换器",
+    "line_start": 6123,
+    "line_end": 6135,
+    "source_anchor": "第25.1125条"
+  },
+  "article:25.1127": {
+    "node_id": "article:25.1127",
+    "type": "article",
+    "title": "第25.1127条 排气驱动的涡轮增压器",
+    "line_start": 6136,
+    "line_end": 6146,
+    "source_anchor": "第25.1127条"
+  },
+  "article:25.1141": {
+    "node_id": "article:25.1141",
+    "type": "article",
+    "title": "第25.1141条 动力装置的操纵器件:总则",
+    "line_start": 6147,
+    "line_end": 6148,
+    "source_anchor": "第25.1141条"
+  },
+  "article:25.1142": {
+    "node_id": "article:25.1142",
+    "type": "article",
+    "title": "第25.1142条 辅助动力装置的操纵器件",
+    "line_start": 6167,
+    "line_end": 6169,
+    "source_anchor": "第25.1142条"
+  },
+  "article:25.1143": {
+    "node_id": "article:25.1143",
+    "type": "article",
+    "title": "第25.1143条 发动机的操纵器件",
+    "line_start": 6170,
+    "line_end": 6182,
+    "source_anchor": "第25.1143条"
+  },
+  "article:25.1145": {
+    "node_id": "article:25.1145",
+    "type": "article",
+    "title": "第25.1145条 点火开关",
+    "line_start": 6183,
+    "line_end": 6191,
+    "source_anchor": "第25.1145条"
+  },
+  "article:25.1147": {
+    "node_id": "article:25.1147",
+    "type": "article",
+    "title": "第25.1147条 混合比操纵器件",
+    "line_start": 6192,
+    "line_end": 6201,
+    "source_anchor": "第25.1147条"
+  },
+  "article:25.1149": {
+    "node_id": "article:25.1149",
+    "type": "article",
+    "title": "第25.1149条 螺旋桨转速和桨距的操纵器件",
+    "line_start": 6202,
+    "line_end": 6210,
+    "source_anchor": "第25.1149条"
+  },
+  "article:25.1153": {
+    "node_id": "article:25.1153",
+    "type": "article",
+    "title": "第25.1153条 螺旋桨顺桨操纵器件",
+    "line_start": 6211,
+    "line_end": 6215,
+    "source_anchor": "第25.1153条"
+  },
+  "article:25.1155": {
+    "node_id": "article:25.1155",
+    "type": "article",
+    "title": "第25.1155条 反推力和低于飞行状态的桨距调定",
+    "line_start": 6216,
+    "line_end": 6220,
+    "source_anchor": "第25.1155条"
+  },
+  "article:25.1157": {
+    "node_id": "article:25.1157",
+    "type": "article",
+    "title": "第25.1157条 汽化器空气温度控制装置",
+    "line_start": 6221,
+    "line_end": 6223,
+    "source_anchor": "第25.1157条"
+  },
+  "article:25.1159": {
+    "node_id": "article:25.1159",
+    "type": "article",
+    "title": "第25.1159条 增压器操纵器件",
+    "line_start": 6224,
+    "line_end": 6227,
+    "source_anchor": "第25.1159条"
+  },
+  "article:25.1161": {
+    "node_id": "article:25.1161",
+    "type": "article",
+    "title": "第25.1161条 应急放油系统的操纵器件",
+    "line_start": 6228,
+    "line_end": 6232,
+    "source_anchor": "第25.1161条"
+  },
+  "article:25.1163": {
+    "node_id": "article:25.1163",
+    "type": "article",
+    "title": "第25.1163条 动力装置附件",
+    "line_start": 6233,
+    "line_end": 6243,
+    "source_anchor": "第25.1163条"
+  },
+  "article:25.1165": {
+    "node_id": "article:25.1165",
+    "type": "article",
+    "title": "第25.1165条 发动机点火系统",
+    "line_start": 6244,
+    "line_end": 6264,
+    "source_anchor": "第25.1165条"
+  },
+  "article:25.1167": {
+    "node_id": "article:25.1167",
+    "type": "article",
+    "title": "第25.1167条 附件传动箱",
+    "line_start": 6265,
+    "line_end": 6274,
+    "source_anchor": "第25.1167条"
+  },
+  "article:25.1181": {
+    "node_id": "article:25.1181",
+    "type": "article",
+    "title": "第25.1181条 至25.1203 条的要求:",
+    "line_start": 6457,
+    "line_end": 6461,
+    "source_anchor": "第25.1181条"
+  },
+  "article:25.1182": {
+    "node_id": "article:25.1182",
+    "type": "article",
+    "title": "第25.1182条 防火墙后面的短舱区域和包含可燃液体导管的发动机吊舱连接结构",
+    "line_start": 6291,
+    "line_end": 6298,
+    "source_anchor": "第25.1182条"
+  },
+  "article:25.1183": {
+    "node_id": "article:25.1183",
+    "type": "article",
+    "title": "第25.1183条 输送可燃液体的组件",
+    "line_start": 6299,
+    "line_end": 6315,
+    "source_anchor": "第25.1183条"
+  },
+  "article:25.1185": {
+    "node_id": "article:25.1185",
+    "type": "article",
+    "title": "第25.1185条 可燃液体",
+    "line_start": 6316,
+    "line_end": 6327,
+    "source_anchor": "第25.1185条"
+  },
+  "article:25.1187": {
+    "node_id": "article:25.1187",
+    "type": "article",
+    "title": "第25.1187条 火区的排液和通风",
+    "line_start": 6328,
+    "line_end": 6339,
+    "source_anchor": "第25.1187条"
+  },
+  "article:25.1189": {
+    "node_id": "article:25.1189",
+    "type": "article",
+    "title": "第25.1189条 切断措施",
+    "line_start": 6340,
+    "line_end": 6359,
+    "source_anchor": "第25.1189条"
+  },
+  "article:25.1191": {
+    "node_id": "article:25.1191",
+    "type": "article",
+    "title": "第25.1191条 防火墙",
+    "line_start": 6360,
+    "line_end": 6368,
+    "source_anchor": "第25.1191条"
+  },
+  "article:25.1192": {
+    "node_id": "article:25.1192",
+    "type": "article",
+    "title": "第25.1192条 发动机附件部分的隔板",
+    "line_start": 6369,
+    "line_end": 6372,
+    "source_anchor": "第25.1192条"
+  },
+  "article:25.1193": {
+    "node_id": "article:25.1193",
+    "type": "article",
+    "title": "第25.1193条 发动机罩和短舱蒙皮",
+    "line_start": 6373,
+    "line_end": 6388,
+    "source_anchor": "第25.1193条"
+  },
+  "article:25.1195": {
+    "node_id": "article:25.1195",
+    "type": "article",
+    "title": "第25.1195条 灭火系统",
+    "line_start": 6389,
+    "line_end": 6399,
+    "source_anchor": "第25.1195条"
+  },
+  "article:25.1197": {
+    "node_id": "article:25.1197",
+    "type": "article",
+    "title": "第25.1197条 灭火剂",
+    "line_start": 6400,
+    "line_end": 6413,
+    "source_anchor": "第25.1197条"
+  },
+  "article:25.1199": {
+    "node_id": "article:25.1199",
+    "type": "article",
+    "title": "第25.1199条 灭火瓶",
+    "line_start": 6414,
+    "line_end": 6425,
+    "source_anchor": "第25.1199条"
+  },
+  "article:25.1201": {
+    "node_id": "article:25.1201",
+    "type": "article",
+    "title": "第25.1201条 灭火系统材料",
+    "line_start": 6426,
+    "line_end": 6429,
+    "source_anchor": "第25.1201条"
+  },
+  "article:25.1203": {
+    "node_id": "article:25.1203",
+    "type": "article",
+    "title": "第25.1203条 火警探测系统",
+    "line_start": 6430,
+    "line_end": 6454,
+    "source_anchor": "第25.1203条"
+  },
+  "article:25.1207": {
+    "node_id": "article:25.1207",
+    "type": "article",
+    "title": "第25.1207条 符合性",
+    "line_start": 6455,
+    "line_end": 6456,
+    "source_anchor": "第25.1207条"
+  },
+  "chapter:E": {
+    "node_id": "chapter:E",
+    "type": "chapter",
+    "title": "E章 动力装置",
+    "line_start": 5292,
+    "line_end": 6461,
+    "source_anchor": "E章"
+  },
+  "article:25.1301": {
+    "node_id": "article:25.1301",
+    "type": "article",
+    "title": "第25.1301条 功能和安装",
+    "line_start": 6464,
+    "line_end": 6472,
+    "source_anchor": "第25.1301条"
+  },
+  "article:25.1303": {
+    "node_id": "article:25.1303",
+    "type": "article",
+    "title": "第25.1303条 飞行和导航仪表",
+    "line_start": 6473,
+    "line_end": 6496,
+    "source_anchor": "第25.1303条"
+  },
+  "article:25.1305": {
+    "node_id": "article:25.1305",
+    "type": "article",
+    "title": "第25.1305条 动力装置仪表",
+    "line_start": 6497,
+    "line_end": 6560,
+    "source_anchor": "第25.1305条"
+  },
+  "article:25.1307": {
+    "node_id": "article:25.1307",
+    "type": "article",
+    "title": "第25.1307条 其它设备",
+    "line_start": 6561,
+    "line_end": 6576,
+    "source_anchor": "第25.1307条"
+  },
+  "article:25.1309": {
+    "node_id": "article:25.1309",
+    "type": "article",
+    "title": "第25.1309条 条的要求进行评估。",
+    "line_start": 6775,
+    "line_end": 6814,
+    "source_anchor": "第25.1309条"
+  },
+  "article:25.1310": {
+    "node_id": "article:25.1310",
+    "type": "article",
+    "title": "第25.1310条 电源容量和分配",
+    "line_start": 6603,
+    "line_end": 6618,
+    "source_anchor": "第25.1310条"
+  },
+  "article:25.1316": {
+    "node_id": "article:25.1316",
+    "type": "article",
+    "title": "第25.1316条 系统闪电防护",
+    "line_start": 6619,
+    "line_end": 6638,
+    "source_anchor": "第25.1316条"
+  },
+  "article:25.1317": {
+    "node_id": "article:25.1317",
+    "type": "article",
+    "title": "第25.1317条 高强辐射场(HIRF)防护",
+    "line_start": 6639,
+    "line_end": 6661,
+    "source_anchor": "第25.1317条"
+  },
+  "article:25.1321": {
+    "node_id": "article:25.1321",
+    "type": "article",
+    "title": "第25.1321条 布局和可见度",
+    "line_start": 6662,
+    "line_end": 6681,
+    "source_anchor": "第25.1321条"
+  },
+  "article:25.1322": {
+    "node_id": "article:25.1322",
+    "type": "article",
+    "title": "第25.1322条 警告灯、戒备灯和提示灯",
+    "line_start": 6682,
+    "line_end": 6690,
+    "source_anchor": "第25.1322条"
+  },
+  "article:25.1323": {
+    "node_id": "article:25.1323",
+    "type": "article",
+    "title": "第25.1323条 空速指示系统",
+    "line_start": 6691,
+    "line_end": 6721,
+    "source_anchor": "第25.1323条"
+  },
+  "article:25.1325": {
+    "node_id": "article:25.1325",
+    "type": "article",
+    "title": "第25.1325条 条和第25.1327 条中相应的精度要求;",
+    "line_start": 7600,
+    "line_end": 7634,
+    "source_anchor": "第25.1325条"
+  },
+  "article:25.1326": {
+    "node_id": "article:25.1326",
+    "type": "article",
+    "title": "第25.1326条 空速管加温指示系统",
+    "line_start": 6755,
+    "line_end": 6764,
+    "source_anchor": "第25.1326条"
+  },
+  "article:25.1327": {
+    "node_id": "article:25.1327",
+    "type": "article",
+    "title": "第25.1327条 磁航向指示器",
+    "line_start": 6765,
+    "line_end": 6768,
+    "source_anchor": "第25.1327条"
+  },
+  "article:25.1329": {
+    "node_id": "article:25.1329",
+    "type": "article",
+    "title": "第25.1329条 飞行导引系统",
+    "line_start": 6769,
+    "line_end": 6774,
+    "source_anchor": "第25.1329条"
+  },
+  "article:25.1331": {
+    "node_id": "article:25.1331",
+    "type": "article",
+    "title": "第25.1331条 使用能源的仪表",
+    "line_start": 6815,
+    "line_end": 6828,
+    "source_anchor": "第25.1331条"
+  },
+  "article:25.1333": {
+    "node_id": "article:25.1333",
+    "type": "article",
+    "title": "第25.1333条 仪表系统",
+    "line_start": 6829,
+    "line_end": 6840,
+    "source_anchor": "第25.1333条"
+  },
+  "article:25.1335": {
+    "node_id": "article:25.1335",
+    "type": "article",
+    "title": "第25.1335条 [删除]",
+    "line_start": 6841,
+    "line_end": 6843,
+    "source_anchor": "第25.1335条"
+  },
+  "article:25.1337": {
+    "node_id": "article:25.1337",
+    "type": "article",
+    "title": "第25.1337条 动力装置仪表",
+    "line_start": 6844,
+    "line_end": 6857,
+    "source_anchor": "第25.1337条"
+  },
+  "article:25.1351": {
+    "node_id": "article:25.1351",
+    "type": "article",
+    "title": "第25.1351条 总则",
+    "line_start": 6876,
+    "line_end": 6906,
+    "source_anchor": "第25.1351条"
+  },
+  "article:25.1353": {
+    "node_id": "article:25.1353",
+    "type": "article",
+    "title": "第25.1353条 电气设备及安装",
+    "line_start": 6907,
+    "line_end": 6936,
+    "source_anchor": "第25.1353条"
+  },
+  "article:25.1355": {
+    "node_id": "article:25.1355",
+    "type": "article",
+    "title": "第25.1355条 配电系统",
+    "line_start": 6937,
+    "line_end": 6943,
+    "source_anchor": "第25.1355条"
+  },
+  "article:25.1357": {
+    "node_id": "article:25.1357",
+    "type": "article",
+    "title": "第25.1357条 电路保护装置",
+    "line_start": 6944,
+    "line_end": 6962,
+    "source_anchor": "第25.1357条"
+  },
+  "article:25.1359": {
+    "node_id": "article:25.1359",
+    "type": "article",
+    "title": "第25.1359条 [删除]",
+    "line_start": 6963,
+    "line_end": 6965,
+    "source_anchor": "第25.1359条"
+  },
+  "article:25.1360": {
+    "node_id": "article:25.1360",
+    "type": "article",
+    "title": "第25.1360条 预防伤害",
+    "line_start": 6966,
+    "line_end": 6972,
+    "source_anchor": "第25.1360条"
+  },
+  "article:25.1362": {
+    "node_id": "article:25.1362",
+    "type": "article",
+    "title": "第25.1362条 应急状态供电",
+    "line_start": 6973,
+    "line_end": 6977,
+    "source_anchor": "第25.1362条"
+  },
+  "article:25.1363": {
+    "node_id": "article:25.1363",
+    "type": "article",
+    "title": "第25.1363条 电气系统试验",
+    "line_start": 6978,
+    "line_end": 6988,
+    "source_anchor": "第25.1363条"
+  },
+  "article:25.1365": {
+    "node_id": "article:25.1365",
+    "type": "article",
+    "title": "第25.1365条 电气设备、马达和变压器",
+    "line_start": 6989,
+    "line_end": 7002,
+    "source_anchor": "第25.1365条"
+  },
+  "article:25.1381": {
+    "node_id": "article:25.1381",
+    "type": "article",
+    "title": "第25.1381条 仪表灯",
+    "line_start": 7003,
+    "line_end": 7013,
+    "source_anchor": "第25.1381条"
+  },
+  "article:25.1383": {
+    "node_id": "article:25.1383",
+    "type": "article",
+    "title": "第25.1383条 着陆灯",
+    "line_start": 7014,
+    "line_end": 7023,
+    "source_anchor": "第25.1383条"
+  },
+  "article:25.1385": {
+    "node_id": "article:25.1385",
+    "type": "article",
+    "title": "第25.1385条 航行灯系统的安装",
+    "line_start": 7024,
+    "line_end": 7033,
+    "source_anchor": "第25.1385条"
+  },
+  "article:25.1387": {
+    "node_id": "article:25.1387",
+    "type": "article",
+    "title": "第25.1387条 航行灯系统二面角",
+    "line_start": 7034,
+    "line_end": 7048,
+    "source_anchor": "第25.1387条"
+  },
+  "article:25.1389": {
+    "node_id": "article:25.1389",
+    "type": "article",
+    "title": "第25.1389条 航行灯灯光分布和光强",
+    "line_start": 7049,
+    "line_end": 7067,
+    "source_anchor": "第25.1389条"
+  },
+  "article:25.1391": {
+    "node_id": "article:25.1391",
+    "type": "article",
+    "title": "第25.1391条 前、后航行灯水平平面内的最小光强",
+    "line_start": 7068,
+    "line_end": 7076,
+    "source_anchor": "第25.1391条"
+  },
+  "article:25.1393": {
+    "node_id": "article:25.1393",
+    "type": "article",
+    "title": "第25.1393条 前、后航行灯任一垂直平面内的最小光强",
+    "line_start": 7077,
+    "line_end": 7086,
+    "source_anchor": "第25.1393条"
+  },
+  "article:25.1395": {
+    "node_id": "article:25.1395",
+    "type": "article",
+    "title": "第25.1395条 前、后航行灯的最大掺入光强",
+    "line_start": 7087,
+    "line_end": 7107,
+    "source_anchor": "第25.1395条"
+  },
+  "article:25.1397": {
+    "node_id": "article:25.1397",
+    "type": "article",
+    "title": "第25.1397条 航行灯颜色规格",
+    "line_start": 7108,
+    "line_end": 7127,
+    "source_anchor": "第25.1397条"
+  },
+  "article:25.1399": {
+    "node_id": "article:25.1399",
+    "type": "article",
+    "title": "第25.1399条 停泊灯",
+    "line_start": 7128,
+    "line_end": 7133,
+    "source_anchor": "第25.1399条"
+  },
+  "article:25.1401": {
+    "node_id": "article:25.1401",
+    "type": "article",
+    "title": "第25.1401条 防撞灯系统",
+    "line_start": 7134,
+    "line_end": 7186,
+    "source_anchor": "第25.1401条"
+  },
+  "article:25.1403": {
+    "node_id": "article:25.1403",
+    "type": "article",
+    "title": "第25.1403条 机翼探冰灯",
+    "line_start": 7187,
+    "line_end": 7194,
+    "source_anchor": "第25.1403条"
+  },
+  "article:25.1411": {
+    "node_id": "article:25.1411",
+    "type": "article",
+    "title": "第25.1411条 总则",
+    "line_start": 7195,
+    "line_end": 7234,
+    "source_anchor": "第25.1411条"
+  },
+  "article:25.1413": {
+    "node_id": "article:25.1413",
+    "type": "article",
+    "title": "第25.1413条 [删除]",
+    "line_start": 7235,
+    "line_end": 7237,
+    "source_anchor": "第25.1413条"
+  },
+  "article:25.1415": {
+    "node_id": "article:25.1415",
+    "type": "article",
+    "title": "第25.1415条 水上迫降设备",
+    "line_start": 7238,
+    "line_end": 7252,
+    "source_anchor": "第25.1415条"
+  },
+  "article:25.1416": {
+    "node_id": "article:25.1416",
+    "type": "article",
+    "title": "第25.1416条 [删除]",
+    "line_start": 7253,
+    "line_end": 7255,
+    "source_anchor": "第25.1416条"
+  },
+  "article:25.1419": {
+    "node_id": "article:25.1419",
+    "type": "article",
+    "title": "第25.1419条 防冰",
+    "line_start": 7256,
+    "line_end": 7273,
+    "source_anchor": "第25.1419条"
+  },
+  "article:25.1421": {
+    "node_id": "article:25.1421",
+    "type": "article",
+    "title": "第25.1421条 扩音器",
+    "line_start": 7274,
+    "line_end": 7278,
+    "source_anchor": "第25.1421条"
+  },
+  "article:25.1423": {
+    "node_id": "article:25.1423",
+    "type": "article",
+    "title": "第25.1423条 机内广播系统",
+    "line_start": 7279,
+    "line_end": 7301,
+    "source_anchor": "第25.1423条"
+  },
+  "article:25.1431": {
+    "node_id": "article:25.1431",
+    "type": "article",
+    "title": "第25.1431条 电子设备",
+    "line_start": 7302,
+    "line_end": 7312,
+    "source_anchor": "第25.1431条"
+  },
+  "article:25.1433": {
+    "node_id": "article:25.1433",
+    "type": "article",
+    "title": "第25.1433条 真空系统",
+    "line_start": 7313,
+    "line_end": 7317,
+    "source_anchor": "第25.1433条"
+  },
+  "article:25.1435": {
+    "node_id": "article:25.1435",
+    "type": "article",
+    "title": "第25.1435条 液压系统",
+    "line_start": 7318,
+    "line_end": 7383,
+    "source_anchor": "第25.1435条"
+  },
+  "article:25.1438": {
+    "node_id": "article:25.1438",
+    "type": "article",
+    "title": "第25.1438条 增压系统和气动系统",
+    "line_start": 7384,
+    "line_end": 7391,
+    "source_anchor": "第25.1438条"
+  },
+  "article:25.1439": {
+    "node_id": "article:25.1439",
+    "type": "article",
+    "title": "第25.1439条 防护性呼吸设备",
+    "line_start": 7392,
+    "line_end": 7421,
+    "source_anchor": "第25.1439条"
+  },
+  "article:25.1441": {
+    "node_id": "article:25.1441",
+    "type": "article",
+    "title": "第25.1441条 氧气设备和供氧",
+    "line_start": 7422,
+    "line_end": 7425,
+    "source_anchor": "第25.1441条"
+  },
+  "article:25.1443": {
+    "node_id": "article:25.1443",
+    "type": "article",
+    "title": "第25.1443条 最小补氧流量",
+    "line_start": 7432,
+    "line_end": 7456,
+    "source_anchor": "第25.1443条"
+  },
+  "article:25.1445": {
+    "node_id": "article:25.1445",
+    "type": "article",
+    "title": "第25.1445条 氧气分配系统设置的规定",
+    "line_start": 7457,
+    "line_end": 7464,
+    "source_anchor": "第25.1445条"
+  },
+  "article:25.1447": {
+    "node_id": "article:25.1447",
+    "type": "article",
+    "title": "第25.1447条 分氧装置设置的规定",
+    "line_start": 7465,
+    "line_end": 7500,
+    "source_anchor": "第25.1447条"
+  },
+  "article:25.1449": {
+    "node_id": "article:25.1449",
+    "type": "article",
+    "title": "第25.1449条 判断供氧的措施",
+    "line_start": 7501,
+    "line_end": 7503,
+    "source_anchor": "第25.1449条"
+  },
+  "article:25.1450": {
+    "node_id": "article:25.1450",
+    "type": "article",
+    "title": "第25.1450条 化学氧气发生器",
+    "line_start": 7504,
+    "line_end": 7517,
+    "source_anchor": "第25.1450条"
+  },
+  "article:25.1451": {
+    "node_id": "article:25.1451",
+    "type": "article",
+    "title": "第25.1451条 [删除]",
+    "line_start": 7518,
+    "line_end": 7520,
+    "source_anchor": "第25.1451条"
+  },
+  "article:25.1453": {
+    "node_id": "article:25.1453",
+    "type": "article",
+    "title": "第25.1453条 防止氧气设备破裂的规定",
+    "line_start": 7521,
+    "line_end": 7525,
+    "source_anchor": "第25.1453条"
+  },
+  "article:25.1455": {
+    "node_id": "article:25.1455",
+    "type": "article",
+    "title": "第25.1455条 易冻液体的排放",
+    "line_start": 7526,
+    "line_end": 7529,
+    "source_anchor": "第25.1455条"
+  },
+  "article:25.1457": {
+    "node_id": "article:25.1457",
+    "type": "article",
+    "title": "第25.1457条 驾驶舱录音机",
+    "line_start": 7530,
+    "line_end": 7596,
+    "source_anchor": "第25.1457条"
+  },
+  "article:25.1459": {
+    "node_id": "article:25.1459",
+    "type": "article",
+    "title": "第25.1459条 飞行记录器",
+    "line_start": 7597,
+    "line_end": 7599,
+    "source_anchor": "第25.1459条"
+  },
+  "article:25.1461": {
+    "node_id": "article:25.1461",
+    "type": "article",
+    "title": "第25.1461条 含高能转子的设备",
+    "line_start": 7635,
+    "line_end": 7647,
+    "source_anchor": "第25.1461条"
+  },
+  "chapter:F": {
+    "node_id": "chapter:F",
+    "type": "chapter",
+    "title": "F章 设备",
+    "line_start": 6462,
+    "line_end": 7647,
+    "source_anchor": "F章"
+  },
+  "article:25.1501": {
+    "node_id": "article:25.1501",
+    "type": "article",
+    "title": "第25.1501条 总则",
+    "line_start": 7649,
+    "line_end": 7655,
+    "source_anchor": "第25.1501条"
+  },
+  "article:25.1503": {
+    "node_id": "article:25.1503",
+    "type": "article",
+    "title": "第25.1503条 空速限制:总则",
+    "line_start": 7656,
+    "line_end": 7659,
+    "source_anchor": "第25.1503条"
+  },
+  "article:25.1505": {
+    "node_id": "article:25.1505",
+    "type": "article",
+    "title": "第25.1505条 最大使用限制速度",
+    "line_start": 7660,
+    "line_end": 7668,
+    "source_anchor": "第25.1505条"
+  },
+  "article:25.1507": {
+    "node_id": "article:25.1507",
+    "type": "article",
+    "title": "第25.1507条 机动速度",
+    "line_start": 7669,
+    "line_end": 7671,
+    "source_anchor": "第25.1507条"
+  },
+  "article:25.1511": {
+    "node_id": "article:25.1511",
+    "type": "article",
+    "title": "第25.1511条 襟翼展态速度",
+    "line_start": 7672,
+    "line_end": 7675,
+    "source_anchor": "第25.1511条"
+  },
+  "article:25.1513": {
+    "node_id": "article:25.1513",
+    "type": "article",
+    "title": "第25.1513条 最小操纵速度",
+    "line_start": 7676,
+    "line_end": 7678,
+    "source_anchor": "第25.1513条"
+  },
+  "article:25.1515": {
+    "node_id": "article:25.1515",
+    "type": "article",
+    "title": "第25.1515条 有关起落架的速度",
+    "line_start": 7679,
+    "line_end": 7686,
+    "source_anchor": "第25.1515条"
+  },
+  "article:25.1516": {
+    "node_id": "article:25.1516",
+    "type": "article",
+    "title": "第25.1516条 其它速度限制",
+    "line_start": 7687,
+    "line_end": 7690,
+    "source_anchor": "第25.1516条"
+  },
+  "article:25.1517": {
+    "node_id": "article:25.1517",
+    "type": "article",
+    "title": "第25.1517条 颠簸气流速度,VRA",
+    "line_start": 7691,
+    "line_end": 7699,
+    "source_anchor": "第25.1517条"
+  },
+  "article:25.1519": {
+    "node_id": "article:25.1519",
+    "type": "article",
+    "title": "第25.1519条 重量、重心和载重分布",
+    "line_start": 7700,
+    "line_end": 7703,
+    "source_anchor": "第25.1519条"
+  },
+  "article:25.1521": {
+    "node_id": "article:25.1521",
+    "type": "article",
+    "title": "第25.1521条 动力装置限制",
+    "line_start": 7704,
+    "line_end": 7727,
+    "source_anchor": "第25.1521条"
+  },
+  "article:25.1522": {
+    "node_id": "article:25.1522",
+    "type": "article",
+    "title": "第25.1522条 辅助动力装置限制",
+    "line_start": 7728,
+    "line_end": 7733,
+    "source_anchor": "第25.1522条"
+  },
+  "article:25.1523": {
+    "node_id": "article:25.1523",
+    "type": "article",
+    "title": "第25.1523条 最小飞行机组",
+    "line_start": 7734,
+    "line_end": 7740,
+    "source_anchor": "第25.1523条"
+  },
+  "article:25.1525": {
+    "node_id": "article:25.1525",
+    "type": "article",
+    "title": "第25.1525条 运行类型",
+    "line_start": 7741,
+    "line_end": 7743,
+    "source_anchor": "第25.1525条"
+  },
+  "article:25.1527": {
+    "node_id": "article:25.1527",
+    "type": "article",
+    "title": "第25.1527条 周围大气温度和使用高度",
+    "line_start": 7744,
+    "line_end": 7748,
+    "source_anchor": "第25.1527条"
+  },
+  "article:25.1529": {
+    "node_id": "article:25.1529",
+    "type": "article",
+    "title": "第25.1529条 持续适航文件",
+    "line_start": 7749,
+    "line_end": 7753,
+    "source_anchor": "第25.1529条"
+  },
+  "article:25.1531": {
+    "node_id": "article:25.1531",
+    "type": "article",
+    "title": "第25.1531条 机动飞行载荷系数",
+    "line_start": 7754,
+    "line_end": 7757,
+    "source_anchor": "第25.1531条"
+  },
+  "article:25.1533": {
+    "node_id": "article:25.1533",
+    "type": "article",
+    "title": "第25.1533条 附加使用限制",
+    "line_start": 7758,
+    "line_end": 7772,
+    "source_anchor": "第25.1533条"
+  },
+  "article:25.1535": {
+    "node_id": "article:25.1535",
+    "type": "article",
+    "title": "第25.1535条 ETOPS 批准",
+    "line_start": 7773,
+    "line_end": 7780,
+    "source_anchor": "第25.1535条"
+  },
+  "article:25.1541": {
+    "node_id": "article:25.1541",
+    "type": "article",
+    "title": "第25.1541条 总则",
+    "line_start": 7781,
+    "line_end": 7789,
+    "source_anchor": "第25.1541条"
+  },
+  "article:25.1543": {
+    "node_id": "article:25.1543",
+    "type": "article",
+    "title": "第25.1543条 仪表标记:总则",
+    "line_start": 7790,
+    "line_end": 7795,
+    "source_anchor": "第25.1543条"
+  },
+  "article:25.1545": {
+    "node_id": "article:25.1545",
+    "type": "article",
+    "title": "第25.1545条 空速限制信息",
+    "line_start": 7796,
+    "line_end": 7798,
+    "source_anchor": "第25.1545条"
+  },
+  "article:25.1547": {
+    "node_id": "article:25.1547",
+    "type": "article",
+    "title": "第25.1547条 磁航向指示器",
+    "line_start": 7799,
+    "line_end": 7804,
+    "source_anchor": "第25.1547条"
+  },
+  "article:25.1549": {
+    "node_id": "article:25.1549",
+    "type": "article",
+    "title": "第25.1549条 动力装置和辅助动力装置仪表",
+    "line_start": 7805,
+    "line_end": 7814,
+    "source_anchor": "第25.1549条"
+  },
+  "article:25.1551": {
+    "node_id": "article:25.1551",
+    "type": "article",
+    "title": "第25.1551条 滑油油量指示器",
+    "line_start": 7815,
+    "line_end": 7819,
+    "source_anchor": "第25.1551条"
+  },
+  "article:25.1553": {
+    "node_id": "article:25.1553",
+    "type": "article",
+    "title": "第25.1553条 燃油油量表",
+    "line_start": 7820,
+    "line_end": 7823,
+    "source_anchor": "第25.1553条"
+  },
+  "article:25.1555": {
+    "node_id": "article:25.1555",
+    "type": "article",
+    "title": "第25.1555条 操纵器件标记",
+    "line_start": 7824,
+    "line_end": 7839,
+    "source_anchor": "第25.1555条"
+  },
+  "article:25.1557": {
+    "node_id": "article:25.1557",
+    "type": "article",
+    "title": "第25.1557条 其它标记和标牌",
+    "line_start": 7840,
+    "line_end": 7856,
+    "source_anchor": "第25.1557条"
+  },
+  "article:25.1561": {
+    "node_id": "article:25.1561",
+    "type": "article",
+    "title": "第25.1561条 安全设备",
+    "line_start": 7857,
+    "line_end": 7868,
+    "source_anchor": "第25.1561条"
+  },
+  "article:25.1563": {
+    "node_id": "article:25.1563",
+    "type": "article",
+    "title": "第25.1563条 空速标牌",
+    "line_start": 7869,
+    "line_end": 7873,
+    "source_anchor": "第25.1563条"
+  },
+  "article:25.1581": {
+    "node_id": "article:25.1581",
+    "type": "article",
+    "title": "第25.1581条 总则",
+    "line_start": 7874,
+    "line_end": 7886,
+    "source_anchor": "第25.1581条"
+  },
+  "article:25.1583": {
+    "node_id": "article:25.1583",
+    "type": "article",
+    "title": "第25.1583条 使用限制",
+    "line_start": 7887,
+    "line_end": 7923,
+    "source_anchor": "第25.1583条"
+  },
+  "article:25.1585": {
+    "node_id": "article:25.1585",
+    "type": "article",
+    "title": "第25.1585条 使用程序",
+    "line_start": 7924,
+    "line_end": 7942,
+    "source_anchor": "第25.1585条"
+  },
+  "article:25.1587": {
+    "node_id": "article:25.1587",
+    "type": "article",
+    "title": "第25.1587条 性能资料",
+    "line_start": 7943,
+    "line_end": 7965,
+    "source_anchor": "第25.1587条"
+  },
+  "chapter:G": {
+    "node_id": "chapter:G",
+    "type": "chapter",
+    "title": "G章 使用限制和资料",
+    "line_start": 7648,
+    "line_end": 7965,
+    "source_anchor": "G章"
+  },
+  "article:25.1701": {
+    "node_id": "article:25.1701",
+    "type": "article",
+    "title": "第25.1701条 定义",
+    "line_start": 7967,
+    "line_end": 7999,
+    "source_anchor": "第25.1701条"
+  },
+  "article:25.1703": {
+    "node_id": "article:25.1703",
+    "type": "article",
+    "title": "第25.1703条 功能和安装:EWIS",
+    "line_start": 8000,
+    "line_end": 8012,
+    "source_anchor": "第25.1703条"
+  },
+  "article:25.1705": {
+    "node_id": "article:25.1705",
+    "type": "article",
+    "title": "第25.1705条 系统和功能:EWIS",
+    "line_start": 8013,
+    "line_end": 8054,
+    "source_anchor": "第25.1705条"
+  },
+  "article:25.1707": {
+    "node_id": "article:25.1707",
+    "type": "article",
+    "title": "第25.1707条 系统分离:EWIS",
+    "line_start": 8055,
+    "line_end": 8099,
+    "source_anchor": "第25.1707条"
+  },
+  "article:25.1709": {
+    "node_id": "article:25.1709",
+    "type": "article",
+    "title": "第25.1709条 系统安全:EWIS",
+    "line_start": 8100,
+    "line_end": 8109,
+    "source_anchor": "第25.1709条"
+  },
+  "article:25.1711": {
+    "node_id": "article:25.1711",
+    "type": "article",
+    "title": "第25.1711条 部件识别:EWIS",
+    "line_start": 8110,
+    "line_end": 8125,
+    "source_anchor": "第25.1711条"
+  },
+  "article:25.1713": {
+    "node_id": "article:25.1713",
+    "type": "article",
+    "title": "第25.1713条 防火:EWIS",
+    "line_start": 8126,
+    "line_end": 8132,
+    "source_anchor": "第25.1713条"
+  },
+  "article:25.1715": {
+    "node_id": "article:25.1715",
+    "type": "article",
+    "title": "第25.1715条 电气接地和防静电保护:EWIS",
+    "line_start": 8133,
+    "line_end": 8139,
+    "source_anchor": "第25.1715条"
+  },
+  "article:25.1717": {
+    "node_id": "article:25.1717",
+    "type": "article",
+    "title": "第25.1717条 电路保护装置:EWIS",
+    "line_start": 8140,
+    "line_end": 8144,
+    "source_anchor": "第25.1717条"
+  },
+  "article:25.1719": {
+    "node_id": "article:25.1719",
+    "type": "article",
+    "title": "第25.1719条 可达性规定:EWIS",
+    "line_start": 8145,
+    "line_end": 8149,
+    "source_anchor": "第25.1719条"
+  },
+  "article:25.1721": {
+    "node_id": "article:25.1721",
+    "type": "article",
+    "title": "第25.1721条 EWIS 的保护",
+    "line_start": 8150,
+    "line_end": 8160,
+    "source_anchor": "第25.1721条"
+  },
+  "article:25.1723": {
+    "node_id": "article:25.1723",
+    "type": "article",
+    "title": "第25.1723条 可燃液体防火:EWIS",
+    "line_start": 8161,
+    "line_end": 8165,
+    "source_anchor": "第25.1723条"
+  },
+  "article:25.1725": {
+    "node_id": "article:25.1725",
+    "type": "article",
+    "title": "第25.1725条 动力装置:EWIS",
+    "line_start": 8166,
+    "line_end": 8173,
+    "source_anchor": "第25.1725条"
+  },
+  "article:25.1727": {
+    "node_id": "article:25.1727",
+    "type": "article",
+    "title": "第25.1727条 可燃液体切断措施:EWIS",
+    "line_start": 8174,
+    "line_end": 8178,
+    "source_anchor": "第25.1727条"
+  },
+  "article:25.1729": {
+    "node_id": "article:25.1729",
+    "type": "article",
+    "title": "第25.1729条 持续适航文件:EWIS",
+    "line_start": 8179,
+    "line_end": 8183,
+    "source_anchor": "第25.1729条"
+  },
+  "article:25.1731": {
+    "node_id": "article:25.1731",
+    "type": "article",
+    "title": "第25.1731条 动力装置和APU 火警探测系统:EWIS",
+    "line_start": 8184,
+    "line_end": 8195,
+    "source_anchor": "第25.1731条"
+  },
+  "article:25.1733": {
+    "node_id": "article:25.1733",
+    "type": "article",
+    "title": "第25.1733条 火警探测系统,总则:EWIS",
+    "line_start": 8196,
+    "line_end": 8200,
+    "source_anchor": "第25.1733条"
+  },
+  "chapter:H": {
+    "node_id": "chapter:H",
+    "type": "chapter",
+    "title": "H章 电气线路互联系统(EWIS)",
+    "line_start": 7966,
+    "line_end": 8200,
+    "source_anchor": "H章"
+  },
+  "article:25.2001": {
+    "node_id": "article:25.2001",
+    "type": "article",
+    "title": "第25.2001条 施行时间",
+    "line_start": 8202,
+    "line_end": 9475,
+    "source_anchor": "第25.2001条"
+  },
+  "chapter:I": {
+    "node_id": "chapter:I",
+    "type": "chapter",
+    "title": "I章 附则",
+    "line_start": 8201,
+    "line_end": 10489,
+    "source_anchor": "I章"
+  },
+  "article:25.90": {
+    "node_id": "article:25.90",
+    "type": "article",
+    "title": "第25.90条 米/秒(85 英尺/秒),然后线性递减到24,400 米(80,000 英尺)高度真实突风速度为9.15",
+    "line_start": 9476,
+    "line_end": 10489,
+    "source_anchor": "第25.90条"
+  }
+}

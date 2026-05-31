@@ -1,0 +1,162 @@
+{
+  "law:民用航空材料、零部件和机载设备技术标准规定": {
+    "node_id": "law:民用航空材料、零部件和机载设备技术标准规定",
+    "type": "law",
+    "title": "民用航空材料、零部件和机载设备",
+    "line_start": 0,
+    "line_end": 87,
+    "source_anchor": "民用航空材料、零部件和机载设备"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 依据",
+    "line_start": 6,
+    "line_end": 8,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 目的",
+    "line_start": 9,
+    "line_end": 13,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 适用范围",
+    "line_start": 14,
+    "line_end": 16,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 定义",
+    "line_start": 17,
+    "line_end": 18,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 颁发",
+    "line_start": 19,
+    "line_end": 20,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 授权",
+    "line_start": 21,
+    "line_end": 24,
+    "source_anchor": "第六条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总则",
+    "line_start": 4,
+    "line_end": 24,
+    "source_anchor": "第一章"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 编号",
+    "line_start": 27,
+    "line_end": 36,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 格式要求",
+    "line_start": 37,
+    "line_end": 39,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 组成",
+    "line_start": 40,
+    "line_end": 48,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 适用性",
+    "line_start": 49,
+    "line_end": 56,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 标记",
+    "line_start": 57,
+    "line_end": 69,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 资料要求",
+    "line_start": 70,
+    "line_end": 72,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 溯及力",
+    "line_start": 73,
+    "line_end": 75,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 引用资料",
+    "line_start": 76,
+    "line_end": 82,
+    "source_anchor": "第十四条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 中国技术标准规定",
+    "line_start": 25,
+    "line_end": 82,
+    "source_anchor": "第二章"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 本规定由民航局负责解释。",
+    "line_start": 85,
+    "line_end": 85,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 本规定自发布之日起施行。",
+    "line_start": 86,
+    "line_end": 87,
+    "source_anchor": "第十六条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 附则",
+    "line_start": 83,
+    "line_end": 87,
+    "source_anchor": "第三章"
+  }
+}

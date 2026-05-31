@@ -1,0 +1,82 @@
+{
+  "law:民用航空安全检查规则(起草说明)": {
+    "node_id": "law:民用航空安全检查规则(起草说明)",
+    "type": "law",
+    "title": "《民用航空安全检查规则》",
+    "line_start": 0,
+    "line_end": 125,
+    "source_anchor": "《民用航空安全检查规则》"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 为总则。规定了《规则》的目的、依据、适用范",
+    "line_start": 70,
+    "line_end": 76,
+    "source_anchor": "第一章"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 为民航安检机构。规定了民航安检机构设立单位",
+    "line_start": 77,
+    "line_end": 79,
+    "source_anchor": "第二章"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 为民航安全检查员。规定了民航安全检查员从业",
+    "line_start": 80,
+    "line_end": 82,
+    "source_anchor": "第三章"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 为民航安检设备。规定了民航安检设备使用许可",
+    "line_start": 83,
+    "line_end": 85,
+    "source_anchor": "第四章"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 为民航安检工作实施。规定了民航安检工作实施",
+    "line_start": 86,
+    "line_end": 88,
+    "source_anchor": "第五章"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 为民航安检工作特殊情况处置。规定了民航安检",
+    "line_start": 89,
+    "line_end": 92,
+    "source_anchor": "第六章"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 为监督检查。要求民航管理部门转变管理方式,",
+    "line_start": 93,
+    "line_end": 97,
+    "source_anchor": "第七章"
+  },
+  "chapter:8": {
+    "node_id": "chapter:8",
+    "type": "chapter",
+    "title": "第八章 为法律责任。根据民用航空安全检查工作涉及主",
+    "line_start": 98,
+    "line_end": 103,
+    "source_anchor": "第八章"
+  },
+  "chapter:9": {
+    "node_id": "chapter:9",
+    "type": "chapter",
+    "title": "第九章 为附则。规定了《规则》使用术语定义、实施日",
+    "line_start": 104,
+    "line_end": 125,
+    "source_anchor": "第九章"
+  }
+}

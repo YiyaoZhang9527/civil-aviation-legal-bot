@@ -1,0 +1,242 @@
+{
+  "law:航空器型号和适航合格审定噪声规定(交通运输部_2017年第33号)": {
+    "node_id": "law:航空器型号和适航合格审定噪声规定(交通运输部_2017年第33号)",
+    "type": "law",
+    "title": "«航空器型号和适航合格审定噪声规定»已于2017年12月6",
+    "line_start": 0,
+    "line_end": 4519,
+    "source_anchor": "«航空器型号和适航合格审定噪声规定»已于2017年12月6"
+  },
+  "article:36.1": {
+    "node_id": "article:36.1",
+    "type": "article",
+    "title": "第36.1条 适用范围和定义",
+    "line_start": 170,
+    "line_end": 197,
+    "source_anchor": "第36.1条"
+  },
+  "article:36.2": {
+    "node_id": "article:36.2",
+    "type": "article",
+    "title": "第36.2条 申请日期的要求",
+    "line_start": 280,
+    "line_end": 308,
+    "source_anchor": "第36.2条"
+  },
+  "article:36.3": {
+    "node_id": "article:36.3",
+    "type": "article",
+    "title": "第36.3条 与适航要求的相容性",
+    "line_start": 309,
+    "line_end": 314,
+    "source_anchor": "第36.3条"
+  },
+  "article:36.5": {
+    "node_id": "article:36.5",
+    "type": "article",
+    "title": "第36.5条 本规定的限制",
+    "line_start": 315,
+    "line_end": 320,
+    "source_anchor": "第36.5条"
+  },
+  "article:36.6": {
+    "node_id": "article:36.6",
+    "type": "article",
+    "title": "第36.6条 援引纳入",
+    "line_start": 321,
+    "line_end": 369,
+    "source_anchor": "第36.6条"
+  },
+  "article:36.7": {
+    "node_id": "article:36.7",
+    "type": "article",
+    "title": "第36.7条 声学更改:运输类大飞机和喷气式飞机",
+    "line_start": 370,
+    "line_end": 439,
+    "source_anchor": "第36.7条"
+  },
+  "article:36.9": {
+    "node_id": "article:36.9",
+    "type": "article",
+    "title": "第36.9条 声学更改:螺旋桨小飞机和螺旋桨通勤类飞",
+    "line_start": 440,
+    "line_end": 457,
+    "source_anchor": "第36.9条"
+  },
+  "article:36.11": {
+    "node_id": "article:36.11",
+    "type": "article",
+    "title": "第36.11条 声学更改:直升机",
+    "line_start": 458,
+    "line_end": 505,
+    "source_anchor": "第36.11条"
+  },
+  "chapter:A": {
+    "node_id": "chapter:A",
+    "type": "chapter",
+    "title": "A章 基准条件",
+    "line_start": 4055,
+    "line_end": 4101,
+    "source_anchor": "A章"
+  },
+  "article:36.101": {
+    "node_id": "article:36.101",
+    "type": "article",
+    "title": "第36.101条 噪声测量和评定",
+    "line_start": 507,
+    "line_end": 511,
+    "source_anchor": "第36.101条"
+  },
+  "article:36.103": {
+    "node_id": "article:36.103",
+    "type": "article",
+    "title": "第36.103条 噪声限制",
+    "line_start": 512,
+    "line_end": 529,
+    "source_anchor": "第36.103条"
+  },
+  "article:36.105": {
+    "node_id": "article:36.105",
+    "type": "article",
+    "title": "第36.105条 飞行手册中第四章等效性的声明",
+    "line_start": 530,
+    "line_end": 544,
+    "source_anchor": "第36.105条"
+  },
+  "chapter:B": {
+    "node_id": "chapter:B",
+    "type": "chapter",
+    "title": "B章 根据第36.801条噪声的测量程序",
+    "line_start": 4102,
+    "line_end": 4409,
+    "source_anchor": "B章"
+  },
+  "chapter:C": {
+    "node_id": "chapter:C",
+    "type": "chapter",
+    "title": "C章 根据第36.803条噪声的评定和计算",
+    "line_start": 4410,
+    "line_end": 4461,
+    "source_anchor": "C章"
+  },
+  "chapter:D": {
+    "node_id": "chapter:D",
+    "type": "chapter",
+    "title": "D章 根据第36.805条噪声的限制",
+    "line_start": 4462,
+    "line_end": 4519,
+    "source_anchor": "D章"
+  },
+  "chapter:E": {
+    "node_id": "chapter:E",
+    "type": "chapter",
+    "title": "E章 [备用]",
+    "line_start": 553,
+    "line_end": 556,
+    "source_anchor": "E章"
+  },
+  "article:36.501": {
+    "node_id": "article:36.501",
+    "type": "article",
+    "title": "第36.501条 噪声限制",
+    "line_start": 558,
+    "line_end": 592,
+    "source_anchor": "第36.501条"
+  },
+  "chapter:F": {
+    "node_id": "chapter:F",
+    "type": "chapter",
+    "title": "F章 螺旋桨小飞机和螺旋桨通勤类飞机",
+    "line_start": 557,
+    "line_end": 592,
+    "source_anchor": "F章"
+  },
+  "chapter:G": {
+    "node_id": "chapter:G",
+    "type": "chapter",
+    "title": "G章 [备用]",
+    "line_start": 593,
+    "line_end": 595,
+    "source_anchor": "G章"
+  },
+  "article:36.801": {
+    "node_id": "article:36.801",
+    "type": "article",
+    "title": "第36.801条 噪声测量",
+    "line_start": 597,
+    "line_end": 606,
+    "source_anchor": "第36.801条"
+  },
+  "article:36.803": {
+    "node_id": "article:36.803",
+    "type": "article",
+    "title": "第36.803条 噪声评定和计算",
+    "line_start": 607,
+    "line_end": 617,
+    "source_anchor": "第36.803条"
+  },
+  "article:36.805": {
+    "node_id": "article:36.805",
+    "type": "article",
+    "title": "第36.805条 噪声限制",
+    "line_start": 618,
+    "line_end": 653,
+    "source_anchor": "第36.805条"
+  },
+  "chapter:H": {
+    "node_id": "chapter:H",
+    "type": "chapter",
+    "title": "H章 直升机",
+    "line_start": 596,
+    "line_end": 653,
+    "source_anchor": "H章"
+  },
+  "article:36.1501": {
+    "node_id": "article:36.1501",
+    "type": "article",
+    "title": "第36.1501条 程序、噪声级和其他资料",
+    "line_start": 655,
+    "line_end": 665,
+    "source_anchor": "第36.1501条"
+  },
+  "article:36.1581": {
+    "node_id": "article:36.1581",
+    "type": "article",
+    "title": "第36.1581条 条(d)的规定外;",
+    "line_start": 2665,
+    "line_end": 2714,
+    "source_anchor": "第36.1581条"
+  },
+  "article:36.1583": {
+    "node_id": "article:36.1583",
+    "type": "article",
+    "title": "第36.1583条 不符合噪声限制的农业和灭火用飞机",
+    "line_start": 715,
+    "line_end": 732,
+    "source_anchor": "第36.1583条"
+  },
+  "chapter:O": {
+    "node_id": "chapter:O",
+    "type": "chapter",
+    "title": "O章 文件、使用限制和资料",
+    "line_start": 654,
+    "line_end": 732,
+    "source_anchor": "O章"
+  },
+  "article:36.2001": {
+    "node_id": "article:36.2001",
+    "type": "article",
+    "title": "第36.2001条 施行日期",
+    "line_start": 734,
+    "line_end": 2664,
+    "source_anchor": "第36.2001条"
+  },
+  "chapter:P": {
+    "node_id": "chapter:P",
+    "type": "chapter",
+    "title": "P章 附  则",
+    "line_start": 733,
+    "line_end": 2714,
+    "source_anchor": "P章"
+  }
+}
