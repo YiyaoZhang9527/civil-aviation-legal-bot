@@ -91,7 +91,7 @@ def _add_article(node, doc, parent_idx,
 
 
 def _corpus_signature(keys):
-    raw = ",".join(f"{lid}:{nid}" for lid, nid in keys)
+    raw = ",".join(f"{lid}:{nid}" for lid, nid in sorted(keys))
     return hashlib.md5(raw.encode()).hexdigest()
 
 
@@ -117,6 +117,8 @@ class TreeRetriever:
         self._chapter_bm25: BM25Okapi | None = None
         self._article_bm25: BM25Okapi | None = None
 
+        self._law_texts: list[str] = []
+
     @property
     def available(self) -> bool:
         return self._available
@@ -134,6 +136,7 @@ class TreeRetriever:
          article_keys, article_texts, article_to_chapter) = _collect_tree(documents)
 
         self._law_keys = law_keys
+        self._law_texts = law_texts
         self._chapter_keys = chapter_keys
         self._article_keys = article_keys
         self._chapter_to_law = np.array(chapter_to_law, dtype=np.int32)
@@ -176,21 +179,37 @@ class TreeRetriever:
 
     # ── 搜索 ─────────────────────────────────────────────────
 
-    def search(self, query: str, top_k: int = 5) -> list[tuple[tuple[str, str], float]]:
+    def search(self, query: str, top_k: int = 5,
+               hint_law_ids: set[str] | None = None,
+               hint_scores: dict[tuple[str, str], float] | None = None,
+               tree_top_laws: int | None = None,
+               ) -> list[tuple[tuple[str, str], float]]:
         """树检索：法->章->条逐层剪枝，返回 RRF 融合后的条级结果。"""
         if not self._available:
             return []
 
-        top_laws = config.TREE_TOP_LAWS
+        top_laws = tree_top_laws or config.TREE_TOP_LAWS
         top_chapters = config.TREE_TOP_CHAPTERS
         article_candidate_count = min(top_k * 4, 30)
 
-        # Level 0: 法级
+        # Level 0: 法级 (Dense + BM25, 可选 Cross-Encoder 三路融合)
         law_vec = self._level_vector_search(query, self._law_emb, top_laws)
         law_bm25 = self._level_bm25_search(query, self._law_bm25, top_laws)
-        law_set = self._rrf_union(law_vec, law_bm25, top_laws)
+        law_ce = self._level_ce_search(query, top_laws) if getattr(config, 'LEVEL0_CE_ENABLED', False) else None
+        law_set = self._rrf_union(law_vec, law_bm25, top_laws, ce_results=law_ce)
         if not law_set:
             return []
+
+        # A2: 法规级加权——hints 匹配到的法规加分，但不踢除非匹配法规
+        if hint_law_ids:
+            A2_BOOST = 0.3
+            boosted = []
+            for idx, s in law_set:
+                if self._law_keys[idx][0] in hint_law_ids:
+                    boosted.append((idx, s + A2_BOOST))
+                else:
+                    boosted.append((idx, s))
+            law_set = boosted
 
         law_mask = np.zeros(len(self._law_keys), dtype=bool)
         for idx, _ in law_set:
@@ -217,7 +236,7 @@ class TreeRetriever:
 
         art_vec_results = [(self._article_keys[i], s) for i, s in art_vec]
         art_bm25_results = [(self._article_keys[i], s) for i, s in art_bm25]
-        fused = rrf_fuse(art_bm25_results, art_vec_results, {})
+        fused = rrf_fuse(art_bm25_results, art_vec_results, hint_scores or {})
 
         results = sorted(fused.items(), key=lambda x: x[1], reverse=True)[:top_k]
         return results
@@ -241,6 +260,22 @@ class TreeRetriever:
         scores = bm25_index.get_scores(tokens)
         scored = sorted(enumerate(scores), key=lambda x: x[1], reverse=True)[:top_k]
         return [(idx, s) for idx, s in scored if s > 0]
+
+    def _level_ce_search(self, query, top_k):
+        """Level 0 Cross-Encoder 粗筛：query vs 每个法规的代表性文本。"""
+        if not self._law_keys:
+            return []
+        try:
+            from .reranker import _load_model
+            model = _load_model()
+        except Exception:
+            return []
+        if not self._law_texts:
+            return []
+        pairs = [(query, text[:512]) for text in self._law_texts]
+        scores = model.predict(pairs, show_progress_bar=False)
+        top_idx = np.argsort(scores)[::-1][:top_k]
+        return [(int(i), float(scores[i])) for i in top_idx if scores[i] > 0]
 
     def _filtered_vector_search(self, query, embeddings, mask, top_k):
         if embeddings is None or self._model is None:
@@ -269,14 +304,17 @@ class TreeRetriever:
         return [(int(indices[i]), float(sub_scores[i])) for i in local_top if sub_scores[i] > 0]
 
     @staticmethod
-    def _rrf_union(results_a, results_b, top_k):
-        """合并两组 (index, score) 为 RRF 排名，返回 top_k。"""
+    def _rrf_union(results_a, results_b, top_k, ce_results=None):
+        """合并多组 (index, score) 为 RRF 排名，返回 top_k。支持可选的 CE 第三路信号。"""
         rrf_scores: dict[int, float] = {}
         k = config.RRF_K
         for rank, (idx, _) in enumerate(results_a, 1):
             rrf_scores[idx] = rrf_scores.get(idx, 0.0) + 1.0 / (k + rank)
         for rank, (idx, _) in enumerate(results_b, 1):
             rrf_scores[idx] = rrf_scores.get(idx, 0.0) + 1.0 / (k + rank)
+        if ce_results:
+            for rank, (idx, _) in enumerate(ce_results, 1):
+                rrf_scores[idx] = rrf_scores.get(idx, 0.0) + 1.2 / (k + rank)
         sorted_items = sorted(rrf_scores.items(), key=lambda x: x[1], reverse=True)
         return sorted_items[:top_k]
 

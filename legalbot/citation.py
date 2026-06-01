@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import json
 
+from . import config
 from .llm import LLMClient
 from .types import CitationCheck, Evidence
 
@@ -34,6 +35,53 @@ class CitationVerifier:
         data = self.llm.json(messages)
         claims = [str(x).strip() for x in data.get("claims", []) if str(x).strip()]
         return claims or [question]
+
+    def verify_with_cross_encoder(
+        self, question: str, legal_issues: list[str], evidence: list[Evidence],
+    ) -> list[CitationCheck]:
+        """C1: Cross-Encoder确定性校验。三阶段：LLM claim抽取 → cross-encoder打分 → 阈值判定。"""
+        if not evidence:
+            return []
+        claims = self.extract_claims(question, legal_issues)
+
+        from .reranker import _load_model
+        model = _load_model()
+        if model is None:
+            return self.verify(question, legal_issues, evidence)
+
+        threshold = config.CROSS_ENCODER_CITATION_THRESHOLD
+        all_checks: list[CitationCheck] = []
+        for ev in evidence:
+            best_claim = claims[0] if claims else question
+            best_score = -1.0
+            for claim in claims:
+                text = ev.text[:512] if ev.text else ""
+                if not text:
+                    continue
+                scores = model.predict([(claim, text)])
+                s = float(scores[0])
+                if s > best_score:
+                    best_score = s
+                    best_claim = claim
+
+            if best_score >= threshold:
+                status = "supported"
+                ev.verified = True
+            elif best_score >= 0.15:
+                status = "partial"
+            else:
+                status = "unsupported"
+
+            all_checks.append(CitationCheck(
+                claim=best_claim,
+                law_id=ev.law_id,
+                node_id=ev.node_id,
+                status=status,
+                reason=f"cross-encoder score={best_score:.3f}",
+                quote="",
+                confidence=max(best_score, 0.0),
+            ))
+        return all_checks
 
     def verify(self, question: str, legal_issues: list[str], evidence: list[Evidence]) -> list[CitationCheck]:
         if not evidence:

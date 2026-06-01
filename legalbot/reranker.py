@@ -11,6 +11,14 @@ logger = logging.getLogger(__name__)
 _model = None
 
 
+def _cuda_available() -> bool:
+    try:
+        import torch
+        return torch.cuda.is_available()
+    except ImportError:
+        return False
+
+
 def _load_model():
     global _model
     if _model is not None:
@@ -22,7 +30,8 @@ def _load_model():
         return None
     try:
         model_path = str(config.RERANKER_MODEL_PATH) if config.RERANKER_MODEL_PATH.exists() else config.RERANKER_MODEL_NAME
-        _model = CrossEncoder(model_path, device="cpu")
+        device = "cuda" if _cuda_available() else "cpu"
+        _model = CrossEncoder(model_path, device=device)
         return _model
     except Exception as exc:
         logger.warning("Cross-Encoder 模型加载失败: %s", exc)

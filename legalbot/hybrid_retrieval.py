@@ -105,7 +105,7 @@ class VectorIndex:
         return [(self._corpus_keys[i], float(scores[i])) for i in top_indices if scores[i] > config.VECTOR_SCORE_THRESHOLD]
 
     def _corpus_signature(self) -> str:
-        keys_str = ",".join(f"{lid}:{nid}" for lid, nid in self._corpus_keys)
+        keys_str = ",".join(f"{lid}:{nid}" for lid, nid in sorted(self._corpus_keys))
         return hashlib.md5(keys_str.encode()).hexdigest()
 
     def _try_load_cache(self, expected_sig: str, model_cls: type) -> bool:
@@ -159,3 +159,25 @@ def rrf_fuse(
         if hint_s > 0:
             scores[key] = scores.get(key, 0.0) + w_hint * min(hint_s / 12.0, 1.0)
     return scores
+
+
+def signal_cutoff(
+    fused_scores: dict[tuple[str, str], float],
+    bm25_results: list[tuple[tuple[str, str], float]],
+    vector_results: list[tuple[tuple[str, str], float]],
+    hint_scores: dict[tuple[str, str], float],
+    min_signals: int = 2,
+) -> dict[tuple[str, str], float]:
+    """B3: 信号置信度截断。只保留至少 min_signals 个信号源命中的证据。"""
+    signal_keys: dict[tuple[str, str], set[str]] = {}
+    for key, _ in bm25_results:
+        signal_keys.setdefault(key, set()).add("bm25")
+    for key, _ in vector_results:
+        signal_keys.setdefault(key, set()).add("vector")
+    for key, score in hint_scores.items():
+        if score > 0:
+            signal_keys.setdefault(key, set()).add("hint")
+    return {
+        key: score for key, score in fused_scores.items()
+        if len(signal_keys.get(key, set())) >= min_signals
+    }

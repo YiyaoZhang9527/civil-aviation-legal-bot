@@ -6,6 +6,7 @@ from dataclasses import dataclass, field
 import json
 
 from .citation import CitationVerifier
+from . import config
 from .llm import LLMClient
 from .logger import TerminalLogger
 from .retrieval import read_law_node, search_index_tree
@@ -116,6 +117,36 @@ class FollowupRewrite:
     is_new_question: bool = True
     rewrite: str = ""
     reason: str = ""
+
+
+_STOP_WORDS = frozenset(
+    "的 了 是 在 我 有 和 就 不 人 都 一 一个 上 也 很 到 说 要 去 你 会 着 没有 看 好 自己 这 那 个 他 她 它 们 把 被 让 给 对 与 但 而 或 如 因 所 以 之 于 则 已 还 又 再 请 可 能".split()
+)
+
+
+def _lexical_support_score(answer: str, evidence: list[Evidence]) -> float:
+    """E1: 答案content tokens被证据文本覆盖的比例。确定性，零LLM。"""
+    import jieba
+    answer_tokens = {w for w in jieba.cut(answer) if len(w) >= 2 and w not in _STOP_WORDS}
+    if not answer_tokens:
+        return 1.0
+    evidence_tokens: set[str] = set()
+    for ev in evidence:
+        if ev.text:
+            evidence_tokens.update(w for w in jieba.cut(ev.text) if len(w) >= 2)
+    covered = answer_tokens & evidence_tokens
+    return len(covered) / len(answer_tokens)
+
+
+def _build_citation_block(citations: list[CitationCheck]) -> str:
+    """E1: 从citations构建标准引用列表附加到答案末尾。"""
+    supported = [c for c in citations if c.status in {"supported", "partial"} and c.law_id]
+    if not supported:
+        return ""
+    lines = ["\n\n【引用法条】"]
+    for c in supported[:8]:
+        lines.append(f"- {c.law_id} {c.node_id} [{c.status}]")
+    return "\n".join(lines)
 
 
 class SubjectAgent:
@@ -229,12 +260,6 @@ class ClarificationAgent:
             return False, ""
         if subject_analysis.need_clarification:
             return True, subject_analysis.clarification or "请补充关键主体关系后再判断。"
-        blocking = [
-            fact for fact in issue_analysis.missing_facts
-            if fact and any(keyword in fact for keyword in ["主体", "谁", "哪架", "哪个机场", "当事人", "运营人"])
-        ]
-        if blocking:
-            return True, "这个问题还缺少关键信息：" + "、".join(blocking[:4])
         return False, ""
 
 
@@ -518,9 +543,17 @@ class CitationAgent:
         self.verifier = CitationVerifier(llm)
 
     def verify(self, question: str, legal_issues: list[str], evidence: list[Evidence], logger: TerminalLogger | None = None) -> list[CitationCheck]:
-        if logger:
-            logger.info("citation/引用校验", "LLM从问题中抽取法律主张，逐条判断证据是否支持", f"待校验证据={len(evidence)}条")
-        checks = self.verifier.verify(question, legal_issues, evidence)
+        if not evidence:
+            return []
+        # C1: Cross-Encoder确定性校验分支
+        if config.CROSS_ENCODER_CITATION:
+            if logger:
+                logger.info("citation/引用校验", "Cross-Encoder语义校验模式", f"待校验证据={len(evidence)}条")
+            checks = self.verifier.verify_with_cross_encoder(question, legal_issues, evidence)
+        else:
+            if logger:
+                logger.info("citation/引用校验", "LLM从问题中抽取法律主张，逐条判断证据是否支持", f"待校验证据={len(evidence)}条")
+            checks = self.verifier.verify(question, legal_issues, evidence)
         for check in checks:
             if logger:
                 status_zh = {"supported": "支持", "partial": "部分支持", "unsupported": "不支持"}.get(check.status, check.status)
@@ -660,6 +693,14 @@ class ReflexionAgent:
                 for c in citations
             )
             if all_supported:
+                # E1: 词法支撑门控——即使LLM说pass，也要验证答案内容被证据支撑
+                if config.LEXICAL_REFLEXION_ENABLED:
+                    support = _lexical_support_score(answer, evidence)
+                    if support < 0.4:
+                        return ReflexionResult(
+                            quality="gap",
+                            gaps=[f"答案与证据的词法支撑率仅{support:.0%}，可能包含未引用内容"],
+                        )
                 return ReflexionResult(quality="pass")
 
         messages = [
@@ -726,10 +767,12 @@ class LegalOrchestrator:
         try:
             return self._answer(question)
         except Exception as exc:
+            import traceback
+            traceback.print_exc()
             if self.logger:
                 self.logger.error("orchestrator", "异常中断 / error", str(exc))
             return AnswerResult(
-                answer="抱歉，处理您的问题时遇到了异常，请稍后重试。",
+                answer="抱歉，处理您的问题时遇到了异常，请稀后重试。",
                 intent="error",
                 topic="",
                 status="error",
@@ -806,11 +849,27 @@ class LegalOrchestrator:
             if rewrite_plan.article_hints:
                 self.logger.info("rewrite/查询改写", "LLM推荐的可能相关法条", " | ".join(rewrite_plan.article_hints))
 
+        # ── A1: 查询确定性门控 ──
+        if config.QUERY_GATE_ENABLED:
+            normalized_q = state.normalized_question
+            gate_queries = [normalized_q]
+            for q in rewrite_plan.queries:
+                q_n = normalize_text(q)
+                if q_n != normalized_q and q_n not in gate_queries:
+                    gate_queries.append(q)
+            gate_queries = gate_queries[:5]
+            if self.logger:
+                self.logger.info("query_gate/确定性门控",
+                                 "原始query确保参与检索，LLM改写仅做扩展",
+                                 f"gate_queries({len(gate_queries)}): {gate_queries[:3]}")
+        else:
+            gate_queries = rewrite_plan.queries or [question]
+
         plan = RetrievalPlan(
             intent="legal",
             legal_issues=issue_analysis.legal_issues,
             facts=subject_analysis.subjects,
-            queries=rewrite_plan.queries or [question],
+            queries=gate_queries,
             law_hints=rewrite_plan.law_hints,
             article_hints=rewrite_plan.article_hints,
             need_clarification=False,
@@ -872,12 +931,13 @@ class LegalOrchestrator:
                                     f"LLM判定答案有缺陷(第{reflexion_iterations}轮)，将补搜证据后重试",
                                     f"缺失项: {'; '.join(reflexion.gaps[:3])}")
             # 用补搜词构建独立检索计划，不污染原始 plan
+            # 跨法规补搜：清空 law_hints 限制，在全部 129 法内重新检索
             refine_plan = RetrievalPlan(
                 intent="legal",
                 legal_issues=plan.legal_issues,
                 facts=plan.facts,
                 queries=reflexion.refine_queries,
-                law_hints=reflexion.refine_law_hints,
+                law_hints=[],  # 清空限制，允许跨法规
                 article_hints=reflexion.refine_article_hints,
                 assumptions=plan.assumptions,
                 alternative_paths=plan.alternative_paths,
@@ -894,6 +954,8 @@ class LegalOrchestrator:
                 if (e.law_id, e.node_id) not in seen:
                     state.evidence.append(e)
                     seen.add((e.law_id, e.node_id))
+            # 按分数排序后截断，避免低分补搜证据挤掉高分初始证据
+            state.evidence.sort(key=lambda e: e.score, reverse=True)
             state.evidence = state.evidence[:12]
             state.citations = self.citation_agent.verify(question, plan.legal_issues, state.evidence, self.logger)
             state.conflicts = self.conflict_agent.check(state.evidence, self.logger)
@@ -909,6 +971,13 @@ class LegalOrchestrator:
             self.logger.success("orchestrator/完成",
                                 f"回答生成完毕(自检{reflexion_iterations}轮)",
                                 f"答案长度={len(state.final_answer)}字, 最终证据={len(state.evidence)}条")
+
+        # E1: 答案格式后处理——附加标准引用列表
+        if config.LEXICAL_REFLEXION_ENABLED and state.citations:
+            citation_block = _build_citation_block(state.citations)
+            if citation_block:
+                state.final_answer = state.final_answer.rstrip() + citation_block
+
         return AnswerResult(
             answer=state.final_answer,
             intent=plan.intent,
