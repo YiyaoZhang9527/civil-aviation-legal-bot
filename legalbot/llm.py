@@ -70,15 +70,23 @@ class LLMClient:
             return LLMConfig(provider=provider, api_key=key, base_url=base_url, model=model)
         raise LLMError(f"不支持的 LEGALBOT_LLM_PROVIDER: {provider}")
 
-    def chat(self, messages: list[dict], temperature: float = 0.0) -> str:
+    def chat(self, messages: list[dict], temperature: float = 0.0,
+             json_mode: bool = False) -> str:
         url = f"{self.config.base_url}/v1/chat/completions"
         if self.config.base_url.endswith("/v1"):
             url = f"{self.config.base_url}/chat/completions"
-        payload = {
+        payload: dict = {
             "model": self.config.model,
             "messages": messages,
             "temperature": temperature,
         }
+        if json_mode:
+            payload["response_format"] = {"type": "json_object"}
+            # DeepSeek JSON mode 需要 system message 中提示输出 JSON
+            for m in messages:
+                if m["role"] == "system":
+                    m["content"] += "\n你必须输出合法的JSON格式。"
+                    break
         data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
         req = request.Request(
             url,
@@ -92,7 +100,7 @@ class LLMClient:
         last_exc = None
         for attempt in range(config.MAX_RETRIES):
             try:
-                with request.urlopen(req, timeout=60) as resp:
+                with request.urlopen(req, timeout=getattr(config, 'LLM_TIMEOUT', 60)) as resp:
                     raw = resp.read().decode("utf-8")
                 parsed = json.loads(raw)
                 return parsed["choices"][0]["message"]["content"]
@@ -103,6 +111,11 @@ class LLMClient:
                     last_exc = exc
                     continue
                 body = exc.read().decode("utf-8", errors="ignore")
+                # 402 Payment Required：余额耗尽，必须明确提示
+                if exc.code == 402:
+                    raise LLMError(
+                        f"LLM API 余额耗尽（HTTP 402）。请充值后再调用。响应: {body[:200]}"
+                    ) from exc
                 raise LLMError(f"LLM HTTP {exc.code}: {body[:500]}") from exc
             except (TimeoutError, OSError) as exc:
                 if attempt < config.MAX_RETRIES - 1:
@@ -114,8 +127,38 @@ class LLMClient:
         raise LLMError(f"LLM 调用失败: {last_exc}") from last_exc
 
     def json(self, messages: list[dict], temperature: float = 0.0) -> dict:
-        text = self.chat(messages, temperature=temperature)
-        return parse_json_object(text)
+        """调用 LLM 并解析 JSON。失败时重试 + 兜底返回 {}。
+
+        防御性设计：LLM 偶发返回非法 JSON（如缺逗号），不应让整个 pipeline crash。
+        - 重试一次（追加 JSON 格式提醒）
+        - 最终失败返回 {}（让调用方用 .get() 拿默认值）
+        """
+        import time as _time
+        last_error: Exception | None = None
+        for attempt in range(max(1, config.MAX_RETRIES)):
+            try:
+                text = self.chat(messages, temperature=temperature, json_mode=True)
+                return parse_json_object(text)
+            except (json.JSONDecodeError, LLMError) as e:
+                last_error = e
+                if attempt < max(1, config.MAX_RETRIES) - 1:
+                    _time.sleep(2 ** attempt)
+                    # 在 system message 追加提醒
+                    messages = list(messages)
+                    if messages and messages[0].get("role") == "system":
+                        messages[0] = {
+                            **messages[0],
+                            "content": (
+                                messages[0]["content"]
+                                + "\n\n【格式提醒】你上一次的回复不是合法 JSON。务必："
+                                "1) 用双引号包裹所有键和字符串值；"
+                                "2) 字段之间用逗号分隔（最后一个字段后不加逗号）；"
+                                "3) 完整闭合所有花括号和方括号。"
+                            ),
+                        }
+                    continue
+        # 最终失败：返回 {}，让调用方用 .get() 拿默认值
+        return {}
 
 
 def parse_json_object(text: str) -> dict:

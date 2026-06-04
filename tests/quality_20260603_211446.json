@@ -1,0 +1,436 @@
+{
+  "evaluated_at": "2026-06-03T21:14:46.521355",
+  "bot_source": "test30_20260603_190237.csv",
+  "judge_model": "deepseek-v4-flash",
+  "summary": {
+    "n_questions": 3,
+    "mqs": {
+      "q_match": 1.33,
+      "law_correct": 1,
+      "coverage": 1,
+      "calibration": 1.33,
+      "format": 2,
+      "weighted_score": 61.67
+    },
+    "lemaj": {
+      "supported_pct": 0.182,
+      "correct_pct": 1.0,
+      "relevant_pct": 0.667
+    },
+    "faithfulness": {
+      "faithful_pct": 0.042,
+      "partial_pct": 0.0,
+      "unverifiable_pct": 0.833,
+      "hallucinated_pct": 0.125
+    }
+  },
+  "per_question": [
+    {
+      "question_id": "Q01",
+      "category": "CCAR-121",
+      "question": "不在《运行规范》的机场是否可以去备降",
+      "mqs": {
+        "q_match": 2,
+        "law_correct": 2,
+        "coverage": 2,
+        "calibration": 2,
+        "format": 2,
+        "weighted_score": 100.0,
+        "reasons": {
+          "q_match": "直接回答原则上不能，紧急例外",
+          "law_correct": "引用CCAR-121.25准确匹配问题",
+          "coverage": "覆盖计划备降和紧急备降情形",
+          "calibration": "明确区分法规与建议，诚实标注推断",
+          "format": "有结论、依据、适用条件等清晰结构"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "不在《运行规范》的机场原则上不能作为计划备降机场",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "航空公司只能使用运行规范清单上列明的机场",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "紧急情况下的非计划备降可能例外",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "运行规范中明确列出了航空公司可使用的正常使用机场、备降机场、临时使用机场和加油机场，航空公司只能使用清单上的机场。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "备降机场属于定期载客运行中需要使用的机场，因此也必须列入运行规范。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "在紧急情况下（如机械故障、天气突变等），航空公司可能根据飞行机组判断和运行控制程序选择未列入运行规范的机场备降，但这属于非计划备降。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "《大型飞机公共航空运输承运人运行合格审定规则》第121.25条(b)(4)规定，合格证持有人只能使用列在运行规范清单上的飞机和机场运行。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "本结论适用于大型飞机公共航空运输承运人（CCAR-121部）的计划备降。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "对于小型商业运输（CCAR-135部）或其他主体，适用规则可能不同，需单独分析。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "使用未列入运行规范的机场进行计划备降可能导致违规运行，面临局方处罚。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "紧急备降后需及时报告局方并视情修改运行规范。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 11,
+          "supported_pct": 0.545,
+          "correct_pct": 1.0,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "不在《运行规范》的机场原则上不能作为计划备降机场，因为航空公司只能使用运行规范清单上列明的机场。",
+            "status": "unverifiable",
+            "reason": "证据未提供运行规范具体内容"
+          },
+          {
+            "text": "紧急情况下的非计划备降可能例外。",
+            "status": "unverifiable",
+            "reason": "证据未涉及紧急情况例外"
+          },
+          {
+            "text": "运行规范中明确列出了航空公司可使用的正常使用机场、备降机场、临时使用机场和加油机场，航空公司只能使用清单上的机场。",
+            "status": "unverifiable",
+            "reason": "证据仅列出条款标题，无具体内容"
+          },
+          {
+            "text": "备降机场属于定期载客运行中需要使用的机场，因此也必须列入运行规范。",
+            "status": "unverifiable",
+            "reason": "证据未明确备降机场列入要求"
+          },
+          {
+            "text": "在紧急情况下（如机械故障、天气突变等），航空公司可能根据飞行机组判断和运行控制程序选择未列入运行规范的机场备降，但这属于非计划备降。",
+            "status": "unverifiable",
+            "reason": "证据未涉及紧急备降程序"
+          },
+          {
+            "text": "《大型飞机公共航空运输承运人运行合格审定规则》第121.25条(b)(4)规定，合格证持有人只能使用列在运行规范清单上的飞机和机场运行。",
+            "status": "unverifiable",
+            "reason": "证据未提供第121.25条具体内容"
+          },
+          {
+            "text": "本结论适用于大型飞机公共航空运输承运人（CCAR-121部）的计划备降。",
+            "status": "unverifiable",
+            "reason": "证据未限定适用范围"
+          },
+          {
+            "text": "对于小型商业运输（CCAR-135部）或其他主体，适用规则可能不同，需单独分析。",
+            "status": "unverifiable",
+            "reason": "证据未涉及其他主体规则"
+          },
+          {
+            "text": "使用未列入运行规范的机场进行计划备降可能导致违规运行，面临局方处罚。",
+            "status": "unverifiable",
+            "reason": "证据未提及处罚后果"
+          },
+          {
+            "text": "紧急备降后需及时报告局方并视情修改运行规范。",
+            "status": "unverifiable",
+            "reason": "证据未涉及报告要求"
+          }
+        ],
+        "summary": {
+          "total_claims": 10,
+          "faithful_pct": 0.0,
+          "partial_pct": 0.0,
+          "unverifiable_pct": 1.0,
+          "hallucinated_pct": 0.0
+        }
+      }
+    },
+    {
+      "question_id": "Q02",
+      "category": "CCAR-121",
+      "question": "飞机起飞前需要满足哪些燃油量要求",
+      "mqs": {
+        "q_match": 0,
+        "law_correct": 0,
+        "coverage": 0,
+        "calibration": 0,
+        "format": 2,
+        "weighted_score": 10.0,
+        "reasons": {
+          "q_match": "答案完全未涉及燃油量要求",
+          "law_correct": "所引法规与燃油量无关",
+          "coverage": "未覆盖任何燃油量规定",
+          "calibration": "编造无关内容，未承认不确定",
+          "format": "结构清晰，分段明确"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "计划备降必须使用运行规范中列明的机场",
+            "supported": false,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "在紧急情况下，机长可以为安全选择任何合适的机场",
+            "supported": false,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "运行规范中应当列明航空公司计划使用的备降机场",
+            "supported": false,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "紧急情况下，机长有权选择不在运行规范中的机场作为备降机场，且无需事先列明，但需事后报告",
+            "supported": false,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "CCAR-121部第121.25条要求运行规范包含备降机场，第121.557条赋予机长在紧急情况下根据安全需要采取行动的权力",
+            "supported": false,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "若在非紧急情况下擅自使用未列入运行规范的机场备降，可能违反运行规范，面临局方处罚",
+            "supported": false,
+            "correct": true,
+            "relevant": false
+          }
+        ],
+        "summary": {
+          "total_ldps": 6,
+          "supported_pct": 0.0,
+          "correct_pct": 1.0,
+          "relevant_pct": 0.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "原则上，计划备降必须使用运行规范中列明的机场；但在紧急情况下，机长可以为安全选择任何合适的机场。",
+            "status": "unverifiable",
+            "reason": "证据未涉及备降机场规则"
+          },
+          {
+            "text": "运行规范中应当列明航空公司计划使用的备降机场。（《《大型飞机公共航空运输承运人运行合格审定规则》》）",
+            "status": "unverifiable",
+            "reason": "证据中无此法规内容"
+          },
+          {
+            "text": "[合理推断] 在紧急情况下，为保障飞行安全，机长有权选择不在运行规范中的机场作为备降机场。（《《大型飞机公共航空运输承运人运行合格审定规则》》）",
+            "status": "unverifiable",
+            "reason": "证据未提及该推断"
+          },
+          {
+            "text": "CCAR-121部第121.25条要求运行规范包含备降机场；第121.557条赋予机长在紧急情况下根据安全需要采取行动的权力。",
+            "status": "unverifiable",
+            "reason": "证据中无相关条款"
+          },
+          {
+            "text": "计划备降必须使用运行规范中的机场；紧急情况下无需事先列明，但需事后报告。",
+            "status": "unverifiable",
+            "reason": "证据未覆盖该要求"
+          },
+          {
+            "text": "若在非紧急情况下擅自使用未列入运行规范的机场备降，可能违反运行规范，面临局方处罚。",
+            "status": "unverifiable",
+            "reason": "证据未涉及处罚"
+          }
+        ],
+        "summary": {
+          "total_claims": 6,
+          "faithful_pct": 0.0,
+          "partial_pct": 0.0,
+          "unverifiable_pct": 1.0,
+          "hallucinated_pct": 0.0
+        }
+      }
+    },
+    {
+      "question_id": "Q03",
+      "category": "CCAR-121",
+      "question": "航空公司在什么情况下可以低于最低天气标准运行",
+      "mqs": {
+        "q_match": 2,
+        "law_correct": 1,
+        "coverage": 1,
+        "calibration": 2,
+        "format": 2,
+        "weighted_score": 75.0,
+        "reasons": {
+          "q_match": "直接回答不得低于，但承认例外无依据",
+          "law_correct": "引用法规部分相关但一条完全无关",
+          "coverage": "仅否定未覆盖可能例外情形",
+          "calibration": "诚实承认证据不足",
+          "format": "结构清晰分点说明"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "航空公司不得低于最低天气标准运行",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "在获得局方特别批准并在运行规范中明确的情况下，可能存在例外",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "航空公司必须遵守运行规范中规定的机场最低天气标准，不得低于该标准运行",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "飞行程序设计需经地区管理局批准，其中包含运行最低标准，航空公司应遵循",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "法律未明确允许低于最低天气标准运行",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "低于最低天气标准运行通常不被允许",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "运行规范中有特别批准且基于安全评估和局方认可时，可能被允许",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "擅自低于最低天气标准运行可能导致运行合格证被吊销、行政处罚或安全事故",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 8,
+          "supported_pct": 0.0,
+          "correct_pct": 1.0,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "根据现有法规，航空公司不得低于最低天气标准运行。",
+            "status": "unverifiable",
+            "reason": "证据未提及最低天气标准"
+          },
+          {
+            "text": "在获得局方特别批准并在运行规范中明确的情况下，可能存在例外。",
+            "status": "unverifiable",
+            "reason": "证据未涉及特别批准"
+          },
+          {
+            "text": "提供的证据中无直接条款支持。",
+            "status": "faithful",
+            "reason": "证据确实无相关条款"
+          },
+          {
+            "text": "航空公司必须遵守运行规范中规定的机场最低天气标准，不得低于该标准运行（引自《大型飞机公共航空运输承运人运行合格审定规则》第121.25条）。",
+            "status": "hallucinated",
+            "reason": "证据中无第121.25条内容"
+          },
+          {
+            "text": "飞行程序设计需经地区管理局批准，其中包含运行最低标准，航空公司应遵循（引自《民用航空导航设备开放与运行管理规定》第二十三条）。",
+            "status": "hallucinated",
+            "reason": "引用的条款内容不相关"
+          },
+          {
+            "text": "依据《大型飞机公共航空运输承运人运行合格审定规则》第121.25条，运行规范包含机场限制；《民用机场飞行程序和运行最低标准管理规定》第二十三条规定飞行程序须经批准。但未明确允许低于标准运行。",
+            "status": "hallucinated",
+            "reason": "编造不存在的条款内容"
+          },
+          {
+            "text": "低于最低天气标准运行通常不被允许，除非运行规范中有特别批准，且该批准需基于安全评估和局方认可。",
+            "status": "unverifiable",
+            "reason": "证据未提及特别批准和安全评估"
+          },
+          {
+            "text": "擅自低于最低天气标准运行可能导致运行合格证被吊销、行政处罚或引发安全事故。",
+            "status": "unverifiable",
+            "reason": "证据未涉及后果"
+          }
+        ],
+        "summary": {
+          "total_claims": 8,
+          "faithful_pct": 0.125,
+          "partial_pct": 0.0,
+          "unverifiable_pct": 0.5,
+          "hallucinated_pct": 0.375
+        }
+      }
+    }
+  ],
+  "inter_rater": [
+    {
+      "question_id": "Q01",
+      "error": "LLM HTTP 401: \"Invalid token\""
+    },
+    {
+      "question_id": "Q02",
+      "error": "LLM HTTP 401: \"Invalid token\""
+    },
+    {
+      "question_id": "Q03",
+      "error": "LLM HTTP 401: \"Invalid token\""
+    }
+  ]
+}

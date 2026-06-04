@@ -2,9 +2,1017 @@
   "law:民用航空使用空域办法": {
     "node_id": "law:民用航空使用空域办法",
     "type": "law",
-    "title": "|  |  |  |  |",
+    "title": "民用航空使用空域办法",
     "line_start": 0,
     "line_end": 1529,
-    "source_anchor": "|  |  |  |  |"
+    "source_anchor": "民用航空使用空域办法"
+  },
+  "section:5": {
+    "node_id": "section:5",
+    "type": "section",
+    "title": "第五节 进离场航线重要点的设置",
+    "line_start": 1095,
+    "line_end": 1112,
+    "source_anchor": "第五节"
+  },
+  "section:6": {
+    "node_id": "section:6",
+    "type": "section",
+    "title": "第六节 转换点的设置",
+    "line_start": 1113,
+    "line_end": 1125,
+    "source_anchor": "第六节"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 一般规定",
+    "line_start": 1126,
+    "line_end": 1150,
+    "source_anchor": "第一节"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 代号的组成",
+    "line_start": 1151,
+    "line_end": 1218,
+    "source_anchor": "第二节"
+  },
+  "section:3": {
+    "node_id": "section:3",
+    "type": "section",
+    "title": "第三节 代号的指配",
+    "line_start": 1219,
+    "line_end": 1238,
+    "source_anchor": "第三节"
+  },
+  "section:4": {
+    "node_id": "section:4",
+    "type": "section",
+    "title": "第四节 代号的使用",
+    "line_start": 1239,
+    "line_end": 1529,
+    "source_anchor": "第四节"
+  },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为了规范民用航空活动相关空域的建设和使用,保证航空器运行的",
+    "line_start": 17,
+    "line_end": 19,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本办法适用于在中华人民共和国领空以及根据我国缔结或者参加的",
+    "line_start": 20,
+    "line_end": 24,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 空域是国家资源,应当得到合理、充分和有效的利用。空域的建设",
+    "line_start": 25,
+    "line_end": 40,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 空域的建设和使用应当考虑下列基本因素:",
+    "line_start": 41,
+    "line_end": 51,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 中国民用航空总局(以下简称民航总局)空中交通管理局根据国家",
+    "line_start": 52,
+    "line_end": 54,
+    "source_anchor": "第五条"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 为提高空域资源的利用率,保证飞行活动安全和顺畅地进行,按照",
+    "line_start": 55,
+    "line_end": 57,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 本办法使用的术语的含义,在本办法附件一《定义》中规定。",
+    "line_start": 58,
+    "line_end": 58,
+    "source_anchor": "第七条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总则",
+    "line_start": 16,
+    "line_end": 58,
+    "source_anchor": "第一章"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 空域应当根据航路、航线结构,通信、导航、气象和监视设施以及",
+    "line_start": 60,
+    "line_end": 62,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 航路、航线地带和民用机场区域设置高空管制区、中低空管制区、",
+    "line_start": 63,
+    "line_end": 64,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 通常情况下,高空管制区、中低空管制区、终端(进近)管制区和",
+    "line_start": 65,
+    "line_end": 82,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 不同类型的空域垂直相邻时,在共同飞行高度层的飞行应当遵守",
+    "line_start": 83,
+    "line_end": 87,
+    "source_anchor": "第十一条"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 A、B、C 类空域的下限,应当为该空域的最低可用飞行高度层;D",
+    "line_start": 88,
+    "line_end": 90,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 A 类空域为高空管制空域。在我国境内标准大气压高度6000 米以",
+    "line_start": 91,
+    "line_end": 93,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 B 类空域为中低空管制空域。在我国境内标准大气压高度6000 米",
+    "line_start": 94,
+    "line_end": 98,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 C 类空域为进近管制空域。通常是指在一个或者几个机场附近的",
+    "line_start": 99,
+    "line_end": 104,
+    "source_anchor": "第十五条"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 D 类空域为机场管制地带。机场管制地带通常包括起落航线和最",
+    "line_start": 105,
+    "line_end": 109,
+    "source_anchor": "第十六条"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 空域分类",
+    "line_start": 59,
+    "line_end": 109,
+    "source_anchor": "第二章"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 空中交通服务是空中交通管理的主要组成部分,包括空中交通管",
+    "line_start": 111,
+    "line_end": 118,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 空中交通管制服务包括机场管制服务、进近管制服务和区域管制",
+    "line_start": 119,
+    "line_end": 129,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 确定某区域或者机场是否需要提供空中交通服务时,应当依据以",
+    "line_start": 130,
+    "line_end": 137,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 确定需要提供空中交通服务后,应当根据所需提供的空中交通服",
+    "line_start": 138,
+    "line_end": 141,
+    "source_anchor": "第二十条"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 确定需要提供飞行情报服务和告警服务的空域,应当设立飞行",
+    "line_start": 142,
+    "line_end": 143,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 确定需要提供空中交通管制服务的区域,应当根据所需提供空",
+    "line_start": 144,
+    "line_end": 148,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 根据执行飞行任务的性质和条件,航路划分为国际航路和国内",
+    "line_start": 149,
+    "line_end": 152,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 按照允许使用时间的限制,航线划分为固定航线和临时航线。",
+    "line_start": 153,
+    "line_end": 156,
+    "source_anchor": "第二十四条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 空中交通服务区域",
+    "line_start": 110,
+    "line_end": 156,
+    "source_anchor": "第三章"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 本章应当与本办法的有关附件、行业标准以及其他有关规定结",
+    "line_start": 159,
+    "line_end": 161,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 按照本办法确定的民用航空涉及的空域的侧向和垂直缓冲区仅",
+    "line_start": 162,
+    "line_end": 163,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 在某空域内实施新的运行程序、调整航路和航线结构或者调整",
+    "line_start": 164,
+    "line_end": 168,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 民用航空活动涉及的各类空域的建设和使用应当按照空域建设",
+    "line_start": 169,
+    "line_end": 171,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 导航容差是各类空域设计或者技术评估的基本依据,主要用于",
+    "line_start": 173,
+    "line_end": 175,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 导航容差是多种相关因素共同作用的结果,采用平方和根的方法",
+    "line_start": 176,
+    "line_end": 178,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 地面无线电导航设施标定的位置点的导航容差,由地面无线电",
+    "line_start": 179,
+    "line_end": 181,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 区域导航航路运行所需导航性能的类型,应当根据不同地区所",
+    "line_start": 182,
+    "line_end": 183,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 以标称飞行航迹或者标称区域为中心,按照导航容差99.7%概",
+    "line_start": 184,
+    "line_end": 186,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 交叉定位点、导航设施上空的导航容差以及超障区和缓冲区按",
+    "line_start": 187,
+    "line_end": 188,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 飞行情报区应当包括我国境内上空,以及由国际民航组织亚太",
+    "line_start": 190,
+    "line_end": 192,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 公海上空飞行情报区边界的划定或者调整,应当按照国际民航",
+    "line_start": 193,
+    "line_end": 194,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 飞行情报区应当根据向该飞行情报区提供服务的飞行情报单位",
+    "line_start": 195,
+    "line_end": 198,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 为了及时有效地对在我国飞行情报区内遇险失事的航空器进行",
+    "line_start": 199,
+    "line_end": 202,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 高空管制区和中低空管制区统称为区域管制区。区域管制区的",
+    "line_start": 204,
+    "line_end": 210,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 区域管制区的划设,必须与通信、导航、监视和气象等设施的建",
+    "line_start": 211,
+    "line_end": 213,
+    "source_anchor": "第四十条"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 确定区域管制区边界应当考虑航空器绕飞雷雨等特殊运行的要",
+    "line_start": 214,
+    "line_end": 225,
+    "source_anchor": "第四十一条"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 高空管制区的下限通常高于标准大气压高度6000 米(不含),",
+    "line_start": 226,
+    "line_end": 229,
+    "source_anchor": "第四十二条"
+  },
+  "article:43": {
+    "node_id": "article:43",
+    "type": "article",
+    "title": "第四十三条 中低空管制区的下限通常在距离地面或者水面200 米以上,或",
+    "line_start": 230,
+    "line_end": 234,
+    "source_anchor": "第四十三条"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 区域管制区可以根据区域内的空中交通流量、管制员工作负荷",
+    "line_start": 235,
+    "line_end": 237,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 高空管制区内提供空中交通服务的空域通常为A 类空域;在包",
+    "line_start": 238,
+    "line_end": 241,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 区域管制区应当以向该区域提供管制服务的空中交通管制单位",
+    "line_start": 242,
+    "line_end": 247,
+    "source_anchor": "第四十六条"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 机场附近进场和离场航线飞行比较复杂,或者一个或几个邻近",
+    "line_start": 249,
+    "line_end": 254,
+    "source_anchor": "第四十七条"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 终端(进近)管制区应当包含仪表着陆、起飞及必要的等待空",
+    "line_start": 255,
+    "line_end": 259,
+    "source_anchor": "第四十八条"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 终端(进近)管制区的划设,应当与通信、导航、监视和气象",
+    "line_start": 260,
+    "line_end": 262,
+    "source_anchor": "第四十九条"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 终端(进近)管制区的设计应当满足飞行程序设计的要求,并兼",
+    "line_start": 263,
+    "line_end": 276,
+    "source_anchor": "第五十条"
+  },
+  "article:51": {
+    "node_id": "article:51",
+    "type": "article",
+    "title": "第五十一条 终端(进近)管制区的下限通常应当在距离地面或者水面 200",
+    "line_start": 277,
+    "line_end": 283,
+    "source_anchor": "第五十一条"
+  },
+  "article:52": {
+    "node_id": "article:52",
+    "type": "article",
+    "title": "第五十二条 终端(进近)管制区的外围边界呈阶梯状的,确定其外围边界",
+    "line_start": 284,
+    "line_end": 302,
+    "source_anchor": "第五十二条"
+  },
+  "article:53": {
+    "node_id": "article:53",
+    "type": "article",
+    "title": "第五十三条 终端(进近)管制区可以根据区域内的空中交通流量、管制员",
+    "line_start": 303,
+    "line_end": 305,
+    "source_anchor": "第五十三条"
+  },
+  "article:54": {
+    "node_id": "article:54",
+    "type": "article",
+    "title": "第五十四条 终端(进近)管制区内提供空中交通管制服务的空域通常为 C",
+    "line_start": 306,
+    "line_end": 307,
+    "source_anchor": "第五十四条"
+  },
+  "article:55": {
+    "node_id": "article:55",
+    "type": "article",
+    "title": "第五十五条 终端(进近)管制区应当以向该区域提供管制服务的空中交通",
+    "line_start": 308,
+    "line_end": 311,
+    "source_anchor": "第五十五条"
+  },
+  "article:56": {
+    "node_id": "article:56",
+    "type": "article",
+    "title": "第五十六条 民用机场应当根据机场及其附近空中飞行活动的情况建立机场",
+    "line_start": 313,
+    "line_end": 316,
+    "source_anchor": "第五十六条"
+  },
+  "article:57": {
+    "node_id": "article:57",
+    "type": "article",
+    "title": "第五十七条 机场管制地带应当包括所有不在管制区内的仪表进离场航线,",
+    "line_start": 317,
+    "line_end": 321,
+    "source_anchor": "第五十七条"
+  },
+  "article:58": {
+    "node_id": "article:58",
+    "type": "article",
+    "title": "第五十八条 划设机场管制地带,通常应当选择机场基准点作为管制地带的",
+    "line_start": 322,
+    "line_end": 325,
+    "source_anchor": "第五十八条"
+  },
+  "article:59": {
+    "node_id": "article:59",
+    "type": "article",
+    "title": "第五十九条 机场管制地带的水平边界通常按照下列办法确定:",
+    "line_start": 326,
+    "line_end": 340,
+    "source_anchor": "第五十九条"
+  },
+  "article:60": {
+    "node_id": "article:60",
+    "type": "article",
+    "title": "第六十条 机场管制地带的下限应当为地面或者水面,上限通常为终端(进",
+    "line_start": 341,
+    "line_end": 345,
+    "source_anchor": "第六十条"
+  },
+  "article:61": {
+    "node_id": "article:61",
+    "type": "article",
+    "title": "第六十一条 机场管制地带提供空中交通管制服务的空域应当设置为D 类空",
+    "line_start": 346,
+    "line_end": 347,
+    "source_anchor": "第六十一条"
+  },
+  "article:62": {
+    "node_id": "article:62",
+    "type": "article",
+    "title": "第六十二条 机场管制地带通常应当使用机场名称加上机场管制地带进行命",
+    "line_start": 348,
+    "line_end": 350,
+    "source_anchor": "第六十二条"
+  },
+  "article:63": {
+    "node_id": "article:63",
+    "type": "article",
+    "title": "第六十三条 为保护机场附近空中交通的安全,在机场净空保护区域以外至",
+    "line_start": 351,
+    "line_end": 353,
+    "source_anchor": "第六十三条"
+  },
+  "article:64": {
+    "node_id": "article:64",
+    "type": "article",
+    "title": "第六十四条 设立管制塔台的机场应当划设机场塔台管制区。机场塔台管制",
+    "line_start": 354,
+    "line_end": 357,
+    "source_anchor": "第六十四条"
+  },
+  "article:65": {
+    "node_id": "article:65",
+    "type": "article",
+    "title": "第六十五条 机场塔台管制区通常应当使用机场名称加上塔台管制区命名。",
+    "line_start": 358,
+    "line_end": 360,
+    "source_anchor": "第六十五条"
+  },
+  "article:66": {
+    "node_id": "article:66",
+    "type": "article",
+    "title": "第六十六条 航路和航线的建设,应当充分考虑所经地区的地形、气象特征",
+    "line_start": 362,
+    "line_end": 365,
+    "source_anchor": "第六十六条"
+  },
+  "article:67": {
+    "node_id": "article:67",
+    "type": "article",
+    "title": "第六十七条 航路和航线的建设和使用,应当有利于提高航路和航线网的整 ; 。",
+    "line_start": 366,
+    "line_end": 378,
+    "source_anchor": "第六十七条"
+  },
+  "article:68": {
+    "node_id": "article:68",
+    "type": "article",
+    "title": "第六十八条 空中交通管制航路的宽度为20 千米,其中心线两侧各10 千米",
+    "line_start": 379,
+    "line_end": 380,
+    "source_anchor": "第六十八条"
+  },
+  "article:69": {
+    "node_id": "article:69",
+    "type": "article",
+    "title": "第六十九条 航路和航线的高度下限不应当低于最低飞行高度层,其上限与",
+    "line_start": 381,
+    "line_end": 382,
+    "source_anchor": "第六十九条"
+  },
+  "article:70": {
+    "node_id": "article:70",
+    "type": "article",
+    "title": "第七十条 航路和航线的最低飞行高度,应当是航路和航线中心线两侧各25",
+    "line_start": 383,
+    "line_end": 385,
+    "source_anchor": "第七十条"
+  },
+  "article:71": {
+    "node_id": "article:71",
+    "type": "article",
+    "title": "第七十一条 根据受性能限制的航空器在某段航路或者航线上运行的需要,",
+    "line_start": 386,
+    "line_end": 388,
+    "source_anchor": "第七十一条"
+  },
+  "article:72": {
+    "node_id": "article:72",
+    "type": "article",
+    "title": "第七十二条 评估航路和航线的最低飞行高度时,应当将95%概率可容度所",
+    "line_start": 389,
+    "line_end": 392,
+    "source_anchor": "第七十二条"
+  },
+  "article:73": {
+    "node_id": "article:73",
+    "type": "article",
+    "title": "第七十三条 评估航路和航线的最低飞行高度时,应当将99.7%概率可容度",
+    "line_start": 393,
+    "line_end": 396,
+    "source_anchor": "第七十三条"
+  },
+  "article:74": {
+    "node_id": "article:74",
+    "type": "article",
+    "title": "第七十四条 评估航路和航线的最低飞行高度时,航路和航线主区、副区内",
+    "line_start": 397,
+    "line_end": 400,
+    "source_anchor": "第七十四条"
+  },
+  "article:75": {
+    "node_id": "article:75",
+    "type": "article",
+    "title": "第七十五条 根据航空器机载导航设备的能力、地面导航设施的有效范围以",
+    "line_start": 401,
+    "line_end": 402,
+    "source_anchor": "第七十五条"
+  },
+  "article:76": {
+    "node_id": "article:76",
+    "type": "article",
+    "title": "第七十六条 为了增加空域容量和提高空中飞行的灵活性,可以按照规定建",
+    "line_start": 403,
+    "line_end": 405,
+    "source_anchor": "第七十六条"
+  },
+  "article:77": {
+    "node_id": "article:77",
+    "type": "article",
+    "title": "第七十七条 为保持航空器进场或者离场飞行的安全顺畅,应当设置标准进",
+    "line_start": 406,
+    "line_end": 409,
+    "source_anchor": "第七十七条"
+  },
+  "article:78": {
+    "node_id": "article:78",
+    "type": "article",
+    "title": "第七十八条 航路和航线上应当根据全向信标台的布局设置转换点,以帮助",
+    "line_start": 410,
+    "line_end": 411,
+    "source_anchor": "第七十八条"
+  },
+  "article:79": {
+    "node_id": "article:79",
+    "type": "article",
+    "title": "第七十九条 根据航路和航线的布局、空中交通服务对掌握飞行中航空器进",
+    "line_start": 412,
+    "line_end": 415,
+    "source_anchor": "第七十九条"
+  },
+  "article:80": {
+    "node_id": "article:80",
+    "type": "article",
+    "title": "第八十条 航路和航线应当根据对导航性能的要求设置导航设施。为了帮助",
+    "line_start": 416,
+    "line_end": 418,
+    "source_anchor": "第八十条"
+  },
+  "article:81": {
+    "node_id": "article:81",
+    "type": "article",
+    "title": "第八十一条 航路和航线上影响飞行安全的自然障碍物体,应当在航图上标",
+    "line_start": 419,
+    "line_end": 421,
+    "source_anchor": "第八十一条"
+  },
+  "article:82": {
+    "node_id": "article:82",
+    "type": "article",
+    "title": "第八十二条 在距离航路边界30 千米以内的地带,禁止修建影响飞行安全的",
+    "line_start": 422,
+    "line_end": 425,
+    "source_anchor": "第八十二条"
+  },
+  "article:83": {
+    "node_id": "article:83",
+    "type": "article",
+    "title": "第八十三条 包括进离场航线在内的航路和航线,必须用代号予以识别。航",
+    "line_start": 426,
+    "line_end": 430,
+    "source_anchor": "第八十三条"
+  },
+  "section:7": {
+    "node_id": "section:7",
+    "type": "section",
+    "title": "第七节 航路和航线",
+    "line_start": 361,
+    "line_end": 430,
+    "source_anchor": "第七节"
+  },
+  "article:84": {
+    "node_id": "article:84",
+    "type": "article",
+    "title": "第八十四条 设立机场管制地带的机场,机场管制地带应当包含距离受到限",
+    "line_start": 432,
+    "line_end": 434,
+    "source_anchor": "第八十四条"
+  },
+  "article:85": {
+    "node_id": "article:85",
+    "type": "article",
+    "title": "第八十五条 起始进近航段和等待航线区域通常应当包含在终端(进近)管",
+    "line_start": 435,
+    "line_end": 439,
+    "source_anchor": "第八十五条"
+  },
+  "article:86": {
+    "node_id": "article:86",
+    "type": "article",
+    "title": "第八十六条 机场仪表进场或者离场飞行程序建立、变更或者撤销的,程序",
+    "line_start": 440,
+    "line_end": 442,
+    "source_anchor": "第八十六条"
+  },
+  "section:8": {
+    "node_id": "section:8",
+    "type": "section",
+    "title": "第八节 机场仪表飞行程序的保护",
+    "line_start": 431,
+    "line_end": 442,
+    "source_anchor": "第八节"
+  },
+  "article:87": {
+    "node_id": "article:87",
+    "type": "article",
+    "title": "第八十七条 等待航线区域是为了解决或者缓解航空器在空中飞行过程中已",
+    "line_start": 444,
+    "line_end": 448,
+    "source_anchor": "第八十七条"
+  },
+  "article:88": {
+    "node_id": "article:88",
+    "type": "article",
+    "title": "第八十八条 确定是否需要划设等待航线区域应当考虑下列因素:",
+    "line_start": 449,
+    "line_end": 452,
+    "source_anchor": "第八十八条"
+  },
+  "article:89": {
+    "node_id": "article:89",
+    "type": "article",
+    "title": "第八十九条 划设等待航线区域通常应当利用有效的全向信标台和测距台来",
+    "line_start": 453,
+    "line_end": 455,
+    "source_anchor": "第八十九条"
+  },
+  "article:90": {
+    "node_id": "article:90",
+    "type": "article",
+    "title": "第九十条 利用无方向信标台划设等待航线区域的,等待航线的定位点应当",
+    "line_start": 456,
+    "line_end": 457,
+    "source_anchor": "第九十条"
+  },
+  "article:91": {
+    "node_id": "article:91",
+    "type": "article",
+    "title": "第九十一条 划设等待航线区域应当按照等待航空器的性能和飞行程序设计",
+    "line_start": 458,
+    "line_end": 459,
+    "source_anchor": "第九十一条"
+  },
+  "article:92": {
+    "node_id": "article:92",
+    "type": "article",
+    "title": "第九十二条 划设和使用等待航线区域,应当明确等待高度的气压基准面。",
+    "line_start": 460,
+    "line_end": 463,
+    "source_anchor": "第九十二条"
+  },
+  "article:93": {
+    "node_id": "article:93",
+    "type": "article",
+    "title": "第九十三条 等待航线区域应当使用标定等待航线区域的导航设施的名称或",
+    "line_start": 464,
+    "line_end": 466,
+    "source_anchor": "第九十三条"
+  },
+  "section:9": {
+    "node_id": "section:9",
+    "type": "section",
+    "title": "第九节 等待航线区域",
+    "line_start": 443,
+    "line_end": 466,
+    "source_anchor": "第九节"
+  },
+  "article:94": {
+    "node_id": "article:94",
+    "type": "article",
+    "title": "第九十四条 特殊区域是指空中放油区、试飞区域、训练区域、空中禁区、",
+    "line_start": 468,
+    "line_end": 476,
+    "source_anchor": "第九十四条"
+  },
+  "article:95": {
+    "node_id": "article:95",
+    "type": "article",
+    "title": "第九十五条 特殊区域应当确保与周围空域、航路和航线之间的侧向和垂直",
+    "line_start": 477,
+    "line_end": 479,
+    "source_anchor": "第九十五条"
+  },
+  "article:96": {
+    "node_id": "article:96",
+    "type": "article",
+    "title": "第九十六条 空中禁区、空中限制区和空中危险区应当使用代号识别,并按",
+    "line_start": 480,
+    "line_end": 490,
+    "source_anchor": "第九十六条"
+  },
+  "section:10": {
+    "node_id": "section:10",
+    "type": "section",
+    "title": "第十节 特殊区域",
+    "line_start": 467,
+    "line_end": 490,
+    "source_anchor": "第十节"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 空域规范",
+    "line_start": 157,
+    "line_end": 490,
+    "source_anchor": "第四章"
+  },
+  "article:97": {
+    "node_id": "article:97",
+    "type": "article",
+    "title": "第九十七条 空域数据应当标准化,保证其准确性、完整性和真实性,同时",
+    "line_start": 492,
+    "line_end": 493,
+    "source_anchor": "第九十七条"
+  },
+  "article:98": {
+    "node_id": "article:98",
+    "type": "article",
+    "title": "第九十八条 空域数据的准确性应当按照95%概率的可信度确定,并且应当",
+    "line_start": 494,
+    "line_end": 495,
+    "source_anchor": "第九十八条"
+  },
+  "article:99": {
+    "node_id": "article:99",
+    "type": "article",
+    "title": "第九十九条 空域数据的完整性应当根据数据错误所造成的潜在危险和数据",
+    "line_start": 496,
+    "line_end": 506,
+    "source_anchor": "第九十九条"
+  },
+  "article:100": {
+    "node_id": "article:100",
+    "type": "article",
+    "title": "第一百条 在空域数据的电子存储或者传送过程中,应当使用循环冗余校验",
+    "line_start": 507,
+    "line_end": 509,
+    "source_anchor": "第一百条"
+  },
+  "article:101": {
+    "node_id": "article:101",
+    "type": "article",
+    "title": "第一百一条 空域数据按照使用性质分为空域结构数据和空域运行数据。",
+    "line_start": 510,
+    "line_end": 511,
+    "source_anchor": "第一百一条"
+  },
+  "article:102": {
+    "node_id": "article:102",
+    "type": "article",
+    "title": "第一百二条 空域数据的管理包括采集、整理、汇编和应用。空域数据的",
+    "line_start": 512,
+    "line_end": 513,
+    "source_anchor": "第一百二条"
+  },
+  "article:103": {
+    "node_id": "article:103",
+    "type": "article",
+    "title": "第一百三条 各类空域数据应当符合规定的质量和标准格式要求,并按照",
+    "line_start": 514,
+    "line_end": 516,
+    "source_anchor": "第一百三条"
+  },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 空域数据",
+    "line_start": 491,
+    "line_end": 516,
+    "source_anchor": "第五章"
+  },
+  "article:104": {
+    "node_id": "article:104",
+    "type": "article",
+    "title": "第一百四条 民航总局空中交通管理局负责提出民用航空活动对空域的建",
+    "line_start": 518,
+    "line_end": 523,
+    "source_anchor": "第一百四条"
+  },
+  "article:105": {
+    "node_id": "article:105",
+    "type": "article",
+    "title": "第一百五条 飞行情报区和高空管制区的建设和调整由民航总局提出后,",
+    "line_start": 524,
+    "line_end": 545,
+    "source_anchor": "第一百五条"
+  },
+  "article:106": {
+    "node_id": "article:106",
+    "type": "article",
+    "title": "第一百六条 空中交通管理部门应当定期了解和监测民用航空活动使用空",
+    "line_start": 546,
+    "line_end": 549,
+    "source_anchor": "第一百六条"
+  },
+  "article:107": {
+    "node_id": "article:107",
+    "type": "article",
+    "title": "第一百七条 办理空域事宜应当遵守下列规定:",
+    "line_start": 550,
+    "line_end": 577,
+    "source_anchor": "第一百七条"
+  },
+  "article:108": {
+    "node_id": "article:108",
+    "type": "article",
+    "title": "第一百八条 民航总局空中交通管理局负责编写民用航空空域使用手册。",
+    "line_start": 578,
+    "line_end": 584,
+    "source_anchor": "第一百八条"
+  },
+  "chapter:6": {
+    "node_id": "chapter:6",
+    "type": "chapter",
+    "title": "第六章 空域使用程序",
+    "line_start": 517,
+    "line_end": 584,
+    "source_anchor": "第六章"
+  },
+  "article:109": {
+    "node_id": "article:109",
+    "type": "article",
+    "title": "第一百九条 本办法自2004 年6 月26 日起施行。",
+    "line_start": 586,
+    "line_end": 931,
+    "source_anchor": "第一百九条"
+  },
+  "chapter:7": {
+    "node_id": "chapter:7",
+    "type": "chapter",
+    "title": "第七章 附则",
+    "line_start": 585,
+    "line_end": 1529,
+    "source_anchor": "第七章"
   }
 }

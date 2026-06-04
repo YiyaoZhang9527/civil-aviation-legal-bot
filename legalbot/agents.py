@@ -11,7 +11,7 @@ from .llm import LLMClient
 from .logger import TerminalLogger
 from .retrieval import read_law_node, search_index_tree
 from .types import AnswerResult, CitationCheck, Conflict, Evidence, IntentResult
-from .utils import normalize_text
+from .utils import normalize_text, wrap_unsupported_numbers
 
 
 @dataclass
@@ -268,7 +268,7 @@ class ClarificationResolutionAgent:
         self.llm = llm
 
     def resolve(self, pending: dict, user_reply: str, history: list[dict]) -> ClarificationResolution:
-        history_text = _format_history_for_prompt(history[-6:])
+        history_text = _format_history_for_prompt(history[-config.HISTORY_TURNS:])
         messages = [
             {
                 "role": "system",
@@ -321,7 +321,7 @@ class FollowupRewriteAgent:
         self.llm = llm
 
     def rewrite(self, user_input: str, history: list[dict]) -> FollowupRewrite:
-        history_text = _format_history_for_prompt(history[-6:])
+        history_text = _format_history_for_prompt(history[-config.HISTORY_TURNS:])
         messages = [
             {
                 "role": "system",
@@ -377,7 +377,12 @@ class RewriteAgent:
                 "content": (
                     "你是民航法律检索改写 Agent。只输出 JSON。"
                     "把口语问题改写成适合检索法律索引树的法律查询。"
-                    "可以给出可能相关法律名称和条号，但不要编造法律结论。"
+                    "可以给出可能相关法律名称和条号，但不要编造法律结论。\n"
+                    "改写规则：\n"
+                    "1. 保持原始问题的核心关键词，不要过度泛化\n"
+                    "2. 如果问题包含具体操作/动作（如'签派员放行检查'），query 必须包含这些动作词，不能只提取名词（如只写'签派员'）\n"
+                    "3. 每个 query 必须是完整的具体检索短语，不是单个词\n"
+                    "4. law_hints 应尽可能给出具体法规名称"
                 ),
             },
             {
@@ -423,6 +428,8 @@ class DecompositionAgent:
                 "content": (
                     "你是民航法律问题拆分 Agent。只输出 JSON。"
                     "你收到一组子问题，为每个子问题生成独立的检索策略。"
+                    "如果问题涉及多个不同法规领域（如航班延误+餐饮服务、飞行员+体检标准），"
+                    "必须确保每个子问题指向不同的法规，生成对应的law_hints。"
                     "不要回答法律结论，不要检索法条。"
                 ),
             },
@@ -477,26 +484,45 @@ class RetrievalAgent:
         if logger:
             logger.info("retrieval/检索", f"开始检索: {len(queries)}个查询",
                          f"查询: {queries[:2]}... | 法律hint: {state.plan.law_hints} | 条号hint: {state.plan.article_hints}")
-        all_hits: list[Evidence] = []
-        seen: set[tuple[str, str]] = set()
+
+        # 每个 query 独立检索
+        query_results: list[list[Evidence]] = []
         for query in queries:
             hits = search_index_tree(
                 query=query,
                 law_hints=state.plan.law_hints,
                 article_hints=state.plan.article_hints,
-                top_k=10,
+                top_k=config.RETRIEVAL_TOP_K,
                 _logger=logger,
             )
-            for hit in hits:
-                key = (hit.law_id, hit.node_id)
-                if key in seen:
-                    continue
-                seen.add(key)
-                all_hits.append(hit)
+            query_results.append(hits)
 
-        all_hits.sort(key=lambda item: item.score, reverse=True)
+        # 合并策略：WRRF（前向兼容，开关关闭时走等权合并）
+        if getattr(config, 'WRRF_ENABLED', False):
+            # 保存原始query top-4作为保底
+            primary_top4 = query_results[0][:config.WRRF_PRIMARY_TOP] if query_results else []
+            all_hits = self._wrrf_merge(query_results)
+            all_hits = self._cap_per_law(all_hits)
+            # 保底插入：原始query top-4 不在结果中的强制加入
+            final_keys = {(h.law_id, h.node_id) for h in all_hits}
+            for hit in primary_top4:
+                if (hit.law_id, hit.node_id) not in final_keys:
+                    all_hits.append(hit)
+            all_hits.sort(key=lambda h: h.score, reverse=True)
+        else:
+            all_hits: list[Evidence] = []
+            seen: set[tuple[str, str]] = set()
+            for hits in query_results:
+                for hit in hits:
+                    key = (hit.law_id, hit.node_id)
+                    if key in seen:
+                        continue
+                    seen.add(key)
+                    all_hits.append(hit)
+            all_hits.sort(key=lambda item: item.score, reverse=True)
+
         loaded: list[Evidence] = []
-        for hit in all_hits[:8]:
+        for hit in all_hits[:config.EVIDENCE_LOAD_LIMIT]:
             node_result = read_law_node(hit.law_id, hit.node_id, include_context=True)
             if node_result.get("found"):
                 hit.text = node_result["text"]
@@ -536,6 +562,37 @@ class RetrievalAgent:
                 ))
 
         return loaded
+
+    @staticmethod
+    def _wrrf_merge(query_results: list[list[Evidence]],
+                    decay: float = 0.3) -> list[Evidence]:
+        """Weighted RRF: 第一个query权重1.0，后续按decay衰减。"""
+        k = config.RRF_K
+        scores: dict[tuple[str, str], float] = {}
+        ev_map: dict[tuple[str, str], Evidence] = {}
+        for qi, hits in enumerate(query_results):
+            w = max(config.WRRF_QUERY_DECAY, 1.0 - decay * qi) if qi > 0 else 1.0
+            for rank, hit in enumerate(hits, 1):
+                key = (hit.law_id, hit.node_id)
+                scores[key] = scores.get(key, 0.0) + w / (k + rank)
+                ev_map.setdefault(key, hit)
+        sorted_keys = sorted(scores.items(), key=lambda x: x[1], reverse=True)
+        return [ev_map[k_] for k_, _ in sorted_keys]
+
+    @staticmethod
+    def _cap_per_law(hits: list[Evidence],
+                     max_per_law: int | None = None) -> list[Evidence]:
+        """每部法规最多保留 max_per_law 篇证据，防止单法规垄断。"""
+        if max_per_law is None:
+            max_per_law = getattr(config, 'MAX_EVIDENCE_PER_LAW', 3)
+        law_counts: dict[str, int] = {}
+        kept: list[Evidence] = []
+        for hit in hits:
+            cnt = law_counts.get(hit.law_id, 0)
+            if cnt < max_per_law:
+                kept.append(hit)
+                law_counts[hit.law_id] = cnt + 1
+        return kept
 
 
 class CitationAgent:
@@ -610,73 +667,321 @@ class ConflictAgent:
         )]
 
 
+def _short_article_label(article: str) -> str:
+    """把 ev.article 切成纯"第X条"形式（去掉后面的标题尾巴）。"""
+    if not article:
+        return ""
+    import re
+    m = re.match(r"^第[\d.]+条", article)
+    return m.group(0) if m else article.split()[0] if article else ""
+
+
+def _render_structured_answer(data: dict, evidence: list[Evidence]) -> str:
+    """将结构化 JSON 渲染为用户可读的答案文本。按 source 分区渲染。"""
+    node_map = {ev.node_id: ev for ev in evidence}
+    parts = []
+    if data.get("conclusion"):
+        parts.append(f"【结论】\n{data['conclusion']}")
+    claims = data.get("claims", [])
+
+    # 按 source 分组
+    evidence_claims = []
+    suggestion_claims = []
+    for c in claims:
+        src = c.get("source", "法规规定")
+        if src == "法规规定":
+            evidence_claims.append(c)
+        else:
+            suggestion_claims.append(c)
+
+    # 法规规定区
+    if evidence_claims:
+        parts.append("【法律依据】")
+        for c in evidence_claims:
+            text = c.get("text", "")
+            node_ids = c.get("node_ids", [])
+            law_name = c.get("law_name", "")
+            refs = []
+            primary_ev = None
+            for nid in node_ids:
+                ev = node_map.get(nid)
+                if ev:
+                    label = _short_article_label(ev.article)
+                    refs.append(f"《{ev.law_title}》{label}")
+                    if primary_ev is None:
+                        primary_ev = ev
+                elif law_name:
+                    refs.append(f"《{law_name}》")
+            ref_str = f"（{', '.join(refs)}）" if refs else ""
+            warn = " ⚠️待核实" if c.get("_sm_warning") else ""
+            parts.append(f"- {text}{ref_str}{warn}")
+            if primary_ev is not None and primary_ev.text:
+                excerpt = primary_ev.text.strip().replace("\n", " ")
+                if len(excerpt) > config.ANSWER_EXCERPT_MAX_CHARS:
+                    excerpt = excerpt[:config.ANSWER_EXCERPT_MAX_CHARS] + "…"
+                parts.append(f"  > 原文摘录：{excerpt}")
+
+    # 补充建议区
+    if suggestion_claims:
+        parts.append("【补充说明】（以下为一般性建议，非法规直接规定）")
+        for c in suggestion_claims:
+            text = c.get("text", "")
+            src = c.get("source", "一般建议")
+            tag = "合理推断" if src == "合理推断" else "建议"
+            node_ids = c.get("node_ids", [])
+            law_name = c.get("law_name", "")
+            refs = []
+            for nid in node_ids:
+                ev = node_map.get(nid)
+                if ev:
+                    refs.append(f"《{ev.law_title}》{ev.article}")
+                elif law_name:
+                    refs.append(f"《{law_name}》")
+            ref_str = f"（{', '.join(refs)}）" if refs else ""
+            parts.append(f"- [{tag}] {text}{ref_str}")
+
+    for key, label in [("legal_basis", "法律依据详情"), ("conditions", "适用条件"), ("risks", "风险提示")]:
+        if data.get(key):
+            parts.append(f"【{label}】\n{data[key]}")
+    if not parts:
+        # 数据为空（LLM JSON 解析失败兜底返回 {}）→ 不要输出 str({})，
+        # 改用 evidence 摘要做最简兜底
+        if evidence:
+            lines = ["【结论】\n根据检索到的相关法规，请参考以下条文："]
+            for i, ev in enumerate(evidence[:5], 1):
+                lines.append(f"{i}. 《{ev.law_title}》{_short_article_label(ev.article)}")
+            return "\n".join(lines)
+        return "抱歉，未能生成答案。请重新提问或提供更多细节。"
+    return "\n\n".join(parts)
+
+
+_REFUSAL_PATTERNS = (
+    "未找到", "无法找到", "未检索到", "找不到",
+    "无法确定", "无法回答", "无法判断", "无法精确",
+    "建议咨询", "建议您咨询", "暂无", "不明确",
+)
+
+
 class SynthesisAgent:
     def __init__(self, llm: LLMClient) -> None:
         self.llm = llm
 
     def compose_answer(self, question: str, plan: RetrievalPlan, evidence: list[Evidence], citations: list[CitationCheck], conflicts: list[Conflict]) -> str:
-        evidence_text = []
-        # 构建校验状态映射，用于在证据旁标注校验结果
-        supported_nodes = {check.node_id for check in citations if check.status in {"supported", "partial"} and check.node_id}
-        unsupported_nodes = {check.node_id for check in citations if check.status == "unsupported" and check.node_id}
-        # 按相关性排序：supported 的证据排前面，未检查的排中间，unsupported 的排最后
-        def _sort_key(item):
-            if item.node_id in supported_nodes:
-                return 0
-            if item.node_id in unsupported_nodes:
-                return 2
-            return 1  # 未被检查的证据排中间
-        sorted_evidence = sorted(evidence, key=_sort_key)
-        for i, item in enumerate(sorted_evidence[:8], 1):
-            if item.node_id in supported_nodes:
-                status_tag = " [已验证]"
-            elif item.node_id in unsupported_nodes:
-                status_tag = " [未通过验证]"
-            else:
-                status_tag = ""
-            evidence_text.append(
-                f"[{i}]{status_tag} {item.law_title} {item.article} node={item.node_id}\n"
-                f"{item.text[:1000]}"
-            )
+        # 把 CE 验证通过的证据排到前面，避免 LLM 被大量未支持的总则类证据带偏
+        # （典型场景：12 条里 3 条 supported 是真正的"答案"条款，9 条 unsupported 是
+        # 91.1 目的、121.3 适用范围等占位总则。LLM 看到 75% 是"目的/依据"会判"证据不足"。）
+        if getattr(config, 'EVIDENCE_SORT_BY_CE', True):
+            evidence = self._sort_evidence_by_status(evidence, citations)
+        evidence_text = self._build_evidence_text(evidence, citations)
         citation_text = [
-            {
-                "claim": check.claim,
-                "law_id": check.law_id,
-                "node_id": check.node_id,
-                "status": check.status,
-                "reason": check.reason,
-                "quote": check.quote,
-                "confidence": check.confidence,
-            }
-            for check in citations
+            {"claim": c.claim, "law_id": c.law_id, "node_id": c.node_id,
+             "status": c.status, "reason": c.reason, "quote": c.quote,
+             "confidence": c.confidence}
+            for c in citations
         ]
+
+        # 证据相关性门控：独立评估调用，通过后才生成答案
+        refusal_due_to_no_relevance = False
+        if getattr(config, 'RELEVANCE_GATE_ENABLED', False) and evidence:
+            assessment = self._assess_relevance(question, evidence_text)
+            if assessment == "none":
+                refusal_due_to_no_relevance = True
+
+        if refusal_due_to_no_relevance:
+            answer = (
+                "【结论】\n很抱歉，未找到直接回答您问题的法律条文。\n\n"
+                "【建议】\n建议您咨询专业法律人士，或提供更多细节以便重新检索相关法规。"
+            )
+        elif getattr(config, 'SYNTHESIS_JSON_MODE', False):
+            answer = self._compose_structured(question, plan, evidence, evidence_text, citation_text, conflicts)
+        else:
+            answer = self._compose_free_text(question, plan, evidence_text, citation_text, conflicts)
+
+        # 拒答兜底：LLM 给出"未找到/无法判断"等拒绝话术时，至少把检索到的法规列出来
+        if (getattr(config, 'SYNTHESIS_REFUSAL_FALLBACK', True)
+                and evidence
+                and self._looks_like_refusal(answer)):
+            fallback = self._render_evidence_fallback(question, plan, evidence)
+            if fallback:
+                return fallback
+        return answer
+
+    @staticmethod
+    def _looks_like_refusal(text: str) -> bool:
+        if not text:
+            return True
+        return any(p in text for p in _REFUSAL_PATTERNS)
+
+    @staticmethod
+    def _sort_evidence_by_status(evidence: list, citations: list) -> list:
+        """把 CE 验证通过的证据排到前面（supported > partial > unsupported > no_check）。
+        避免 LLM 被大量未支持的总则类证据带偏而判"证据不足"。
+
+        关键：低置信度 supported（CE 分数 < EVIDENCE_SORT_MIN_SUPPORTED_CONF）不算"真支持"，
+        按 partial 处理，否则会把 score=0.17 的"勉强通过"证据挤掉 score=0.99 的"高质量支持"证据。
+        """
+        if not citations:
+            return list(evidence)
+        cite_map = {c.node_id: c for c in citations}
+        known = {"supported", "partial", "unsupported"}
+        if not any(c.status in known for c in citations):
+            return list(evidence)
+        order = {"supported": 0, "partial": 1, "unsupported": 2}
+        min_conf = getattr(config, "EVIDENCE_SORT_MIN_SUPPORTED_CONF", 0.5)
+
+        def sort_key(ev):
+            c = cite_map.get(ev.node_id)
+            if c is None:
+                return (3, 0.0)
+            status = c.status
+            conf = getattr(c, "confidence", 0.0) or 0.0
+            # 低置信度 supported 降级为 partial，避免污染排序
+            if status == "supported" and conf < min_conf:
+                effective = "partial"
+            else:
+                effective = status
+            return (order.get(effective, 3), -conf)
+
+        return sorted(evidence, key=sort_key)
+
+    @staticmethod
+    def _render_evidence_fallback(question: str, plan: RetrievalPlan, evidence: list[Evidence]) -> str:
+        limit = getattr(config, 'SYNTHESIS_FALLBACK_MAX_ITEMS', 5)
+        items = evidence[:limit]
+        if not items:
+            return ""
+        lines = [
+            "【结论】",
+            "以下为系统检索到的可能相关法规，请参考：",
+            "",
+            "【相关法规】",
+        ]
+        for i, ev in enumerate(items, 1):
+            law = ev.law_title or ev.law_id or "未知法规"
+            article = _short_article_label(ev.article)
+            excerpt = (ev.text or "").replace("\n", " ")
+            if len(excerpt) > config.ANSWER_FALLBACK_EXCERPT_MAX_CHARS:
+                excerpt = excerpt[:config.ANSWER_FALLBACK_EXCERPT_MAX_CHARS] + "…"
+            lines.append(f"{i}. 《{law}》{article}")
+            if excerpt:
+                lines.append(f"   摘录：{excerpt}")
+        lines.extend([
+            "",
+            "【说明】",
+            "以上条目由系统按相关度自动排序，可能与您的具体情形有偏差。",
+            "如需进一步确认，建议补充更多细节（如具体情形、适用法规名）或咨询专业法律人士。",
+        ])
+        return "\n".join(lines)
+
+    def _assess_relevance(self, question: str, evidence_text: list[str]) -> str:
+        evidence_summary = "\n".join(f"- {ev[:200]}" for ev in evidence_text[:8])
         messages = [
-            {
-                "role": "system",
-                "content": (
-                    "你是民航法律问答 Agent。必须只基于给定证据回答。"
-                    "不得凭记忆补充法条，不得编造。"
-                    "如果证据不足或事实不清，必须说明需要补充哪些事实。"
-                    "如果事实抽取与检索计划中有 assumptions，回答开头必须先说明“以下按......理解”。"
-                    "如果有 alternative_paths，必须提示用户实际主体不同会导致适用路径不同。"
-                    "回答格式：【结论】、【法律依据（必须引用原文标出出处）】、【适用条件】、【风险提示】。"
-                    "回答的语气请柔和一些，不要太生硬的回答，尽量口语化解释一下，尽量让普通人也能理解。"
-                    
-                ),
-            },
-            {
-                "role": "user",
-                "content": (
-                    f"用户问题：{question}\n\n"
-                    f"事实抽取与检索计划：\n{json.dumps(plan.__dict__, ensure_ascii=False, indent=2)}\n\n"
-                    f"引用校验结果：\n{json.dumps(citation_text, ensure_ascii=False, indent=2)}\n\n"
-                    "已读取证据：\n"
-                    + "\n\n".join(evidence_text)
-                    + "\n\n请输出中文答案。"
-                ),
-            },
+            {"role": "system", "content": (
+                "你是证据相关性评估器。判断以下证据是否与用户问题属于同一法律领域。\n"
+                "只输出一个 JSON：{\"overall\": \"sufficient\" | \"partial\" | \"none\", \"reason\": \"...\"}\n\n"
+                "判定标准：\n"
+                "- \"sufficient\"：证据涉及与问题相同的法规或同一法律领域，能部分或全部回答问题\n"
+                "- \"partial\"：证据与问题相关但覆盖不完整\n"
+                "- \"none\"：仅当所有证据都与用户问题属于完全不同的法律领域。"
+                "例如问\"无人机管理\"但证据是\"外国民用航空器\"，问\"旅客行李赔偿\"但证据是\"行政机关国家赔偿\"。"
+                "只要证据和问题涉及同一部法规或同一法律主题，就不能标 none。"
+            )},
+            {"role": "user", "content": f"用户问题：{question}\n\n证据摘要：\n{evidence_summary}"},
+        ]
+        try:
+            data = self.llm.json(messages)
+            return data.get("overall", "sufficient")
+        except Exception:
+            return "sufficient"
+
+    def _compose_structured(self, question, plan, evidence, evidence_text, citation_text, conflicts):
+        # 把 CE 验证状态嵌在 evidence 索引里，让 LLM 知道哪条被交叉验证过（不屏蔽）
+        nid_status = {c["node_id"]: c.get("status", "no_check") for c in citation_text}
+        evidence_index = "\n".join(
+            f"  [{i+1}] [CE={nid_status.get(ev.node_id, 'no_check')}] {ev.law_title} {ev.article} (node_id={ev.node_id})"
+            for i, ev in enumerate(evidence[:config.SYNTHESIS_EVIDENCE_LIMIT])
+        )
+        assumptions_note = ""
+        if plan.assumptions:
+            assumptions_note = "“以下按" + "、".join(plan.assumptions) + "理解。"
+        alt_note = ""
+        if plan.alternative_paths:
+            alt_note = "提示用户实际主体不同会导致适用路径不同。"
+        json_schema = (
+            '{"conclusion": "结论", "claims": [{"text": "1-3句声明", '
+            '"node_ids": ["证据的node_id"], "law_name": "法规名", '
+            '"source": "法规规定|合理推断|一般建议"}], '
+            '"legal_basis": "法律依据", "conditions": "适用条件", "risks": "风险提示"}'
+        )
+        messages = [
+            {"role": "system", "content": (
+                "你是民航法律问答 Agent。\n\n"
+                "## 严格规则\n"
+                "1. 每条法律主张必须引用证据编号(node_id)，node_id只能从提供的证据列表中选择。\n"
+                "2. 每条声明必须标注source字段：\n"
+                "   - \"法规规定\"：该声明的核心内容在证据原文中有直接支撑，且引用了正确的node_id\n"
+                "   - \"合理推断\"：基于证据中的原则性条款做出的合理延伸，但证据未给出具体细节\n"
+                "   - \"一般建议\"：来自你的通用法律知识，证据中没有直接依据\n"
+                "3. 不得编造不存在的法规名或条号。\n"
+                "4. 宁可多标\"合理推断\"或\"一般建议\"，也不要把没有证据直接支撑的内容标为\"法规规定\"。\n"
+                "5. evidence 文本外的具体数字（小时、天数、金额、比例）必须标注 \"[待核实]\" 后缀或归入 source=\"一般建议\"，禁止凭印象给出精确数字。\n\n"
+                "## 覆盖度要求（重要）\n"
+                "6. 先读完整【证据全文】再下结论，不要只看前几条 evidence 标题。\n"
+                "7. 如果用户问题包含多个并列子项（如\"哪些情况下...\"列举 N 种情形），"
+                "每种子情况应有对应 claim。\n"
+                "8. evidence 文本中能直接读到的数字、列举、分类等具体信息（如 5 种情形、3 类情形），"
+                "不要概括成\"主要包括\"，应分别列条。\n\n"
+                "输出JSON格式：\n" + json_schema + "\n"
+                + assumptions_note + alt_note
+                + "语气柔和口语化，让普通人也能理解。"
+            )},
+            {"role": "user", "content": (
+                f"用户问题：{question}\n\n"
+                f"可用证据（[CE=xxx] 为交叉验证状态，CE=supported 表示已被验证相关）：\n{evidence_index}\n\n"
+                + "证据全文：\n" + "\n\n".join(evidence_text)
+                + "\n\n请先通读所有【证据全文】，再独立判断哪些内容支持用户问题。请输出JSON格式答案。"
+            )},
+        ]
+        try:
+            data = self.llm.json(messages)
+        except Exception:
+            return self._compose_free_text(question, plan, evidence_text, citation_text, conflicts)
+        self._last_structured = data
+        return _render_structured_answer(data, evidence)
+
+    def _compose_free_text(self, question, plan, evidence_text, citation_text, conflicts):
+        assumptions_note = ""
+        if plan.assumptions:
+            assumptions_note = "“回答开头必须先说明”" + "、".join(f"“以下按{a}”理解" for a in plan.assumptions) + "。"
+        alt_note = ""
+        if plan.alternative_paths:
+            alt_note = "必须提示用户实际主体不同会导致适用路径不同。"
+        messages = [
+            {"role": "system", "content": (
+                "你是民航法律问答 Agent。必须只基于给定证据回答。"
+                "不得凭记忆补充法条，不得编造。"
+                "如果证据不足或事实不清，必须说明需要补充哪些事实。"
+                "evidence 文本外的具体数字（小时、天数、金额、比例）必须标注 \"[待核实]\" 后缀，或归入【风险提示】部分，禁止凭印象给出精确数字。"
+                + assumptions_note + alt_note
+                + "回答格式：【结论】、【法律依据（必须引用原文标出出处）】、【适用条件】、【风险提示】。"
+                + "语气柔和口语化，让普通人也能理解。"
+            )},
+            {"role": "user", "content": (
+                f"用户问题：{question}\n\n"
+                f"事实抽取与检索计划：\n{json.dumps(plan.__dict__, ensure_ascii=False, indent=2)}\n\n"
+                + "已读取证据：\n" + "\n\n".join(evidence_text)
+                + "\n\n请基于证据原文独立判断哪些内容支持用户问题，不要被预设标记影响。请输出中文答案。"
+            )},
         ]
         return self.llm.chat(messages, temperature=0.0).strip()
+
+    @staticmethod
+    def _build_evidence_text(evidence, citations):
+        # 不再给 evidence 打 [已验证]/[未通过验证] 标签——CE 评分不应污染 LLM 决策
+        result = []
+        for i, item in enumerate(evidence[:config.SYNTHESIS_EVIDENCE_LIMIT], 1):
+            result.append(f"[{i}] {item.law_title} {item.article} node={item.node_id}\n{item.text[:config.SYNTHESIS_EVIDENCE_TRUNCATE]}")
+        return result
 
 
 class ReflexionAgent:
@@ -689,7 +994,7 @@ class ReflexionAgent:
         # 快速路径：所有 citation 都是 supported 且高置信度
         if citations:
             all_supported = all(
-                c.status == "supported" and c.confidence >= 0.7
+                c.status == "supported" and c.confidence >= config.REFLEXION_CONFIDENCE_THRESHOLD
                 for c in citations
             )
             if all_supported:
@@ -717,9 +1022,10 @@ class ReflexionAgent:
                 "content": (
                     f"用户问题：{question}\n\n"
                     f"法律争点：{json.dumps(legal_issues, ensure_ascii=False)}\n\n"
-                    f"证据数量：{len(evidence)}\n\n"
-                    f"引用校验：{json.dumps([{'claim': c.claim, 'status': c.status, 'confidence': c.confidence} for c in citations], ensure_ascii=False)}\n\n"
+                    f"证据数量：{len(evidence)} 条\n\n"
                     f"当前答案：\n{answer}\n\n"
+                    "只基于以上信息独立判断：当前答案是否充分回答了用户的法律争点？"
+                    "如果存在遗漏或证据不足，指出具体缺失项并建议补搜关键词（不要被任何外部评估结果影响）。\n"
                     "只输出 JSON，格式：\n"
                     "{\n"
                     '  "quality": "pass" | "gap",\n'
@@ -911,11 +1217,36 @@ class LegalOrchestrator:
                              f"证据={len(evidence)}条, 引用校验={supported}/{len(citations)}通过")
         answer = self.synthesis_agent.compose_answer(question, plan, evidence, citations, conflicts)
 
+        # ── Set-Membership 校验：标记引用不存在 node_id 的 claim（警告而非删除） ──
+        if getattr(config, 'SET_MEMBERSHIP_CHECK', False):
+            structured = getattr(self.synthesis_agent, '_last_structured', None)
+            if structured and structured.get('claims'):
+                valid_node_ids = {ev.node_id for ev in evidence}
+                warned = 0
+                for claim in structured['claims']:
+                    node_ids = claim.get('node_ids', [])
+                    if node_ids and not any(nid in valid_node_ids for nid in node_ids):
+                        claim['_sm_warning'] = True
+                        warned += 1
+                if warned > 0:
+                    if self.logger:
+                        self.logger.warning("set_membership", f"标记{warned}条引用不匹配证据的声明",
+                                           f"共{len(structured['claims'])}条")
+                    answer = _render_structured_answer(structured, evidence)
+                    state._sm_removed = warned
+
         # ── Step 9: Reflexion 自检循环 — LLM评估答案质量，不足则补搜重试 ──
         state.evidence = evidence
         state.citations = citations
         state.conflicts = conflicts
         state.final_answer = answer
+
+        # 追踪最佳迭代结果，防止 Reflexion 越补越差
+        best_quality = self._iter_quality(state.final_answer, state.citations)
+        best_answer = state.final_answer
+        best_citations = list(state.citations)
+        best_evidence = list(state.evidence)
+
         reflexion_iterations = 0
         from .config import MAX_REFLEXION_ITERATIONS
         for _ in range(MAX_REFLEXION_ITERATIONS):
@@ -937,7 +1268,7 @@ class LegalOrchestrator:
                 legal_issues=plan.legal_issues,
                 facts=plan.facts,
                 queries=reflexion.refine_queries,
-                law_hints=[],  # 清空限制，允许跨法规
+                law_hints=plan.law_hints,  # 保留原始法规限制，避免补搜引入无关法规
                 article_hints=reflexion.refine_article_hints,
                 assumptions=plan.assumptions,
                 alternative_paths=plan.alternative_paths,
@@ -956,7 +1287,7 @@ class LegalOrchestrator:
                     seen.add((e.law_id, e.node_id))
             # 按分数排序后截断，避免低分补搜证据挤掉高分初始证据
             state.evidence.sort(key=lambda e: e.score, reverse=True)
-            state.evidence = state.evidence[:12]
+            state.evidence = state.evidence[:config.EVIDENCE_LOAD_LIMIT]
             state.citations = self.citation_agent.verify(question, plan.legal_issues, state.evidence, self.logger)
             state.conflicts = self.conflict_agent.check(state.evidence, self.logger)
             state.final_answer = self.synthesis_agent.compose_answer(
@@ -966,6 +1297,29 @@ class LegalOrchestrator:
                 "gaps": reflexion.gaps,
                 "refine_queries": reflexion.refine_queries,
             })
+
+            # 跟踪本轮质量，若优于历史最佳则记录
+            q = self._iter_quality(state.final_answer, state.citations)
+            if q > best_quality:
+                best_quality = q
+                best_answer = state.final_answer
+                best_citations = list(state.citations)
+                best_evidence = list(state.evidence)
+
+        # 还原最佳迭代结果——避免 Reflexion 越补越差
+        state.final_answer = best_answer
+        state.citations = best_citations
+        state.evidence = best_evidence
+
+        # D 类防御：标记 evidence 未支撑的数字（防 LLM 编造具体数字）
+        if getattr(config, 'NUMBER_GUARD_ENABLED', True) and state.evidence:
+            evidence_texts = [e.text for e in state.evidence if e.text]
+            wrapped, unsupported_nums = wrap_unsupported_numbers(state.final_answer, evidence_texts)
+            if unsupported_nums and self.logger:
+                self.logger.warning("number_guard/数字幻觉",
+                                    f"标记 {len(unsupported_nums)} 个未支撑数字: {unsupported_nums[:5]}",
+                                    f"已自动加 [待核实] 后缀")
+            state.final_answer = wrapped
 
         if self.logger:
             self.logger.success("orchestrator/完成",
@@ -986,11 +1340,24 @@ class LegalOrchestrator:
             citations=state.citations,
             conflicts=state.conflicts,
             reflexion_iterations=reflexion_iterations,
+            structured_claims=getattr(self.synthesis_agent, '_last_structured', {}).get('claims', []),
+            unsupported_claims_removed=getattr(state, '_sm_removed', 0),
         )
 
+    @staticmethod
+    def _iter_quality(answer: str, citations: list[CitationCheck]) -> int:
+        """评估一次 Reflexion 迭代的答案质量。
+
+        评分 = 支持/部分支持的引用数 - 拒答惩罚(1000)。
+        拒答（"未找到"等）永远不如非拒答，即使有少量引用。
+        """
+        support = sum(1 for c in citations if c.status in {"supported", "partial"})
+        if SynthesisAgent._looks_like_refusal(answer):
+            return support - 1000
+        return support
+
     def _retrieve_decomposed(self, state: CaseState, decomposition: DecompositionResult) -> list[Evidence]:
-        all_evidence: list[Evidence] = []
-        seen: set[tuple[str, str]] = set()
+        per_sub: list[list[Evidence]] = []
         for sp in decomposition.sub_problems:
             sub_plan = RetrievalPlan(
                 intent="legal",
@@ -1010,13 +1377,23 @@ class LegalOrchestrator:
                 plan=sub_plan,
             )
             hits = self.retrieval_agent.retrieve(sub_state, self.logger)
+            per_sub.append(hits)
+
+        # Round-Robin 合并：每个子问题最多贡献4条，保证跨法规覆盖
+        all_evidence: list[Evidence] = []
+        seen: set[tuple[str, str]] = set()
+        max_per_sub = 4
+        for hits in per_sub:
+            count = 0
             for hit in hits:
                 key = (hit.law_id, hit.node_id)
-                if key not in seen:
+                if key not in seen and count < max_per_sub:
                     seen.add(key)
                     all_evidence.append(hit)
+                    count += 1
         if self.logger:
-            self.logger.info("decomposition/问题拆分", f"所有子问题检索完成，合并去重", f"共{len(all_evidence)}条证据")
+            self.logger.info("decomposition/问题拆分", f"所有子问题检索完成，Round-Robin合并",
+                             f"共{len(all_evidence)}条证据来自{len(per_sub)}个子问题")
         return all_evidence
 
 

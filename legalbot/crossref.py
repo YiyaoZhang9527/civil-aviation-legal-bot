@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import re
 
+from . import config
 from .retrieval import IndexRepository, read_law_node
 from .utils import chinese_to_int
 
@@ -189,7 +190,7 @@ def extract_references(text: str) -> list[dict]:
 def resolve_references(
     refs: list[dict],
     current_law_id: str,
-    max_items: int = 5,
+    max_items: int = getattr(config, 'CROSSREF_MAX_ITEMS', 5),
 ) -> list[dict]:
     """解析引用列表，读取被引用条文。
 
@@ -235,7 +236,7 @@ def resolve_references(
 
 def expand_evidence_references(
     evidence_list: list,
-    max_items: int = 5,
+    max_items: int = getattr(config, 'CROSSREF_MAX_ITEMS', 5),
 ) -> list[dict]:
     """对证据列表做交叉引用补全。返回引用条文的列表，不修改原 evidence。"""
     all_refs: list[dict] = []

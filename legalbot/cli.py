@@ -41,7 +41,6 @@ def main(argv: list[str] | None = None) -> int:
 
 
 def chat_loop(show_logs: bool = True) -> int:
-    build_all_documents()
     logger = TerminalLogger(enabled=show_logs)
     conversation = ConversationManager(session_id="default", logger=logger)
     print("民航法律机器人 CLI 对话模式")

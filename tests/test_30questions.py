@@ -133,7 +133,8 @@ CSV_COLUMNS = [
     "supported_rate",    # supported率
     # 答案
     "conclusion_preview", # 结论预览(前150字)
-    "config",            # 运行配置快照
+    "answer_full",        # 完整答案（不截断），csv 模块自动加引号包裹多行文本
+    "config",             # 运行配置快照
 ]
 
 

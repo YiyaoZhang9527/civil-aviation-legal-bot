@@ -218,22 +218,58 @@ def _direct_read_articles(law_hints: list[str], article_hints: list[str]) -> lis
     return results
 
 
+# CCAR 编号→法规名映射（确定性，零LLM）
+_CCR_TO_LAW = {
+    "121": "大型飞机公共航空运输承运人运行合格审定规则",
+    "135": "小型商业运输和空中游览运营人运行合格审定规则",
+    "91": "一般运行和飞行规则",
+    "92": "民用无人驾驶航空器运行安全管理规则",
+    "141": "民用航空器驾驶员学校合格审定规则",
+    "142": "飞行训练中心合格审定规则",
+    "61": "民用航空器驾驶员",
+    "67": "民用航空人员体检合格证管理规则",
+    "145": "民用航空器维修单位合格审定规则",
+    "43": "民用航空器维修人员执照管理规则",
+}
+
+
+def _extract_ccar_hints(query: str) -> list[str]:
+    """从 query 中提取 CCAR-XXX 编号，映射到对应法规名。确定性，零LLM。"""
+    hints = []
+    for m in re.finditer(r"CCAR[\s\-]*(\d+)", query, re.IGNORECASE):
+        num = m.group(1)
+        if num in _CCR_TO_LAW:
+            hints.append(_CCR_TO_LAW[num])
+    return hints
+
+
 # A2: 关键词→法规路由。优先从 law_routes.json（LLM离线生成）加载，
 # 不存在时降级到硬编码规则。匹配只做增量，不阻断。
 _KEYWORD_LAW_RULES_FALLBACK: list[dict] = [
     {"keywords": ["运行规范", "备降"], "hints": ["大型飞机公共航空运输承运人运行合格审定规则"]},
     {"keywords": ["121", "备降"], "hints": ["大型飞机公共航空运输承运人运行合格审定规则"]},
     {"keywords": ["签派", "放行"], "hints": ["大型飞机公共航空运输承运人运行合格审定规则"]},
+    {"keywords": ["燃油"], "hints": ["大型飞机公共航空运输承运人运行合格审定规则"]},
+    {"keywords": ["天气标准"], "hints": ["大型飞机公共航空运输承运人运行合格审定规则"]},
+    {"keywords": ["结冰"], "hints": ["大型飞机公共航空运输承运人运行合格审定规则"]},
     {"keywords": ["135", "运行"], "hints": ["小型商业运输和空中游览运营人运行合格审定规则"]},
     {"keywords": ["91", "运行"], "hints": ["一般运行和飞行规则"]},
     {"keywords": ["无人机"], "hints": ["民用无人驾驶航空器运行安全管理规则"]},
     {"keywords": ["机场", "使用许可"], "hints": ["运输机场使用许可规定"]},
     {"keywords": ["机场", "运行安全"], "hints": ["运输机场运行安全管理规定"]},
     {"keywords": ["旅客", "延误"], "hints": ["公共航空运输旅客服务管理规定"]},
+    {"keywords": ["行李", "赔偿"], "hints": ["公共航空运输旅客服务管理规定"]},
+    {"keywords": ["拒载"], "hints": ["公共航空运输旅客服务管理规定"]},
     {"keywords": ["航班正常"], "hints": ["航班正常管理规定"]},
     {"keywords": ["民用航空法"], "hints": ["中华人民共和国民用航空法"]},
+    {"keywords": ["适航指令"], "hints": ["民用航空器适航指令规定"]},
     {"keywords": ["适航"], "hints": ["民用航空产品和零部件合格审定规定"]},
+    {"keywords": ["禁带物品"], "hints": ["民航旅客禁止随身携带和托运物品目录"]},
+    {"keywords": ["禁带", "物品"], "hints": ["民航旅客禁止随身携带和托运物品目录"]},
+    {"keywords": ["禁止", "带上飞机"], "hints": ["民航旅客禁止随身携带和托运物品目录", "民用航空安全检查规则"]},
+    {"keywords": ["禁止", "携带"], "hints": ["民航旅客禁止随身携带和托运物品目录", "民用航空安全检查规则"]},
     {"keywords": ["安检"], "hints": ["民用航空安全检查规则"]},
+    {"keywords": ["事故", "调查"], "hints": ["民用航空器事件技术调查规定"]},
 ]
 
 # 路由表缓存（懒加载）
@@ -272,11 +308,10 @@ def _resolve_law_by_keywords(query: str, law_hints: list[str]) -> list[str]:
     q_tokens = _tokenize_for_routing(q)
     extra = []
 
-    # 优先用 law_routes.json（LLM离线生成的完整路由表）
+    # 1. law_routes.json 路由（LLM 离线生成的完整路由表）
     routes = _load_law_routes()
     if routes:
         for law_id, info in routes.items():
-            # 检查关键词：对每个keyword做jieba分词，要求与query有>=2个token重叠
             for kw_group in info.get("keywords", []):
                 if isinstance(kw_group, str):
                     kw_tokens = _tokenize_for_routing(kw_group)
@@ -284,7 +319,6 @@ def _resolve_law_by_keywords(query: str, law_hints: list[str]) -> list[str]:
                     if len(overlap) >= max(2, len(kw_tokens) // 2):
                         extra.append(law_id)
                         break
-            # 检查 question_patterns：有>=2个token重叠即匹配
             if law_id not in extra:
                 for pattern in info.get("question_patterns", []):
                     pat_tokens = _tokenize_for_routing(pattern)
@@ -292,7 +326,6 @@ def _resolve_law_by_keywords(query: str, law_hints: list[str]) -> list[str]:
                     if len(overlap) >= 2:
                         extra.append(law_id)
                         break
-            # 检查 domains：有>=2个token重叠
             if law_id not in extra:
                 for domain in info.get("domains", []):
                     dom_tokens = _tokenize_for_routing(domain)
@@ -300,11 +333,15 @@ def _resolve_law_by_keywords(query: str, law_hints: list[str]) -> list[str]:
                     if len(overlap) >= max(2, len(dom_tokens) // 2):
                         extra.append(law_id)
                         break
-    else:
-        # 降级到硬编码规则
-        for rule in _KEYWORD_LAW_RULES_FALLBACK:
-            if all(kw in q for kw in rule["keywords"]):
-                extra.extend(rule["hints"])
+
+    # 2. 硬编码 fallback 规则（精确关键词匹配，补充 law_routes.json 覆盖不到的场景）
+    existing_extra = set(normalize_text(h) for h in extra)
+    for rule in _KEYWORD_LAW_RULES_FALLBACK:
+        if all(kw in q for kw in rule["keywords"]):
+            for h in rule["hints"]:
+                if normalize_text(h) not in existing_extra:
+                    extra.append(h)
+                    existing_extra.add(normalize_text(h))
 
     if extra:
         existing = set(normalize_text(h) for h in law_hints)
@@ -407,7 +444,7 @@ def _keyword_hints_search(query, top_k, law_hints, article_hints, _logger, t_sta
 
     t0 = _time.monotonic()
     bm25 = IndexRepository.bm25_index()
-    bm25_results = bm25.search(query, top_k=50)
+    bm25_results = bm25.search(query, top_k=config.BM25_RECALL_K)
     bm25_time = _time.monotonic() - t0
 
     if _logger:
@@ -478,6 +515,18 @@ def _keyword_hints_search(query, top_k, law_hints, article_hints, _logger, t_sta
 def _tree_search(query, top_k, law_hints, article_hints, _logger, t_start, tree):
     """树检索主路径：法→章→条逐层剪枝。"""
     import time as _time
+
+    # CCAR 编号识别：从 query 中提取 CCAR-XXX → law_hints
+    ccr_hints = _extract_ccar_hints(query)
+    if ccr_hints:
+        existing = set(normalize_text(h) for h in law_hints)
+        for h in ccr_hints:
+            if normalize_text(h) not in existing:
+                law_hints = law_hints + [h]
+
+    # 关键词路由：确定性法规匹配（law_routes.json + fallback 硬编码规则）
+    if getattr(config, 'KEYWORD_ROUTING_ENABLED', True):
+        law_hints = _resolve_law_by_keywords(query, law_hints)
 
     # A2: 解析 hint_law_ids 用于 Level 0 前置过滤
     hint_law_ids: set[str] | None = None
@@ -573,7 +622,7 @@ def _tree_search(query, top_k, law_hints, article_hints, _logger, t_start, tree)
         _logger.info("retrieval/树检索", f"LLM推荐法条Hint加分: {hint_boosted}条证据获得额外权重", f"({hint_time*1000:.0f}ms)")
 
     # ── Cross-Encoder 精排 ──
-    prerank = candidates[:min(top_k * 3, 20)]
+    prerank = candidates[:min(top_k * 3, config.TREE_ARTICLE_CANDIDATES)]
     deduped: list[Evidence] = prerank
     rerank_time = 0.0
     if config.RERANKER_ENABLED and len(prerank) > 1:
@@ -583,8 +632,14 @@ def _tree_search(query, top_k, law_hints, article_hints, _logger, t_start, tree)
         reranked = rerank(query, to_rerank, top_n=top_k)
         # 精排后按阈值过滤低分证据
         if config.RERANKER_MIN_SCORE > 0:
-            reranked = [item for item in reranked if item.get("_rerank_score", 0) >= config.RERANKER_MIN_SCORE]
-        deduped = [item["_evidence"] for item in reranked if "_evidence" in item]
+            filtered = [item for item in reranked if item.get("_rerank_score", 0) >= config.RERANKER_MIN_SCORE]
+        else:
+            filtered = reranked
+        # 如果 reranker 全部过滤掉，回退到 raw top_k（避免零结果）
+        if filtered:
+            deduped = [item["_evidence"] for item in filtered if "_evidence" in item]
+        else:
+            deduped = prerank[:top_k]
         rerank_time = _time.monotonic() - t3
         if _logger:
             _logger.info("retrieval/精排", f"Cross-Engine精排: {len(prerank)}条 → {len(deduped)}条 (阈值>={config.RERANKER_MIN_SCORE})", f"({rerank_time*1000:.0f}ms)")
@@ -598,7 +653,7 @@ def _tree_search(query, top_k, law_hints, article_hints, _logger, t_start, tree)
         expanded_results = tree.search(query, top_k=top_k * 2,
                                        hint_law_ids=None,
                                        hint_scores=None,
-                                       tree_top_laws=60)
+                                       tree_top_laws=config.TREE_TOP_LAWS)
         if expanded_results:
             extra_candidates: list[Evidence] = []
             for (law_id, node_id), score in expanded_results:
@@ -618,7 +673,7 @@ def _tree_search(query, top_k, law_hints, article_hints, _logger, t_start, tree)
                     )
                 )
             if config.RERANKER_ENABLED and len(extra_candidates) > 1:
-                to_rerank2 = [{"title": e.article, "text": e.text, "_evidence": e} for e in extra_candidates[:min(top_k * 3, 30)]]
+                to_rerank2 = [{"title": e.article, "text": e.text, "_evidence": e} for e in extra_candidates[:min(top_k * 3, config.TREE_ARTICLE_CANDIDATES)]]
                 reranked2 = rerank(query, to_rerank2, top_n=top_k)
                 if config.RERANKER_MIN_SCORE > 0:
                     reranked2 = [item for item in reranked2 if item.get("_rerank_score", 0) >= config.RERANKER_MIN_SCORE]
@@ -647,11 +702,11 @@ def _flat_search(query, top_k, law_hints, article_hints, _logger, t_start):
     bm25 = IndexRepository.bm25_index()
     vi = IndexRepository.vector_index()
 
-    bm25_results = bm25.search(query, top_k=50)
+    bm25_results = bm25.search(query, top_k=config.BM25_RECALL_K)
     bm25_time = _time.monotonic() - t0
 
     t1 = _time.monotonic()
-    vector_results = vi.search(query, top_k=50) if vi.available else []
+    vector_results = vi.search(query, top_k=config.BM25_RECALL_K) if vi.available else []
     vector_time = _time.monotonic() - t1
 
     if _logger:
@@ -733,7 +788,7 @@ def _flat_search(query, top_k, law_hints, article_hints, _logger, t_start):
             continue
         seen.add(key)
         prerank.append(item)
-        if len(prerank) >= min(top_k * 3, 20):
+        if len(prerank) >= min(top_k * 3, config.TREE_ARTICLE_CANDIDATES):
             break
 
     deduped: list[Evidence] = prerank

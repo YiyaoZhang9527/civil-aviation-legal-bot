@@ -38,7 +38,7 @@ def _load_model():
         return None
 
 
-def rerank(query: str, candidates: list[dict], top_n: int = 5, max_chars: int = 512) -> list[dict]:
+def rerank(query: str, candidates: list[dict], top_n: int = getattr(config, 'DEFAULT_TOP_K', 5), max_chars: int = getattr(config, 'RERANKER_MAX_CHARS', 512)) -> list[dict]:
     """Cross-Encoder 精排候选列表。
 
     candidates 每项需有 'title' 和 'text' 字段。

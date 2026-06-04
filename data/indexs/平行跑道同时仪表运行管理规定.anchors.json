@@ -7,13 +7,501 @@
     "line_end": 1312,
     "source_anchor": "《交通运输部关于修改〈平行跑道同时仪表运行管理规"
   },
+  "article:1": {
+    "node_id": "article:1",
+    "type": "article",
+    "title": "第一条 为规范民用机场平行跑道同时仪表运行工作,",
+    "line_start": 155,
+    "line_end": 158,
+    "source_anchor": "第一条"
+  },
+  "article:2": {
+    "node_id": "article:2",
+    "type": "article",
+    "title": "第二条 本规定适用于在民用机场实施平行跑道同时",
+    "line_start": 160,
+    "line_end": 172,
+    "source_anchor": "第二条"
+  },
+  "article:3": {
+    "node_id": "article:3",
+    "type": "article",
+    "title": "第三条 中国民用航空局(以下简称民航局)负责审查",
+    "line_start": 174,
+    "line_end": 184,
+    "source_anchor": "第三条"
+  },
+  "article:4": {
+    "node_id": "article:4",
+    "type": "article",
+    "title": "第四条 实施平行跑道同时仪表运行的单位,应当按照",
+    "line_start": 186,
+    "line_end": 190,
+    "source_anchor": "第四条"
+  },
+  "article:5": {
+    "node_id": "article:5",
+    "type": "article",
+    "title": "第五条 实施平行跑道同时仪表运行的人员,应当使用",
+    "line_start": 192,
+    "line_end": 197,
+    "source_anchor": "第五条"
+  },
+  "chapter:1": {
+    "node_id": "chapter:1",
+    "type": "chapter",
+    "title": "第一章 总 则",
+    "line_start": 153,
+    "line_end": 197,
+    "source_anchor": "第一章"
+  },
+  "article:6": {
+    "node_id": "article:6",
+    "type": "article",
+    "title": "第六条 平行跑道同时仪表运行按照跑道用于进近和",
+    "line_start": 202,
+    "line_end": 206,
+    "source_anchor": "第六条"
+  },
+  "article:7": {
+    "node_id": "article:7",
+    "type": "article",
+    "title": "第七条 独立平行仪表进近模式,是指在相邻的平行跑",
+    "line_start": 208,
+    "line_end": 214,
+    "source_anchor": "第七条"
+  },
+  "article:8": {
+    "node_id": "article:8",
+    "type": "article",
+    "title": "第八条 相关平行仪表进近模式,是指在相邻的平行跑",
+    "line_start": 216,
+    "line_end": 225,
+    "source_anchor": "第八条"
+  },
+  "article:9": {
+    "node_id": "article:9",
+    "type": "article",
+    "title": "第九条 独立平行离场模式,是指离场航空器在平行跑",
+    "line_start": 228,
+    "line_end": 236,
+    "source_anchor": "第九条"
+  },
+  "article:10": {
+    "node_id": "article:10",
+    "type": "article",
+    "title": "第十条 隔离平行运行模式,是指在平行跑道上同时进",
+    "line_start": 238,
+    "line_end": 242,
+    "source_anchor": "第十条"
+  },
+  "article:11": {
+    "node_id": "article:11",
+    "type": "article",
+    "title": "第十一条 平行跑道同时仪表运行按照第六条所述的",
+    "line_start": 244,
+    "line_end": 262,
+    "source_anchor": "第十一条"
+  },
+  "section:1": {
+    "node_id": "section:1",
+    "type": "section",
+    "title": "第一节 平行跑道的运行模式",
+    "line_start": 1200,
+    "line_end": 1233,
+    "source_anchor": "第一节"
+  },
+  "article:12": {
+    "node_id": "article:12",
+    "type": "article",
+    "title": "第十二条 两条平行跑道中心线的间距不小于 1035 米",
+    "line_start": 266,
+    "line_end": 271,
+    "source_anchor": "第十二条"
+  },
+  "article:13": {
+    "node_id": "article:13",
+    "type": "article",
+    "title": "第十三条 两条平行跑道中心线的间距不小于 915 米",
+    "line_start": 274,
+    "line_end": 276,
+    "source_anchor": "第十三条"
+  },
+  "article:14": {
+    "node_id": "article:14",
+    "type": "article",
+    "title": "第十四条 两条平行跑道中心线的间距不小于 760 米",
+    "line_start": 278,
+    "line_end": 298,
+    "source_anchor": "第十四条"
+  },
+  "article:15": {
+    "node_id": "article:15",
+    "type": "article",
+    "title": "第十五条 两条平行跑道中心线的间距不小于 760 米",
+    "line_start": 300,
+    "line_end": 303,
+    "source_anchor": "第十五条"
+  },
+  "section:2": {
+    "node_id": "section:2",
+    "type": "section",
+    "title": "第二节 定  义",
+    "line_start": 1234,
+    "line_end": 1312,
+    "source_anchor": "第二节"
+  },
+  "chapter:2": {
+    "node_id": "chapter:2",
+    "type": "chapter",
+    "title": "第二章 运行模式和跑道间距",
+    "line_start": 198,
+    "line_end": 303,
+    "source_anchor": "第二章"
+  },
+  "article:16": {
+    "node_id": "article:16",
+    "type": "article",
+    "title": "第十六条 空中交通运行机构采用独立平行仪表进近",
+    "line_start": 307,
+    "line_end": 329,
+    "source_anchor": "第十六条"
+  },
+  "article:17": {
+    "node_id": "article:17",
+    "type": "article",
+    "title": "第十七条 划设非侵入区应当考虑探测区、延时或者反",
+    "line_start": 331,
+    "line_end": 343,
+    "source_anchor": "第十七条"
+  },
+  "article:18": {
+    "node_id": "article:18",
+    "type": "article",
+    "title": "第十八条 划设正常运行区时,应当使得航空器超出正",
+    "line_start": 345,
+    "line_end": 349,
+    "source_anchor": "第十八条"
+  },
+  "article:19": {
+    "node_id": "article:19",
+    "type": "article",
+    "title": "第十九条 正常运行区的长度应当从跑道入口处开始,",
+    "line_start": 351,
+    "line_end": 357,
+    "source_anchor": "第十九条"
+  },
+  "article:20": {
+    "node_id": "article:20",
+    "type": "article",
+    "title": "第二十条 独立平行仪表进近模式所要求的非侵入区",
+    "line_start": 359,
+    "line_end": 364,
+    "source_anchor": "第二十条"
+  },
+  "chapter:3": {
+    "node_id": "chapter:3",
+    "type": "chapter",
+    "title": "第三章 非侵入区和正常运行区",
+    "line_start": 304,
+    "line_end": 364,
+    "source_anchor": "第三章"
+  },
+  "article:21": {
+    "node_id": "article:21",
+    "type": "article",
+    "title": "第二十一条 实施平行跑道同时仪表运行的空中交通",
+    "line_start": 373,
+    "line_end": 377,
+    "source_anchor": "第二十一条"
+  },
+  "article:22": {
+    "node_id": "article:22",
+    "type": "article",
+    "title": "第二十二条 实施平行跑道同时仪表运行的空中交通",
+    "line_start": 379,
+    "line_end": 383,
+    "source_anchor": "第二十二条"
+  },
+  "article:23": {
+    "node_id": "article:23",
+    "type": "article",
+    "title": "第二十三条 实施平行跑道同时仪表运行时,管制员应",
+    "line_start": 385,
+    "line_end": 389,
+    "source_anchor": "第二十三条"
+  },
+  "article:24": {
+    "node_id": "article:24",
+    "type": "article",
+    "title": "第二十四条 实施平行跑道同时仪表运行的航空器应",
+    "line_start": 391,
+    "line_end": 396,
+    "source_anchor": "第二十四条"
+  },
+  "article:25": {
+    "node_id": "article:25",
+    "type": "article",
+    "title": "第二十五条 实施独立平行仪表进近应当具备下列条",
+    "line_start": 400,
+    "line_end": 481,
+    "source_anchor": "第二十五条"
+  },
+  "article:26": {
+    "node_id": "article:26",
+    "type": "article",
+    "title": "第二十六条 在航空器与进近管制建立通信联络后,管",
+    "line_start": 483,
+    "line_end": 489,
+    "source_anchor": "第二十六条"
+  },
+  "article:27": {
+    "node_id": "article:27",
+    "type": "article",
+    "title": "第二十七条 雷达引导航空器切入仪表着陆系统航向",
+    "line_start": 491,
+    "line_end": 501,
+    "source_anchor": "第二十七条"
+  },
+  "article:28": {
+    "node_id": "article:28",
+    "type": "article",
+    "title": "第二十八条 管制员应当为向不同跑道进近的航空器",
+    "line_start": 503,
+    "line_end": 527,
+    "source_anchor": "第二十八条"
+  },
+  "article:29": {
+    "node_id": "article:29",
+    "type": "article",
+    "title": "第二十九条 管制员应当为在同一仪表着陆系统航向",
+    "line_start": 529,
+    "line_end": 535,
+    "source_anchor": "第二十九条"
+  },
+  "article:30": {
+    "node_id": "article:30",
+    "type": "article",
+    "title": "第三十条 当两架航空器都已经建立在不同的仪表着",
+    "line_start": 537,
+    "line_end": 541,
+    "source_anchor": "第三十条"
+  },
+  "article:31": {
+    "node_id": "article:31",
+    "type": "article",
+    "title": "第三十一条 管制员指示航空器以一定的航向切入仪",
+    "line_start": 543,
+    "line_end": 562,
+    "source_anchor": "第三十一条"
+  },
+  "article:32": {
+    "node_id": "article:32",
+    "type": "article",
+    "title": "第三十二条 不论天气条件如何,管制员都应当通过雷",
+    "line_start": 565,
+    "line_end": 571,
+    "source_anchor": "第三十二条"
+  },
+  "article:33": {
+    "node_id": "article:33",
+    "type": "article",
+    "title": "第三十三条 航空器驾驶员应当负责将航空器保持在",
+    "line_start": 573,
+    "line_end": 575,
+    "source_anchor": "第三十三条"
+  },
+  "article:34": {
+    "node_id": "article:34",
+    "type": "article",
+    "title": "第三十四条 管制员发现航空器在转弯时切过了仪表",
+    "line_start": 577,
+    "line_end": 581,
+    "source_anchor": "第三十四条"
+  },
+  "article:35": {
+    "node_id": "article:35",
+    "type": "article",
+    "title": "第三十五条 发现航空器正在进入非侵入区时,负责监",
+    "line_start": 582,
+    "line_end": 598,
+    "source_anchor": "第三十五条"
+  },
+  "article:36": {
+    "node_id": "article:36",
+    "type": "article",
+    "title": "第三十六条 航空器实施平行跑道独立仪表进近时,管",
+    "line_start": 600,
+    "line_end": 625,
+    "source_anchor": "第三十六条"
+  },
+  "article:37": {
+    "node_id": "article:37",
+    "type": "article",
+    "title": "第三十七条 出现风切变、颠簸、下降气流、侧风以及",
+    "line_start": 627,
+    "line_end": 636,
+    "source_anchor": "第三十七条"
+  },
+  "article:38": {
+    "node_id": "article:38",
+    "type": "article",
+    "title": "第三十八条 实施相关平行仪表进近应当具备下列条",
+    "line_start": 640,
+    "line_end": 670,
+    "source_anchor": "第三十八条"
+  },
+  "article:39": {
+    "node_id": "article:39",
+    "type": "article",
+    "title": "第三十九条 在引导航空器切入平行仪表着陆系统航",
+    "line_start": 672,
+    "line_end": 676,
+    "source_anchor": "第三十九条"
+  },
+  "article:40": {
+    "node_id": "article:40",
+    "type": "article",
+    "title": "第四十条 已建立仪表着陆系统航向道的航空器之间",
+    "line_start": 678,
+    "line_end": 691,
+    "source_anchor": "第四十条"
+  },
+  "section:3": {
+    "node_id": "section:3",
+    "type": "section",
+    "title": "第三节 非侵入区和正常运行区的相互关系",
+    "line_start": 1178,
+    "line_end": 1199,
+    "source_anchor": "第三节"
+  },
+  "article:41": {
+    "node_id": "article:41",
+    "type": "article",
+    "title": "第四十一条 实施平行跑道独立平行离场应当具备下",
+    "line_start": 695,
+    "line_end": 716,
+    "source_anchor": "第四十一条"
+  },
+  "section:4": {
+    "node_id": "section:4",
+    "type": "section",
+    "title": "第四节 独立平行离场",
+    "line_start": 692,
+    "line_end": 716,
+    "source_anchor": "第四节"
+  },
+  "article:42": {
+    "node_id": "article:42",
+    "type": "article",
+    "title": "第四十二条 实施隔离平行运行应当具备下列条件:",
+    "line_start": 719,
+    "line_end": 730,
+    "source_anchor": "第四十二条"
+  },
   "article:43": {
     "node_id": "article:43",
     "type": "article",
     "title": "第四十三条 当有关地面设施符合规定进近类型的必",
     "line_start": 731,
-    "line_end": 873,
+    "line_end": 739,
     "source_anchor": "第四十三条"
+  },
+  "section:5": {
+    "node_id": "section:5",
+    "type": "section",
+    "title": "第五节 隔离平行运行",
+    "line_start": 717,
+    "line_end": 739,
+    "source_anchor": "第五节"
+  },
+  "article:44": {
+    "node_id": "article:44",
+    "type": "article",
+    "title": "第四十四条 实施平行跑道独立平行仪表进近和相关",
+    "line_start": 743,
+    "line_end": 762,
+    "source_anchor": "第四十四条"
+  },
+  "article:45": {
+    "node_id": "article:45",
+    "type": "article",
+    "title": "第四十五条 参与实施平行跑道同时仪表试验运行和",
+    "line_start": 764,
+    "line_end": 772,
+    "source_anchor": "第四十五条"
+  },
+  "article:46": {
+    "node_id": "article:46",
+    "type": "article",
+    "title": "第四十六条 参与实施平行跑道独立平行仪表进近和",
+    "line_start": 774,
+    "line_end": 798,
+    "source_anchor": "第四十六条"
+  },
+  "article:47": {
+    "node_id": "article:47",
+    "type": "article",
+    "title": "第四十七条 空中交通运行机构对于实施平行跑道同",
+    "line_start": 800,
+    "line_end": 810,
+    "source_anchor": "第四十七条"
+  },
+  "article:48": {
+    "node_id": "article:48",
+    "type": "article",
+    "title": "第四十八条 在平行跑道同时仪表试验运行方案中,空",
+    "line_start": 812,
+    "line_end": 819,
+    "source_anchor": "第四十八条"
+  },
+  "section:6": {
+    "node_id": "section:6",
+    "type": "section",
+    "title": "第六节 实施要求",
+    "line_start": 740,
+    "line_end": 819,
+    "source_anchor": "第六节"
+  },
+  "article:49": {
+    "node_id": "article:49",
+    "type": "article",
+    "title": "第四十九条 参与实施平行跑道同时仪表运行的空中",
+    "line_start": 823,
+    "line_end": 827,
+    "source_anchor": "第四十九条"
+  },
+  "article:50": {
+    "node_id": "article:50",
+    "type": "article",
+    "title": "第五十条 空中交通运行机构应当对已经取得进近(监",
+    "line_start": 829,
+    "line_end": 850,
+    "source_anchor": "第五十条"
+  },
+  "article:51": {
+    "node_id": "article:51",
+    "type": "article",
+    "title": "第五十一条 空中交通运行机构应当对已经取得机场",
+    "line_start": 852,
+    "line_end": 870,
+    "source_anchor": "第五十一条"
+  },
+  "section:7": {
+    "node_id": "section:7",
+    "type": "section",
+    "title": "第七节 培训要求",
+    "line_start": 820,
+    "line_end": 870,
+    "source_anchor": "第七节"
+  },
+  "chapter:4": {
+    "node_id": "chapter:4",
+    "type": "chapter",
+    "title": "第四章 平行跑道运行",
+    "line_start": 365,
+    "line_end": 870,
+    "source_anchor": "第四章"
   },
   "article:52": {
     "node_id": "article:52",
@@ -87,6 +575,14 @@
     "line_end": 923,
     "source_anchor": "第六十条"
   },
+  "chapter:5": {
+    "node_id": "chapter:5",
+    "type": "chapter",
+    "title": "第五章 申请和批准程序",
+    "line_start": 871,
+    "line_end": 923,
+    "source_anchor": "第五章"
+  },
   "article:61": {
     "node_id": "article:61",
     "type": "article",
@@ -118,30 +614,6 @@
     "line_start": 941,
     "line_end": 1117,
     "source_anchor": "第六十三条"
-  },
-  "section:1": {
-    "node_id": "section:1",
-    "type": "section",
-    "title": "第一节 平行跑道的运行模式",
-    "line_start": 1200,
-    "line_end": 1233,
-    "source_anchor": "第一节"
-  },
-  "section:2": {
-    "node_id": "section:2",
-    "type": "section",
-    "title": "第二节 定  义",
-    "line_start": 1234,
-    "line_end": 1312,
-    "source_anchor": "第二节"
-  },
-  "section:3": {
-    "node_id": "section:3",
-    "type": "section",
-    "title": "第三节 非侵入区和正常运行区的相互关系",
-    "line_start": 1178,
-    "line_end": 1199,
-    "source_anchor": "第三节"
   },
   "chapter:7": {
     "node_id": "chapter:7",

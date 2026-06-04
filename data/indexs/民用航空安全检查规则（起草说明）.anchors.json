@@ -2,10 +2,10 @@
   "law:民用航空安全检查规则(起草说明)": {
     "node_id": "law:民用航空安全检查规则(起草说明)",
     "type": "law",
-    "title": "《民用航空安全检查规则》",
+    "title": "民用航空安全检查规则",
     "line_start": 0,
     "line_end": 125,
-    "source_anchor": "《民用航空安全检查规则》"
+    "source_anchor": "民用航空安全检查规则"
   },
   "chapter:1": {
     "node_id": "chapter:1",

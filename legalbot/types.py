@@ -99,3 +99,5 @@ class AnswerResult:
     status: str = "ok"
     pending_clarification: dict[str, Any] | None = None
     reflexion_iterations: int = 0
+    structured_claims: list[dict] = field(default_factory=list)
+    unsupported_claims_removed: int = 0

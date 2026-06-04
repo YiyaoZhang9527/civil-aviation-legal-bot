@@ -8,6 +8,7 @@ from __future__ import annotations
 import hashlib
 import json
 import logging
+import re
 from pathlib import Path
 
 import numpy as np
@@ -36,6 +37,7 @@ def _collect_tree(documents: list[LawDocument]):
     chapter_to_law: list[int] = []
     article_keys: list[tuple[str, str]] = []
     article_texts: list[str] = []
+    article_titles: list[str] = []
     article_to_chapter: list[int] = []
 
     for doc in documents:
@@ -47,23 +49,23 @@ def _collect_tree(documents: list[LawDocument]):
             if child.type == "chapter":
                 _collect_chapter(child, doc, law_idx,
                                  chapter_keys, chapter_texts, chapter_to_law,
-                                 article_keys, article_texts, article_to_chapter)
+                                 article_keys, article_texts, article_titles, article_to_chapter)
             elif child.type == "section":
                 for grandchild in child.children:
                     if grandchild.type == "article":
                         _add_article(grandchild, doc, law_idx,
-                                     article_keys, article_texts, article_to_chapter)
+                                     article_keys, article_texts, article_titles, article_to_chapter)
             elif child.type == "article":
                 _add_article(child, doc, law_idx,
-                             article_keys, article_texts, article_to_chapter)
+                             article_keys, article_texts, article_titles, article_to_chapter)
 
     return (law_keys, law_texts, chapter_keys, chapter_texts, chapter_to_law,
-            article_keys, article_texts, article_to_chapter)
+            article_keys, article_texts, article_titles, article_to_chapter)
 
 
 def _collect_chapter(chapter, doc, law_idx,
                      ch_keys, ch_texts, ch_to_law,
-                     art_keys, art_texts, art_to_ch):
+                     art_keys, art_texts, art_titles, art_to_ch):
     ch_idx = len(ch_keys)
     ch_keys.append((doc.law_id, chapter.node_id))
     ch_texts.append(_node_text(chapter, parent_title=doc.title))
@@ -74,19 +76,20 @@ def _collect_chapter(chapter, doc, law_idx,
             for grandchild in child.children:
                 if grandchild.type == "article":
                     _add_article(grandchild, doc, ch_idx,
-                                 art_keys, art_texts, art_to_ch,
+                                 art_keys, art_texts, art_titles, art_to_ch,
                                  parent_title=f"{doc.title} {chapter.title}")
         elif child.type == "article":
             _add_article(child, doc, ch_idx,
-                         art_keys, art_texts, art_to_ch,
+                         art_keys, art_texts, art_titles, art_to_ch,
                          parent_title=doc.title)
 
 
 def _add_article(node, doc, parent_idx,
-                 art_keys, art_texts, art_to_ch, parent_title=""):
+                 art_keys, art_texts, art_titles, art_to_ch, parent_title=""):
     art_keys.append((doc.law_id, node.node_id))
     art_texts.append(_node_text(node, parent_title=parent_title,
                                 grandparent_title=doc.title))
+    art_titles.append(node.title)
     art_to_ch.append(parent_idx)
 
 
@@ -105,6 +108,9 @@ class TreeRetriever:
         self._law_keys: list[tuple[str, str]] = []
         self._chapter_keys: list[tuple[str, str]] = []
         self._article_keys: list[tuple[str, str]] = []
+        self._article_titles: list[str] = []
+        self._article_key_index: dict[tuple[str, str], int] = {}
+        self._article_text_lens: dict[tuple[str, str], int] = {}
 
         self._law_emb: np.ndarray | None = None
         self._chapter_emb: np.ndarray | None = None
@@ -133,12 +139,20 @@ class TreeRetriever:
             return False
 
         (law_keys, law_texts, chapter_keys, chapter_texts, chapter_to_law,
-         article_keys, article_texts, article_to_chapter) = _collect_tree(documents)
+         article_keys, article_texts, article_titles, article_to_chapter) = _collect_tree(documents)
 
         self._law_keys = law_keys
         self._law_texts = law_texts
         self._chapter_keys = chapter_keys
         self._article_keys = article_keys
+        self._article_titles = article_titles
+        self._article_key_index = {(lid, nid): i for i, (lid, nid) in enumerate(article_keys)}
+        self._article_text_lens = {
+            (doc.law_id, node.node_id): len(node.text or "")
+            for doc in documents
+            for node in doc.flatten()
+            if node.type == "article"
+        }
         self._chapter_to_law = np.array(chapter_to_law, dtype=np.int32)
         self._article_to_chapter = np.array(article_to_chapter, dtype=np.int32)
 
@@ -148,6 +162,9 @@ class TreeRetriever:
 
         sig = _corpus_signature(article_keys)
         if self._try_load_cache(sig, SentenceTransformer):
+            # 缓存恢复了 keys/emb，但 titles 和 key_index 需要从本轮 _collect_tree 补充
+            self._article_titles = article_titles
+            self._article_key_index = {(lid, nid): i for i, (lid, nid) in enumerate(self._article_keys)}
             self._available = True
             logger.info("tree vector cache loaded (%d laws, %d chapters, %d articles)",
                         len(law_keys), len(chapter_keys), len(article_keys))
@@ -190,7 +207,7 @@ class TreeRetriever:
 
         top_laws = tree_top_laws or config.TREE_TOP_LAWS
         top_chapters = config.TREE_TOP_CHAPTERS
-        article_candidate_count = min(top_k * 4, 30)
+        article_candidate_count = min(top_k * 4, config.TREE_ARTICLE_CANDIDATES)
 
         # Level 0: 法级 (Dense + BM25, 可选 Cross-Encoder 三路融合)
         law_vec = self._level_vector_search(query, self._law_emb, top_laws)
@@ -202,7 +219,7 @@ class TreeRetriever:
 
         # A2: 法规级加权——hints 匹配到的法规加分，但不踢除非匹配法规
         if hint_law_ids:
-            A2_BOOST = 0.3
+            A2_BOOST = config.TREE_HINT_BOOST
             boosted = []
             for idx, s in law_set:
                 if self._law_keys[idx][0] in hint_law_ids:
@@ -211,24 +228,65 @@ class TreeRetriever:
                     boosted.append((idx, s))
             law_set = boosted
 
+        # 保存 Level 0 分数，用于 Level 1 先验
+        law_rrf = {idx: score for idx, score in law_set}
+
         law_mask = np.zeros(len(self._law_keys), dtype=bool)
         for idx, _ in law_set:
             law_mask[idx] = True
 
-        # Level 1: 章级（只在候选法内）
+        # Level 1: 章级（只在候选法内，扩展搜索以容纳低排名法规的章节）
         ch_law_mask = np.isin(self._chapter_to_law, np.where(law_mask)[0])
-        ch_vec = self._filtered_vector_search(query, self._chapter_emb, ch_law_mask, top_chapters)
-        ch_bm25 = self._filtered_bm25_search(query, self._chapter_bm25, ch_law_mask, top_chapters)
-        chapter_set = self._rrf_union(ch_vec, ch_bm25, top_chapters)
+        expanded_ch = min(top_chapters * 2, config.TREE_CHAPTER_EXPANSION)
+        ch_vec = self._filtered_vector_search(query, self._chapter_emb, ch_law_mask, expanded_ch)
+        ch_bm25 = self._filtered_bm25_search(query, self._chapter_bm25, ch_law_mask, expanded_ch)
+        chapter_set = self._rrf_union(ch_vec, ch_bm25, expanded_ch)
         if not chapter_set:
             return []
+
+        # Level 0→1 先验：父法规排名越高，其章节获得加法加成
+        prior_w = config.TREE_LAW_PRIOR_WEIGHT
+        if law_rrf and prior_w > 0:
+            vals = list(law_rrf.values())
+            s_min, s_max = min(vals), max(vals)
+            s_range = s_max - s_min if s_max > s_min else 1.0
+            chapter_set = sorted(
+                [(idx, score + prior_w * (law_rrf.get(int(self._chapter_to_law[idx]), s_min) - s_min) / s_range)
+                 for idx, score in chapter_set],
+                key=lambda x: x[1], reverse=True,
+            )
+            if getattr(config, 'TREE_ADAPTIVE_K_ENABLED', False):
+                chapter_set = self._adaptive_cutoff(chapter_set, min_k=5, max_k=top_chapters)
+            else:
+                chapter_set = chapter_set[:top_chapters]
+
+        # 法规多样性：排第1的法规不限，其余每法规最多 N 个章节
+        per_law = getattr(config, 'TREE_CHAPTER_PER_LAW', 5)
+        if per_law > 0 and law_rrf:
+            top_law_idx = max(law_rrf, key=law_rrf.get)
+            law_count: dict[int, int] = {}
+            diverse = []
+            for idx, score in chapter_set:
+                law_idx = int(self._chapter_to_law[idx])
+                limit = 999 if law_idx == top_law_idx else per_law
+                cnt = law_count.get(law_idx, 0)
+                if cnt < limit:
+                    diverse.append((idx, score))
+                    law_count[law_idx] = cnt + 1
+            chapter_set = diverse
 
         ch_mask = np.zeros(len(self._chapter_keys), dtype=bool)
         for idx, _ in chapter_set:
             ch_mask[idx] = True
 
-        # Level 2: 条级（只在候选章内）
+        # Level 2: 条级（只在候选章内 + 顶部法规的扁平条级文章）
         art_ch_mask = np.isin(self._article_to_chapter, np.where(ch_mask)[0])
+        # 扁平法规（无章节）的文章直接挂在法规根节点，article_to_chapter 存的是 law_idx
+        # 顶部法规的这类"孤儿文章"也需要纳入 Level 2 搜索
+        if law_rrf:
+            top_law_indices = [int(idx) for idx, _ in law_set[:config.TREE_ORPHAN_TOP_LAWS]]
+            art_orphan_mask = np.isin(self._article_to_chapter, top_law_indices)
+            art_ch_mask = art_ch_mask | art_orphan_mask
         art_vec = self._filtered_vector_search(query, self._article_emb, art_ch_mask,
                                                article_candidate_count)
         art_bm25 = self._filtered_bm25_search(query, self._article_bm25, art_ch_mask,
@@ -237,6 +295,26 @@ class TreeRetriever:
         art_vec_results = [(self._article_keys[i], s) for i, s in art_vec]
         art_bm25_results = [(self._article_keys[i], s) for i, s in art_bm25]
         fused = rrf_fuse(art_bm25_results, art_vec_results, hint_scores or {})
+
+        # 通用条文降权：对"目的/适用范围/定义"等总则条文降低排序权重
+        penalty = getattr(config, 'TREE_GENERIC_ARTICLE_PENALTY', 1.0)
+        if penalty < 1.0:
+            _GENERIC_RE = re.compile(r"目的和?依据|适用范围|定义|总则|目的$", re.IGNORECASE)
+            fused = {
+                key: (score * penalty if _GENERIC_RE.search(self._article_titles[self._article_key_index[key]]) else score)
+                for key, score in fused.items()
+            }
+
+        # 位置降权：前 N 条通常是"目的/依据/监管"等总则，与用户具体问题不相关
+        early_penalty = getattr(config, 'TREE_EARLY_ARTICLE_PENALTY', 1.0)
+        early_threshold = getattr(config, 'TREE_EARLY_ARTICLE_THRESHOLD', 5)
+        short_limit = getattr(config, 'TREE_EARLY_SHORT_TEXT_LIMIT', 200)
+        if early_penalty < 1.0:
+            self._apply_early_article_penalty(
+                fused, early_penalty, early_threshold,
+                text_lens=self._article_text_lens,
+                short_limit=short_limit,
+            )
 
         results = sorted(fused.items(), key=lambda x: x[1], reverse=True)[:top_k]
         return results
@@ -261,6 +339,37 @@ class TreeRetriever:
         scored = sorted(enumerate(scores), key=lambda x: x[1], reverse=True)[:top_k]
         return [(idx, s) for idx, s in scored if s > 0]
 
+    @staticmethod
+    def _apply_early_article_penalty(
+        fused: dict,
+        early_penalty: float,
+        early_threshold: int,
+        text_lens: dict[tuple[str, str], int] | None = None,
+        short_limit: int = 200,
+    ) -> None:
+        """对条号 ≤ early_threshold 的法条降权（通常为"总则"候选）。
+
+        长度门控（text_lens 提供时启用）：
+        - 文本 ≤ short_limit 字 → 短总则，强烈降权
+        - 文本 > short_limit 字 → 长条款，跳过降权（即使在前 N 条）
+        - 文本长度未知（不在 text_lens）→ 保守不降权
+
+        原地修改 fused：key 是 (law_id, node_id) 元组，value 是 RRF 融合分。
+        """
+        if early_penalty >= 1.0:
+            return
+        _ARTICLE_NUM_RE = re.compile(r"article:(\d+)")
+        for key in list(fused.keys()):
+            node_id = key[1]
+            m = _ARTICLE_NUM_RE.search(node_id)
+            if not m or not (1 <= int(m.group(1)) <= early_threshold):
+                continue
+            if text_lens is not None:
+                text_len = text_lens.get(key, 0)
+                if text_len == 0 or text_len > short_limit:
+                    continue
+            fused[key] = fused[key] * early_penalty
+
     def _level_ce_search(self, query, top_k):
         """Level 0 Cross-Encoder 粗筛：query vs 每个法规的代表性文本。"""
         if not self._law_keys:
@@ -272,7 +381,7 @@ class TreeRetriever:
             return []
         if not self._law_texts:
             return []
-        pairs = [(query, text[:512]) for text in self._law_texts]
+        pairs = [(query, text[:config.CROSS_ENCODER_MAX_CHARS]) for text in self._law_texts]
         scores = model.predict(pairs, show_progress_bar=False)
         top_idx = np.argsort(scores)[::-1][:top_k]
         return [(int(i), float(scores[i])) for i in top_idx if scores[i] > 0]
@@ -317,6 +426,21 @@ class TreeRetriever:
                 rrf_scores[idx] = rrf_scores.get(idx, 0.0) + 1.2 / (k + rank)
         sorted_items = sorted(rrf_scores.items(), key=lambda x: x[1], reverse=True)
         return sorted_items[:top_k]
+
+    @staticmethod
+    def _adaptive_cutoff(sorted_items: list[tuple[int, float]],
+                         min_k: int = 5, max_k: int = config.TREE_CHAPTER_EXPANSION) -> list[tuple[int, float]]:
+        """基于分数落差的自适应截断：在 min_k 之后找最大间隔，在该处截断。"""
+        n = min(len(sorted_items), max_k)
+        if n <= min_k:
+            return sorted_items[:n]
+        best_gap, best_pos = 0.0, n
+        for i in range(min_k, n):
+            gap = sorted_items[i - 1][1] - sorted_items[i][1]
+            if gap > best_gap:
+                best_gap = gap
+                best_pos = i
+        return sorted_items[:best_pos]
 
     # ── 向量缓存 ─────────────────────────────────────────────
 

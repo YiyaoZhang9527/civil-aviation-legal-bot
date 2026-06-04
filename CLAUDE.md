@@ -113,12 +113,109 @@
 
 **预训练模型（HuggingFace）：**
 
-| 模型                                 | 用途               | 许可证     | 商用 |
-| ------------------------------------ | ------------------ | ---------- | ---- |
-| `shibing624/text2vec-base-chinese` | 向量语义匹配       | Apache 2.0 | ✅   |
-| `BAAI/bge-reranker-v2-m3`          | Cross-encoder 精排 | Apache 2.0 | ✅   |
-| `google-bert/bert-base-chinese`    | SPLADE 稀疏编码    | Apache 2.0 | ✅   |
+| 模型                         | 用途                  | 许可证     | 商用 |
+| ---------------------------- | --------------------- | ---------- | ---- |
+| `thenlper/gte-large-zh`      | 向量语义编码（config: VECTOR_MODEL） | Apache 2.0 | ✅   |
+| `BAAI/bge-reranker-v2-m3`    | Cross-encoder 精排 + Claim-NLI 校验 | Apache 2.0 | ✅   |
 
 **分发要求：** Apache 2.0 要求保留原始版权声明和 LICENSE 文本。若修改了源文件需注明变更。
 
 **新增依赖规则：** 禁止引入 GPL/AGPL/LGPL 系依赖。新增任何依赖前须确认许可证为 MIT/BSD/Apache 2.0 或同等宽松许可。若需使用新 HuggingFace 模型，须先确认其 Model Card 中 `license` 字段允许商用。
+
+### 评测体系（三层独立评测）
+
+**禁止使用旧评测指标（CitationAgent CE 得分）作为质量依据。** 旧评测的 45.5% "幻觉率"实际是检索覆盖率缺口，不是答案幻觉。正确拒答被判为 92% 幻觉。
+
+#### !! 优化目标：Faithfulness，不是 CE supported !!
+
+**消融测试 v3（2026-06-03）发现的关键事实：**
+
+CE supported（CitationAgent 的 cross-encoder 打分）是**自洽指标**，不是真实答案质量。它只检查"引用是否匹配证据文本"，不检查"答案是否正确回答了用户问题"。
+
+- CE supported 从 28%→51%（+23pp），但独立评测的 Faithfulness 只从 49.0%→52.8%（+3.8pp）
+- 消融测试按 CE supported 选出的"最优配置"，在真实答案质量上改善远小于指标显示
+- 典型例子：Q20 行李赔偿 CE=6/12（50%），但 Faithfulness=0%，90.9% unverifiable
+- 典型例子：Q24 适航指令 CE=6/12（50%），但 Faithfulness=0%，86.7% unverifiable
+
+**因此：**
+1. **消融测试的筛选指标必须是 Faithfulness 率（faithful / total claims），不是 CE supported 率**
+2. **优化目标应同时最小化 hallucinated 率，而不仅是最大化 faithful 率**
+3. **CE supported 可以作为检索质量的中期信号，但不能作为最终评判标准**
+4. **任何声称"XX 配置最优"的结论，必须有三层评测（尤其 Faithfulness）支撑，不能只看 CE**
+
+**原因**：CE 只检查引用和证据的语义匹配度，不管答案内容是否真的来自证据。检索到正确法规的条文 → CE 给高分 → 但 LLM 可能只读了标题，用自己的常识编造了答案内容。用户看到的是"有引用看似可靠但内容不准的答案"，比"没有引用的拒答"更危险。
+
+#### 当前最优配置的实际表现
+
+D 配置（`KEYWORD_ROUTING_ENABLED=True`, `TREE_GENERIC_ARTICLE_PENALTY=0.5`）经三层评测验证：
+
+| 质量等级 | 题数 | 占比 | 说明 |
+|---------|------|------|------|
+| 优秀（faithful≥80%） | 6 题 | 20% | 答案内容有证据直接支撑 |
+| 良好（faithful 50-80%） | 11 题 | 37% | 核心正确，细节不可验证 |
+| 一般（faithful 20-50%） | 6 题 | 20% | 部分正确，大部分靠 LLM 常识 |
+| 差（faithful<20%） | 6 题 | 20% | 几乎无证据支撑，引用可能误导 |
+| 拒答 | 1 题 | 3% | 正确拒答 |
+
+**用户获得可靠答案的比例：17/30（57%）。还有 6 题（20%）给了看似专业但实际不可靠的答案。**
+
+**评测流程（三步顺序执行）：**
+
+```bash
+# 1. 先跑 30 题测试，生成基础结果
+.venv/bin/python tests/test_30questions.py
+
+# 2. 第 2 层：引用真实性（纯代码，~30秒）
+.venv/bin/python tests/test_citation_validity.py
+
+# 3. 第 1 层：Faithfulness（独立 LLM claim-level，~5-10分钟）
+.venv/bin/python tests/test_faithfulness.py
+
+# 4. 第 3 层：三层汇总
+.venv/bin/python tests/test_summary.py
+```
+
+**三层指标定义：**
+
+| 层 | 指标 | 方法 | 说明 |
+|----|------|------|------|
+| 1 | Faithfulness | 独立 LLM 逐 claim 评测 | faithful / partial / unverifiable / hallucinated 四档 |
+| 2 | 引用有效率 | 纯正则 + index 对照 | 答案中《法名》第X条是否真实存在 |
+| 3 | 拒答率 | 统计"无法确定"类回答 | 不算幻觉，属中性指标 |
+
+**第 1 层四档判定标准（核心区分）：**
+
+| 状态 | 含义 | 判定依据 |
+|------|------|---------|
+| faithful | 证据直接支撑 | 声明可从证据中推导出来 |
+| partial | 部分支撑 | 核心信息有证据，细节无法验证 |
+| unverifiable | 检索缺口 | 证据完全没有覆盖该话题，声明可能正确也可能错误 |
+| hallucinated | 真正编造 | 证据覆盖了该话题但与声明矛盾，或编造了具体数字/细节 |
+
+**关键规则：**
+- 评测 LLM 与生成 LLM 必须不同（避免自我肯定偏差）
+- 拒答不计入幻觉率（N/A）
+- 证据必须读完整法条原文（`node.text`），不能只读标题（`node.summary`）
+- 严格区分 `unverifiable` 和 `hallucinated`：证据沉默→unverifiable，证据矛盾→hallucinated
+- 环境变量：`FAITHFULNESS_API_KEY` / `FAITHFULNESS_BASE_URL` / `FAITHFULNESS_MODEL`
+
+**当前基线（v3 证据相关性门控，test30_20260603_120835，三层评测）：**
+
+| 指标 | 数值 | 说明 |
+|------|------|------|
+| 真实幻觉率 | **0.0%** | 0/246 条声明是真正编造 |
+| 检索缺口率 | **24.8%** | 61 条声明证据未覆盖 |
+| 忠实率 | **69.9%** | 证据直接支撑的声明占比 |
+| 可接受率 | **75.2%** | faithful+partial |
+| 完整率 | **87.3%** | 答案未遗漏关键信息（Recall） |
+| F1 | **80.8%** | 精确率 × 完整率综合 |
+| 拒答率 | **10.0%** | 3/30 |
+
+**已启用的配置：**
+- `KEYWORD_ROUTING_ENABLED = True`（消融v3: +18pp）
+- `TREE_GENERIC_ARTICLE_PENALTY = 0.5`（消融v3: 与KW协同+5pp）
+- `RELEVANCE_GATE_ENABLED = True`（v3门控: +17.2pp faithful，-2.8pp hallucination）
+- 22条精确fallback路由规则
+- WRRF/AdaptiveK 已关闭（消融实验负收益）
+
+**⚠ 注意：CE supported 率不能代表真实质量，后续所有优化必须以 Faithfulness 为准。**

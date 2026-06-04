@@ -1,0 +1,40 @@
+{
+  "source": "test30_20260604_180203.json",
+  "old_metrics": {
+    "ce_supported": 178,
+    "ce_unsupported": 129,
+    "ce_total": 354,
+    "ce_supported_rate": 0.5028248587570622
+  },
+  "refusals": {
+    "count": 0,
+    "ids": []
+  },
+  "citation_validity": {
+    "total_questions": 30,
+    "refusals": 0,
+    "answered": 30,
+    "total_citations": 121,
+    "valid_citations": 112,
+    "law_not_found": 9,
+    "article_not_found": 0,
+    "citation_validity_rate": 0.9256198347107438
+  },
+  "faithfulness": {
+    "total_questions": 30,
+    "refusals": 0,
+    "answered": 30,
+    "total_claims": 263,
+    "total_missing": 17,
+    "faithful": 175,
+    "partial": 25,
+    "unverifiable": 59,
+    "hallucinated": 4,
+    "faithfulness_rate": 0.6653992395437263,
+    "hallucination_rate": 0.015209125475285171,
+    "retrieval_gap_rate": 0.22433460076045628,
+    "completeness_recall": 0.9216589861751152,
+    "precision": 0.7604562737642585,
+    "f1": 0.8333333333333334
+  }
+}

@@ -39,9 +39,17 @@ class CitationVerifier:
     def verify_with_cross_encoder(
         self, question: str, legal_issues: list[str], evidence: list[Evidence],
     ) -> list[CitationCheck]:
-        """C1: Cross-Encoder确定性校验。三阶段：LLM claim抽取 → cross-encoder打分 → 阈值判定。"""
+        """C1: 校验——开关控制 claim→evidence(新) 或 evidence→claim(旧) 方向。"""
         if not evidence:
             return []
+        if getattr(config, 'CLAIM_LEVEL_CITATION', True):
+            return self._verify_claim_nli(question, legal_issues, evidence)
+        return self._verify_evidence_level(question, legal_issues, evidence)
+
+    def _verify_claim_nli(
+        self, question: str, legal_issues: list[str], evidence: list[Evidence],
+    ) -> list[CitationCheck]:
+        """Claim-NLI：对每条claim找最佳支持的evidence，claim分数过低时回退原始问题打分。"""
         claims = self.extract_claims(question, legal_issues)
 
         from .reranker import _load_model
@@ -50,48 +58,143 @@ class CitationVerifier:
             return self.verify(question, legal_issues, evidence)
 
         threshold = config.CROSS_ENCODER_CITATION_THRESHOLD
+        partial_threshold = config.CROSS_ENCODER_PARTIAL_THRESHOLD
+        max_chars = config.CROSS_ENCODER_MAX_CHARS
+        batch_size = config.CROSS_ENCODER_BATCH
+
+        # 批量构建所有 (claim, evidence) 对
+        all_pairs = []
+        pair_map = []  # (claim_idx, ev_idx)
+        for ci, claim in enumerate(claims):
+            for ei, ev in enumerate(evidence):
+                text = ev.text[:max_chars] if ev.text else ""
+                if text:
+                    all_pairs.append((claim, text))
+                    pair_map.append((ci, ei))
+
+        if not all_pairs:
+            return [CitationCheck(claim=question, law_id="", node_id="",
+                                  status="unsupported", reason="no evidence text",
+                                  confidence=0.0)]
+
+        # 分批推理（GPU 显存保护）
+        all_scores = []
+        for start in range(0, len(all_pairs), batch_size):
+            batch = all_pairs[start:start + batch_size]
+            scores = model.predict(batch, show_progress_bar=False)
+            all_scores.extend(float(s) for s in scores)
+
+        # 聚合：每个 claim 取最高分 evidence
+        claim_best = {}  # claim_idx -> (score, ev_idx)
+        for idx, (ci, ei) in enumerate(pair_map):
+            s = all_scores[idx]
+            if ci not in claim_best or s > claim_best[ci][0]:
+                claim_best[ci] = (s, ei)
+
+        # 回退：claim分数全部过低时，用原始问题作为自然查询重新打分
+        needs_fallback = all(
+            claim_best.get(ci, (0.0, -1))[0] < partial_threshold
+            for ci in range(len(claims))
+        )
+        if needs_fallback:
+            fb_pairs = [(question, ev.text[:max_chars]) for ev in evidence if ev.text]
+            fb_scores = []
+            for start in range(0, len(fb_pairs), batch_size):
+                batch = fb_pairs[start:start + batch_size]
+                scores = model.predict(batch, show_progress_bar=False)
+                fb_scores.extend(float(s) for s in scores)
+            # 用问题分数更新每个claim的最佳匹配
+            fb_ei = 0
+            for ei, ev in enumerate(evidence):
+                if not ev.text:
+                    continue
+                q_score = fb_scores[fb_ei] if fb_ei < len(fb_scores) else 0.0
+                fb_ei += 1
+                for ci in range(len(claims)):
+                    if ci not in claim_best or q_score > claim_best[ci][0]:
+                        claim_best[ci] = (q_score, ei)
+
+        all_checks: list[CitationCheck] = []
+        for ci, claim in enumerate(claims):
+            if ci not in claim_best:
+                all_checks.append(CitationCheck(
+                    claim=claim, law_id="", node_id="",
+                    status="unsupported", reason="no scorable evidence",
+                    confidence=0.0))
+                continue
+            best_score, best_ei = claim_best[ci]
+            ev = evidence[best_ei]
+            if best_score >= threshold:
+                status = "supported"
+                ev.verified = True
+            elif best_score >= partial_threshold:
+                status = "partial"
+            else:
+                status = "unsupported"
+            all_checks.append(CitationCheck(
+                claim=claim, law_id=ev.law_id, node_id=ev.node_id,
+                status=status, reason=f"claim-NLI score={best_score:.3f}",
+                quote="", confidence=max(best_score, 0.0)))
+        return all_checks
+
+    def _verify_evidence_level(
+        self, question: str, legal_issues: list[str], evidence: list[Evidence],
+    ) -> list[CitationCheck]:
+        """旧方向：对每条evidence找最匹配的claim，claim分数为0时回退原始问题打分。"""
+        claims = self.extract_claims(question, legal_issues)
+        from .reranker import _load_model
+        model = _load_model()
+        if model is None:
+            return self.verify(question, legal_issues, evidence)
+        threshold = config.CROSS_ENCODER_CITATION_THRESHOLD
+        partial_threshold = config.CROSS_ENCODER_PARTIAL_THRESHOLD
+        max_chars = config.CROSS_ENCODER_MAX_CHARS
         all_checks: list[CitationCheck] = []
         for ev in evidence:
             best_claim = claims[0] if claims else question
             best_score = -1.0
+            text = ev.text[:max_chars] if ev.text else ""
+            if not text:
+                all_checks.append(CitationCheck(
+                    claim=best_claim, law_id=ev.law_id, node_id=ev.node_id,
+                    status="unsupported", reason="no evidence text",
+                    quote="", confidence=0.0))
+                continue
             for claim in claims:
-                text = ev.text[:512] if ev.text else ""
-                if not text:
-                    continue
                 scores = model.predict([(claim, text)])
                 s = float(scores[0])
                 if s > best_score:
                     best_score = s
                     best_claim = claim
-
+            # claim分数过低时，用原始问题作为自然查询回退打分
+            if best_score < partial_threshold:
+                q_scores = model.predict([(question, text)])
+                q_s = float(q_scores[0])
+                if q_s > best_score:
+                    best_score = q_s
+                    best_claim = question
             if best_score >= threshold:
                 status = "supported"
                 ev.verified = True
-            elif best_score >= 0.15:
+            elif best_score >= partial_threshold:
                 status = "partial"
             else:
                 status = "unsupported"
-
             all_checks.append(CitationCheck(
-                claim=best_claim,
-                law_id=ev.law_id,
-                node_id=ev.node_id,
-                status=status,
-                reason=f"cross-encoder score={best_score:.3f}",
-                quote="",
-                confidence=max(best_score, 0.0),
-            ))
+                claim=best_claim, law_id=ev.law_id, node_id=ev.node_id,
+                status=status, reason=f"cross-encoder score={best_score:.3f}",
+                quote="", confidence=max(best_score, 0.0)))
         return all_checks
 
     def verify(self, question: str, legal_issues: list[str], evidence: list[Evidence]) -> list[CitationCheck]:
         if not evidence:
             return []
         claims = self.extract_claims(question, legal_issues)
-        # 按批次校验，每批最多 BATCH_SIZE 条 evidence，确保每条 evidence 都被检查
-        BATCH_SIZE = 15
+        batch_size = config.CROSS_ENCODER_BATCH
+        truncate = config.CITATION_LLM_TRUNCATE
         all_checks: list[CitationCheck] = []
-        for batch_start in range(0, len(evidence), BATCH_SIZE):
-            batch = evidence[batch_start:batch_start + BATCH_SIZE]
+        for batch_start in range(0, len(evidence), batch_size):
+            batch = evidence[batch_start:batch_start + batch_size]
             evidence_payload = []
             for idx, item in enumerate(batch, 1):
                 evidence_payload.append(
@@ -101,7 +204,7 @@ class CitationVerifier:
                         "law_title": item.law_title,
                         "node_id": item.node_id,
                         "article": item.article,
-                        "text": item.text[:1500],
+                        "text": item.text[:truncate],
                     }
                 )
             messages = [
@@ -163,4 +266,3 @@ class CitationVerifier:
                     )
                 )
         return all_checks
-
