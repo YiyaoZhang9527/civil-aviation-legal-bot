@@ -138,24 +138,16 @@ CSV_COLUMNS = [
 ]
 
 
-def main():
-    import datetime
-    date_str = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-
-    print(f"30题完整测试")
-    print(f"配置: {cfg.QUERY_GATE_ENABLED=}, {cfg.CROSS_ENCODER_CITATION=}, {cfg.RERANKER_MIN_SCORE=}")
-    print(f"开始时间: {date_str}\n")
-
+def _run_questions_sequential(date_str):
+    """原版顺序执行。"""
     csv_path = PROJECT_ROOT / "tests" / f"test30_{date_str}.csv"
     json_path = PROJECT_ROOT / "tests" / f"test30_{date_str}.json"
-
     orch = LegalOrchestrator(logger=None)
     all_results = []
 
     with open(csv_path, "w", newline="", encoding="utf-8-sig") as f:
         writer = csv.DictWriter(f, fieldnames=CSV_COLUMNS, extrasaction="ignore")
         writer.writeheader()
-
         for i, q in enumerate(QUESTIONS):
             print(f"[{q['id']}] {q['question'][:40]}...", end=" ", flush=True)
             try:
@@ -173,6 +165,122 @@ def main():
                 writer.writerow(error_row)
                 all_results.append(error_row)
             time.sleep(1)
+    return all_results, csv_path, json_path
+
+
+def _worker_chunk(chunk):
+    """Worker 函数：处理一个 question 列表，返回结果列表。"""
+    from legalbot.agents import LegalOrchestrator
+    orch = LegalOrchestrator(logger=None)
+    results = []
+    for q in chunk:
+        try:
+            results.append(run_question(orch, q))
+        except Exception as e:
+            error_row = {col: "" for col in CSV_COLUMNS}
+            error_row["question_id"] = q["id"]
+            error_row["category"] = q.get("category", "")
+            error_row["question"] = q["question"]
+            error_row["conclusion_preview"] = f"ERROR: {e}"
+            results.append(error_row)
+        time.sleep(0.5)
+    return results
+
+
+def _run_questions_parallel(date_str, n_workers):
+    """按题目并行：切分 → mp.Pool → 合并。"""
+    import multiprocessing as mp
+    # 轮询切分（保证每 chunk 题目分布均匀）
+    chunks = [[] for _ in range(n_workers)]
+    for i, q in enumerate(QUESTIONS):
+        chunks[i % n_workers].append(q)
+    chunks = [c for c in chunks if c]
+
+    print(f"切分: {n_workers} worker")
+    for i, c in enumerate(chunks):
+        print(f"  Worker {i}: {len(c)} 题 ({c[0]['id']} - {c[-1]['id']})")
+
+    start = time.time()
+    ctx = mp.get_context("spawn")  # 显式 spawn，避免 fork 共享 CUDA context 问题
+    with ctx.Pool(n_workers) as pool:
+        all_chunk_results = pool.map(_worker_chunk, chunks)
+    elapsed = time.time() - start
+
+    # 合并
+    all_results = []
+    for chunk_result in all_chunk_results:
+        all_results.extend(chunk_result)
+    # 按 question_id 排序
+    all_results.sort(key=lambda x: x.get("question_id", ""))
+
+    print(f"\n并行完成！{elapsed/60:.1f} 分钟（vs 串行预估 {sum(r.get('elapsed_sec', 100) for r in all_results)/60:.1f} 分钟）")
+
+    # 写 CSV
+    csv_path = PROJECT_ROOT / "tests" / f"test30_{date_str}.csv"
+    json_path = PROJECT_ROOT / "tests" / f"test30_{date_str}.json"
+    with open(csv_path, "w", newline="", encoding="utf-8-sig") as f:
+        writer = csv.DictWriter(f, fieldnames=CSV_COLUMNS, extrasaction="ignore")
+        writer.writeheader()
+        for r in all_results:
+            writer.writerow(r)
+    return all_results, csv_path, json_path
+
+
+def main():
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--workers", type=int, default=1, help="并行 worker 数（1=串行，2=2x 加速，8GB GPU 推荐 2）")
+    args = parser.parse_args()
+
+    import datetime
+    date_str = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+
+    print(f"30题完整测试 (workers={args.workers})")
+    print(f"配置: {cfg.QUERY_GATE_ENABLED=}, {cfg.CROSS_ENCODER_CITATION=}, {cfg.RERANKER_MIN_SCORE=}")
+    print(f"开始时间: {date_str}\n")
+
+    if args.workers == 1:
+        all_results, csv_path, json_path = _run_questions_sequential(date_str)
+    else:
+        all_results, csv_path, json_path = _run_questions_parallel(date_str, args.workers)
+
+    # 保存完整JSON（含answer_full）
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump({
+            "test_date": date_str,
+            "config": all_results[0].get("config", "") if all_results else "",
+            "results": all_results,
+        }, f, ensure_ascii=False, indent=2, default=str)
+
+    # 汇总统计
+    print(f"\n{'='*60}")
+    print("汇总统计")
+    print(f"{'='*60}")
+    ok = [r for r in all_results if not r.get("conclusion_preview", "").startswith("ERROR")]
+    if ok:
+        avg_time = sum(r["elapsed_sec"] for r in ok) / len(ok)
+        avg_len = sum(r["answer_len"] for r in ok) / len(ok)
+        total_supported = sum(r["supported"] for r in ok)
+        total_citations = sum(r["citation_count"] for r in ok)
+        print(f"完成: {len(ok)}/30")
+        print(f"平均耗时: {avg_time:.1f}s")
+        print(f"平均答案长度: {avg_len:.0f}字")
+        print(f"整体supported率: {total_supported}/{total_citations} ({total_supported/max(total_citations,1)*100:.0f}%)")
+
+        # 按分类统计
+        by_cat = {}
+        for r in ok:
+            cat = r["category"]
+            by_cat.setdefault(cat, []).append(r)
+        print(f"\n按分类:")
+        for cat, rows in sorted(by_cat.items()):
+            s = sum(r["supported"] for r in rows)
+            c = sum(r["citation_count"] for r in rows)
+            t = sum(r["elapsed_sec"] for r in rows) / len(rows)
+            print(f"  {cat:15s}: {len(rows)}题, supported={s}/{c}, 平均{t:.0f}s")
+
+    print(f"\nCSV: {csv_path}")
+    print(f"JSON: {json_path}")
 
     # 保存完整JSON（含answer_full）
     with open(json_path, "w", encoding="utf-8") as f:

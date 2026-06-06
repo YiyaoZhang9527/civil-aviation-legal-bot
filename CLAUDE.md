@@ -159,29 +159,49 @@ D 配置（`KEYWORD_ROUTING_ENABLED=True`, `TREE_GENERIC_ARTICLE_PENALTY=0.5`）
 
 **用户获得可靠答案的比例：17/30（57%）。还有 6 题（20%）给了看似专业但实际不可靠的答案。**
 
-**评测流程（三步顺序执行）：**
+**评测流程（两步 + 两分析）：**
 
 ```bash
 # 1. 先跑 30 题测试，生成基础结果
-.venv/bin/python tests/test_30questions.py
+#    可选 --workers N 并行（8GB GPU 推荐 2，N=1 为原版串行）
+.venv/bin/python tests/test_30questions.py --workers 2
 
-# 2. 第 2 层：引用真实性（纯代码，~30秒）
-.venv/bin/python tests/test_citation_validity.py
+# 2. 静态分析（无 LLM，~30秒）：引用有效性 + 拒答率
+.venv/bin/python tests/analyze_static.py tests/test30_<timestamp>.csv
 
-# 3. 第 1 层：Faithfulness（独立 LLM claim-level，~5-10分钟）
-.venv/bin/python tests/test_faithfulness.py
-
-# 4. 第 3 层：三层汇总
-.venv/bin/python tests/test_summary.py
+# 3. LLM 分析（~5-10分钟）：Faithfulness + LeMAJ + MQS + F1（4 种变体）+ missing
+.venv/bin/python tests/analyze_llm.py tests/test30_<timestamp>.csv
+# 默认输出 f1_variants.standard（推荐）
+# 可选: --ir=5 跑 Pro vs Qwen 一致性
+# 可选: --offset 30 --n 70 评测后 70 题
+# 可选: ANALYZE_PARALLEL=10 调并发（默认 10）
 ```
 
-**三层指标定义：**
+**完整指标体系（10 项）：**
 
-| 层 | 指标 | 方法 | 说明 |
-|----|------|------|------|
-| 1 | Faithfulness | 独立 LLM 逐 claim 评测 | faithful / partial / unverifiable / hallucinated 四档 |
-| 2 | 引用有效率 | 纯正则 + index 对照 | 答案中《法名》第X条是否真实存在 |
-| 3 | 拒答率 | 统计"无法确定"类回答 | 不算幻觉，属中性指标 |
+| # | 指标 | 来源脚本 | 方法 | 目标 |
+|---|------|---------|------|------|
+| 1 | **LeMAJ correct（准确率）** | `analyze_llm.py` | LDP 拆解 + 逐条 correct 评测 | ≥0.95 |
+| 2 | LeMAJ supported | `analyze_llm.py` | LDP 在 evidence 中能找到 | — |
+| 3 | LeMAJ relevant | `analyze_llm.py` | LDP 与问题相关 | — |
+| 4 | MQS weighted（0-100）| `analyze_llm.py` | 5 维加权（Q-Match/Law/Coverage/Calib/Format）| — |
+| 5 | Faithfulness faithful | `analyze_llm.py` | 独立 LLM claim-level | 不降超 1pp |
+| 6 | Faithfulness partial | `analyze_llm.py` | 同上 | — |
+| 7 | Faithfulness unverifiable | `analyze_llm.py` | 证据未覆盖（≠ 错误）| — |
+| 8 | Faithfulness hallucinated | `analyze_llm.py` | 证据矛盾或编造 | 下降 |
+| 9 | 引用有效率 | `analyze_static.py` | 正则 + index 对照 | ≥0.95 |
+| 10 | 拒答率 | `analyze_static.py` | "无法确定"统计 | 不升超 1pp |
+
+**综合指标：**
+- **F1（标准版，默认）** = 精确率 × 完整率综合（Wikipedia/Stanford IR 教材定义）
+  - TP=faithful, FP=hallucinated, FN=missing
+  - 由 `analyze_llm.py` 同时输出 4 种 F1 变体供对比：
+    - `standard` ← **推荐使用**（教材定义，2024+ 法律QA评测主流）
+    - `lenient`（旧版公式：correct=faithful+partial, recall den=correct+missing）
+    - `middle`（correct=faithful+partial, recall den=total_claims）
+    - `strict`（correct=faithful, recall den=total_claims，最严）
+- **完整率 / Recall** = 答案未遗漏关键信息（missing 检测）
+- **CE supported** = 系统自评（**自洽指标，不能代表真实质量**）|
 
 **第 1 层四档判定标准（核心区分）：**
 
@@ -199,23 +219,78 @@ D 配置（`KEYWORD_ROUTING_ENABLED=True`, `TREE_GENERIC_ARTICLE_PENALTY=0.5`）
 - 严格区分 `unverifiable` 和 `hallucinated`：证据沉默→unverifiable，证据矛盾→hallucinated
 - 环境变量：`FAITHFULNESS_API_KEY` / `FAITHFULNESS_BASE_URL` / `FAITHFULNESS_MODEL`
 
-**当前基线（v3 证据相关性门控，test30_20260603_120835，三层评测）：**
+**当前基线（Plan A+B 启用，test100_20260604_154801 + Plan A+B ablation 2026-06-06）：**
 
-| 指标 | 数值 | 说明 |
+| 指标 | 数值 | 来源 |
 |------|------|------|
-| 真实幻觉率 | **0.0%** | 0/246 条声明是真正编造 |
-| 检索缺口率 | **24.8%** | 61 条声明证据未覆盖 |
-| 忠实率 | **69.9%** | 证据直接支撑的声明占比 |
-| 可接受率 | **75.2%** | faithful+partial |
-| 完整率 | **87.3%** | 答案未遗漏关键信息（Recall） |
-| F1 | **80.8%** | 精确率 × 完整率综合 |
-| 拒答率 | **10.0%** | 3/30 |
+| **LeMAJ correct（准确率）** | **0.946** | 100 题，Plan A+B 合并 |
+| Faithfulness faithful | 0.560 | 100 题三层评测 |
+| Faithfulness hallucinated | 0.012 | 100 题三层评测（极低）|
+| F1 | 0.801 | 100 题三层 |
+| 完整率 | 0.917 | 100 题三层 |
+| 引用有效率 | 0.893 | 100 题三层 |
+| 拒答率 | 0.010 | 100 题三层 |
+
+**消融测试（2026-06-06）：**
+- 23 个配置 × 5 题探针，2 worker 并行，145.6 分钟
+- top 4 配置在 5 题探针上 LeMAJ=100%（RERANKER_MIN_SCORE=0.05 / SYNTHESIS_EVIDENCE_TRUNCATE=3000 / TREE_EARLY_ARTICLE_PENALTY=0.4 / TREE_GENERIC_ARTICLE_PENALTY=0.5）
+- 当前默认配置 RERANKER_MIN_SCORE=0.05 + TREE_GENERIC_ARTICLE_PENALTY=0.5 已是 top 1
 
 **已启用的配置：**
 - `KEYWORD_ROUTING_ENABLED = True`（消融v3: +18pp）
 - `TREE_GENERIC_ARTICLE_PENALTY = 0.5`（消融v3: 与KW协同+5pp）
-- `RELEVANCE_GATE_ENABLED = True`（v3门控: +17.2pp faithful，-2.8pp hallucination）
+- `RELEVANCE_GATE_ENABLED = True`（v3门控: +17.2pp faithful）
+- `HARD_REFUSAL_ON_EMPTY_EVIDENCE = True`（Plan A: 空证据硬拒答）
+- `SM_FORCE_DEMOTE_ON_FAIL = True`（Plan A: SM 失败强制 source 降级）
+- `CRAG_ENABLED = True`（Plan B: CRAG 检索质量补救）
 - 22条精确fallback路由规则
 - WRRF/AdaptiveK 已关闭（消融实验负收益）
 
-**⚠ 注意：CE supported 率不能代表真实质量，后续所有优化必须以 Faithfulness 为准。**
+**⚠ 注意：CE supported 率不能代表真实质量，后续所有优化必须以 Faithfulness/LeMAJ 为准。**
+
+### 消融测试新框架（数据/评测分离）
+
+**核心原则**：消融测试 = 跑配置存数据，全面测评 = 读数据算所有指标。两者**完全分离**，可重算、可复用。
+
+**新框架脚本**（在 `tests/` 根目录）：
+
+| 脚本 | 作用 |
+|------|------|
+| `ablation_grids.py` | 参数网格 + 探针题集 + 切分工具（共享库）|
+| `ablation_runner.py` | 主控，2 worker 并行跑配置存 JSON |
+| `run_ablation_worker.py` | worker 进程：跑题存原始数据 |
+| `ablation_analyzer.py` | 后期分析：读 JSON 算 15 项指标（7 基础 + 4 引用 + 4 LLM）|
+
+**使用流程**：
+
+```bash
+# 1. 跑消融（23 配置 × 5 题，2 worker，~2.5h）
+.venv/bin/python tests/ablation_runner.py
+# 输出: tests/ablation_runs/<timestamp>/{config_id}_q{qid}.json
+
+# 2. 快速分析（无 LLM，~1 分钟）
+.venv/bin/python tests/ablation_analyzer.py tests/ablation_runs/<timestamp>/ --skip-llm
+
+# 3. 完整分析（含 LLM 评测 top 5，~15 分钟）
+ABLATION_PARALLEL=10 .venv/bin/python tests/ablation_analyzer.py tests/ablation_runs/<timestamp>/ --top 5
+```
+
+**旧消融脚本已废弃**（移到 `tests/history_test_scripts/`）：
+- `test_ablation.py` / `test_ablation2.py` / `test_ablation3.py`（旧版 8/30 题 × 单配置）
+- `test_combo.py` / `test_consistency.py` / `test_comprehensive.py` / `test_full_answer.py`（旧版评测）
+- `test_citation_validity.py` / `test_faithfulness.py` / `test_summary.py` / `eval_quality.py` / `test_eval_quality_unit.py`（旧版评测，已合并到 `analyze_static.py` + `analyze_llm.py`）
+- 详见 `tests/history_test_scripts/README.md`
+
+### 测试脚本并行执行
+
+**`test_30questions.py` 和 `test_100questions.py` 支持 `--workers N` 参数**（默认 1 = 串行）。
+
+```bash
+# 30 题 2 worker 并行（8GB GPU 安全，~25 min vs 50 min 串行）
+.venv/bin/python tests/test_30questions.py --workers 2
+
+# 100 题 2 worker 并行（~1.5h vs 3h 串行）
+.venv/bin/python tests/test_100questions.py --workers 2
+```
+
+**实现**：轮询切分题目给 N 个 worker 进程（`mp.get_context("spawn")` 避免 CUDA context 共享问题），每个 worker 独立加载模型，结果按 `question_id` 合并排序。
