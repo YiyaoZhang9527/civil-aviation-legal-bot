@@ -1,0 +1,49 @@
+{
+  "cycle": 1,
+  "started_at": "2026-06-07T02:00:00Z",
+  "ablation_run": "tests/ablation_runs/iter1_iter1_20260607020000",
+  "best_probe": {
+    "id": "EVIDENCE_SORT_BY_CE=False",
+    "lemaj": 1.0,
+    "f1": null,
+    "note": "5题探针 LeMAJ=100%, faithful=40%, hallucinated=0%（f1字段因readJson bug未捕获）"
+  },
+  "completed": true,
+  "history": [
+    {
+      "cycle": 1,
+      "breakthrough": false,
+      "composite_delta": 0.0034,
+      "metrics": {
+        "accuracy": 0.942,
+        "f1_standard": 0.680,
+        "recall": 0.561,
+        "faithful": 0.334,
+        "hallucinated": 0.056,
+        "mqs": 64.3
+      },
+      "regressed": ["faithful"],
+      "improved_significant": ["f1_standard", "hallucinated"],
+      "note": "readJson 截断 bug 导致 workflow 误判为 0；此条由人工核对 LLM 报告后回填"
+    }
+  ],
+  "best_metrics": {
+    "accuracy": 0.942,
+    "f1_standard": 0.680,
+    "recall": 0.561,
+    "faithful": 0.334,
+    "hallucinated": 0.056,
+    "mqs": 64.3
+  },
+  "baseline": {
+    "accuracy": 0.946,
+    "f1_standard": 0.641,
+    "recall": 0.567,
+    "faithful": 0.395,
+    "hallucinated": 0.108,
+    "mqs": 68.7,
+    "note": "100题基线 (test100_20260605_154801)，来自 CLAUDE.md"
+  },
+  "no_breakthrough_since": 1,
+  "fixed_bugs": ["readJson truncation (jq-based extraction)"]
+}
