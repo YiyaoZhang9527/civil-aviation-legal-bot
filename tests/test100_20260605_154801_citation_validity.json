@@ -1,0 +1,4753 @@
+{
+  "source": "test100_20260605_154801.json",
+  "summary": {
+    "total_questions": 100,
+    "refusals": 1,
+    "answered": 99,
+    "total_citations": 363,
+    "valid_citations": 324,
+    "law_not_found": 34,
+    "article_not_found": 5,
+    "citation_validity_rate": 0.8925619834710744
+  },
+  "per_question": [
+    {
+      "qid": "Q01",
+      "question": "不在《运行规范》的机场是否可以去备降",
+      "refusal": false,
+      "total_cit": 6,
+      "valid": 6,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.655",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.655条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.655"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.657",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.657条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.657"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.95",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.95条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.95"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.117",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.117条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.117"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.3",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.3条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.3"
+        },
+        {
+          "law_name": "大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.655",
+          "raw": "《大型飞机公共航空运输承运人运行合格审定规则》第121.655条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.655"
+        }
+      ]
+    },
+    {
+      "qid": "Q02",
+      "question": "飞机起飞前需要满足哪些燃油量要求",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 2,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.663",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.663条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.663"
+        },
+        {
+          "law_name": "大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.663",
+          "raw": "《大型飞机公共航空运输承运人运行合格审定规则》第121.663条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.663"
+        }
+      ]
+    },
+    {
+      "qid": "Q03",
+      "question": "航空公司在什么情况下可以低于最低天气标准运行",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 2,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.550",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.550条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.550"
+        },
+        {
+          "law_name": "大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.550",
+          "raw": "《大型飞机公共航空运输承运人运行合格审定规则》第121.550条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.550"
+        }
+      ]
+    },
+    {
+      "qid": "Q04",
+      "question": "运行规范中需要包含哪些内容",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 2,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.25",
+          "raw": "《大型飞机公共航空运输承运人运行合格审定规则》第121.25条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.25"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.25",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.25条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.25"
+        }
+      ]
+    },
+    {
+      "qid": "Q05",
+      "question": "飞行机组的值勤期限制是多少",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 2,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.485",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.485条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.485"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.487",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.487条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.487"
+        }
+      ]
+    },
+    {
+      "qid": "Q06",
+      "question": "飞机延程运行EDTO需要满足什么条件",
+      "refusal": false,
+      "total_cit": 10,
+      "valid": 9,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.718",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.718条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.718"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.715",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.715条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.715"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.714",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.714条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.714"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.719",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.719条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.719"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.633",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.633条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.633"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.635",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.635条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.635"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.455",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.455条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.455"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.465",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.465条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.465"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.651",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.651条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.651"
+        },
+        {
+          "law_name": "第121.633 条 仪表飞行规则的签派或者放行 除本规则",
+          "article": "121.635",
+          "raw": "。 第121.633 条 仪表飞行规则的签派或者放行 除本规则第121.635 条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q07",
+      "question": "签派员放行飞机时需要检查哪些事项",
+      "refusal": false,
+      "total_cit": 11,
+      "valid": 10,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.623",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.623条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.623"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.631",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.631条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.631"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.633",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.633条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.633"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.635",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.635条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.635"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.651",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.651条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.651"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.625",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.625条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.625"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.621",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.621条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.621"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.622",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.622条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.622"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.501",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.501条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.501"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.677",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.677条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.677"
+        },
+        {
+          "law_name": "第121.633 条 仪表飞行规则的签派或者放行 除本规则",
+          "article": "121.635",
+          "raw": "。 第121.633 条 仪表飞行规则的签派或者放行 除本规则第121.635 条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q08",
+      "question": "飞机在结冰条件下运行有什么要求",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 2,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.341",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.341条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.341"
+        },
+        {
+          "law_name": "大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.341",
+          "raw": "《大型飞机公共航空运输承运人运行合格审定规则》第121.341条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.341"
+        }
+      ]
+    },
+    {
+      "qid": "Q09",
+      "question": "机长在紧急情况下有哪些权力",
+      "refusal": false,
+      "total_cit": 5,
+      "valid": 5,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "article": "四十七",
+          "raw": "《中华人民共和国民用航空法(2026年7月1日起施行)》第四十七条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:47"
+        },
+        {
+          "law_name": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "article": "四十五",
+          "raw": "《中华人民共和国民用航空法(2026年7月1日起施行)》第四十五条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:45"
+        },
+        {
+          "law_name": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "article": "四十六",
+          "raw": "《(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。》第四十六条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "matched_node": "article:46"
+        },
+        {
+          "law_name": "民航局和民航地区管理局,以下统称民航行政机关。",
+          "article": "四十八",
+          "raw": "《民航局和民航地区管理局,以下统称民航行政机关。》第四十八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民航局和民航地区管理局,以下统称民航行政机关。",
+          "matched_node": "article:48"
+        },
+        {
+          "law_name": "中华人民共和国民用航空法",
+          "article": "四十五",
+          "raw": "《中华人民共和国民用航空法》第四十五条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:45"
+        }
+      ]
+    },
+    {
+      "qid": "Q10",
+      "question": "民用航空器在什么情况下可以进行特技飞行",
+      "refusal": false,
+      "total_cit": 5,
+      "valid": 5,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《交通运输部关于修改〈民用航空空中交通管理规则〉的决定",
+          "article": "九十三",
+          "raw": "《《交通运输部关于修改〈民用航空空中交通管理规则〉的决定》已于2022》第九十三条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《交通运输部关于修改〈民用航空空中交通管理规则〉的决定》已于2022",
+          "matched_node": "article:93"
+        },
+        {
+          "law_name": "«民用航空空中交通管理规则»已于2017年9月20日经第16",
+          "article": "九十三",
+          "raw": "《«民用航空空中交通管理规则»已于2017年9月20日经第16》第九十三条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "«民用航空空中交通管理规则»已于2017年9月20日经第16",
+          "matched_node": "article:93"
+        },
+        {
+          "law_name": "一般运行和飞行规则",
+          "article": "91.905",
+          "raw": "《一般运行和飞行规则》第91.905条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "一般运行和飞行规则",
+          "matched_node": "article:91.905"
+        },
+        {
+          "law_name": "合格审定规则»的决定",
+          "article": "61.61",
+          "raw": "《合格审定规则»的决定》第61.61条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "合格审定规则»的决定",
+          "matched_node": "article:61.61"
+        },
+        {
+          "law_name": "合格审定规则»的决定",
+          "article": "61.207",
+          "raw": "《合格审定规则»的决定》第61.207条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "合格审定规则»的决定",
+          "matched_node": "article:61.207"
+        }
+      ]
+    },
+    {
+      "qid": "Q11",
+      "question": "小型航空器商业运输的备降机场要求是什么",
+      "refusal": false,
+      "total_cit": 6,
+      "valid": 6,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "小型商业运输和空中游览运营人运行",
+          "article": "135.189",
+          "raw": "《小型商业运输和空中游览运营人运行》第135.189条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "小型商业运输和空中游览运营人运行",
+          "matched_node": "article:135.189"
+        },
+        {
+          "law_name": "小型商业运输和空中游览运营人运行",
+          "article": "135.187",
+          "raw": "《小型商业运输和空中游览运营人运行》第135.187条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "小型商业运输和空中游览运营人运行",
+          "matched_node": "article:135.187"
+        },
+        {
+          "law_name": "小型商业运输和空中游览运营人运行",
+          "article": "135.347",
+          "raw": "《小型商业运输和空中游览运营人运行》第135.347条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "小型商业运输和空中游览运营人运行",
+          "matched_node": "article:135.347"
+        },
+        {
+          "law_name": "小型商业运输和空中游览运营人运行",
+          "article": "135.375",
+          "raw": "《小型商业运输和空中游览运营人运行》第135.375条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "小型商业运输和空中游览运营人运行",
+          "matched_node": "article:135.375"
+        },
+        {
+          "law_name": "小型商业运输和空中游览运营人运行",
+          "article": "135.359",
+          "raw": "《小型商业运输和空中游览运营人运行》第135.359条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "小型商业运输和空中游览运营人运行",
+          "matched_node": "article:135.359"
+        },
+        {
+          "law_name": "小型商业运输和空中游览运营人运行",
+          "article": "135.321",
+          "raw": "《小型商业运输和空中游览运营人运行》第135.321条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "小型商业运输和空中游览运营人运行",
+          "matched_node": "article:135.321"
+        }
+      ]
+    },
+    {
+      "qid": "Q12",
+      "question": "CCAR-135部运营人的飞行员资质要求是什么",
+      "refusal": false,
+      "total_cit": 1,
+      "valid": 1,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "小型商业运输和空中游览运营人运行",
+          "article": "135.9",
+          "raw": "《小型商业运输和空中游览运营人运行》第135.9条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "小型商业运输和空中游览运营人运行",
+          "matched_node": "article:135.9"
+        }
+      ]
+    },
+    {
+      "qid": "Q13",
+      "question": "无人机在什么情况下需要申请空域许可",
+      "refusal": false,
+      "total_cit": 0,
+      "valid": 0,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": []
+    },
+    {
+      "qid": "Q14",
+      "question": "无人机飞行的安全距离要求是什么",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 2,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《民用无人驾驶航空器运行安全管理规则",
+          "article": "92.631",
+          "raw": "《《民用无人驾驶航空器运行安全管理规则》已于2023》第92.631条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用无人驾驶航空器运行安全管理规则》已于2023",
+          "matched_node": "article:92.631"
+        },
+        {
+          "law_name": "《民用无人驾驶航空器运行安全管理规则",
+          "article": "92.695",
+          "raw": "《《民用无人驾驶航空器运行安全管理规则》已于2023》第92.695条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用无人驾驶航空器运行安全管理规则》已于2023",
+          "matched_node": "article:92.695"
+        }
+      ]
+    },
+    {
+      "qid": "Q15",
+      "question": "机场使用许可证的申请条件是什么",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 2,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "运输机场使用许可规定",
+          "article": "八",
+          "raw": "《运输机场使用许可规定》第八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "运输机场使用许可规定",
+          "matched_node": "article:8"
+        },
+        {
+          "law_name": "交通运输部决定对《民用机场建设管理规定",
+          "article": "九",
+          "raw": "《交通运输部决定对《民用机场建设管理规定》(交通运输部令2016年第47号)作如下修改:》第九条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "交通运输部决定对《民用机场建设管理规定》(交通运输部令2016年第47号)作如下修改:",
+          "matched_node": "article:9"
+        }
+      ]
+    },
+    {
+      "qid": "Q16",
+      "question": "机场运行安全管理中谁来负责飞行区安全",
+      "refusal": false,
+      "total_cit": 6,
+      "valid": 6,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "(一)督促和指导机场实施《国家民用航空安全保卫规划",
+          "article": "四",
+          "raw": "《(一)督促和指导机场实施《国家民用航空安全保卫规划》,建立和运行航空安保管理体系;》第四条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)督促和指导机场实施《国家民用航空安全保卫规划》,建立和运行航空安保管理体系;",
+          "matched_node": "article:4"
+        },
+        {
+          "law_name": "(一)督促和指导机场实施《国家民用航空安全保卫规划",
+          "article": "五",
+          "raw": "《(一)督促和指导机场实施《国家民用航空安全保卫规划》,建立和运行航空安保管理体系;》第五条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)督促和指导机场实施《国家民用航空安全保卫规划》,建立和运行航空安保管理体系;",
+          "matched_node": "article:5"
+        },
+        {
+          "law_name": "《运输机场运行安全管理规定",
+          "article": "三十",
+          "raw": "《《运输机场运行安全管理规定》已于2025 年10 月31》第三十条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《运输机场运行安全管理规定》已于2025 年10 月31",
+          "matched_node": "article:30"
+        },
+        {
+          "law_name": "(一)督促和指导公共航空运输企业实施《国家民用航空安全保卫规划",
+          "article": "四十一",
+          "raw": "《(一)督促和指导公共航空运输企业实施《国家民用航空安全保卫规划》,建立和运行航空安保管理体系;》第四十一条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)督促和指导公共航空运输企业实施《国家民用航空安全保卫规划》,建立和运行航空安保管理体系;",
+          "matched_node": "article:41"
+        },
+        {
+          "law_name": "运输机场运行安全管理规定",
+          "article": "四",
+          "raw": "《运输机场运行安全管理规定》第四条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《运输机场运行安全管理规定》已于2025 年10 月31",
+          "matched_node": "article:4"
+        },
+        {
+          "law_name": "国家民用航空安全保卫规划",
+          "article": "五",
+          "raw": "《国家民用航空安全保卫规划》相关法规第五条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)督促和指导公共航空运输企业实施《国家民用航空安全保卫规划》,建立和运行航空安保管理体系;",
+          "matched_node": "article:5"
+        }
+      ]
+    },
+    {
+      "qid": "Q17",
+      "question": "航班备降时机场运营人有什么义务",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 2,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "公共航空运输旅客服务管理规定",
+          "article": "二十八",
+          "raw": "《公共航空运输旅客服务管理规定》第二十八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "公共航空运输旅客服务管理规定",
+          "matched_node": "article:28"
+        },
+        {
+          "law_name": "运输机场运行安全管理规定",
+          "article": "二十八",
+          "raw": "《运输机场运行安全管理规定》第二十八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《运输机场运行安全管理规定》已于2025 年10 月31",
+          "matched_node": "article:28"
+        }
+      ]
+    },
+    {
+      "qid": "Q18",
+      "question": "航班延误超过多长时间航空公司需要为旅客提供餐饮",
+      "refusal": false,
+      "total_cit": 3,
+      "valid": 2,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "港澳台地区承运人、外国承运人航班始发点或者经停点在我国境内(不含港澳台)机场时航班正常保障、延误处置及旅客投诉管理方面的活动也适用本规定。",
+          "article": "二十九",
+          "raw": "《港澳台地区承运人、外国承运人航班始发点或者经停点在我国境内(不含港澳台)机场时航班正常保障、延误处置及旅客投诉管理方面的活动也适用本规定。》第二十九条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "港澳台地区承运人、外国承运人航班始发点或者经停点在我国境内(不含港澳台)机场时航班正常保障、延误处置及旅客投诉管理方面的活动也适用本规定。",
+          "matched_node": "article:29"
+        },
+        {
+          "law_name": "港澳台地区承运人、外国承运人航班始发点或者经停点在我国境内(不含港澳台)机场时航班正常保障、延误处置及旅客投诉管理方面的活动也适用本规定。",
+          "article": "三十二",
+          "raw": "《港澳台地区承运人、外国承运人航班始发点或者经停点在我国境内(不含港澳台)机场时航班正常保障、延误处置及旅客投诉管理方面的活动也适用本规定。》第三十二条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "港澳台地区承运人、外国承运人航班始发点或者经停点在我国境内(不含港澳台)机场时航班正常保障、延误处置及旅客投诉管理方面的活动也适用本规定。",
+          "matched_node": "article:32"
+        },
+        {
+          "law_name": "航班正常管理规定",
+          "article": "二十九",
+          "raw": "《航班正常管理规定》第二十九条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q19",
+      "question": "航空公司拒载旅客的合法理由有哪些",
+      "refusal": false,
+      "total_cit": 3,
+      "valid": 3,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "article": "九",
+          "raw": "《中华人民共和国民用航空法(2026年7月1日起施行)》第九条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:9"
+        },
+        {
+          "law_name": "公共航空运输旅客服务管理规定",
+          "article": "五十四",
+          "raw": "《公共航空运输旅客服务管理规定》第五十四条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "公共航空运输旅客服务管理规定",
+          "matched_node": "article:54"
+        },
+        {
+          "law_name": "民用航空法",
+          "article": "九",
+          "raw": "《民用航空法》第九条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:9"
+        }
+      ]
+    },
+    {
+      "qid": "Q20",
+      "question": "旅客行李丢失后航空公司如何赔偿",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 2,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "公共航空运输旅客服务管理规定",
+          "article": "八",
+          "raw": "《公共航空运输旅客服务管理规定》第八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "公共航空运输旅客服务管理规定",
+          "matched_node": "article:8"
+        },
+        {
+          "law_name": "民用航空危险品运输管理规定",
+          "article": "八",
+          "raw": "《民用航空危险品运输管理规定》第八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用航空危险品运输管理规定》已于2024 年1 月12",
+          "matched_node": "article:8"
+        }
+      ]
+    },
+    {
+      "qid": "Q21",
+      "question": "航空安全检查中哪些物品禁止带上飞机",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 2,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《民用航空危险品运输管理规定",
+          "article": "七",
+          "raw": "《《民用航空危险品运输管理规定》已于2024 年1 月12》第七条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用航空危险品运输管理规定》已于2024 年1 月12",
+          "matched_node": "article:7"
+        },
+        {
+          "law_name": "民用航空危险品运输管理规定",
+          "article": "七",
+          "raw": "《民用航空危险品运输管理规定》第七条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用航空危险品运输管理规定》已于2024 年1 月12",
+          "matched_node": "article:7"
+        }
+      ]
+    },
+    {
+      "qid": "Q22",
+      "question": "民用航空安全信息报告的时限要求是什么",
+      "refusal": false,
+      "total_cit": 5,
+      "valid": 5,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "民用航空安全信息管理规定",
+          "article": "十七",
+          "raw": "《民用航空安全信息管理规定》第十七条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空安全信息管理规定",
+          "matched_node": "article:17"
+        },
+        {
+          "law_name": "民用航空安全信息管理规定",
+          "article": "十五",
+          "raw": "《民用航空安全信息管理规定》第十五条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空安全信息管理规定",
+          "matched_node": "article:15"
+        },
+        {
+          "law_name": "民用航空安全信息管理规定",
+          "article": "十八",
+          "raw": "《民用航空安全信息管理规定》第十八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空安全信息管理规定",
+          "matched_node": "article:18"
+        },
+        {
+          "law_name": "民用航空安全信息管理规定",
+          "article": "十四",
+          "raw": "《民用航空安全信息管理规定》第十四条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空安全信息管理规定",
+          "matched_node": "article:14"
+        },
+        {
+          "law_name": "民用航空安全信息管理规定",
+          "article": "十",
+          "raw": "《民用航空安全信息管理规定》第十条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空安全信息管理规定",
+          "matched_node": "article:10"
+        }
+      ]
+    },
+    {
+      "qid": "Q23",
+      "question": "航空器发生事故后谁来负责调查",
+      "refusal": false,
+      "total_cit": 4,
+      "valid": 4,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《交通运输部关于修改〈民用航空器事件调查规定〉的",
+          "article": "十三",
+          "raw": "《《交通运输部关于修改〈民用航空器事件调查规定〉的》第十三条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《交通运输部关于修改〈民用航空器事件调查规定〉的",
+          "matched_node": "article:13"
+        },
+        {
+          "law_name": "《交通运输部关于修改〈民用航空器事件调查规定〉的",
+          "article": "五十八",
+          "raw": "《《交通运输部关于修改〈民用航空器事件调查规定〉的》第五十八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《交通运输部关于修改〈民用航空器事件调查规定〉的",
+          "matched_node": "article:58"
+        },
+        {
+          "law_name": "《交通运输部关于修改〈民用航空器事件调查规定〉的",
+          "article": "二十五",
+          "raw": "《《交通运输部关于修改〈民用航空器事件调查规定〉的》第二十五条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《交通运输部关于修改〈民用航空器事件调查规定〉的",
+          "matched_node": "article:25"
+        },
+        {
+          "law_name": "交通运输部关于修改〈民用航空器事件调查规定〉",
+          "article": "十三",
+          "raw": "《交通运输部关于修改〈民用航空器事件调查规定〉》第十三条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《交通运输部关于修改〈民用航空器事件调查规定〉的",
+          "matched_node": "article:13"
+        }
+      ]
+    },
+    {
+      "qid": "Q24",
+      "question": "民用航空器适航指令是做什么的",
+      "refusal": false,
+      "total_cit": 3,
+      "valid": 2,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "第8号",
+          "article": "七",
+          "raw": "《第8号》第七条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "第8号",
+          "matched_node": "article:7"
+        },
+        {
+          "law_name": "第21.1条目的和依据",
+          "article": "21.173",
+          "raw": "《第21.1条目的和依据》第21.173条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "第21.1条目的和依据",
+          "matched_node": "article:21.173"
+        },
+        {
+          "law_name": "中国民用航空规章",
+          "article": "六",
+          "raw": "《中国民用航空规章》第8号《民用航空器适航指令规定》第六条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q25",
+      "question": "航空器维修单位需要什么资质",
+      "refusal": false,
+      "total_cit": 6,
+      "valid": 6,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《民用航空器维修单位合格审定规则",
+          "article": "145.1",
+          "raw": "《《民用航空器维修单位合格审定规则》已于2022 年2》第145.1条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用航空器维修单位合格审定规则》已于2022 年2",
+          "matched_node": "article:145.1"
+        },
+        {
+          "law_name": "《民用航空器维修单位合格审定规则",
+          "article": "145.20",
+          "raw": "《《民用航空器维修单位合格审定规则》已于2022 年2》第145.20条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用航空器维修单位合格审定规则》已于2022 年2",
+          "matched_node": "article:145.20"
+        },
+        {
+          "law_name": "《民用航空器维修单位合格审定规则",
+          "article": "145.24",
+          "raw": "《《民用航空器维修单位合格审定规则》已于2022 年2》第145.24条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用航空器维修单位合格审定规则》已于2022 年2",
+          "matched_node": "article:145.24"
+        },
+        {
+          "law_name": "《民用航空器维修单位合格审定规则",
+          "article": "145.28",
+          "raw": "《《民用航空器维修单位合格审定规则》已于2022 年2》第145.28条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用航空器维修单位合格审定规则》已于2022 年2",
+          "matched_node": "article:145.28"
+        },
+        {
+          "law_name": "民用航空器维修人员执照管理规则",
+          "article": "66.6",
+          "raw": "《民用航空器维修人员执照管理规则》第66.6条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空器维修人员执照管理规则",
+          "matched_node": "article:66.6"
+        },
+        {
+          "law_name": "民用航空器维修人员执照管理规则",
+          "article": "66.8",
+          "raw": "《民用航空器维修人员执照管理规则》第66.8条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空器维修人员执照管理规则",
+          "matched_node": "article:66.8"
+        }
+      ]
+    },
+    {
+      "qid": "Q26",
+      "question": "空中交通管制服务由哪些单位提供",
+      "refusal": false,
+      "total_cit": 5,
+      "valid": 5,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "article": "三",
+          "raw": "《中华人民共和国民用航空法(2026年7月1日起施行)》第三条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:3"
+        },
+        {
+          "law_name": "管制培训机构是指符合条件的担任基础培训的院校及其他空中交通管制培训机构。",
+          "article": "三",
+          "raw": "《管制培训机构是指符合条件的担任基础培训的院校及其他空中交通管制培训机构。》第三条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "管制培训机构是指符合条件的担任基础培训的院校及其他空中交通管制培训机构。",
+          "matched_node": "article:3"
+        },
+        {
+          "law_name": "第160 号",
+          "article": "三",
+          "raw": "《第160 号》第三条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "第160 号",
+          "matched_node": "article:3"
+        },
+        {
+          "law_name": "中国民用航空监察员管理规定",
+          "article": "三",
+          "raw": "《中国民用航空监察员管理规定》第三条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中国民用航空监察员管理规定",
+          "matched_node": "article:3"
+        },
+        {
+          "law_name": "公共航空运输企业航空安全保卫规则",
+          "article": "三",
+          "raw": "《公共航空运输企业航空安全保卫规则》第三条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "公共航空运输企业航空安全保卫规则",
+          "matched_node": "article:3"
+        }
+      ]
+    },
+    {
+      "qid": "Q27",
+      "question": "飞行程序设计和运行最低标准由谁审批",
+      "refusal": false,
+      "total_cit": 5,
+      "valid": 5,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "民用机场飞行程序和运行最低标准管理规定",
+          "article": "三十七",
+          "raw": "《民用机场飞行程序和运行最低标准管理规定》第三十七条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用机场飞行程序和运行最低标准管理规定",
+          "matched_node": "article:37"
+        },
+        {
+          "law_name": "民用机场飞行程序和运行最低标准管理规定",
+          "article": "十六",
+          "raw": "《民用机场飞行程序和运行最低标准管理规定》第十六条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用机场飞行程序和运行最低标准管理规定",
+          "matched_node": "article:16"
+        },
+        {
+          "law_name": "小型商业运输和空中游览运营人运行",
+          "article": "135.15",
+          "raw": "《小型商业运输和空中游览运营人运行》第135.15条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "小型商业运输和空中游览运营人运行",
+          "matched_node": "article:135.15"
+        },
+        {
+          "law_name": "小型商业运输和空中游览运营人运行",
+          "article": "135.5",
+          "raw": "《小型商业运输和空中游览运营人运行》第135.5条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "小型商业运输和空中游览运营人运行",
+          "matched_node": "article:135.5"
+        },
+        {
+          "law_name": "小型商业运输和空中游览运营人运行",
+          "article": "135.17",
+          "raw": "《小型商业运输和空中游览运营人运行》第135.17条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "小型商业运输和空中游览运营人运行",
+          "matched_node": "article:135.17"
+        }
+      ]
+    },
+    {
+      "qid": "Q28",
+      "question": "中华人民共和国对领空享有什么权利",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 2,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "外国民用航空器飞行管理规则",
+          "article": "二",
+          "raw": "《外国民用航空器飞行管理规则》第二条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "外国民用航空器飞行管理规则",
+          "matched_node": "article:2"
+        },
+        {
+          "law_name": "中华人民共和国民用航空法",
+          "article": "二",
+          "raw": "《中华人民共和国民用航空法》(2026年7月1日起施行)第二条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:2"
+        }
+      ]
+    },
+    {
+      "qid": "Q29",
+      "question": "民用航空器所有权的取得和转让有什么要求",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 2,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "中华人民共和国民用航空器权利登记条例实施办法",
+          "article": "三",
+          "raw": "《中华人民共和国民用航空器权利登记条例实施办法》第三条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空器权利登记条例实施办法",
+          "matched_node": "article:3"
+        },
+        {
+          "law_name": "交通运输部关于修改〈民用航空器国籍登记规定〉的决定",
+          "article": "九",
+          "raw": "《交通运输部关于修改〈民用航空器国籍登记规定〉的决定》第九条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《交通运输部关于修改〈民用航空器国籍登记规定〉的决定》已于2022年7月5日经第17次部务会议通过,现予公布,自2022年9月1日起施行。",
+          "matched_node": "article:9"
+        }
+      ]
+    },
+    {
+      "qid": "Q30",
+      "question": "飞行员执照的种类有哪些",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 1,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "民用航空器驾驶员合格审定规则",
+          "article": "61.13",
+          "raw": "《民用航空器驾驶员合格审定规则》（CCAR-61[待核实]）第61.13条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        },
+        {
+          "law_name": "合格审定规则»的决定",
+          "article": "61.13",
+          "raw": "《合格审定规则»的决定》第61.13条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "合格审定规则»的决定",
+          "matched_node": "article:61.13"
+        }
+      ]
+    },
+    {
+      "qid": "Q31",
+      "question": "飞机上有个设备坏了但不是关键设备，航空公司说按最低设备清单MEL可以飞，这个ME",
+      "refusal": false,
+      "total_cit": 0,
+      "valid": 0,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": []
+    },
+    {
+      "qid": "Q32",
+      "question": "我们公司要扩大经营范围，想修改运行规范增加新的运行种类，该怎么向民航局申请？如果",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 2,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.35",
+          "raw": "《大型飞机公共航空运输承运人运行合格审定规则》第121.35条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.35"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.35",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.35条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.35"
+        }
+      ]
+    },
+    {
+      "qid": "Q33",
+      "question": "客舱乘务员最多能连续值勤多少小时？如果人手不够多加几个乘务员，值勤上限会变吗？",
+      "refusal": false,
+      "total_cit": 3,
+      "valid": 2,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.491",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.491条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.491"
+        },
+        {
+          "law_name": "大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.491",
+          "raw": "《大型飞机公共航空运输承运人运行合格审定规则》第121.491条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.491"
+        },
+        {
+          "law_name": "(b)在按照本规则",
+          "article": "121.391",
+          "raw": "。 (b)在按照本规则第121.391 条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q34",
+      "question": "飞机每次起飞前的装载舱单上面都写了些什么？机长需要在起飞前亲自确认舱单吗？",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 2,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "中华人民共和国民用航空法",
+          "article": "44",
+          "raw": "《中华人民共和国民用航空法》第44条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:44"
+        },
+        {
+          "law_name": "第161 号",
+          "article": "四十四",
+          "raw": "《第161 号》第四十四条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "第161 号",
+          "matched_node": "article:44"
+        }
+      ]
+    },
+    {
+      "qid": "Q35",
+      "question": "双发飞机要飞跨洋航线做延程运行EDTO，备降机场的救援和消防服务有什么具体要求？",
+      "refusal": false,
+      "total_cit": 1,
+      "valid": 1,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.715",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.715条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.715"
+        }
+      ]
+    },
+    {
+      "qid": "Q36",
+      "question": "开小飞机按目视飞行规则出去飞一圈，油箱里最少要带多少油才合规",
+      "refusal": false,
+      "total_cit": 1,
+      "valid": 1,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "一般运行和飞行规则",
+          "article": "91.347",
+          "raw": "《一般运行和飞行规则》第91.347条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "一般运行和飞行规则",
+          "matched_node": "article:91.347"
+        }
+      ]
+    },
+    {
+      "qid": "Q37",
+      "question": "飞机在不同高度的巡航飞行高度层是怎么划分的，跟飞的方向有关系吗",
+      "refusal": false,
+      "total_cit": 1,
+      "valid": 1,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "一般运行和飞行规则",
+          "article": "91.369",
+          "raw": "《一般运行和飞行规则》第91.369条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "一般运行和飞行规则",
+          "matched_node": "article:91.369"
+        }
+      ]
+    },
+    {
+      "qid": "Q38",
+      "question": "想从飞机上跳伞需要走哪些审批流程，在人口密集区上空能不能跳",
+      "refusal": false,
+      "total_cit": 1,
+      "valid": 1,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "一般运行和飞行规则",
+          "article": "91.1001",
+          "raw": "《一般运行和飞行规则》第91.1001条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "一般运行和飞行规则",
+          "matched_node": "article:91.1001"
+        }
+      ]
+    },
+    {
+      "qid": "Q39",
+      "question": "我想开一家空中游览公司，只做短途游览飞行，起降都在同一个地方，飞行距离不超过40",
+      "refusal": false,
+      "total_cit": 9,
+      "valid": 8,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "小型商业运输和空中游览运营人运行",
+          "article": "135.7",
+          "raw": "《小型商业运输和空中游览运营人运行》第135.7条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "小型商业运输和空中游览运营人运行",
+          "matched_node": "article:135.7"
+        },
+        {
+          "law_name": "小型商业运输和空中游览运营人运行",
+          "article": "135.51",
+          "raw": "《小型商业运输和空中游览运营人运行》第135.51条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "小型商业运输和空中游览运营人运行",
+          "matched_node": "article:135.51"
+        },
+        {
+          "law_name": "小型商业运输和空中游览运营人运行",
+          "article": "135.195",
+          "raw": "《小型商业运输和空中游览运营人运行》第135.195条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "小型商业运输和空中游览运营人运行",
+          "matched_node": "article:135.195"
+        },
+        {
+          "law_name": "小型商业运输和空中游览运营人运行",
+          "article": "135.17",
+          "raw": "《小型商业运输和空中游览运营人运行》第135.17条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "小型商业运输和空中游览运营人运行",
+          "matched_node": "article:135.17"
+        },
+        {
+          "law_name": "小型商业运输和空中游览运营人运行",
+          "article": "135.153",
+          "raw": "《小型商业运输和空中游览运营人运行》第135.153条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "小型商业运输和空中游览运营人运行",
+          "matched_node": "article:135.153"
+        },
+        {
+          "law_name": "小型商业运输和空中游览运营人运行",
+          "article": "135.507",
+          "raw": "《小型商业运输和空中游览运营人运行》第135.507条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "小型商业运输和空中游览运营人运行",
+          "matched_node": "article:135.507"
+        },
+        {
+          "law_name": "小型商业运输和空中游览运营人运行",
+          "article": "135.167",
+          "raw": "《小型商业运输和空中游览运营人运行》第135.167条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "小型商业运输和空中游览运营人运行",
+          "matched_node": "article:135.167"
+        },
+        {
+          "law_name": "小型商业运输和空中游览运营人运行",
+          "article": "135.13",
+          "raw": "《小型商业运输和空中游览运营人运行》第135.13条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "小型商业运输和空中游览运营人运行",
+          "matched_node": "article:135.13"
+        },
+        {
+          "law_name": "第135.507 条飞行检查员的资格审定 (a)在本条和本规则",
+          "article": "135.509",
+          "raw": "。 第135.507 条飞行检查员的资格审定 (a)在本条和本规则第135.509 条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q40",
+      "question": "我朋友有一个私人飞机想请人代管，这种航空器代管人需要具备什么条件，对驾驶员的飞行",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 2,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "一般运行和飞行规则",
+          "article": "91.101",
+          "raw": "《一般运行和飞行规则》第91.101条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "一般运行和飞行规则",
+          "matched_node": "article:91.101"
+        },
+        {
+          "law_name": "合格审定规则»的决定",
+          "article": "61.61",
+          "raw": "《合格审定规则»的决定》第61.61条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "合格审定规则»的决定",
+          "matched_node": "article:61.61"
+        }
+      ]
+    },
+    {
+      "qid": "Q41",
+      "question": "CCAR-135部的运营人什么情况下需要建立安全管理体系，这个体系要具备哪些功能",
+      "refusal": false,
+      "total_cit": 1,
+      "valid": 1,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "小型商业运输和空中游览运营人运行",
+          "article": "135.19",
+          "raw": "《小型商业运输和空中游览运营人运行》第135.19条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "小型商业运输和空中游览运营人运行",
+          "matched_node": "article:135.19"
+        }
+      ]
+    },
+    {
+      "qid": "Q42",
+      "question": "我买了一台大疆无人机，自己玩的话需要考执照吗？什么样的无人机不需要操控员执照",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 2,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《民用无人驾驶航空器运行安全管理规则",
+          "article": "92.51",
+          "raw": "《《民用无人驾驶航空器运行安全管理规则》已于2023》第92.51条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用无人驾驶航空器运行安全管理规则》已于2023",
+          "matched_node": "article:92.51"
+        },
+        {
+          "law_name": "民用无人驾驶航空器运行安全管理规则",
+          "article": "92.51",
+          "raw": "《民用无人驾驶航空器运行安全管理规则》已于2023 第92.51条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用无人驾驶航空器运行安全管理规则》已于2023",
+          "matched_node": "article:92.51"
+        }
+      ]
+    },
+    {
+      "qid": "Q43",
+      "question": "我们公司想做无人机物流配送，需要办理什么运营资质？什么情况下不需要办运营合格证",
+      "refusal": false,
+      "total_cit": 5,
+      "valid": 5,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《民用无人驾驶航空器运行安全管理规则",
+          "article": "92.309",
+          "raw": "《《民用无人驾驶航空器运行安全管理规则》已于2023》第92.309条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用无人驾驶航空器运行安全管理规则》已于2023",
+          "matched_node": "article:92.309"
+        },
+        {
+          "law_name": "《民用无人驾驶航空器运行安全管理规则",
+          "article": "92.57",
+          "raw": "《《民用无人驾驶航空器运行安全管理规则》已于2023》第92.57条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用无人驾驶航空器运行安全管理规则》已于2023",
+          "matched_node": "article:92.57"
+        },
+        {
+          "law_name": "《民用无人驾驶航空器运行安全管理规则",
+          "article": "92.639",
+          "raw": "《《民用无人驾驶航空器运行安全管理规则》已于2023》第92.639条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用无人驾驶航空器运行安全管理规则》已于2023",
+          "matched_node": "article:92.639"
+        },
+        {
+          "law_name": "《民用无人驾驶航空器运行安全管理规则",
+          "article": "92.635",
+          "raw": "《《民用无人驾驶航空器运行安全管理规则》已于2023》第92.635条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用无人驾驶航空器运行安全管理规则》已于2023",
+          "matched_node": "article:92.635"
+        },
+        {
+          "law_name": "《民用无人驾驶航空器运行安全管理规则",
+          "article": "92.617",
+          "raw": "《《民用无人驾驶航空器运行安全管理规则》已于2023》第92.617条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用无人驾驶航空器运行安全管理规则》已于2023",
+          "matched_node": "article:92.617"
+        }
+      ]
+    },
+    {
+      "qid": "Q44",
+      "question": "无人机操控员执照有效期是多久？过期了还能用吗，怎么重新办理",
+      "refusal": false,
+      "total_cit": 6,
+      "valid": 5,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "民用航空地区管理局(以下简称地区管理局)负责本辖区管制员执照的具体管理工作。",
+          "article": "十二",
+          "raw": "《民用航空地区管理局(以下简称地区管理局)负责本辖区管制员执照的具体管理工作。》第十二条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空地区管理局(以下简称地区管理局)负责本辖区管制员执照的具体管理工作。",
+          "matched_node": "article:12"
+        },
+        {
+          "law_name": "民用航空地区管理局(以下简称地区管理局)负责本辖区民用航空情报员执照的具体管理工作。",
+          "article": "十二",
+          "raw": "《民用航空地区管理局(以下简称地区管理局)负责本辖区民用航空情报员执照的具体管理工作。》第十二条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空地区管理局(以下简称地区管理局)负责本辖区民用航空情报员执照的具体管理工作。",
+          "matched_node": "article:12"
+        },
+        {
+          "law_name": "民用航空情报培训机构是指符合条件的担任基础培训的院校及其他民用航空情报培训机构。",
+          "article": "十二",
+          "raw": "《民用航空情报培训机构是指符合条件的担任基础培训的院校及其他民用航空情报培训机构。》第十二条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空情报培训机构是指符合条件的担任基础培训的院校及其他民用航空情报培训机构。",
+          "matched_node": "article:12"
+        },
+        {
+          "law_name": "民用航空地区管理局(以下简称地区管理局)负责本辖区电信人员执照管理的具体工作。",
+          "article": "十二",
+          "raw": "《民用航空地区管理局(以下简称地区管理局)负责本辖区电信人员执照管理的具体工作。》第十二条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空地区管理局(以下简称地区管理局)负责本辖区电信人员执照管理的具体工作。",
+          "matched_node": "article:12"
+        },
+        {
+          "law_name": "《交通运输部关于修改〈平行跑道同时仪表运行管理规",
+          "article": "二十三",
+          "raw": "《《交通运输部关于修改〈平行跑道同时仪表运行管理规》第二十三条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《交通运输部关于修改〈平行跑道同时仪表运行管理规",
+          "matched_node": "article:23"
+        },
+        {
+          "law_name": "第十一条申请管制员执照或者签注前应当完成本规则",
+          "article": "三十六",
+          "raw": "。 第十一条申请管制员执照或者签注前应当完成本规则第三十六条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q45",
+      "question": "无人机运营合格证的有效期是多长？如果中间停运了好几个月还能继续飞吗",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 2,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《民用无人驾驶航空器运行安全管理规则",
+          "article": "92.655",
+          "raw": "《《民用无人驾驶航空器运行安全管理规则》已于2023》第92.655条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用无人驾驶航空器运行安全管理规则》已于2023",
+          "matched_node": "article:92.655"
+        },
+        {
+          "law_name": "民用无人驾驶航空器运行安全管理规则",
+          "article": "92.655",
+          "raw": "《民用无人驾驶航空器运行安全管理规则》第92.655条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用无人驾驶航空器运行安全管理规则》已于2023",
+          "matched_node": "article:92.655"
+        }
+      ]
+    },
+    {
+      "qid": "Q46",
+      "question": "无人机发生事故后操控员执照会怎么处理？无证驾驶无人机飞要罚多少钱",
+      "refusal": false,
+      "total_cit": 5,
+      "valid": 5,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《民用无人驾驶航空器运行安全管理规则",
+          "article": "92.1005",
+          "raw": "《《民用无人驾驶航空器运行安全管理规则》已于2023》第92.1005条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用无人驾驶航空器运行安全管理规则》已于2023",
+          "matched_node": "article:92.1005"
+        },
+        {
+          "law_name": "《民用无人驾驶航空器运行安全管理规则",
+          "article": "92.1017",
+          "raw": "《《民用无人驾驶航空器运行安全管理规则》已于2023》第92.1017条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用无人驾驶航空器运行安全管理规则》已于2023",
+          "matched_node": "article:92.1017"
+        },
+        {
+          "law_name": "《民用无人驾驶航空器运行安全管理规则",
+          "article": "92.1009",
+          "raw": "《《民用无人驾驶航空器运行安全管理规则》已于2023》第92.1009条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用无人驾驶航空器运行安全管理规则》已于2023",
+          "matched_node": "article:92.1009"
+        },
+        {
+          "law_name": "《民用无人驾驶航空器运行安全管理规则",
+          "article": "92.1013",
+          "raw": "《《民用无人驾驶航空器运行安全管理规则》已于2023》第92.1013条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用无人驾驶航空器运行安全管理规则》已于2023",
+          "matched_node": "article:92.1013"
+        },
+        {
+          "law_name": "民用无人驾驶航空器运行安全管理规则",
+          "article": "92.1005",
+          "raw": "《民用无人驾驶航空器运行安全管理规则》第92.1005条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用无人驾驶航空器运行安全管理规则》已于2023",
+          "matched_node": "article:92.1005"
+        }
+      ]
+    },
+    {
+      "qid": "Q47",
+      "question": "我想开一家通航公司做空中游览和跳伞服务，需要买几架飞机才能申请经营许可？",
+      "refusal": false,
+      "total_cit": 5,
+      "valid": 5,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "一般运行和飞行规则",
+          "article": "91.3",
+          "raw": "《一般运行和飞行规则》第91.3条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "一般运行和飞行规则",
+          "matched_node": "article:91.3"
+        },
+        {
+          "law_name": "中华人民共和国交通运输部人",
+          "article": "八",
+          "raw": "《中华人民共和国交通运输部人》第八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国交通运输部人",
+          "matched_node": "article:8"
+        },
+        {
+          "law_name": "外航应当在其本国政府通过外交途径对其正式指定后依据本规定向民航局申请经营外国地点和中华人民共和国地点间规定航线的经营许可。",
+          "article": "八",
+          "raw": "《外航应当在其本国政府通过外交途径对其正式指定后依据本规定向民航局申请经营外国地点和中华人民共和国地点间规定航线的经营许可。》第八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "外航应当在其本国政府通过外交途径对其正式指定后依据本规定向民航局申请经营外国地点和中华人民共和国地点间规定航线的经营许可。",
+          "matched_node": "article:8"
+        },
+        {
+          "law_name": "第167 号",
+          "article": "八",
+          "raw": "《第167 号》第八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "第167 号",
+          "matched_node": "article:8"
+        },
+        {
+          "law_name": "(一)已按照《公共航空运输企业经营许可规定",
+          "article": "八",
+          "raw": "《(一)已按照《公共航空运输企业经营许可规定》申请增加了国际航班经营范围;》第八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "公共航空运输企业经营许可规定",
+          "matched_node": "article:8"
+        }
+      ]
+    },
+    {
+      "qid": "Q48",
+      "question": "我们公司想建一个通用机场，A1级和A2级机场有什么区别？A类和B类机场在审批上有",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 2,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《通用机场管理规定",
+          "article": "五",
+          "raw": "《《通用机场管理规定》已于2024 年11 月22 日经第22》第五条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《通用机场管理规定》已于2024 年11 月22 日经第22",
+          "matched_node": "article:5"
+        },
+        {
+          "law_name": "通用机场管理规定",
+          "article": "五",
+          "raw": "《通用机场管理规定》第五条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《通用机场管理规定》已于2024 年11 月22 日经第22",
+          "matched_node": "article:5"
+        }
+      ]
+    },
+    {
+      "qid": "Q49",
+      "question": "通航公司用直升机搞空中游览，起飞前需要对乘客做什么安保检查？乘客信息要保存多久？",
+      "refusal": false,
+      "total_cit": 3,
+      "valid": 2,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "中国民用航空地区管理局负责本辖区内通用航空安保工作的监督管理。",
+          "article": "十八",
+          "raw": "《中国民用航空地区管理局负责本辖区内通用航空安保工作的监督管理。》第十八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中国民用航空地区管理局负责本辖区内通用航空安保工作的监督管理。",
+          "matched_node": "article:18"
+        },
+        {
+          "law_name": "中国民用航空地区管理局负责本辖区内通用航空安保工作的监督管理。",
+          "article": "二十",
+          "raw": "《中国民用航空地区管理局负责本辖区内通用航空安保工作的监督管理。》第二十条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中国民用航空地区管理局负责本辖区内通用航空安保工作的监督管理。",
+          "matched_node": "article:20"
+        },
+        {
+          "law_name": "通用航空安保管理规定",
+          "article": "十八",
+          "raw": "《通用航空安保管理规定》第十八条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q50",
+      "question": "通航公司拿到经营许可证后，如果不按规定报送年度报告或者经营活动信息，会受什么处罚",
+      "refusal": false,
+      "total_cit": 3,
+      "valid": 3,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "中国民用航空地区管理局负责本辖区内通用航空安保工作的监督管理。",
+          "article": "三十",
+          "raw": "《中国民用航空地区管理局负责本辖区内通用航空安保工作的监督管理。》第三十条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中国民用航空地区管理局负责本辖区内通用航空安保工作的监督管理。",
+          "matched_node": "article:30"
+        },
+        {
+          "law_name": "第160 号",
+          "article": "三十四",
+          "raw": "《第160 号》第三十四条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "第160 号",
+          "matched_node": "article:34"
+        },
+        {
+          "law_name": "中华人民共和国交通运输部人",
+          "article": "三十",
+          "raw": "《中华人民共和国交通运输部人》第三十条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国交通运输部人",
+          "matched_node": "article:30"
+        }
+      ]
+    },
+    {
+      "qid": "Q51",
+      "question": "通航公司在运输机场开展不定期包机载客业务，在安保方面需要做哪些准备？如果公司没有",
+      "refusal": false,
+      "total_cit": 4,
+      "valid": 3,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "公共航空运输企业航空安全保卫规则",
+          "article": "十四",
+          "raw": "《公共航空运输企业航空安全保卫规则》第十四条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "公共航空运输企业航空安全保卫规则",
+          "matched_node": "article:14"
+        },
+        {
+          "law_name": "公共航空运输企业航空安全保卫规则",
+          "article": "二十",
+          "raw": "《公共航空运输企业航空安全保卫规则》第二十条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "公共航空运输企业航空安全保卫规则",
+          "matched_node": "article:20"
+        },
+        {
+          "law_name": "(一)督促和指导公共航空运输企业实施《国家民用航空安全保卫规划",
+          "article": "七十九",
+          "raw": "《(一)督促和指导公共航空运输企业实施《国家民用航空安全保卫规划》,建立和运行航空安保管理体系;》第七十九条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)督促和指导公共航空运输企业实施《国家民用航空安全保卫规划》,建立和运行航空安保管理体系;",
+          "matched_node": "article:79"
+        },
+        {
+          "law_name": "通用航空安保规定",
+          "article": "十四",
+          "raw": "《通用航空安保规定》第十四条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q52",
+      "question": "机场发生突发事件的时候，消防指挥官和医疗指挥官分别穿什么衣服戴什么头盔来区分身份",
+      "refusal": true,
+      "total_cit": 1,
+      "valid": 0,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "民用机场航空器突发事件应急救援管理规则",
+          "article": "三十五",
+          "raw": "《民用机场航空器突发事件应急救援管理规则》第三十五条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q53",
+      "question": "机场净空保护巡查有什么频率要求，哪些区域需要每天查两次",
+      "refusal": false,
+      "total_cit": 6,
+      "valid": 5,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "(一)督促和指导机场实施《国家民用航空安全保卫规划",
+          "article": "十九",
+          "raw": "《(一)督促和指导机场实施《国家民用航空安全保卫规划》,建立和运行航空安保管理体系;》第十九条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)督促和指导机场实施《国家民用航空安全保卫规划》,建立和运行航空安保管理体系;",
+          "matched_node": "article:19"
+        },
+        {
+          "law_name": "《运输机场运行安全管理规定",
+          "article": "十",
+          "raw": "《《运输机场运行安全管理规定》已于2025 年10 月31》第十条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《运输机场运行安全管理规定》已于2025 年10 月31",
+          "matched_node": "article:10"
+        },
+        {
+          "law_name": "《运输机场运行安全管理规定",
+          "article": "十一",
+          "raw": "《《运输机场运行安全管理规定》已于2025 年10 月31》第十一条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《运输机场运行安全管理规定》已于2025 年10 月31",
+          "matched_node": "article:11"
+        },
+        {
+          "law_name": "(一)督促和指导机场实施《国家民用航空安全保卫规划",
+          "article": "十八",
+          "raw": "《(一)督促和指导机场实施《国家民用航空安全保卫规划》,建立和运行航空安保管理体系;》第十八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)督促和指导机场实施《国家民用航空安全保卫规划》,建立和运行航空安保管理体系;",
+          "matched_node": "article:18"
+        },
+        {
+          "law_name": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "article": "六",
+          "raw": "《中华人民共和国民用航空法(2026年7月1日起施行)》第六条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:6"
+        },
+        {
+          "law_name": "第一百九十一条  机场运营人违反本规定",
+          "article": "三十",
+          "raw": "。 第一百九十一条  机场运营人违反本规定第三十条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q54",
+      "question": "在机场航空器活动区开车，如果碰撞了航空器或者导致航空器复飞，驾照会被扣多少分，有",
+      "refusal": false,
+      "total_cit": 5,
+      "valid": 5,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "article": "十六",
+          "raw": "《中华人民共和国民用航空法(2026年7月1日起施行)》第十六条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:16"
+        },
+        {
+          "law_name": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "article": "十八",
+          "raw": "《中华人民共和国民用航空法(2026年7月1日起施行)》第十八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:18"
+        },
+        {
+          "law_name": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "article": "十七",
+          "raw": "《中华人民共和国民用航空法(2026年7月1日起施行)》第十七条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:17"
+        },
+        {
+          "law_name": "外国民用航空器飞行管理规则",
+          "article": "十五",
+          "raw": "《外国民用航空器飞行管理规则》第十五条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "外国民用航空器飞行管理规则",
+          "matched_node": "article:15"
+        },
+        {
+          "law_name": "民用机场和民用航空器内禁止吸烟的规定",
+          "article": "十五",
+          "raw": "《民用机场和民用航空器内禁止吸烟的规定》第十五条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用机场和民用航空器内禁止吸烟的规定",
+          "matched_node": "article:15"
+        }
+      ]
+    },
+    {
+      "qid": "Q55",
+      "question": "机场要搞平行跑道同时仪表运行需要怎么审批，试验运行要多久",
+      "refusal": false,
+      "total_cit": 6,
+      "valid": 6,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《交通运输部关于修改〈平行跑道同时仪表运行管理规",
+          "article": "四十四",
+          "raw": "《《交通运输部关于修改〈平行跑道同时仪表运行管理规》第四十四条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《交通运输部关于修改〈平行跑道同时仪表运行管理规",
+          "matched_node": "article:44"
+        },
+        {
+          "law_name": "《交通运输部关于修改〈平行跑道同时仪表运行管理规",
+          "article": "四十五",
+          "raw": "《《交通运输部关于修改〈平行跑道同时仪表运行管理规》第四十五条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《交通运输部关于修改〈平行跑道同时仪表运行管理规",
+          "matched_node": "article:45"
+        },
+        {
+          "law_name": "《交通运输部关于修改〈平行跑道同时仪表运行管理规",
+          "article": "四十七",
+          "raw": "《《交通运输部关于修改〈平行跑道同时仪表运行管理规》第四十七条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《交通运输部关于修改〈平行跑道同时仪表运行管理规",
+          "matched_node": "article:47"
+        },
+        {
+          "law_name": "《交通运输部关于修改〈平行跑道同时仪表运行管理规",
+          "article": "四十九",
+          "raw": "《《交通运输部关于修改〈平行跑道同时仪表运行管理规》第四十九条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《交通运输部关于修改〈平行跑道同时仪表运行管理规",
+          "matched_node": "article:49"
+        },
+        {
+          "law_name": "民用航空通信导航监 |  | |---|---| |  | （一）有关导航设施…\n\n- 试验运行阶段，空中交通运行机构可以适当提高天气条件并逐步过渡到规定标准。（《《交通运输部关于修改〈平行跑道同时仪表运行管理规",
+          "article": "四十八",
+          "raw": "《民用航空通信导航监 |  | |---|---| |  | （一）有关导航设施…\n\n- 试验运行阶段，空中交通运行机构可以适当提高天气条件并逐步过渡到规定标准。（《《交通运输部关于修改〈平行跑道同时仪表运行管理规》第四十八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《交通运输部关于修改〈平行跑道同时仪表运行管理规",
+          "matched_node": "article:48"
+        },
+        {
+          "law_name": "《交通运输部关于修改〈平行跑道同时仪表运行管理规",
+          "article": "五十七",
+          "raw": "《《交通运输部关于修改〈平行跑道同时仪表运行管理规》第五十七条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《交通运输部关于修改〈平行跑道同时仪表运行管理规",
+          "matched_node": "article:57"
+        }
+      ]
+    },
+    {
+      "qid": "Q56",
+      "question": "机场应急救援预案和飞行程序分别需要向哪个部门报备或审批，发现障碍物影响飞行时机场",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 2,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《通用机场管理规定",
+          "article": "三十八",
+          "raw": "《《通用机场管理规定》已于2024 年11 月22 日经第22》第三十八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《通用机场管理规定》已于2024 年11 月22 日经第22",
+          "matched_node": "article:38"
+        },
+        {
+          "law_name": "第166 号",
+          "article": "二十",
+          "raw": "《第166 号》第二十条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "第166 号",
+          "matched_node": "article:20"
+        }
+      ]
+    },
+    {
+      "qid": "Q57",
+      "question": "我买机票被超售了，航空公司可以不先征求志愿者就直接按优先规则把我赶下飞机吗",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 2,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "第138 号",
+          "article": "四十七",
+          "raw": "《第138 号》第四十七条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "第138 号",
+          "matched_node": "article:47"
+        },
+        {
+          "law_name": "公共航空运输旅客服务管理规定",
+          "article": "四十七",
+          "raw": "《公共航空运输旅客服务管理规定》第四十七条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "公共航空运输旅客服务管理规定",
+          "matched_node": "article:47"
+        }
+      ]
+    },
+    {
+      "qid": "Q58",
+      "question": "飞机上有人闹事打空姐，机长有权怎么处理？普通乘客可以帮忙吗",
+      "refusal": false,
+      "total_cit": 1,
+      "valid": 1,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "中华人民共和国民用航空法",
+          "article": "四十五",
+          "raw": "《中华人民共和国民用航空法》第四十五条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:45"
+        }
+      ]
+    },
+    {
+      "qid": "Q59",
+      "question": "我带70多岁的老母亲坐飞机遇到航班取消，航空公司是不是应该优先给我们安排",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 1,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "article": "三十",
+          "raw": "《(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。》第三十条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "matched_node": "article:30"
+        },
+        {
+          "law_name": "航班正常管理规定",
+          "article": "三十",
+          "raw": "《航班正常管理规定》第三十条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q60",
+      "question": "民航企业的安全管理体系需要包含哪些组成部分，是不是每个单位都必须建立这个体系",
+      "refusal": false,
+      "total_cit": 7,
+      "valid": 7,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "民航局和民航地区管理局,以下统称民航行政机关。",
+          "article": "十四",
+          "raw": "《民航局和民航地区管理局,以下统称民航行政机关。》第十四条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民航局和民航地区管理局,以下统称民航行政机关。",
+          "matched_node": "article:14"
+        },
+        {
+          "law_name": "民航局和民航地区管理局,以下统称民航行政机关。",
+          "article": "二十一",
+          "raw": "《民航局和民航地区管理局,以下统称民航行政机关。》第二十一条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民航局和民航地区管理局,以下统称民航行政机关。",
+          "matched_node": "article:21"
+        },
+        {
+          "law_name": "民航局和民航地区管理局,以下统称民航行政机关。",
+          "article": "二十二",
+          "raw": "《民航局和民航地区管理局,以下统称民航行政机关。》第二十二条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民航局和民航地区管理局,以下统称民航行政机关。",
+          "matched_node": "article:22"
+        },
+        {
+          "law_name": "交通运输部发布",
+          "article": "八",
+          "raw": "《交通运输部发布》第八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "交通运输部发布",
+          "matched_node": "article:8"
+        },
+        {
+          "law_name": "民航局和民航地区管理局,以下统称民航行政机关。",
+          "article": "十七",
+          "raw": "《民航局和民航地区管理局,以下统称民航行政机关。》第十七条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民航局和民航地区管理局,以下统称民航行政机关。",
+          "matched_node": "article:17"
+        },
+        {
+          "law_name": "交通运输部发布",
+          "article": "六",
+          "raw": "《交通运输部发布》第六条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "交通运输部发布",
+          "matched_node": "article:6"
+        },
+        {
+          "law_name": "交通运输部发布",
+          "article": "十三",
+          "raw": "《交通运输部发布》第十三条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "交通运输部发布",
+          "matched_node": "article:13"
+        }
+      ]
+    },
+    {
+      "qid": "Q61",
+      "question": "机场安检用的X射线安检仪操作员连续工作多长时间必须休息，国家对安检设备有什么管理",
+      "refusal": false,
+      "total_cit": 4,
+      "valid": 3,
+      "law_not_found": 0,
+      "article_not_found": 1,
+      "details": [
+        {
+          "law_name": "旅客、航空货物托运人、航空货运销售代理人、航空邮件托运人应当配合民航安检机构开展工作。",
+          "article": "十九",
+          "raw": "《旅客、航空货物托运人、航空货运销售代理人、航空邮件托运人应当配合民航安检机构开展工作。》第十九条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "旅客、航空货物托运人、航空货运销售代理人、航空邮件托运人应当配合民航安检机构开展工作。",
+          "matched_node": "article:19"
+        },
+        {
+          "law_name": "旅客、航空货物托运人、航空货运销售代理人、航空邮件托运人应当配合民航安检机构开展工作。",
+          "article": "十七",
+          "raw": "《旅客、航空货物托运人、航空货运销售代理人、航空邮件托运人应当配合民航安检机构开展工作。》第十七条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "旅客、航空货物托运人、航空货运销售代理人、航空邮件托运人应当配合民航安检机构开展工作。",
+          "matched_node": "article:17"
+        },
+        {
+          "law_name": "旅客、航空货物托运人、航空货运销售代理人、航空邮件托运人应当配合民航安检机构开展工作。",
+          "article": "二十一",
+          "raw": "《旅客、航空货物托运人、航空货运销售代理人、航空邮件托运人应当配合民航安检机构开展工作。》第二十一条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "旅客、航空货物托运人、航空货运销售代理人、航空邮件托运人应当配合民航安检机构开展工作。",
+          "matched_node": "article:21"
+        },
+        {
+          "law_name": "民用航空安全检查规则",
+          "article": "十八",
+          "raw": "《民用航空安全检查规则》第十八条",
+          "valid": false,
+          "law_found": true,
+          "article_found": false,
+          "matched_law": "民用航空安全检查规则",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q62",
+      "question": "如果机场收到飞机上有炸弹威胁或劫机威胁的消息，机场方面应当按照什么程序处置，航空",
+      "refusal": false,
+      "total_cit": 8,
+      "valid": 7,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "article": "三",
+          "raw": "《(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。》第三条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "matched_node": "article:3"
+        },
+        {
+          "law_name": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "article": "十一",
+          "raw": "《(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。》第十一条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "matched_node": "article:11"
+        },
+        {
+          "law_name": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "article": "三十五",
+          "raw": "《(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。》第三十五条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "matched_node": "article:35"
+        },
+        {
+          "law_name": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "article": "九",
+          "raw": "《(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。》第九条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "matched_node": "article:9"
+        },
+        {
+          "law_name": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "article": "二十九",
+          "raw": "《(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。》第二十九条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "matched_node": "article:29"
+        },
+        {
+          "law_name": "(一)督促和指导公共航空运输企业实施《国家民用航空安全保卫规划",
+          "article": "一百八",
+          "raw": "《(一)督促和指导公共航空运输企业实施《国家民用航空安全保卫规划》,建立和运行航空安保管理体系;》第一百八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)督促和指导公共航空运输企业实施《国家民用航空安全保卫规划》,建立和运行航空安保管理体系;",
+          "matched_node": "article:108"
+        },
+        {
+          "law_name": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "article": "四十二",
+          "raw": "《(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。》第四十二条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "matched_node": "article:42"
+        },
+        {
+          "law_name": "中国民用航空应急管理规定",
+          "article": "三",
+          "raw": "《中国民用航空应急管理规定》（CCAR-397[待核实]）第三条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q63",
+      "question": "机场的航空安保方案什么情况下需要修订，修订后要提前多久报给管理局备案",
+      "refusal": false,
+      "total_cit": 4,
+      "valid": 4,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "(一)督促和指导机场实施《国家民用航空安全保卫规划",
+          "article": "三十",
+          "raw": "《(一)督促和指导机场实施《国家民用航空安全保卫规划》,建立和运行航空安保管理体系;》第三十条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)督促和指导机场实施《国家民用航空安全保卫规划》,建立和运行航空安保管理体系;",
+          "matched_node": "article:30"
+        },
+        {
+          "law_name": "前款规定的公共航空运输企业及其工作人员和旅客应当遵守本规则。",
+          "article": "三十一",
+          "raw": "《前款规定的公共航空运输企业及其工作人员和旅客应当遵守本规则。》第三十一条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "前款规定的公共航空运输企业及其工作人员和旅客应当遵守本规则。",
+          "matched_node": "article:31"
+        },
+        {
+          "law_name": "前款规定的公共航空运输企业及其工作人员和旅客应当遵守本规则。",
+          "article": "三十二",
+          "raw": "《前款规定的公共航空运输企业及其工作人员和旅客应当遵守本规则。》第三十二条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "前款规定的公共航空运输企业及其工作人员和旅客应当遵守本规则。",
+          "matched_node": "article:32"
+        },
+        {
+          "law_name": "国家民用航空安全保卫规划",
+          "article": "30",
+          "raw": "《国家民用航空安全保卫规划》及其配套规则，具体条款见于《民用运输机场航空安全保卫方案》修订相关章节（第30条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)督促和指导公共航空运输企业实施《国家民用航空安全保卫规划》,建立和运行航空安保管理体系;",
+          "matched_node": "article:30"
+        }
+      ]
+    },
+    {
+      "qid": "Q64",
+      "question": "民航企业安全保障财务考核的评分标准和结果怎么划分，考核不合格会怎么样",
+      "refusal": false,
+      "total_cit": 4,
+      "valid": 2,
+      "law_not_found": 2,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "前款所称民航行政机关是指中国民用航空局(以下简称民航局)及中国民用航空地区管理局(以下简称民航地区管理局);民航企业包括在中国境内注册的公共航空运输企业和民用运输机场(含军民合用机场)。",
+          "article": "十四",
+          "raw": "《前款所称民航行政机关是指中国民用航空局(以下简称民航局)及中国民用航空地区管理局(以下简称民航地区管理局);民航企业包括在中国境内注册的公共航空运输企业和民用运输机场(含军民合用机场)。》第十四条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "前款所称民航行政机关是指中国民用航空局(以下简称民航局)及中国民用航空地区管理局(以下简称民航地区管理局);民航企业包括在中国境内注册的公共航空运输企业和民用运输机场(含军民合用机场)。",
+          "matched_node": "article:14"
+        },
+        {
+          "law_name": "前款所称民航行政机关是指中国民用航空局(以下简称民航局)及中国民用航空地区管理局(以下简称民航地区管理局);民航企业包括在中国境内注册的公共航空运输企业和民用运输机场(含军民合用机场)。",
+          "article": "二十四",
+          "raw": "《前款所称民航行政机关是指中国民用航空局(以下简称民航局)及中国民用航空地区管理局(以下简称民航地区管理局);民航企业包括在中国境内注册的公共航空运输企业和民用运输机场(含军民合用机场)。》第二十四条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "前款所称民航行政机关是指中国民用航空局(以下简称民航局)及中国民用航空地区管理局(以下简称民航地区管理局);民航企业包括在中国境内注册的公共航空运输企业和民用运输机场(含军民合用机场)。",
+          "matched_node": "article:24"
+        },
+        {
+          "law_name": "民航企业安全保障财务考核办法",
+          "article": "十四",
+          "raw": "《民航企业安全保障财务考核办法》第十四条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        },
+        {
+          "law_name": "民航企业财经信息管理办法",
+          "article": "二十六",
+          "raw": "《民航企业财经信息管理办法》第二十六条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q65",
+      "question": "民航事故调查的目的是什么，调查结论能不能用来追究责任",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 1,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《交通运输部关于修改〈民用航空器事件调查规定〉的",
+          "article": "一",
+          "raw": "《《交通运输部关于修改〈民用航空器事件调查规定〉的》第一条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《交通运输部关于修改〈民用航空器事件调查规定〉的",
+          "matched_node": "article:1"
+        },
+        {
+          "law_name": "中华人）\n\n- [建议] 调查结论一般不作为直接追究责任的依据，因为调查侧重于安全改进而非责任分配。\n\n【法律依据详情】\n《交通运输部关于修改〈民用航空器事件调查规定〉",
+          "article": "一",
+          "raw": "《中华人）\n\n- [建议] 调查结论一般不作为直接追究责任的依据，因为调查侧重于安全改进而非责任分配。\n\n【法律依据详情】\n《交通运输部关于修改〈民用航空器事件调查规定〉》第一条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q66",
+      "question": "航空器事故调查报告一般多长时间内必须向社会公布",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 2,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《交通运输部关于修改〈民用航空器事件调查规定〉的",
+          "article": "四十八",
+          "raw": "《《交通运输部关于修改〈民用航空器事件调查规定〉的》第四十八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《交通运输部关于修改〈民用航空器事件调查规定〉的",
+          "matched_node": "article:48"
+        },
+        {
+          "law_name": "交通运输部关于修改〈民用航空器事件调查规定〉",
+          "article": "四十八",
+          "raw": "《交通运输部关于修改〈民用航空器事件调查规定〉》第四十八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《交通运输部关于修改〈民用航空器事件调查规定〉的",
+          "matched_node": "article:48"
+        }
+      ]
+    },
+    {
+      "qid": "Q67",
+      "question": "航空公司发生飞行事故后，对遇难者家属应当提供哪些帮助，费用谁出",
+      "refusal": false,
+      "total_cit": 6,
+      "valid": 5,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "article": "二十一",
+          "raw": "《中华人民共和国民用航空法(2026年7月1日起施行)》第二十一条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:21"
+        },
+        {
+          "law_name": "民航行政机关行政赔偿办法",
+          "article": "二十一",
+          "raw": "《民航行政机关行政赔偿办法》第二十一条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民航行政机关行政赔偿办法",
+          "matched_node": "article:21"
+        },
+        {
+          "law_name": "第155 号",
+          "article": "二十一",
+          "raw": "《第155 号》第二十一条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "第155 号",
+          "matched_node": "article:21"
+        },
+        {
+          "law_name": "民航行政机关行政赔偿办法",
+          "article": "二十二",
+          "raw": "《民航行政机关行政赔偿办法》第二十二条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民航行政机关行政赔偿办法",
+          "matched_node": "article:22"
+        },
+        {
+          "law_name": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "article": "二十二",
+          "raw": "《中华人民共和国民用航空法(2026年7月1日起施行)》第二十二条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:22"
+        },
+        {
+          "law_name": "本法",
+          "article": "二十一",
+          "raw": "。 本法第二十一条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q68",
+      "question": "民航单位和机场在突发事件应急方面分别需要做哪些准备工作，如果不做会面临什么处罚",
+      "refusal": false,
+      "total_cit": 6,
+      "valid": 5,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "article": "九",
+          "raw": "《(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。》第九条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "matched_node": "article:9"
+        },
+        {
+          "law_name": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "article": "十五",
+          "raw": "《(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。》第十五条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "matched_node": "article:15"
+        },
+        {
+          "law_name": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "article": "十九",
+          "raw": "《(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。》第十九条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "matched_node": "article:19"
+        },
+        {
+          "law_name": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "article": "十八",
+          "raw": "《(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。》第十八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "matched_node": "article:18"
+        },
+        {
+          "law_name": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "article": "三十七",
+          "raw": "《(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。》第三十七条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "matched_node": "article:37"
+        },
+        {
+          "law_name": "本规则所称机场及其邻近区域是指机场围界以内以及距机场每条跑道中心点8[待核实]公里范围内的区域。",
+          "article": "二十七",
+          "raw": "《本规则所称机场及其邻近区域是指机场围界以内以及距机场每条跑道中心点8[待核实]公里范围内的区域。》第二十七条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q69",
+      "question": "如果我想在国内生产飞机零部件卖给别人装在飞机上，需要办什么证件？和型号合格证有什",
+      "refusal": false,
+      "total_cit": 6,
+      "valid": 5,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《交通运输部关于修改<民用航空产品和零部件合格审",
+          "article": "21.311",
+          "raw": "《《交通运输部关于修改<民用航空产品和零部件合格审》第21.311条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《交通运输部关于修改<民用航空产品和零部件合格审",
+          "matched_node": "article:21.311"
+        },
+        {
+          "law_name": "《交通运输部关于修改<民用航空产品和零部件合格审",
+          "article": "21.302",
+          "raw": "《《交通运输部关于修改<民用航空产品和零部件合格审》第21.302条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《交通运输部关于修改<民用航空产品和零部件合格审",
+          "matched_node": "article:21.302"
+        },
+        {
+          "law_name": "《交通运输部关于修改<民用航空产品和零部件合格审",
+          "article": "21.316",
+          "raw": "《《交通运输部关于修改<民用航空产品和零部件合格审》第21.316条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《交通运输部关于修改<民用航空产品和零部件合格审",
+          "matched_node": "article:21.316"
+        },
+        {
+          "law_name": "《交通运输部关于修改<民用航空产品和零部件合格审",
+          "article": "21.41",
+          "raw": "《《交通运输部关于修改<民用航空产品和零部件合格审》第21.41条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《交通运输部关于修改<民用航空产品和零部件合格审",
+          "matched_node": "article:21.41"
+        },
+        {
+          "law_name": "《交通运输部关于修改<民用航空产品和零部件合格审",
+          "article": "21.44",
+          "raw": "《《交通运输部关于修改<民用航空产品和零部件合格审》第21.44条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《交通运输部关于修改<民用航空产品和零部件合格审",
+          "matched_node": "article:21.44"
+        },
+        {
+          "law_name": "民用航空产品和零部件合格审定规定",
+          "article": "21.302",
+          "raw": "《民用航空产品和零部件合格审定规定》（CCAR-21）第21.302条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q70",
+      "question": "什么是适航委任代表？个人可以申请当适航委任代表吗，需要满足什么条件",
+      "refusal": false,
+      "total_cit": 4,
+      "valid": 3,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "第183.1条目的",
+          "article": "183.11",
+          "raw": "《第183.1条目的》第183.11条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "第183.1条目的",
+          "matched_node": "article:183.11"
+        },
+        {
+          "law_name": "第183.1条目的",
+          "article": "183.33",
+          "raw": "《第183.1条目的》第183.33条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "第183.1条目的",
+          "matched_node": "article:183.33"
+        },
+        {
+          "law_name": "第183.1条目的",
+          "article": "183.12",
+          "raw": "《第183.1条目的》第183.12条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "第183.1条目的",
+          "matched_node": "article:183.12"
+        },
+        {
+          "law_name": "民用航空器适航委任代表和委任单位代表管理规定",
+          "article": "183.11",
+          "raw": "《民用航空器适航委任代表和委任单位代表管理规定》第183.11条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q71",
+      "question": "飞机的适航证一直有效吗？什么情况下适航证会失效",
+      "refusal": false,
+      "total_cit": 3,
+      "valid": 2,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《交通运输部关于修改<民用航空产品和零部件合格审",
+          "article": "21.179",
+          "raw": "《《交通运输部关于修改<民用航空产品和零部件合格审》第21.179条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《交通运输部关于修改<民用航空产品和零部件合格审",
+          "matched_node": "article:21.179"
+        },
+        {
+          "law_name": "第21.1条目的和依据",
+          "article": "21.176",
+          "raw": "《第21.1条目的和依据》第21.176条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "第21.1条目的和依据",
+          "matched_node": "article:21.176"
+        },
+        {
+          "law_name": "民用航空产品和零部件合格审定规定",
+          "article": "21.179",
+          "raw": "《民用航空产品和零部件合格审定规定》（CCAR-21）第21.179条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q72",
+      "question": "如果飞机还没有拿到适航证但需要飞去其他地方维修，可以飞吗？有什么限制条件",
+      "refusal": false,
+      "total_cit": 1,
+      "valid": 0,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "民用航空产品和零部件合格审定规定",
+          "article": "21.174",
+          "raw": "《民用航空产品和零部件合格审定规定》第21.174条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q73",
+      "question": "航空公司使用的航空燃油也需要通过适航审批吗？油料供应商需要什么资质",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 1,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "第145 号",
+          "article": "七",
+          "raw": "《第145 号》第七条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "第145 号",
+          "matched_node": "article:7"
+        },
+        {
+          "law_name": "民用航空油料适航管理规定",
+          "article": "七",
+          "raw": "《民用航空油料适航管理规定》（CCAR-145[待核实]）第七条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q74",
+      "question": "飞机飞过之后发动机排出的尾气也有排放标准吗？如果不达标还能继续飞吗？",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 2,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "燃油排泄和排气排出物规定",
+          "article": "34.21",
+          "raw": "《燃油排泄和排气排出物规定》的决定》第34.21条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "燃油排泄和排气排出物规定》的决定",
+          "matched_node": "article:34.21"
+        },
+        {
+          "law_name": "燃油排泄和排气排出物规定",
+          "article": "34.31",
+          "raw": "《燃油排泄和排气排出物规定》的决定》第34.31条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "燃油排泄和排气排出物规定》的决定",
+          "matched_node": "article:34.31"
+        }
+      ]
+    },
+    {
+      "qid": "Q75",
+      "question": "我想考一个飞机维修执照，请问需要满足什么条件",
+      "refusal": false,
+      "total_cit": 8,
+      "valid": 7,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "民用航空器维修人员执照管理规则",
+          "article": "66.6",
+          "raw": "《民用航空器维修人员执照管理规则》第66.6条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空器维修人员执照管理规则",
+          "matched_node": "article:66.6"
+        },
+        {
+          "law_name": "民用航空器维修人员执照管理规则",
+          "article": "66.10",
+          "raw": "《民用航空器维修人员执照管理规则》第66.10条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空器维修人员执照管理规则",
+          "matched_node": "article:66.10"
+        },
+        {
+          "law_name": "民用航空器维修人员执照管理规则",
+          "article": "66.11",
+          "raw": "《民用航空器维修人员执照管理规则》第66.11条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空器维修人员执照管理规则",
+          "matched_node": "article:66.11"
+        },
+        {
+          "law_name": "民用航空器维修人员执照管理规则",
+          "article": "66.12",
+          "raw": "《民用航空器维修人员执照管理规则》第66.12条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空器维修人员执照管理规则",
+          "matched_node": "article:66.12"
+        },
+        {
+          "law_name": "民用航空器维修人员执照管理规则",
+          "article": "66.4",
+          "raw": "《民用航空器维修人员执照管理规则》第66.4条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空器维修人员执照管理规则",
+          "matched_node": "article:66.4"
+        },
+        {
+          "law_name": "民用航空器维修人员执照管理规则",
+          "article": "66.5",
+          "raw": "《民用航空器维修人员执照管理规则》第66.5条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空器维修人员执照管理规则",
+          "matched_node": "article:66.5"
+        },
+        {
+          "law_name": "民用航空器维修人员执照管理规则",
+          "article": "66.9",
+          "raw": "《民用航空器维修人员执照管理规则》第66.9条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空器维修人员执照管理规则",
+          "matched_node": "article:66.9"
+        },
+        {
+          "law_name": "> 原文摘录：航空器维修人员执照根据本规则",
+          "article": "66.12",
+          "raw": "\n\n  > 原文摘录：航空器维修人员执照根据本规则第66.12 条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q76",
+      "question": "维修培训机构给学生上课有什么人数限制，学员缺课多了还能参加考试吗",
+      "refusal": false,
+      "total_cit": 7,
+      "valid": 7,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《民用航空器维修培训机构合格审定规则",
+          "article": "147.17",
+          "raw": "《《民用航空器维修培训机构合格审定规则》已于2022》第147.17条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用航空器维修培训机构合格审定规则》已于2022",
+          "matched_node": "article:147.17"
+        },
+        {
+          "law_name": "《民用航空器维修培训机构合格审定规则",
+          "article": "147.20",
+          "raw": "《《民用航空器维修培训机构合格审定规则》已于2022》第147.20条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用航空器维修培训机构合格审定规则》已于2022",
+          "matched_node": "article:147.20"
+        },
+        {
+          "law_name": "《民用航空器维修培训机构合格审定规则",
+          "article": "147.28",
+          "raw": "《《民用航空器维修培训机构合格审定规则》已于2022》第147.28条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用航空器维修培训机构合格审定规则》已于2022",
+          "matched_node": "article:147.28"
+        },
+        {
+          "law_name": "《民用航空器维修培训机构合格审定规则",
+          "article": "147.11",
+          "raw": "《《民用航空器维修培训机构合格审定规则》已于2022》第147.11条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用航空器维修培训机构合格审定规则》已于2022",
+          "matched_node": "article:147.11"
+        },
+        {
+          "law_name": "《民用航空器维修培训机构合格审定规则",
+          "article": "147.14",
+          "raw": "《《民用航空器维修培训机构合格审定规则》已于2022》第147.14条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用航空器维修培训机构合格审定规则》已于2022",
+          "matched_node": "article:147.14"
+        },
+        {
+          "law_name": "《民用航空器维修培训机构合格审定规则",
+          "article": "147.22",
+          "raw": "《《民用航空器维修培训机构合格审定规则》已于2022》第147.22条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用航空器维修培训机构合格审定规则》已于2022",
+          "matched_node": "article:147.22"
+        },
+        {
+          "law_name": "民用航空器维修培训机构合格审定规则",
+          "article": "147.11",
+          "raw": "《民用航空器维修培训机构合格审定规则》第147.11条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《民用航空器维修培训机构合格审定规则》已于2022",
+          "matched_node": "article:147.11"
+        }
+      ]
+    },
+    {
+      "qid": "Q77",
+      "question": "我拿到维修执照以后想给大型客机做维修放行，除了执照本身还需要什么资格，资格到期了",
+      "refusal": false,
+      "total_cit": 7,
+      "valid": 7,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "民用航空器维修人员执照管理规则",
+          "article": "66.13",
+          "raw": "《民用航空器维修人员执照管理规则》第66.13条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空器维修人员执照管理规则",
+          "matched_node": "article:66.13"
+        },
+        {
+          "law_name": "民用航空器维修人员执照管理规则",
+          "article": "66.20",
+          "raw": "《民用航空器维修人员执照管理规则》第66.20条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空器维修人员执照管理规则",
+          "matched_node": "article:66.20"
+        },
+        {
+          "law_name": "民用航空器维修人员执照管理规则",
+          "article": "66.16",
+          "raw": "《民用航空器维修人员执照管理规则》第66.16条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空器维修人员执照管理规则",
+          "matched_node": "article:66.16"
+        },
+        {
+          "law_name": "民用航空器维修人员执照管理规则",
+          "article": "66.18",
+          "raw": "《民用航空器维修人员执照管理规则》第66.18条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空器维修人员执照管理规则",
+          "matched_node": "article:66.18"
+        },
+        {
+          "law_name": "民用航空器维修人员执照管理规则",
+          "article": "66.14",
+          "raw": "《民用航空器维修人员执照管理规则》第66.14条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空器维修人员执照管理规则",
+          "matched_node": "article:66.14"
+        },
+        {
+          "law_name": "民用航空器维修人员执照管理规则",
+          "article": "66.17",
+          "raw": "《民用航空器维修人员执照管理规则》第66.17条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空器维修人员执照管理规则",
+          "matched_node": "article:66.17"
+        },
+        {
+          "law_name": "民用航空器维修人员执照管理规则",
+          "article": "66.21",
+          "raw": "《民用航空器维修人员执照管理规则》第66.21条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空器维修人员执照管理规则",
+          "matched_node": "article:66.21"
+        }
+      ]
+    },
+    {
+      "qid": "Q78",
+      "question": "我国的高空管制空域属于哪类空域，在里面飞行的飞机只能按什么规则飞行",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 2,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "民用航空使用空域办法",
+          "article": "四十五",
+          "raw": "《民用航空使用空域办法》第四十五条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空使用空域办法",
+          "matched_node": "article:45"
+        },
+        {
+          "law_name": "民用航空使用空域办法",
+          "article": "十三",
+          "raw": "《民用航空使用空域办法》第十三条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空使用空域办法",
+          "matched_node": "article:13"
+        }
+      ]
+    },
+    {
+      "qid": "Q79",
+      "question": "空中交通管制员在岗位上最多能连续工作多久，每周最长能值多少小时班",
+      "refusal": false,
+      "total_cit": 6,
+      "valid": 5,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "本规则所指的民航空管运行单位包括中国民用航空局空中交通管理局及其所属的地区空中交通管理局、空中交通管理分局、空中交通管理站和机场管理机构及其下属的民航空管运行部门。",
+          "article": "四十",
+          "raw": "《本规则所指的民航空管运行单位包括中国民用航空局空中交通管理局及其所属的地区空中交通管理局、空中交通管理分局、空中交通管理站和机场管理机构及其下属的民航空管运行部门。》第四十条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "本规则所指的民航空管运行单位包括中国民用航空局空中交通管理局及其所属的地区空中交通管理局、空中交通管理分局、空中交通管理站和机场管理机构及其下属的民航空管运行部门。",
+          "matched_node": "article:40"
+        },
+        {
+          "law_name": "民用航空地区管理局(以下简称地区管理局)负责本辖区管制员执照的具体管理工作。",
+          "article": "六十",
+          "raw": "《民用航空地区管理局(以下简称地区管理局)负责本辖区管制员执照的具体管理工作。》第六十条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空地区管理局(以下简称地区管理局)负责本辖区管制员执照的具体管理工作。",
+          "matched_node": "article:60"
+        },
+        {
+          "law_name": "民用航空地区管理局(以下简称地区管理局)负责本辖区管制员执照的具体管理工作。",
+          "article": "五十九",
+          "raw": "《民用航空地区管理局(以下简称地区管理局)负责本辖区管制员执照的具体管理工作。》第五十九条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空地区管理局(以下简称地区管理局)负责本辖区管制员执照的具体管理工作。",
+          "matched_node": "article:59"
+        },
+        {
+          "law_name": "民用航空地区管理局(以下简称地区管理局)负责本辖区管制员执照的具体管理工作。",
+          "article": "五十七",
+          "raw": "《民用航空地区管理局(以下简称地区管理局)负责本辖区管制员执照的具体管理工作。》第五十七条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空地区管理局(以下简称地区管理局)负责本辖区管制员执照的具体管理工作。",
+          "matched_node": "article:57"
+        },
+        {
+          "law_name": "民用航空地区管理局(以下简称地区管理局)负责本辖区管制员执照的具体管理工作。",
+          "article": "二十七",
+          "raw": "《民用航空地区管理局(以下简称地区管理局)负责本辖区管制员执照的具体管理工作。》第二十七条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空地区管理局(以下简称地区管理局)负责本辖区管制员执照的具体管理工作。",
+          "matched_node": "article:27"
+        },
+        {
+          "law_name": "申请英语资格签注的，除了符合本规则",
+          "article": "二十",
+          "raw": "。 申请英语资格签注的，除了符合本规则第二十条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q80",
+      "question": "空管运行单位在什么情况下必须进行安全评估，如果一架飞机与另一架飞机之间的间隔小于",
+      "refusal": false,
+      "total_cit": 4,
+      "valid": 4,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "本规则所指的民航空管运行单位包括中国民用航空局空中交通管理局及其所属的地区空中交通管理局、空中交通管理分局、空中交通管理站和机场管理机构及其下属的民航空管运行部门。",
+          "article": "二十",
+          "raw": "《本规则所指的民航空管运行单位包括中国民用航空局空中交通管理局及其所属的地区空中交通管理局、空中交通管理分局、空中交通管理站和机场管理机构及其下属的民航空管运行部门。》第二十条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "本规则所指的民航空管运行单位包括中国民用航空局空中交通管理局及其所属的地区空中交通管理局、空中交通管理分局、空中交通管理站和机场管理机构及其下属的民航空管运行部门。",
+          "matched_node": "article:20"
+        },
+        {
+          "law_name": "本规则所指的民航空管运行单位包括中国民用航空局空中交通管理局及其所属的地区空中交通管理局、空中交通管理分局、空中交通管理站和机场管理机构及其下属的民航空管运行部门。",
+          "article": "二十三",
+          "raw": "《本规则所指的民航空管运行单位包括中国民用航空局空中交通管理局及其所属的地区空中交通管理局、空中交通管理分局、空中交通管理站和机场管理机构及其下属的民航空管运行部门。》第二十三条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "本规则所指的民航空管运行单位包括中国民用航空局空中交通管理局及其所属的地区空中交通管理局、空中交通管理分局、空中交通管理站和机场管理机构及其下属的民航空管运行部门。",
+          "matched_node": "article:23"
+        },
+        {
+          "law_name": "本规则所指的民航空管运行单位包括中国民用航空局空中交通管理局及其所属的地区空中交通管理局、空中交通管理分局、空中交通管理站和机场管理机构及其下属的民航空管运行部门。",
+          "article": "十",
+          "raw": "《本规则所指的民航空管运行单位包括中国民用航空局空中交通管理局及其所属的地区空中交通管理局、空中交通管理分局、空中交通管理站和机场管理机构及其下属的民航空管运行部门。》第十条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "本规则所指的民航空管运行单位包括中国民用航空局空中交通管理局及其所属的地区空中交通管理局、空中交通管理分局、空中交通管理站和机场管理机构及其下属的民航空管运行部门。",
+          "matched_node": "article:10"
+        },
+        {
+          "law_name": "民用航空空中交通管理规则",
+          "article": "二十",
+          "raw": "《民用航空空中交通管理规则》第二十条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "«民用航空空中交通管理规则»已于2017年9月20日经第16",
+          "matched_node": "article:20"
+        }
+      ]
+    },
+    {
+      "qid": "Q81",
+      "question": "机场的仪表着陆系统多久需要做一次飞行校验，校验周期是怎么算的",
+      "refusal": false,
+      "total_cit": 3,
+      "valid": 3,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "民用航空通信导航监视设备飞行校验管理规则",
+          "article": "十二",
+          "raw": "《民用航空通信导航监视设备飞行校验管理规则》第十二条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空通信导航监视设备飞行校验管理规则",
+          "matched_node": "article:12"
+        },
+        {
+          "law_name": "民用航空通信导航监视设备飞行校验管理规则",
+          "article": "十一",
+          "raw": "《民用航空通信导航监视设备飞行校验管理规则》第十一条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空通信导航监视设备飞行校验管理规则",
+          "matched_node": "article:11"
+        },
+        {
+          "law_name": "民用航空通信导航监视设备飞行校验管理规则",
+          "article": "四十六",
+          "raw": "《民用航空通信导航监视设备飞行校验管理规则》第四十六条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空通信导航监视设备飞行校验管理规则",
+          "matched_node": "article:46"
+        }
+      ]
+    },
+    {
+      "qid": "Q82",
+      "question": "民航无线电频率受到干扰了应该怎么处理，谁来负责排除干扰",
+      "refusal": false,
+      "total_cit": 5,
+      "valid": 5,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "中国民用航空无线电管理规定",
+          "article": "三十八",
+          "raw": "《中国民用航空无线电管理规定》第三十八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中国民用航空无线电管理规定",
+          "matched_node": "article:38"
+        },
+        {
+          "law_name": "中国民用航空无线电管理规定",
+          "article": "三十九",
+          "raw": "《中国民用航空无线电管理规定》第三十九条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中国民用航空无线电管理规定",
+          "matched_node": "article:39"
+        },
+        {
+          "law_name": "中国民用航空无线电管理规定",
+          "article": "四十",
+          "raw": "《中国民用航空无线电管理规定》第四十条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中国民用航空无线电管理规定",
+          "matched_node": "article:40"
+        },
+        {
+          "law_name": "中国民用航空无线电管理规定",
+          "article": "四十一",
+          "raw": "《中国民用航空无线电管理规定》第四十一条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中国民用航空无线电管理规定",
+          "matched_node": "article:41"
+        },
+        {
+          "law_name": "中国民用航空无线电管理规定",
+          "article": "四",
+          "raw": "《中国民用航空无线电管理规定》第四条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中国民用航空无线电管理规定",
+          "matched_node": "article:4"
+        }
+      ]
+    },
+    {
+      "qid": "Q83",
+      "question": "导航设备停机超过三个月后想重新投入使用，需要经过哪些程序和审批",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 2,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "民用航空空中交通通信导航监视设备使用",
+          "article": "八",
+          "raw": "《民用航空空中交通通信导航监视设备使用》第八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空空中交通通信导航监视设备使用",
+          "matched_node": "article:8"
+        },
+        {
+          "law_name": "民用航空通信导航监视设备飞行校验管理规则",
+          "article": "八",
+          "raw": "《民用航空通信导航监视设备飞行校验管理规则》第八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空通信导航监视设备飞行校验管理规则",
+          "matched_node": "article:8"
+        }
+      ]
+    },
+    {
+      "qid": "Q84",
+      "question": "机场的自动气象观测设备应该装在跑道的什么位置？测量跑道视程的设备有严格的安装距离",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 1,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "(一)气象观测平台、气象观测场;",
+          "article": "二十四",
+          "raw": "《(一)气象观测平台、气象观测场;》第二十四条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)气象观测平台、气象观测场;",
+          "matched_node": "article:24"
+        },
+        {
+          "law_name": "民用航空气象探测环境选择要求",
+          "article": "二十二",
+          "raw": "《民用航空气象探测环境选择要求》第二十二条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q85",
+      "question": "我想当民航气象预报员，需要什么学历才能申请执照？和气象观测员的要求一样吗？",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 1,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "民用航空地区管理局(以下简称地区管理局)负责本辖区民用航空气象人员执照的具体管理工作。",
+          "article": "十六",
+          "raw": "《民用航空地区管理局(以下简称地区管理局)负责本辖区民用航空气象人员执照的具体管理工作。》第十六条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空地区管理局(以下简称地区管理局)负责本辖区民用航空气象人员执照的具体管理工作。",
+          "matched_node": "article:16"
+        },
+        {
+          "law_name": "民用航空气象人员执照管理规则",
+          "article": "十六",
+          "raw": "《民用航空气象人员执照管理规则》第十六条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q86",
+      "question": "机场下雪后跑道湿滑，雪情通告最长能管多久，超过时间会怎么样",
+      "refusal": false,
+      "total_cit": 1,
+      "valid": 0,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "民用航空气象人员执照管理规则",
+          "article": "十六",
+          "raw": "《民用航空气象人员执照管理规则》第十六条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q87",
+      "question": "想当航空情报员需要什么学历和执照，见习期至少多久才能独立上岗",
+      "refusal": false,
+      "total_cit": 6,
+      "valid": 5,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "民用航空地区管理局(以下简称地区管理局)负责本辖区民用航空情报员执照的具体管理工作。",
+          "article": "七",
+          "raw": "《民用航空地区管理局(以下简称地区管理局)负责本辖区民用航空情报员执照的具体管理工作。》第七条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空地区管理局(以下简称地区管理局)负责本辖区民用航空情报员执照的具体管理工作。",
+          "matched_node": "article:7"
+        },
+        {
+          "law_name": "民用航空地区管理局(以下简称地区管理局)负责本辖区民用航空情报员执照的具体管理工作。",
+          "article": "八",
+          "raw": "《民用航空地区管理局(以下简称地区管理局)负责本辖区民用航空情报员执照的具体管理工作。》第八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空地区管理局(以下简称地区管理局)负责本辖区民用航空情报员执照的具体管理工作。",
+          "matched_node": "article:8"
+        },
+        {
+          "law_name": "民用航空地区管理局(以下简称地区管理局)负责本辖区民用航空情报员执照的具体管理工作。",
+          "article": "六",
+          "raw": "《民用航空地区管理局(以下简称地区管理局)负责本辖区民用航空情报员执照的具体管理工作。》第六条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空地区管理局(以下简称地区管理局)负责本辖区民用航空情报员执照的具体管理工作。",
+          "matched_node": "article:6"
+        },
+        {
+          "law_name": "民用航空地区管理局(以下简称地区管理局)负责本辖区民用航空情报员执照的具体管理工作。",
+          "article": "九",
+          "raw": "《民用航空地区管理局(以下简称地区管理局)负责本辖区民用航空情报员执照的具体管理工作。》第九条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空地区管理局(以下简称地区管理局)负责本辖区民用航空情报员执照的具体管理工作。",
+          "matched_node": "article:9"
+        },
+        {
+          "law_name": "民用航空地区管理局(以下简称地区管理局)负责本辖区民用航空情报员执照的具体管理工作。",
+          "article": "十",
+          "raw": "《民用航空地区管理局(以下简称地区管理局)负责本辖区民用航空情报员执照的具体管理工作。》第十条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空地区管理局(以下简称地区管理局)负责本辖区民用航空情报员执照的具体管理工作。",
+          "matched_node": "article:10"
+        },
+        {
+          "law_name": "民用航空情报员执照管理规则",
+          "article": "二十九",
+          "raw": "《民用航空情报员执照管理规则》第六、七、八、九、十条以及第二十九条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q88",
+      "question": "航空安全员申请执照需要满足哪些条件",
+      "refusal": false,
+      "total_cit": 3,
+      "valid": 2,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "中国民用航空地区管理局(以下简称地区管理局)负责本地区航空安全员合格审定工作,包括资格审查、执照颁发和监督管理等工作。",
+          "article": "七",
+          "raw": "《中国民用航空地区管理局(以下简称地区管理局)负责本地区航空安全员合格审定工作,包括资格审查、执照颁发和监督管理等工作。》第七条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中国民用航空地区管理局(以下简称地区管理局)负责本地区航空安全员合格审定工作,包括资格审查、执照颁发和监督管理等工作。",
+          "matched_node": "article:7"
+        },
+        {
+          "law_name": "中国民用航空地区管理局(以下简称地区管理局)负责本地区航空安全员合格审定工作,包括资格审查、执照颁发和监督管理等工作。",
+          "article": "八",
+          "raw": "《中国民用航空地区管理局(以下简称地区管理局)负责本地区航空安全员合格审定工作,包括资格审查、执照颁发和监督管理等工作。》第八条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中国民用航空地区管理局(以下简称地区管理局)负责本地区航空安全员合格审定工作,包括资格审查、执照颁发和监督管理等工作。",
+          "matched_node": "article:8"
+        },
+        {
+          "law_name": "航空安全员合格审定规则",
+          "article": "七",
+          "raw": "《航空安全员合格审定规则》第七条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q89",
+      "question": "飞行签派员执照申请人需要什么学历和经历要求，执照考试多少分合格",
+      "refusal": false,
+      "total_cit": 6,
+      "valid": 5,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "民用航空飞行签派员执照和训练机构",
+          "article": "65.7",
+          "raw": "《民用航空飞行签派员执照和训练机构》第65.7条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空飞行签派员执照和训练机构",
+          "matched_node": "article:65.7"
+        },
+        {
+          "law_name": "民用航空飞行签派员执照和训练机构",
+          "article": "65.9",
+          "raw": "《民用航空飞行签派员执照和训练机构》第65.9条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空飞行签派员执照和训练机构",
+          "matched_node": "article:65.9"
+        },
+        {
+          "law_name": "民用航空飞行签派员执照和训练机构",
+          "article": "65.15",
+          "raw": "《民用航空飞行签派员执照和训练机构》第65.15条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空飞行签派员执照和训练机构",
+          "matched_node": "article:65.15"
+        },
+        {
+          "law_name": "民用航空飞行签派员执照和训练机构",
+          "article": "65.11",
+          "raw": "《民用航空飞行签派员执照和训练机构》第65.11条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空飞行签派员执照和训练机构",
+          "matched_node": "article:65.11"
+        },
+        {
+          "law_name": "民用航空飞行签派员执照和训练机构",
+          "article": "65.13",
+          "raw": "《民用航空飞行签派员执照和训练机构》第65.13条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民用航空飞行签派员执照和训练机构",
+          "matched_node": "article:65.13"
+        },
+        {
+          "law_name": "摘录：(f)具备本规则",
+          "article": "65.15",
+          "raw": "\n   摘录：(f)具备本规则第65.15 条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q90",
+      "question": "不同岗位的民航人员分别需要持有哪种等级的体检合格证，有效期多长",
+      "refusal": false,
+      "total_cit": 3,
+      "valid": 3,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "‹民用航空人员体检合格证管理规则›的决定",
+          "article": "67.21",
+          "raw": "《‹民用航空人员体检合格证管理规则›的决定》第67.21条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "‹民用航空人员体检合格证管理规则›的决定",
+          "matched_node": "article:67.21"
+        },
+        {
+          "law_name": "‹民用航空人员体检合格证管理规则›的决定",
+          "article": "67.33",
+          "raw": "《‹民用航空人员体检合格证管理规则›的决定》第67.33条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "‹民用航空人员体检合格证管理规则›的决定",
+          "matched_node": "article:67.33"
+        },
+        {
+          "law_name": "民用航空人员体检合格证管理规则",
+          "article": "67.21",
+          "raw": "《民用航空人员体检合格证管理规则》第67.21条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "‹民用航空人员体检合格证管理规则›的决定",
+          "matched_node": "article:67.21"
+        }
+      ]
+    },
+    {
+      "qid": "Q91",
+      "question": "飞行员多久需要做一次定期检查，检查包含哪些内容",
+      "refusal": false,
+      "total_cit": 3,
+      "valid": 3,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "‹民用航空人员体检合格证管理规则›的决定",
+          "article": "67.33",
+          "raw": "《‹民用航空人员体检合格证管理规则›的决定》第67.33条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "‹民用航空人员体检合格证管理规则›的决定",
+          "matched_node": "article:67.33"
+        },
+        {
+          "law_name": "‹民用航空人员体检合格证管理规则›的决定",
+          "article": "67.11",
+          "raw": "《‹民用航空人员体检合格证管理规则›的决定》第67.11条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "‹民用航空人员体检合格证管理规则›的决定",
+          "matched_node": "article:67.11"
+        },
+        {
+          "law_name": "民用航空人员体检合格证管理规则",
+          "article": "67.11",
+          "raw": "《民用航空人员体检合格证管理规则》第67.11条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "‹民用航空人员体检合格证管理规则›的决定",
+          "matched_node": "article:67.11"
+        }
+      ]
+    },
+    {
+      "qid": "Q92",
+      "question": "我想开一家飞行训练中心给航空公司飞行员做培训，需要拿到什么资质，证书有效期多久",
+      "refusal": false,
+      "total_cit": 5,
+      "valid": 4,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "飞行训练中心合格审定规则",
+          "article": "142.9",
+          "raw": "《飞行训练中心合格审定规则》第142.9条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "飞行训练中心合格审定规则",
+          "matched_node": "article:142.9"
+        },
+        {
+          "law_name": "飞行训练中心合格审定规则",
+          "article": "142.31",
+          "raw": "《飞行训练中心合格审定规则》第142.31条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "飞行训练中心合格审定规则",
+          "matched_node": "article:142.31"
+        },
+        {
+          "law_name": "飞行训练中心合格审定规则",
+          "article": "142.11",
+          "raw": "《飞行训练中心合格审定规则》第142.11条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "飞行训练中心合格审定规则",
+          "matched_node": "article:142.11"
+        },
+        {
+          "law_name": "合格审定规则»的决定",
+          "article": "61.203",
+          "raw": "《合格审定规则»的决定》第61.203条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "合格审定规则»的决定",
+          "matched_node": "article:61.203"
+        },
+        {
+          "law_name": "民用航空器驾驶员合格审定规则",
+          "article": "61.203",
+          "raw": "《民用航空器驾驶员合格审定规则》（CCAR-61）第61.203条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q93",
+      "question": "我们公司有一台飞行模拟机，合格证快到期了，续期需要提前多久申请，如果没有建立质量",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 0,
+      "law_not_found": 1,
+      "article_not_found": 1,
+      "details": [
+        {
+          "law_name": "中国民用航空局",
+          "article": "60.19",
+          "raw": "《中国民用航空局》第60.19条",
+          "valid": false,
+          "law_found": true,
+          "article_found": false,
+          "matched_law": "中国民用航空局关于公布《国内投资民航业需要特别管理的公共航空运输企业、枢纽机场和战略机场名单》的公告",
+          "matched_node": ""
+        },
+        {
+          "law_name": "飞行模拟训练设备管理和运行规则",
+          "article": "60.19",
+          "raw": "《飞行模拟训练设备管理和运行规则》第60.19条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q94",
+      "question": "飞机上掉下来的东西砸坏了地面上的人或者房子，航空公司要赔偿吗？飞机正常飞过时的噪",
+      "refusal": false,
+      "total_cit": 5,
+      "valid": 5,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "article": "二",
+          "raw": "《中华人民共和国民用航空法(2026年7月1日起施行)》第二条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:2"
+        },
+        {
+          "law_name": "民航行政机关行政赔偿办法",
+          "article": "二",
+          "raw": "《民航行政机关行政赔偿办法》第二条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "民航行政机关行政赔偿办法",
+          "matched_node": "article:2"
+        },
+        {
+          "law_name": "港澳台地区承运人、外国承运人航班始发点或者经停点在我国境内(不含港澳台)机场时航班正常保障、延误处置及旅客投诉管理方面的活动也适用本规定。",
+          "article": "二",
+          "raw": "《港澳台地区承运人、外国承运人航班始发点或者经停点在我国境内(不含港澳台)机场时航班正常保障、延误处置及旅客投诉管理方面的活动也适用本规定。》第二条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "港澳台地区承运人、外国承运人航班始发点或者经停点在我国境内(不含港澳台)机场时航班正常保障、延误处置及旅客投诉管理方面的活动也适用本规定。",
+          "matched_node": "article:2"
+        },
+        {
+          "law_name": "民用机场管理…\n4. 《(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "article": "二",
+          "raw": "《民用机场管理…\n4. 《(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。》第二条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "(一)防范突发事件对民用航空活动的威胁与危害,控制、减轻和消除其对民用航空活动的危害。",
+          "matched_node": "article:2"
+        },
+        {
+          "law_name": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "article": "六",
+          "raw": "《中华人民共和国民用航空法(2026年7月1日起施行)》第六条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:6"
+        }
+      ]
+    },
+    {
+      "qid": "Q95",
+      "question": "一架飞机被用来做担保借款，如果飞机上的优先权（比如救援费）和抵押权同时存在，谁先",
+      "refusal": false,
+      "total_cit": 6,
+      "valid": 6,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "民用航空法",
+          "article": "二十四",
+          "raw": "《民用航空法》第二十四条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:24"
+        },
+        {
+          "law_name": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "article": "二十四",
+          "raw": "《中华人民共和国民用航空法(2026年7月1日起施行)》第二十四条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:24"
+        },
+        {
+          "law_name": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "article": "二十二",
+          "raw": "《中华人民共和国民用航空法(2026年7月1日起施行)》第二十二条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:22"
+        },
+        {
+          "law_name": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "article": "二十三",
+          "raw": "《中华人民共和国民用航空法(2026年7月1日起施行)》第二十三条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:23"
+        },
+        {
+          "law_name": "民用航空法",
+          "article": "二十一",
+          "raw": "《民用航空法》第二十一条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:21"
+        },
+        {
+          "law_name": "中华人民共和国民用航空法",
+          "article": "二十一",
+          "raw": "《中华人民共和国民用航空法》第二十一条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:21"
+        }
+      ]
+    },
+    {
+      "qid": "Q96",
+      "question": "想成立一家航空公司，需要满足什么条件，注册资本最低要多少钱，审批要多久",
+      "refusal": false,
+      "total_cit": 5,
+      "valid": 3,
+      "law_not_found": 0,
+      "article_not_found": 2,
+      "details": [
+        {
+          "law_name": "第138 号",
+          "article": "七",
+          "raw": "《第138 号》第七条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "第138 号",
+          "matched_node": "article:7"
+        },
+        {
+          "law_name": "公共航空运输企业经营许可规定",
+          "article": "七",
+          "raw": "《公共航空运输企业经营许可规定》第七条",
+          "valid": false,
+          "law_found": true,
+          "article_found": false,
+          "matched_law": "交通运输部决定对《定期国际航空运输管理规定》(民航总局令第36号)、《公共航空运输企业经营许可规定》(民航总局令第138号)以及《民用航空国内航线经营许可规定》(民航总局令第160号)作如下修改:",
+          "matched_node": ""
+        },
+        {
+          "law_name": "第160 号",
+          "article": "十",
+          "raw": "《第160 号》第十条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "第160 号",
+          "matched_node": "article:10"
+        },
+        {
+          "law_name": "第138 号",
+          "article": "十",
+          "raw": "《第138 号》第十条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "第138 号",
+          "matched_node": "article:10"
+        },
+        {
+          "law_name": "公共航空运输企业经营许可规定",
+          "article": "十五",
+          "raw": "《公共航空运输企业经营许可规定》第十五条",
+          "valid": false,
+          "law_found": true,
+          "article_found": false,
+          "matched_law": "交通运输部决定对《定期国际航空运输管理规定》(民航总局令第36号)、《公共航空运输企业经营许可规定》(民航总局令第138号)以及《民用航空国内航线经营许可规定》(民航总局令第160号)作如下修改:",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q97",
+      "question": "我从国外租赁了一架飞机，想在中国登记国籍，需要满足什么条件？",
+      "refusal": false,
+      "total_cit": 2,
+      "valid": 1,
+      "law_not_found": 1,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "交通运输部关于修改〈民用航空器国籍登记规定〉的决定",
+          "article": "十",
+          "raw": "《交通运输部关于修改〈民用航空器国籍登记规定〉的决定》第十条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《交通运输部关于修改〈民用航空器国籍登记规定〉的决定》已于2022年7月5日经第17次部务会议通过,现予公布,自2022年9月1日起施行。",
+          "matched_node": "article:10"
+        },
+        {
+          "law_name": "> 原文摘录：第二章 国籍登记  第十条 符合本规定",
+          "article": "五",
+          "raw": "\n\n  > 原文摘录：第二章 国籍登记  第十条 符合本规定第五条",
+          "valid": false,
+          "law_found": false,
+          "article_found": false,
+          "matched_law": "",
+          "matched_node": ""
+        }
+      ]
+    },
+    {
+      "qid": "Q98",
+      "question": "我买了一架飞机想做抵押贷款，航空器抵押权登记怎么办，生效时间怎么算？",
+      "refusal": false,
+      "total_cit": 4,
+      "valid": 4,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "article": "十七",
+          "raw": "《中华人民共和国民用航空法(2026年7月1日起施行)》第十七条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:17"
+        },
+        {
+          "law_name": "中华人民共和国民用航空器权利登记条例实施办法",
+          "article": "十七",
+          "raw": "《中华人民共和国民用航空器权利登记条例实施办法》第十七条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空器权利登记条例实施办法",
+          "matched_node": "article:17"
+        },
+        {
+          "law_name": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "article": "十六",
+          "raw": "《中华人民共和国民用航空法(2026年7月1日起施行)》第十六条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空法(2026年7月1日起施行)",
+          "matched_node": "article:16"
+        },
+        {
+          "law_name": "中华人民共和国民用航空器权利登记条例实施办法",
+          "article": "十六",
+          "raw": "《中华人民共和国民用航空器权利登记条例实施办法》第十六条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "中华人民共和国民用航空器权利登记条例实施办法",
+          "matched_node": "article:16"
+        }
+      ]
+    },
+    {
+      "qid": "Q99",
+      "question": "开办一家航空公司需要多少架飞机",
+      "refusal": false,
+      "total_cit": 5,
+      "valid": 5,
+      "law_not_found": 0,
+      "article_not_found": 0,
+      "details": [
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.3",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.3条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.3"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.1",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.1条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.1"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.151",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.151条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.151"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.7",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.7条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.7"
+        },
+        {
+          "law_name": "《大型飞机公共航空运输承运人运行合格审定规则",
+          "article": "121.11",
+          "raw": "《《大型飞机公共航空运输承运人运行合格审定规则》已》第121.11条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "《大型飞机公共航空运输承运人运行合格审定规则》已",
+          "matched_node": "article:121.11"
+        }
+      ]
+    },
+    {
+      "qid": "Q100",
+      "question": "国内航线经营许可核准管理和登记管理有什么区别，哪些航线需要核准",
+      "refusal": false,
+      "total_cit": 4,
+      "valid": 3,
+      "law_not_found": 0,
+      "article_not_found": 1,
+      "details": [
+        {
+          "law_name": "第160 号",
+          "article": "九",
+          "raw": "《第160 号》第九条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "第160 号",
+          "matched_node": "article:9"
+        },
+        {
+          "law_name": "第160 号",
+          "article": "六",
+          "raw": "《第160 号》第六条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "第160 号",
+          "matched_node": "article:6"
+        },
+        {
+          "law_name": "第160 号",
+          "article": "十",
+          "raw": "《第160 号》第十条",
+          "valid": true,
+          "law_found": true,
+          "article_found": true,
+          "matched_law": "第160 号",
+          "matched_node": "article:10"
+        },
+        {
+          "law_name": "国内航线经营许可规定",
+          "article": "六",
+          "raw": "《国内航线经营许可规定》（第160号）第六条",
+          "valid": false,
+          "law_found": true,
+          "article_found": false,
+          "matched_law": "交通运输部决定对《定期国际航空运输管理规定》(民航总局令第36号)、《公共航空运输企业经营许可规定》(民航总局令第138号)以及《民用航空国内航线经营许可规定》(民航总局令第160号)作如下修改:",
+          "matched_node": ""
+        }
+      ]
+    }
+  ]
+}

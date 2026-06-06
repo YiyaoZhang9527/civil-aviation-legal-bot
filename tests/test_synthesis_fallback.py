@@ -239,6 +239,7 @@ class TestComposeAnswerFallback:
         monkeypatch.setattr(config, "SYNTHESIS_JSON_MODE", False, raising=False)
         monkeypatch.setattr(config, "RELEVANCE_GATE_ENABLED", False, raising=False)
         monkeypatch.setattr(config, "SYNTHESIS_REFUSAL_FALLBACK", True, raising=False)
+        monkeypatch.setattr(config, "HARD_REFUSAL_ON_EMPTY_EVIDENCE", True, raising=False)
 
         llm = FakeLLM(chat_response="很抱歉，未找到相关法律条文。")
         agent = SynthesisAgent(llm)  # type: ignore[arg-type]
@@ -251,6 +252,8 @@ class TestComposeAnswerFallback:
             conflicts=[],
         )
 
-        # 无 evidence 不触发兜底
+        # Plan A: 硬拒答门控 — LLM 根本不被调用, 直接返回硬拒答文本
+        # 兜底【相关法规】区也不出现 (没东西可列)
         assert "【相关法规】" not in result
-        assert "未找到" in result
+        assert "未检索到" in result
+        assert llm.chat_calls == 0  # 验证 LLM 完全没被调用

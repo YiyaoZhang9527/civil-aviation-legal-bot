@@ -98,6 +98,7 @@ class CaseState:
     final_answer: str = ""
     reflexion_iteration: int = 0
     reflexion_trace: list[dict] = field(default_factory=list)
+    retrieval_quality: str = "sufficient"    # 方案B: sufficient | partial | insufficient
 
 
 @dataclass
@@ -477,6 +478,10 @@ class DecompositionAgent:
 
 
 class RetrievalAgent:
+    def __init__(self, llm: LLMClient | None = None) -> None:
+        # 方案B: 检索质量评估需要 LLM, 但允许 None 时不启用 CRAG
+        self.llm = llm
+
     def retrieve(self, state: CaseState, logger: TerminalLogger | None = None) -> list[Evidence]:
         if state.plan is None:
             return []
@@ -561,7 +566,48 @@ class RetrievalAgent:
                     verified=False,
                 ))
 
+        # ── 方案B: CRAG 检索质量评估 ──
+        # 检索后, 由轻量 LLM 判断证据是否能回答用户问题
+        # 质量=insufficient 时, _answer 阶段会用 legal_issues 重新检索补救
+        if loaded and getattr(config, 'CRAG_ENABLED', False) and self.llm is not None:
+            try:
+                quality = self._assess_retrieval_quality(state.normalized_question, loaded)
+            except Exception:
+                quality = "sufficient"
+            state.retrieval_quality = quality
+            if logger:
+                logger.info("crag/检索质量", f"CRAG评估检索质量: {quality}", "")
+
         return loaded
+
+    def _assess_retrieval_quality(self, question: str, evidence: list[Evidence]) -> str:
+        """方案B: 轻量 LLM 评估证据质量: sufficient | partial | insufficient."""
+        evidence_summary = "\n".join(
+            f"- 《{ev.law_title}》{ev.article}: {ev.text[:150]}"
+            for ev in evidence[:5]
+            if ev.text
+        )
+        if not evidence_summary:
+            return "insufficient"
+        messages = [
+            {"role": "system", "content": (
+                "你是检索质量评估器。判断以下证据是否能回答用户问题。\n"
+                "只输出一个 JSON: {\"quality\": \"sufficient\" | \"partial\" | \"insufficient\"}\n\n"
+                "判定标准:\n"
+                "- sufficient: 证据中有 2 条以上直接回答问题的具体条款\n"
+                "- partial: 证据涉及相关法规但只覆盖总则/前言, 缺少具体条款\n"
+                "- insufficient: 证据与问题不相关或覆盖严重不足"
+            )},
+            {"role": "user", "content": f"问题: {question}\n\n证据:\n{evidence_summary}"},
+        ]
+        try:
+            data = self.llm.json(messages)
+            quality = str(data.get("quality", "sufficient")).strip()
+            if quality not in {"sufficient", "partial", "insufficient"}:
+                return "sufficient"
+            return quality
+        except Exception:
+            return "sufficient"
 
     @staticmethod
     def _wrrf_merge(query_results: list[list[Evidence]],
@@ -767,6 +813,15 @@ class SynthesisAgent:
         self.llm = llm
 
     def compose_answer(self, question: str, plan: RetrievalPlan, evidence: list[Evidence], citations: list[CitationCheck], conflicts: list[Conflict]) -> str:
+        # ── Plan A: Hard Refusal Gate（空证据硬拒答） ──
+        # 证据为空时跳过整个 LLM 合成, 直接拒答, 避免 LLM 凭通用法律知识编造内容
+        if not evidence and getattr(config, 'HARD_REFUSAL_ON_EMPTY_EVIDENCE', True):
+            return (
+                "【结论】\n抱歉，未检索到与您问题相关的民航法规条文。\n\n"
+                "【建议】\n1. 尝试换一种问法或提供更具体的情形描述\n"
+                "2. 确认问题属于民航法律领域（航空器/机场/适航/空管/旅客运输等）\n"
+                "3. 如需专业法律意见，建议咨询执业律师"
+            )
         # 把 CE 验证通过的证据排到前面，避免 LLM 被大量未支持的总则类证据带偏
         # （典型场景：12 条里 3 条 supported 是真正的"答案"条款，9 条 unsupported 是
         # 91.1 目的、121.3 适用范围等占位总则。LLM 看到 75% 是"目的/依据"会判"证据不足"。）
@@ -1061,7 +1116,7 @@ class LegalOrchestrator:
         self.followup_rewrite_agent = FollowupRewriteAgent(self.llm)
         self.rewrite_agent = RewriteAgent(self.llm)
         self.decomposition_agent = DecompositionAgent(self.llm)
-        self.retrieval_agent = RetrievalAgent()
+        self.retrieval_agent = RetrievalAgent(self.llm)
         self.citation_agent = CitationAgent(self.llm)
         self.conflict_agent = ConflictAgent()
         self.synthesis_agent = SynthesisAgent(self.llm)
@@ -1206,6 +1261,46 @@ class LegalOrchestrator:
         else:
             evidence = self.retrieval_agent.retrieve(state, self.logger)
 
+        # ── 方案B: CRAG 补救 — 检索质量=insufficient 时用 legal_issues 重新检索 ──
+        if (getattr(config, 'CRAG_ENABLED', False)
+                and getattr(state, 'retrieval_quality', 'sufficient') == 'insufficient'
+                and plan.legal_issues):
+            if self.logger:
+                self.logger.warning("crag/补救",
+                                    f"CRAG判定检索质量=insufficient, 用{len(plan.legal_issues)}个legal_issues重新检索",
+                                    "")
+            rescue_seen = {(e.law_id, e.node_id) for e in evidence}
+            added = 0
+            for rescue_query in plan.legal_issues[:getattr(config, 'CRAG_MAX_RETRIES', 1)]:
+                hits = search_index_tree(
+                    query=rescue_query,
+                    law_hints=plan.law_hints,
+                    article_hints=plan.article_hints,
+                    top_k=config.RETRIEVAL_TOP_K,
+                    _logger=self.logger,
+                )
+                for hit in hits:
+                    key = (hit.law_id, hit.node_id)
+                    if key not in rescue_seen:
+                        # 回读法条原文
+                        node_result = read_law_node(hit.law_id, hit.node_id, include_context=True)
+                        if node_result.get("found"):
+                            hit.text = node_result["text"]
+                            hit.source_file = node_result["source_file"]
+                            hit.source_anchor = node_result["source_anchor"]
+                            evidence.append(hit)
+                            rescue_seen.add(key)
+                            added += 1
+            if added > 0 and self.logger:
+                self.logger.success("crag/补救", f"CRAG补救新增{added}条证据", "")
+            # 重新评估质量
+            if self.retrieval_agent.llm is not None and evidence:
+                try:
+                    state.retrieval_quality = self.retrieval_agent._assess_retrieval_quality(
+                        state.normalized_question, evidence)
+                except Exception:
+                    pass
+
         # Step 7: CitationAgent — LLM抽取法律主张并逐条校验证据是否支持
         citations = self.citation_agent.verify(question, plan.legal_issues, evidence, self.logger)
 
@@ -1217,7 +1312,7 @@ class LegalOrchestrator:
                              f"证据={len(evidence)}条, 引用校验={supported}/{len(citations)}通过")
         answer = self.synthesis_agent.compose_answer(question, plan, evidence, citations, conflicts)
 
-        # ── Set-Membership 校验：标记引用不存在 node_id 的 claim（警告而非删除） ──
+        # ── Set-Membership 校验：标记引用不存在 node_id 的 claim ──
         if getattr(config, 'SET_MEMBERSHIP_CHECK', False):
             structured = getattr(self.synthesis_agent, '_last_structured', None)
             if structured and structured.get('claims'):
@@ -1226,7 +1321,12 @@ class LegalOrchestrator:
                 for claim in structured['claims']:
                     node_ids = claim.get('node_ids', [])
                     if node_ids and not any(nid in valid_node_ids for nid in node_ids):
-                        claim['_sm_warning'] = True
+                        # 引用了不存在的 node_id → 强制 source 降级（旧: 仅加⚠️警告）
+                        # 降级后该 claim 自动归到【补充说明】区, 与【法律依据】区物理隔离
+                        if getattr(config, 'SM_FORCE_DEMOTE_ON_FAIL', True):
+                            claim['source'] = '一般建议'
+                        else:
+                            claim['_sm_warning'] = True
                         warned += 1
                 if warned > 0:
                     if self.logger:

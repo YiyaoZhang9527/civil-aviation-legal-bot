@@ -1,0 +1,4368 @@
+{
+  "evaluated_at": "2026-06-05T22:09:15.530092",
+  "bot_source": "test100_20260605_154801.csv",
+  "judge_model": "deepseek-v4-pro",
+  "summary": {
+    "n_questions": 30,
+    "mqs": {
+      "q_match": 1.53,
+      "law_correct": 1.2,
+      "coverage": 1.13,
+      "calibration": 1.6,
+      "format": 1.97,
+      "weighted_score": 70.17
+    },
+    "lemaj": {
+      "supported_pct": 0.374,
+      "correct_pct": 0.985,
+      "relevant_pct": 0.85
+    },
+    "faithfulness": {
+      "faithful_pct": 0.213,
+      "partial_pct": 0.064,
+      "unverifiable_pct": 0.647,
+      "hallucinated_pct": 0.076
+    }
+  },
+  "per_question": [
+    {
+      "question_id": "Q01",
+      "category": "CCAR-121",
+      "question": "不在《运行规范》的机场是否可以去备降",
+      "mqs": {
+        "q_match": 2,
+        "law_correct": 1,
+        "coverage": 1,
+        "calibration": 0,
+        "format": 2,
+        "weighted_score": 65.0,
+        "reasons": {
+          "q_match": "直接回答了可以备降，准确回应问题",
+          "law_correct": "引用第121.655条主要涉及起飞条件，与备降机场选择的关联不直接",
+          "coverage": "覆盖了主要运行条件，但缺少备降机场选择本身的详细规则",
+          "calibration": "无不确定表达，未建议咨询或承认证据不足",
+          "format": "结论、依据、条件、风险分段清晰，结构良好"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "可以前往不在《运行规范》的机场作为备降机场。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "必须满足相应的运行条件。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "包括机场设施适合。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "驾驶员能遵守运行限制。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "签派符合规则。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "天气条件达标。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "需确保燃油充足。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "机场资料可用。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "不在《运行规范》的机场可以作为备降机场，当签派飞机飞至该机场（作为临时使用机场）时，该机场应当符合适用于正常使用机场的要求。（《大型飞机公共航空运输承运人运行合格审定规则》第121.655条）",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "如果从该未列入运行规范的机场起飞（即备降后再次起飞），需满足以下条件：该机场和有关设施适合于该飞机运行；驾驶员能遵守飞机运行适用的限制；飞机已根据签派规则予以签派；机场天气条件等于或高于规定的最低标准。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "备降飞行必须携带足够的燃油以安全地完成飞行并备降，燃油计算需包括滑行、航程、不可预期、备降和最后储备燃油等。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "使用任何机场（包括不在运行规范的备降机场）前，合格证持有人应当能够获得并保存该机场现行有效的航行资料，确保机场设施（如跑道、灯光、导航等）适合运行。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "上述规则适用于大型飞机公共航空运输承运人，包括国内定期、国际定期及补充运行等种类。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "备降机场不在运行规范中，但需满足该规则对临时使用机场的要求。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "若备降机场设施或天气条件不满足要求，可能导致运行不安全或违规，面临局方处罚；燃油不足可能导致备降失败或紧急情况。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 15,
+          "supported_pct": 0.867,
+          "correct_pct": 1.0,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "可以前往不在《运行规范》的机场作为备降机场。",
+            "status": "faithful",
+            "reason": "证据第121.655条标题提及从备降机场和未列入运行规范的机场起飞。"
+          },
+          {
+            "text": "前往备降机场必须满足相应条件，包括机场设施适合、驾驶员能遵守运行限制、签派符合规则、天气条件达标、燃油充足、机场资料可用。",
+            "status": "partial",
+            "reason": "多个条目标题暗示存在条件，但具体细节无证据。"
+          },
+          {
+            "text": "不在《运行规范》的机场可以作为备降机场，当签派飞机飞至该机场时，该机场应当符合适用于正常使用机场的要求。",
+            "status": "unverifiable",
+            "reason": "证据标题无此细节，无法验证。"
+          },
+          {
+            "text": "如果从该未列入运行规范的机场起飞，需满足机场和有关设施适合、驾驶员遵守限制、签派、天气条件达标。",
+            "status": "unverifiable",
+            "reason": "起飞条件细节不在证据标题中。"
+          },
+          {
+            "text": "备降飞行必须携带足够的燃油以安全地完成飞行并备降。",
+            "status": "partial",
+            "reason": "第121.657条标题为燃油量要求，但具体内容缺失。"
+          },
+          {
+            "text": "燃油计算需包括滑行、航程、不可预期、备降和最后储备燃油等。",
+            "status": "unverifiable",
+            "reason": "证据无燃油计算细节。"
+          },
+          {
+            "text": "使用任何机场前，合格证持有人应当能够获得并保存该机场现行有效的航行资料。",
+            "status": "partial",
+            "reason": "第121.95/117条标题提及机场资料，但细节不明。"
+          },
+          {
+            "text": "确保机场设施（如跑道、灯光、导航等）适合运行。",
+            "status": "unverifiable",
+            "reason": "设施适合要求无证据细节。"
+          },
+          {
+            "text": "上述规则适用于大型飞机公共航空运输承运人，包括国内定期、国际定期及补充运行等种类。",
+            "status": "unverifiable",
+            "reason": "证据未列出第121.3条。"
+          },
+          {
+            "text": "用户代表航空运营人，问题涉及正常计划中的备降（非紧急情况）。",
+            "status": "unverifiable",
+            "reason": "用户角色假设无证据支撑。"
+          },
+          {
+            "text": "备降机场不在运行规范中，但需满足该规则对临时使用机场的要求。",
+            "status": "unverifiable",
+            "reason": "临时使用机场概念未在证据标题中出现。"
+          },
+          {
+            "text": "若备降机场设施或天气条件不满足要求，可能导致运行不安全或违规，面临局方处罚。",
+            "status": "unverifiable",
+            "reason": "风险无证据。"
+          },
+          {
+            "text": "燃油不足可能导致备降失败或紧急情况。",
+            "status": "unverifiable",
+            "reason": "风险无证据。"
+          },
+          {
+            "text": "建议事先评估机场条件并确保符合所有适用规定。",
+            "status": "unverifiable",
+            "reason": "建议无证据。"
+          }
+        ],
+        "summary": {
+          "total_claims": 14,
+          "faithful_pct": 0.071,
+          "partial_pct": 0.214,
+          "unverifiable_pct": 0.714,
+          "hallucinated_pct": 0.0
+        }
+      }
+    },
+    {
+      "question_id": "Q02",
+      "category": "CCAR-121",
+      "question": "飞机起飞前需要满足哪些燃油量要求",
+      "mqs": {
+        "q_match": 1,
+        "law_correct": 1,
+        "coverage": 0,
+        "calibration": 2,
+        "format": 2,
+        "weighted_score": 50.0,
+        "reasons": {
+          "q_match": "回答了计算依据，未给出具体燃油量要求",
+          "law_correct": "引用了相关法条(663)但漏掉核心燃油要求条款(657等)",
+          "coverage": "遗漏了121.657等规定的具体最低燃油量要求",
+          "calibration": "承认未找到其他条款内容，给出合理推断",
+          "format": "结构清晰，分结论、依据、适用条件等"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "起飞前可用燃油量必须至少基于燃油消耗监测系统获得的特定飞机当前数据，或飞机制造商提供的数据。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "计算燃油量须考虑计划飞行的运行条件，包括风、天气、飞机预计重量、航行通告、空中交通服务程序及预期延误、延迟维修或构型偏离、航路发动机失效或释压、以及可能延误着陆的其他条件。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "局方可批准使用不同燃油政策，但需安全风险评估并颁发运行规范。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "燃油量要求还包括其他未在此列出的规定（如第121.657条和第121.659条）。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "具体数值因运行环境而异，需结合运行规范确定。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 5,
+          "supported_pct": 0.6,
+          "correct_pct": 1.0,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "根据CCAR-121第121.663条，飞机起飞前携带的可用燃油量必须基于燃油消耗监测数据或飞机制造商数据。",
+            "status": "unverifiable",
+            "reason": "证据未包含第121.663条内容"
+          },
+          {
+            "text": "根据CCAR-121第121.663条，飞机起飞前携带的可用燃油量必须综合考虑风、天气、飞机重量、航行通告、预期延误等多种运行条件。",
+            "status": "unverifiable",
+            "reason": "证据未包含该条款内容"
+          },
+          {
+            "text": "还需满足其他燃油量规定（如第121.657条和第121.659条）",
+            "status": "unverifiable",
+            "reason": "证据未提及第121.657/659条"
+          },
+          {
+            "text": "具体数值因运行环境而异，需结合运行规范确定",
+            "status": "unverifiable",
+            "reason": "证据未提及此要求"
+          },
+          {
+            "text": "起飞前可用燃油量必须至少基于燃油消耗监测系统获得的特定飞机当前数据，或飞机制造商提供的数据。",
+            "status": "unverifiable",
+            "reason": "证据未包含燃油量规定"
+          },
+          {
+            "text": "计算燃油量时需考虑风、天气、飞机预计重量、航行通告、空中交通服务程序及预期延误、延迟维修或构型偏离、航路发动机失效或释压、以及可能延误着陆的其他条件。",
+            "status": "unverifiable",
+            "reason": "证据未包含燃油计算因素"
+          },
+          {
+            "text": "局方可批准使用不同燃油政策，但需安全风险评估并颁发运行规范。",
+            "status": "unverifiable",
+            "reason": "证据未提及不同燃油政策批准"
+          },
+          {
+            "text": "燃油量要求还包括其他未在此列出的规定（如第121.657条和第121.659条）",
+            "status": "unverifiable",
+            "reason": "证据未提及这些条款"
+          },
+          {
+            "text": "证据中未提供具体内容。",
+            "status": "faithful",
+            "reason": "证据全文仅列条款标题，无具体内容"
+          },
+          {
+            "text": "适用于按照CCAR-121进行商业航空运输的大型飞机（最大起飞重量超过5,700千克的多发涡轮飞机等）",
+            "status": "unverifiable",
+            "reason": "证据未给出适用范围细节"
+          },
+          {
+            "text": "未按规定携带足够燃油可能导致运行不合规，面临行政处罚或安全风险。",
+            "status": "unverifiable",
+            "reason": "证据未包含处罚或风险内容"
+          },
+          {
+            "text": "具体数值需结合飞机性能、航路和备降场情况计算，建议参考航空公司燃油政策。",
+            "status": "unverifiable",
+            "reason": "证据未提及此计算建议"
+          }
+        ],
+        "summary": {
+          "total_claims": 12,
+          "faithful_pct": 0.083,
+          "partial_pct": 0.0,
+          "unverifiable_pct": 0.917,
+          "hallucinated_pct": 0.0
+        }
+      }
+    },
+    {
+      "question_id": "Q03",
+      "category": "CCAR-121",
+      "question": "航空公司在什么情况下可以低于最低天气标准运行",
+      "mqs": {
+        "q_match": 2,
+        "law_correct": 2,
+        "coverage": 1,
+        "calibration": 2,
+        "format": 2,
+        "weighted_score": 90.0,
+        "reasons": {
+          "q_match": "直接回答：获特殊批准可低于标准运行",
+          "law_correct": "准确引用第121.550条(a)款",
+          "coverage": "仅提批准例外，未提及紧急或备降规则",
+          "calibration": "区分了法规与推断，无编造",
+          "format": "结构清晰，分结论/依据/条件/风险"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "通常不允许航空公司在低于最低天气标准的情况下运行。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "若获得机场所在地民航当局的特殊批准，则可以低于国家最低标准运行。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "航空公司在获得特殊批准的情况下，可以确定低于国家最低标准的机场运行最低标准。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "《大型飞机公共航空运输承运人运行合格审定规则》第121.550条(a)款规定合格证持有人确定的机场运行最低标准不得低于当地民航当局确定的最低标准，除非获得特殊批准。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "适用条件：必须获得机场所在地民航当局的特殊批准，且运行期间需严格遵守批准的标准。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "未经批准擅自低于最低天气标准运行属于违规行为，可能导致飞行安全风险，并可能受到局方的行政处罚。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 6,
+          "supported_pct": 0.833,
+          "correct_pct": 1.0,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "通常不允许航空公司在低于最低天气标准的情况下运行",
+            "status": "unverifiable",
+            "reason": "证据仅列出条款标题，未提供具体规定"
+          },
+          {
+            "text": "若获得机场所在地民航当局的特殊批准，则可以按照批准的标准运行",
+            "status": "unverifiable",
+            "reason": "证据未包含该批准条件的任何描述"
+          },
+          {
+            "text": "该标准可能低于国家为该机场确定的最低标准",
+            "status": "unverifiable",
+            "reason": "证据未提及标准高低比较的任何信息"
+          },
+          {
+            "text": "航空公司在获得机场所在地民航当局特殊批准的情况下，可以确定低于国家最低标准的机场运行最低标准",
+            "status": "unverifiable",
+            "reason": "证据未提供该法规授权的具体内容"
+          },
+          {
+            "text": "从而允许在低于该国家最低标准的天气条件下运行",
+            "status": "unverifiable",
+            "reason": "证据未涉及天气条件与最低标准的关系"
+          },
+          {
+            "text": "根据《大型飞机公共航空运输承运人运行合格审定规则》第121.550条(a)款，合格证持有人确定的机场运行最低标准不得低于机场所在地民航当局为该机场确定的最低标准，但获得该当局特殊批准的除外",
+            "status": "unverifiable",
+            "reason": "证据仅有条款标题，未提供(a)款原文"
+          },
+          {
+            "text": "必须获得机场所在地民航当局的特殊批准，且运行期间需严格遵守批准的标准",
+            "status": "unverifiable",
+            "reason": "证据未涉及批准条件和运行要求"
+          },
+          {
+            "text": "未经批准擅自低于最低天气标准运行属于违规行为，可能导致飞行安全风险，并可能受到局方的行政处罚",
+            "status": "unverifiable",
+            "reason": "证据未提及违规后果或处罚"
+          }
+        ],
+        "summary": {
+          "total_claims": 8,
+          "faithful_pct": 0.0,
+          "partial_pct": 0.0,
+          "unverifiable_pct": 1.0,
+          "hallucinated_pct": 0.0
+        }
+      }
+    },
+    {
+      "question_id": "Q04",
+      "category": "CCAR-121",
+      "question": "运行规范中需要包含哪些内容",
+      "mqs": {
+        "q_match": 2,
+        "law_correct": 1,
+        "coverage": 2,
+        "calibration": 2,
+        "format": 2,
+        "weighted_score": 85.0,
+        "reasons": {
+          "q_match": "直接回答了运行规范应包含的具体内容",
+          "law_correct": "引用了第121.25条，但所附原文摘录是运行合格证内容，并非运行规范，且摘录混乱，内容引用不准确",
+          "coverage": "覆盖了第121.25条(b)款列出的各项主要内容",
+          "calibration": "明确提示实际内容可能因承运人类型等有差异，并建议咨询局方",
+          "format": "结构清晰，分结论、依据、适用、风险等部分，可读性强"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "主运行基地的具体地址、通信地址以及文件收发机构的名称与通信地址。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "对每种运行的实施规定的权利、限制和主要程序。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "每个级别和型别的飞机在运行中需要遵守的其他程序。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "批准使用的飞机型号、系列编号、国籍标志和登记标志，以及需要使用的正常使用机场、备降机场、临时使用机场和加油机场（可作为清单附件）。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "批准的运行种类。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "批准运行的航线和区域及其限制。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "机场的限制。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "机体、发动机、螺旋桨、设备（包括应急设备）的维修时限或确定维修时限的标准。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "批准的控制飞机重量与平衡的方法。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "飞机互换的要求。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "湿租飞机的有关资料。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "按照规定颁发的豁免或批准的偏离。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "需要局方批准的手册和训练大纲。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "实施运行所必须的管理人员和机构。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "需要局方批准的其他项目。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 15,
+          "supported_pct": 0.0,
+          "correct_pct": 1.0,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "运行规范是运行合格证的附件",
+            "status": "unverifiable",
+            "reason": "证据未提及运行规范作为附件"
+          },
+          {
+            "text": "运行规范详细规定了承运人的运行权利、限制和程序",
+            "status": "unverifiable",
+            "reason": "证据未描述运行规范的作用"
+          },
+          {
+            "text": "根据第121.25条，运行规范应包含主运行基地的具体地址、通信地址以及文件收发机构的名称与通信地址",
+            "status": "unverifiable",
+            "reason": "证据未提供第121.25条(b)款内容"
+          },
+          {
+            "text": "对每种运行的实施规定的权利、限制和主要程序",
+            "status": "unverifiable",
+            "reason": "证据未覆盖运行规范具体条目"
+          },
+          {
+            "text": "每个级别和型别的飞机在运行中需要遵守的其他程序",
+            "status": "unverifiable",
+            "reason": "证据未覆盖运行规范具体条目"
+          },
+          {
+            "text": "批准使用的飞机型号、系列编号、国籍标志和登记标志，以及需要使用的正常使用机场、备降机场、临时使用机场和加油机场（可作为清单附件）",
+            "status": "unverifiable",
+            "reason": "证据未覆盖运行规范具体条目"
+          },
+          {
+            "text": "批准的运行种类",
+            "status": "unverifiable",
+            "reason": "证据未覆盖运行规范具体条目"
+          },
+          {
+            "text": "批准运行的航线和区域及其限制",
+            "status": "unverifiable",
+            "reason": "证据未覆盖运行规范具体条目"
+          },
+          {
+            "text": "机场的限制",
+            "status": "unverifiable",
+            "reason": "证据未覆盖运行规范具体条目"
+          },
+          {
+            "text": "机体、发动机、螺旋桨、设备（包括应急设备）的维修时限或确定维修时限的标准",
+            "status": "unverifiable",
+            "reason": "证据未覆盖运行规范具体条目"
+          },
+          {
+            "text": "批准的控制飞机重量与平衡的方法",
+            "status": "unverifiable",
+            "reason": "证据未覆盖运行规范具体条目"
+          },
+          {
+            "text": "飞机互换的要求",
+            "status": "unverifiable",
+            "reason": "证据未覆盖运行规范具体条目"
+          },
+          {
+            "text": "湿租飞机的有关资料",
+            "status": "unverifiable",
+            "reason": "证据未覆盖运行规范具体条目"
+          },
+          {
+            "text": "按照规定颁发的豁免或批准的偏离",
+            "status": "unverifiable",
+            "reason": "证据未覆盖运行规范具体条目"
+          },
+          {
+            "text": "需要局方批准的手册和训练大纲",
+            "status": "unverifiable",
+            "reason": "证据未覆盖运行规范具体条目"
+          },
+          {
+            "text": "实施运行所必须的管理人员和机构",
+            "status": "unverifiable",
+            "reason": "证据未覆盖运行规范具体条目"
+          },
+          {
+            "text": "需要局方批准的其他项目",
+            "status": "unverifiable",
+            "reason": "证据未覆盖运行规范具体条目"
+          },
+          {
+            "text": "上述内容适用于大型飞机公共航空运输承运人（CCAR-121部）",
+            "status": "unverifiable",
+            "reason": "证据未明确说明适用范围"
+          },
+          {
+            "text": "对于小型商业运输和空中游览运营人（CCAR-135部），其运行规范内容类似但简化，具体参照CCAR-135.7条",
+            "status": "unverifiable",
+            "reason": "证据未提供CCAR-135.7条具体内容"
+          }
+        ],
+        "summary": {
+          "total_claims": 19,
+          "faithful_pct": 0.0,
+          "partial_pct": 0.0,
+          "unverifiable_pct": 1.0,
+          "hallucinated_pct": 0.0
+        }
+      }
+    },
+    {
+      "question_id": "Q05",
+      "category": "CCAR-121",
+      "question": "飞行机组的值勤期限制是多少",
+      "mqs": {
+        "q_match": 1,
+        "law_correct": 2,
+        "coverage": 2,
+        "calibration": 2,
+        "format": 2,
+        "weighted_score": 85.0,
+        "reasons": {
+          "q_match": "部分回答了，给出了限制范围但数字标有[待核实]",
+          "law_correct": "引用了正确的CCAR-121部第121.485和121.487条",
+          "coverage": "覆盖了非扩编、扩编机组及累计限制",
+          "calibration": "明确标出待核实，诚实承认不确定",
+          "format": "结构清晰，结论、依据、风险等分段"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "飞行机组的值勤期限制取决于运行类型（非扩编或扩编机组）和报到时间等因素。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "具体请参考CCAR-121部第121.485条和121.487条的规定。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "非扩编飞行机组的最大飞行值勤期根据报到时间和航段数确定，例如：报到时间在00:00-04:59时，1-4个航段最大12小时，5个航段最大11小时，6个航段最大10小时，7个及以上航段最大9小时。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "报到时间在05:00-11:59时，1-4个航段最大14小时，5个航段13小时，6个航段12小时，7个及以上航段11小时。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "报到时间在12:00-23:59时，1-4个航段最大13小时，5个航段12小时，6个航段11小时，7个及以上航段10小时。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "扩编飞行机组的最大飞行值勤期根据休息设施等级和驾驶员数量确定：1级休息设施时，3名驾驶员最大18小时，4名驾驶员最大20小时。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "2级休息设施时，3名驾驶员最大17小时，4名驾驶员最大19小时。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "3级休息设施时，3名驾驶员最大16小时，4名驾驶员最大18小时。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "飞行机组在任何连续7个日历日内，累积飞行值勤期不得超过60小时。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "任一日历月内，累积飞行值勤期不得超过210小时。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "本回答适用于按照CCAR-121部运行的合格证持有人的飞行机组。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "不同的运行主体（如CCAR-91部、135部）适用不同规则。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 12,
+          "supported_pct": 1.0,
+          "correct_pct": 1.0,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "飞行机组的值勤期限制取决于运行类型（非扩编或扩编机组）和报到时间等因素。",
+            "status": "faithful",
+            "reason": "证据提到非扩编机组和表B按报到时间区分值勤期。"
+          },
+          {
+            "text": "具体请参考CCAR-121部第121.485条和121.487条的规定。",
+            "status": "faithful",
+            "reason": "证据中有这两条标题。"
+          },
+          {
+            "text": "非扩编飞行机组的最大飞行值勤期根据报到时间和航段数确定，例如：报到时间在00:00-04:59时，1-4个航段最大12小时，5个航段11小时，6个航段10小时，7个及以上航段9小时；报到时间在05:00-11:59时，1-4个航段最大14小时，5个航段13小时，6个航段12小时，7个及以上航段11小时；报到时间在12:00-23:59时，1-4个航段最大13小时，5个航段12小时，6个航段11小时，7个及以上航段10小时。",
+            "status": "unverifiable",
+            "reason": "证据仅显示有表B，但无任何具体小时数字。"
+          },
+          {
+            "text": "扩编飞行机组的最大飞行值勤期根据休息设施等级和驾驶员数量确定：1级休息设施时，3名驾驶员最大18小时，4名驾驶员最大20小时；2级休息设施时，3名驾驶员最大17小时，4名驾驶员最大19小时；3级休息设施时，3名驾驶员最大16小时，4名驾驶员最大18小时。",
+            "status": "unverifiable",
+            "reason": "证据无扩编机组的值勤期数字。"
+          },
+          {
+            "text": "飞行机组在任何连续7个日历日内，累积飞行值勤期不得超过60小时；任一日历月内，累积飞行值勤期不得超过210小时。",
+            "status": "unverifiable",
+            "reason": "证据无累积值勤期具体数字。"
+          },
+          {
+            "text": "本回答适用于按照CCAR-121部运行的合格证持有人的飞行机组。",
+            "status": "faithful",
+            "reason": "证据均为CCAR-121部条款。"
+          },
+          {
+            "text": "不同的运行主体（如CCAR-91部、135部）适用不同规则。",
+            "status": "unverifiable",
+            "reason": "证据未涉及91部、135部规则。"
+          },
+          {
+            "text": "实际运行中需结合具体报到时间、航段数、休息设施等条件确定。",
+            "status": "faithful",
+            "reason": "证据显示值勤期取决于这些条件。"
+          },
+          {
+            "text": "超时运行可能导致违规，需提前做好排班规划。",
+            "status": "unverifiable",
+            "reason": "证据未提及违规后果或排班建议。"
+          }
+        ],
+        "summary": {
+          "total_claims": 9,
+          "faithful_pct": 0.444,
+          "partial_pct": 0.0,
+          "unverifiable_pct": 0.556,
+          "hallucinated_pct": 0.0
+        }
+      }
+    },
+    {
+      "question_id": "Q06",
+      "category": "CCAR-121",
+      "question": "飞机延程运行EDTO需要满足什么条件",
+      "mqs": {
+        "q_match": 2,
+        "law_correct": 2,
+        "coverage": 1,
+        "calibration": 1,
+        "format": 2,
+        "weighted_score": 85.0,
+        "reasons": {
+          "q_match": "直接、准确回答了EDTO需要满足的条件",
+          "law_correct": "引用的CCAR-121条款与EDTO相关，条号和内容基本正确",
+          "coverage": "覆盖了型号设计、救援消防、通信、维修、签派、训练等主要方面，但可能遗漏部分细节如氧气设备等",
+          "calibration": "风险提示提及需咨询局方，对部分不确定内容有提醒",
+          "format": "结构清晰，分结论、依据、详情、条件、风险等段落，易读"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "飞机必须获得延程运行型号设计批准，且每架用于EDTO的飞机需符合其构型、维修和程序文件要求。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "对于EDTO时间不超过180分钟的，每个指定的EDTO备降机场应提供等效于或高于国际民航组织第4类救援和消防服务。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "对于EDTO时间超过180分钟的，还需保持在能提供第7类服务的合适机场的改航时间内。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "实施超过180分钟EDTO的，通信系统应提供基于卫星的语音通信，通话质量与固定电话相当。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "合格证持有人必须制定并经局方批准的延程运行持续适航维修方案（CAMP），包括维修文件、航前维修检查、双重维修限制、验证方案、识别任务、集中维修控制、零部件控制和可靠性方案等内容。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "EDTO运行需符合仪表飞行规则的签派或放行条件，以及跨水运行的特殊要求。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "相关飞行机组和维修人员必须完成必需的训练，包括初始训练、转机型训练、差异训练、定期复训、熟练检查等，且维修人员需具备EDTO资格。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "签派或放行时，备降机场的天气预报需满足备降最低天气标准，且初始签派或放行可在航路上更改增加备降机场。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "承运人需持有运行合格证，且飞机用于EDTO运行。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 9,
+          "supported_pct": 0.444,
+          "correct_pct": 1.0,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "飞机必须获得延程运行型号设计批准",
+            "status": "faithful",
+            "reason": "证据第121.718条明确要求飞机获得EDTO型号设计批准"
+          },
+          {
+            "text": "每架用于EDTO的飞机需符合其构型、维修和程序文件要求",
+            "status": "partial",
+            "reason": "构型和维修要求有证据，程序文件要求无证据"
+          },
+          {
+            "text": "对于EDTO时间不超过180分钟的，每个指定的EDTO备降机场应提供等效于或高于国际民航组织第4类救援和消防服务",
+            "status": "faithful",
+            "reason": "证据第121.715条(a)(1)直接支持"
+          },
+          {
+            "text": "对于超过180分钟的，还需保持在能提供第7类服务的合适机场的改航时间内",
+            "status": "unverifiable",
+            "reason": "证据未提供第121.715条相关部分，无法验证"
+          },
+          {
+            "text": "实施超过180分钟EDTO的，通信系统应提供基于卫星的语音通信，通话质量与固定电话相当",
+            "status": "faithful",
+            "reason": "证据第121.714条直接支持"
+          },
+          {
+            "text": "合格证持有人必须制定并经局方批准的延程运行持续适航维修方案（CAMP）",
+            "status": "faithful",
+            "reason": "证据第121.719条明确要求制定CAMP"
+          },
+          {
+            "text": "CAMP包括维修文件、航前维修检查、双重维修限制、验证方案、识别任务、集中维修控制、零部件控制和可靠性方案等内容",
+            "status": "hallucinated",
+            "reason": "证据未列出这些具体内容，属于编造细节"
+          },
+          {
+            "text": "EDTO运行需符合仪表飞行规则的签派或放行条件",
+            "status": "unverifiable",
+            "reason": "证据未将EDTO与仪表飞行规则签派条件关联"
+          },
+          {
+            "text": "EDTO运行需符合跨水运行的特殊要求",
+            "status": "unverifiable",
+            "reason": "证据未提供第121.635条，未提及跨水运行"
+          },
+          {
+            "text": "相关飞行机组和维修人员必须完成必需的训练",
+            "status": "unverifiable",
+            "reason": "证据未明确EDTO运行需完成训练，仅提及一般必需训练"
+          },
+          {
+            "text": "训练包括初始训练、转机型训练、差异训练、定期复训、熟练检查等",
+            "status": "hallucinated",
+            "reason": "证据未列出这些具体训练种类"
+          },
+          {
+            "text": "维修人员需具备EDTO资格",
+            "status": "unverifiable",
+            "reason": "证据未提及维修人员EDTO资格要求"
+          },
+          {
+            "text": "签派或放行时，备降机场的天气预报需满足备降最低天气标准",
+            "status": "faithful",
+            "reason": "证据第121.651条(b)款支持"
+          },
+          {
+            "text": "初始签派或放行可在航路上更改增加备降机场",
+            "status": "unverifiable",
+            "reason": "证据未显示可更改增加备降机场的条款"
+          },
+          {
+            "text": "承运人需持有运行合格证",
+            "status": "unverifiable",
+            "reason": "证据未提供运行合格证要求"
+          },
+          {
+            "text": "未满足任何一项条件可能导致运行被拒绝或安全风险",
+            "status": "unverifiable",
+            "reason": "风险提示无证据支持"
+          },
+          {
+            "text": "重点关注备降机场的消防服务水平和通信设备要求",
+            "status": "unverifiable",
+            "reason": "风险提示无证据支持"
+          },
+          {
+            "text": "具体运行规范中的限额和程序需咨询局方",
+            "status": "unverifiable",
+            "reason": "风险提示无证据支持"
+          }
+        ],
+        "summary": {
+          "total_claims": 18,
+          "faithful_pct": 0.278,
+          "partial_pct": 0.056,
+          "unverifiable_pct": 0.556,
+          "hallucinated_pct": 0.111
+        }
+      }
+    },
+    {
+      "question_id": "Q07",
+      "category": "CCAR-121",
+      "question": "签派员放行飞机时需要检查哪些事项",
+      "mqs": {
+        "q_match": 2,
+        "law_correct": 1,
+        "coverage": 1,
+        "calibration": 2,
+        "format": 2,
+        "weighted_score": 75.0,
+        "reasons": {
+          "q_match": "直接回答了签派员需检查的事项",
+          "law_correct": "法规名称有笔误（多“已”字），但条号准确",
+          "coverage": "主要涉及气象和飞行规则，未提及飞机适航/MEL等关键检查",
+          "calibration": "未表示不确定，依据充分且肯定",
+          "format": "结论/依据/适用/风险结构清晰"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "签派员在签派飞机前，应当完全熟悉所飞航路、机场的气象实况报告和预报，否则不得签派。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "按照目视飞行规则放行前，需确认航路云底高度和能见度不低于目视飞行规则最低标准。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "按照仪表飞行规则放行前，需确认目的地机场和备降机场的天气条件在预计到达时等于或高于经批准的最低标准。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "跨水运行放行前，需确认目的地机场和备降机场的天气条件等于或高于经批准的最低标准，且通常应按仪表飞行规则实施。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "在签派单中指定的备降机场，其天气预报需表明预计到达时天气条件等于或高于备降最低天气标准。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "签派员需向机长提供可能影响飞行安全的机场条件、导航设施不正常及危险天气现象等信息。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "国内、国际定期载客运行每次飞行起飞前需得到飞行签派员的明确批准，除非飞机在指定中途机场地面停留不超过规定时间（国内1小时，国际6小时）。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "补充运行需使用飞行跟踪系统，每次飞行需得到授权人员的批准，并制定飞行放行单，由机长和授权人员签署。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "飞行签派员需持有执照并完成相应训练，包括初始训练、运行熟悉（至少5小时）和定期复训。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "每次飞行需编制签派单，由机长和授权的飞行签派员签字，双方均认为能安全飞行方可放行。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 10,
+          "supported_pct": 0.6,
+          "correct_pct": 1.0,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "签派员放行时需确认气象条件",
+            "status": "faithful",
+            "reason": "第121.623条要求熟悉气象实况报告和预报"
+          },
+          {
+            "text": "签派员放行时需确认飞行规则适用性",
+            "status": "faithful",
+            "reason": "第121.631/633/635条规定不同飞行规则的放行条件"
+          },
+          {
+            "text": "签派员放行时需确认备降机场标准",
+            "status": "faithful",
+            "reason": "第121.651条要求备降机场天气条件符合标准"
+          },
+          {
+            "text": "签派员放行时需确认通信导航设施",
+            "status": "faithful",
+            "reason": "第121.625条要求提供导航设施不正常信息"
+          },
+          {
+            "text": "签派员放行时需确认机组资格",
+            "status": "unverifiable",
+            "reason": "提供的证据未涉及机组资格要求"
+          },
+          {
+            "text": "签派员放行时需确认运行规范",
+            "status": "faithful",
+            "reason": "第121.651条提及运行规范中的备降标准"
+          },
+          {
+            "text": "签派员放行时需确认签派单签署",
+            "status": "faithful",
+            "reason": "第121.677条规定签派单须由机长和签派员签字"
+          }
+        ],
+        "summary": {
+          "total_claims": 7,
+          "faithful_pct": 0.857,
+          "partial_pct": 0.0,
+          "unverifiable_pct": 0.143,
+          "hallucinated_pct": 0.0
+        }
+      }
+    },
+    {
+      "question_id": "Q08",
+      "category": "CCAR-121",
+      "question": "飞机在结冰条件下运行有什么要求",
+      "mqs": {
+        "q_match": 2,
+        "law_correct": 2,
+        "coverage": 1,
+        "calibration": 2,
+        "format": 2,
+        "weighted_score": 90.0,
+        "reasons": {
+          "q_match": "直接回答了结冰条件下的设备与适航要求。",
+          "law_correct": "引用的第121.341条准确对应防冰设备要求。",
+          "coverage": "仅提及设备安装和照明，缺少地面除冰、操作程序等重要规定。",
+          "calibration": "依据明确法规，未编造内容。",
+          "format": "结论、依据、补充说明、风险提示等分段清晰。"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "在结冰条件下运行的飞机，应当在风挡、机翼、尾翼、螺旋桨以及其他结冰会对安全有不利影响的部位安装防冰或除冰装置。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "在夜间结冰条件下运行的飞机，应当有照明或其他方式，能从积冰角度确定机翼上关键部位的结冰情况。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "所采用的照明类型，不得产生可能影响机组人员执行任务的眩光或反光。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "飞机应获得结冰条件下运行的适航批准，通常包括通过型号合格审定或补充型号合格证。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "承运人应制定结冰条件下运行的相应程序和训练。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "适用于大型飞机公共航空运输承运人的运行。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "未按规定安装防冰除冰装置或在结冰条件下盲目运行可能导致机翼、尾翼等关键部位结冰，严重影响飞行安全，甚至引发事故。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 7,
+          "supported_pct": 0.0,
+          "correct_pct": 1.0,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "飞机在结冰条件下运行需满足设备与适航要求。",
+            "status": "faithful",
+            "reason": "法规直接规定了设备要求，属于适航要求。"
+          },
+          {
+            "text": "设备与适航要求主要包括安装防冰/除冰装置。",
+            "status": "faithful",
+            "reason": "证据(a)明确要求安装防冰或除冰装置。"
+          },
+          {
+            "text": "设备与适航要求主要包括夜间照明。",
+            "status": "partial",
+            "reason": "照明要求仅适用于夜间结冰，此处未限定夜间条件。"
+          },
+          {
+            "text": "在结冰条件下运行的飞机，应当在风挡、机翼、尾翼、螺旋桨以及其他结冰会对安全有不利影响的部位安装防冰或除冰装置。",
+            "status": "faithful",
+            "reason": "直接复述证据(a)。"
+          },
+          {
+            "text": "在夜间结冰条件下运行时，飞机应当有照明或其他方式，能从积冰角度确定机翼上关键部位的结冰情况。",
+            "status": "faithful",
+            "reason": "直接复述证据(b)前半部分。"
+          },
+          {
+            "text": "照明不得产生影响机组人员执行任务的眩光或反光。",
+            "status": "partial",
+            "reason": "证据未提到“眩光或反光”，仅说不得影响机组人员。"
+          },
+          {
+            "text": "飞机本身应获得结冰条件下运行的适航批准。",
+            "status": "unverifiable",
+            "reason": "证据未涉及适航批准。"
+          },
+          {
+            "text": "适航批准通常包括通过型号合格审定或补充型号合格证，确保防冰系统满足要求。",
+            "status": "unverifiable",
+            "reason": "证据未提供任何相关信息。"
+          },
+          {
+            "text": "承运人还应制定结冰条件下运行的相应程序和训练。",
+            "status": "unverifiable",
+            "reason": "证据未提及程序和训练。"
+          },
+          {
+            "text": "程序和训练示例：机组人员需了解防冰系统操作和结冰识别程序。",
+            "status": "unverifiable",
+            "reason": "证据未覆盖示例内容。"
+          },
+          {
+            "text": "《大型飞机公共航空运输承运人运行合格审定规则》第121.341条明确了结冰条件下运行的设备要求，包括防冰/除冰装置和夜间照明。",
+            "status": "faithful",
+            "reason": "证据中该条确有此要求。"
+          },
+          {
+            "text": "适用于大型飞机公共航空运输承运人的运行。",
+            "status": "unverifiable",
+            "reason": "证据未说明法规适用范围。"
+          },
+          {
+            "text": "飞机需已获得结冰条件下运行的适航批准。",
+            "status": "unverifiable",
+            "reason": "证据未提及适航批准。"
+          },
+          {
+            "text": "未按规定安装防冰除冰装置或在结冰条件下盲目运行可能导致机翼、尾翼等关键部位结冰。",
+            "status": "unverifiable",
+            "reason": "证据未描述行为后果。"
+          },
+          {
+            "text": "结冰会严重影响飞行安全，甚至引发事故。",
+            "status": "unverifiable",
+            "reason": "证据未包含风险说明。"
+          }
+        ],
+        "summary": {
+          "total_claims": 15,
+          "faithful_pct": 0.333,
+          "partial_pct": 0.133,
+          "unverifiable_pct": 0.533,
+          "hallucinated_pct": 0.0
+        }
+      }
+    },
+    {
+      "question_id": "Q09",
+      "category": "CCAR-91",
+      "question": "机长在紧急情况下有哪些权力",
+      "mqs": {
+        "q_match": 2,
+        "law_correct": 1,
+        "coverage": 2,
+        "calibration": 0,
+        "format": 2,
+        "weighted_score": 75.0,
+        "reasons": {
+          "q_match": "直接回答了机长在紧急情况下的多项权力，未跑题。",
+          "law_correct": "引用了大体相关的《民用航空法》，但版本（2026年施行）和条号不准确，存在编造内容。",
+          "coverage": "覆盖了遇险处置、指挥救援、管束行为、调整机组等关键权力，无明显遗漏。",
+          "calibration": "多处引用不存在的法律版本，未说明信息来源，属于硬编。",
+          "format": "结构清晰，有结论、依据、适用条件等分段，易于阅读。"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "民用航空器遇险时，机长有权采取一切必要措施，并指挥机组人员和旅客采取抢救措施。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "在必须撤离的紧急情况下，机长应当首先组织旅客安全离开，并最后离开航空器；未经机长允许，机组人员不得擅自离开。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "飞行中对于破坏、扰乱、危害安全的行为，机长有权采取包括管束措施在内的合理措施，必要时可请求或授权旅客协助。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "飞行中遇到特殊情况时，为保证安全，机长有权对民用航空器作出处置。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "机长发现机组人员不适宜执行飞行任务的，有权提出调整。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "民用航空器发生事故后，机长应当直接或通过空中交通管制单位及时、如实报告国务院民用航空主管部门。",
+            "supported": true,
+            "correct": true,
+            "relevant": false
+          }
+        ],
+        "summary": {
+          "total_ldps": 6,
+          "supported_pct": 0.833,
+          "correct_pct": 1.0,
+          "relevant_pct": 0.833
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "民用航空器遇险时，机长有权采取一切必要措施，并指挥机组人员和旅客采取抢救措施。",
+            "status": "faithful",
+            "reason": "证据第四十七条明确赋予机长此项权力。"
+          },
+          {
+            "text": "在必须撤离的紧急情况下，机长应当首先组织旅客安全离开，并最后离开航空器；未经机长允许，机组人员不得擅自离开。",
+            "status": "faithful",
+            "reason": "证据第四十七条后段完整覆盖该声明。"
+          },
+          {
+            "text": "飞行中，对于破坏、扰乱、危害安全的行为，机长有权采取包括管束措施在内的合理措施，必要时可请求或授权旅客协助。",
+            "status": "faithful",
+            "reason": "证据第四十五条明文规定此项权力。"
+          },
+          {
+            "text": "飞行中遇到特殊情况时，为保证安全，机长有权对民用航空器作出处置。",
+            "status": "unverifiable",
+            "reason": "证据中未提供此内容，无法验证。"
+          },
+          {
+            "text": "机长发现机组人员不适宜执行飞行任务的，有权提出调整。",
+            "status": "faithful",
+            "reason": "证据第四十六条直接支撑该声明。"
+          },
+          {
+            "text": "民用航空器发生事故后，机长应当直接或通过空中交通管制单位及时、如实报告国务院民用航空主管部门。",
+            "status": "faithful",
+            "reason": "证据第四十八条完全一致。"
+          }
+        ],
+        "summary": {
+          "total_claims": 6,
+          "faithful_pct": 0.833,
+          "partial_pct": 0.0,
+          "unverifiable_pct": 0.167,
+          "hallucinated_pct": 0.0
+        }
+      }
+    },
+    {
+      "question_id": "Q10",
+      "category": "CCAR-91",
+      "question": "民用航空器在什么情况下可以进行特技飞行",
+      "mqs": {
+        "q_match": 0,
+        "law_correct": 0,
+        "coverage": 0,
+        "calibration": 1,
+        "format": 2,
+        "weighted_score": 15.0,
+        "reasons": {
+          "q_match": "答案未回答特技飞行条件，列出无关法规",
+          "law_correct": "引用法规（跳伞、位置、机长经历等）均与特技飞行无关",
+          "coverage": "未包含任何关于特技飞行条件的内容",
+          "calibration": "提示可能不匹配、建议咨询，但未直接承认未找到相关信息",
+          "format": "分段清晰，有结论/法规/说明结构"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "《交通运输部关于修改〈民用航空空中交通管理规则〉的决定》第九十三条：飞行中的航空器应当利用机载和地面导航设备，准确掌握航空器位置，防止误入空中危险区。",
+            "supported": true,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "《民用航空空中交通管理规则》第九十三条同样规定航空器应利用导航设备准确掌握位置，防止误入空中危险区。",
+            "supported": true,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "《一般运行和飞行规则》第91.905条：跳伞活动实施前1天应当向空中交通管制部门申请并获批准。",
+            "supported": true,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "《合格审定规则》第61.61条：关于载运旅客的航空器或型号合格审定后机长近期飞行经历要求。",
+            "supported": true,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "《合格审定规则》第61.207条：关于飞行教学能力的要求，包括教员等级申请人需接受仪表等级相关的航空知识。",
+            "supported": true,
+            "correct": true,
+            "relevant": false
+          }
+        ],
+        "summary": {
+          "total_ldps": 5,
+          "supported_pct": 1.0,
+          "correct_pct": 1.0,
+          "relevant_pct": 0.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "系统检索到了可能相关的法规。",
+            "status": "unverifiable",
+            "reason": "证据中无系统检索行为的描述。"
+          },
+          {
+            "text": "相关法规包括：《交通运输部关于修改〈民用航空空中交通管理规则〉的决定》已于2022》第九十三条及其摘录。",
+            "status": "partial",
+            "reason": "证据中有第九十三条片段，但法规全称和完整摘录无法验证。"
+          },
+          {
+            "text": "相关法规包括：《«民用航空空中交通管理规则»已于2017年9月20日经第16》第九十三条及其摘录。",
+            "status": "partial",
+            "reason": "证据中有另一第九十三条片段，但法规全称和完整摘录无法验证。"
+          },
+          {
+            "text": "相关法规包括：《一般运行和飞行规则》第91.905条及其摘录。",
+            "status": "hallucinated",
+            "reason": "证据中无此条款的任何信息。"
+          },
+          {
+            "text": "相关法规包括：《合格审定规则»的决定》第61.61条及其摘录。",
+            "status": "partial",
+            "reason": "证据中有第61.61条标题，但摘录内容无法验证。"
+          },
+          {
+            "text": "相关法规包括：《合格审定规则»的决定》第61.207条及其摘录。",
+            "status": "hallucinated",
+            "reason": "证据中无第61.207条，仅有61.201和61.203。"
+          },
+          {
+            "text": "以上条目由系统按相关度自动排序。",
+            "status": "unverifiable",
+            "reason": "证据中无排序信息。"
+          },
+          {
+            "text": "可能与用户的具体情形有偏差。",
+            "status": "unverifiable",
+            "reason": "证据中未涉及适用性偏差的说明。"
+          },
+          {
+            "text": "如需进一步确认，建议补充更多细节或咨询专业法律人士。",
+            "status": "unverifiable",
+            "reason": "证据中无此建议，为通用性陈述。"
+          }
+        ],
+        "summary": {
+          "total_claims": 9,
+          "faithful_pct": 0.0,
+          "partial_pct": 0.333,
+          "unverifiable_pct": 0.444,
+          "hallucinated_pct": 0.222
+        }
+      }
+    },
+    {
+      "question_id": "Q11",
+      "category": "CCAR-135",
+      "question": "小型航空器商业运输的备降机场要求是什么",
+      "mqs": {
+        "q_match": 2,
+        "law_correct": 2,
+        "coverage": 1,
+        "calibration": 2,
+        "format": 2,
+        "weighted_score": 90.0,
+        "reasons": {
+          "q_match": "答案直接针对备降机场要求，引用135部条款",
+          "law_correct": "引用的法规名称和条号准确，与CCAR-135部匹配",
+          "coverage": "覆盖了IFR下各类型备降机场要求，但未提及VFR备降要求",
+          "calibration": "在不确定的重量数据处标注[待核实]，诚实处理",
+          "format": "结构清晰，分段包含结论、依据、适用条件、风险提示"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "IFR飞行时，航空器应携带足够燃油飞至目的地机场、再从目的地飞至备降机场，并额外以正常巡航速度飞行45分钟（直升机30分钟）。若目的地机场天气条件满足特定标准（云高和能见度要求），可不选择备降机场。（《小型商业运输和空中游览运营人运行》第135.189条）",
+            "supported": false,
+            "correct": false,
+            "relevant": true
+          },
+          {
+            "text": "备降机场的最低天气标准：对于飞机，在机场运行最低标准上增加决断高度/高（DA/DH）或最低下降高度/高（MDA/MDH）至少120米（一套进近设施）或60米（两套及以上），能见度增加1600米或800米；对于直升机，DA/DH增加60米，能见度至少1600米，且不低于所用进近程序最低能见度标准。（第135.187条）",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "起飞备降机场：当起飞机场气象条件低于着陆最低标准或无法返回时，应选择起飞备降机场。距离要求：双发飞机按一台发动机不工作的巡航速度飞行1小时，三发及以上按所有发动机工作的巡航速度飞行2小时（或EDTO经批准的改航时间）。（第135.347条）",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "目的地备降机场：IFR飞行至少选择一个目的地备降机场；若目的地机场气象条件低于运行最低标准或未提供气象资料，则需选择两个目的地备降机场。（第135.347条）",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "航路备降机场：对于双发涡轮飞机延长改航时间运行（EDTO），从航路上一点飞往航路备降机场超过60分钟时，应指定航路备降机场并向飞行机组提供最新资料（包括运行状况与气象条件）。（第135.375条）",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "合格证持有人应制定机场运行最低标准，充分考虑飞机性能、机组组成、跑道特性等因素，并确保地面设施（通信、导航等）满足飞行要求。（第135.359条, 第135.321条）",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "适用于按照CCAR-135部运行的、最大起飞重量不超过5700[待核实]千克的小型航空器，在仪表飞行规则（IFR）下从事商业运输（旅客或货物）。实际运行中，合格证持有人需根据机型、机组成员、机场设施等具体条件适用相应条款。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "未按规定选择备降机场或未满足天气标准可能导致燃油不足、无法安全备降，增加飞行风险，并可能违反民航法规，面临行政处罚或运行限制。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 8,
+          "supported_pct": 0.125,
+          "correct_pct": 0.875,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "小型航空器商业运输在IFR下，备降机场要求包括起飞备降机场的选择。",
+            "status": "faithful",
+            "reason": "第135.347条明确规定了起飞备降机场的选择。"
+          },
+          {
+            "text": "备降机场要求包括目的地备降机场的选择。",
+            "status": "unverifiable",
+            "reason": "证据未摘录目的地备降机场条款，无法验证。"
+          },
+          {
+            "text": "备降机场要求包括航路备降机场的选择。",
+            "status": "faithful",
+            "reason": "第135.375条规定了航路备降机场的要求。"
+          },
+          {
+            "text": "备降机场要求包括相应的燃油要求。",
+            "status": "faithful",
+            "reason": "第135.189条明确规定了燃油要求。"
+          },
+          {
+            "text": "备降机场要求包括天气标准要求。",
+            "status": "faithful",
+            "reason": "第135.187条明确规定了备降机场最低天气标准。"
+          },
+          {
+            "text": "备降机场要求包括运行设施要求。",
+            "status": "unverifiable",
+            "reason": "证据未提供第135.321条内容，无法验证该要求。"
+          },
+          {
+            "text": "IFR飞行时应携带足够燃油飞至目的地、再飞至备降机场，并额外以正常巡航速度飞行45分钟（直升机30分钟）。",
+            "status": "partial",
+            "reason": "飞机45分钟有第135.189条(a)支撑，直升机30分钟证据缺失。"
+          },
+          {
+            "text": "若目的地机场天气条件满足特定标准（云高和能见度要求），可不选择备降机场。",
+            "status": "unverifiable",
+            "reason": "证据未给出第135.189条(b)款不选备降机场的条件。"
+          },
+          {
+            "text": "飞机备降机场最低天气标准：增加DA/DH或MDA/MDH至少120米（一套进近设施）或60米（两套及以上），能见度增加1600米或800米。",
+            "status": "unverifiable",
+            "reason": "第135.187条摘录未包含具体增加数值，无法验证。"
+          },
+          {
+            "text": "直升机备降机场最低天气标准：DA/DH增加60米，能见度至少1600米，且不低于所用进近程序最低能见度标准。",
+            "status": "unverifiable",
+            "reason": "证据未显示直升机备降机场天气标准具体数值。"
+          },
+          {
+            "text": "起飞备降机场选择条件：起飞机场气象条件低于着陆最低标准或无法返回时，应选择起飞备降机场。",
+            "status": "faithful",
+            "reason": "第135.347条(a)(1)直接支撑该条件。"
+          },
+          {
+            "text": "起飞备降机场距离要求：双发飞机按一台发动机不工作的巡航速度飞行1小时，三发及以上按所有发动机工作的巡航速度飞行2小时。",
+            "status": "unverifiable",
+            "reason": "第135.347条(a)(2)摘录不完整，具体时间无法验证。"
+          },
+          {
+            "text": "IFR飞行至少选择一个目的地备降机场。",
+            "status": "unverifiable",
+            "reason": "证据未摘录第135.347条(b)款关于目的地备降机场数量的内容。"
+          },
+          {
+            "text": "若目的地机场气象条件低于运行最低标准或未提供气象资料，需选择两个目的地备降机场。",
+            "status": "unverifiable",
+            "reason": "该条件在证据中未出现，无法验证。"
+          },
+          {
+            "text": "对于双发涡轮飞机延长改航时间运行（EDTO），从航路上一点飞往航路备降机场超过60分钟时，应指定航路备降机场。",
+            "status": "faithful",
+            "reason": "第135.375条(a)(1)(i)要求指定航路备降机场，适用于该情境。"
+          },
+          {
+            "text": "向飞行机组提供指定航路备降机场的最新资料，包括运行状况与气象条件。",
+            "status": "faithful",
+            "reason": "第135.375条(a)(1)(ii)明确要求提供最新资料。"
+          },
+          {
+            "text": "合格证持有人应制定机场运行最低标准，充分考虑飞机性能、机组组成、跑道特性等因素。",
+            "status": "faithful",
+            "reason": "第135.359条(b)列举了需考虑的因素，与声明一致。"
+          },
+          {
+            "text": "确保地面设施（通信、导航等）满足飞行要求。",
+            "status": "unverifiable",
+            "reason": "证据未提供第135.321条内容，该要求无法验证。"
+          },
+          {
+            "text": "适用于按照CCAR-135部运行的、最大起飞重量不超过5700千克的小型航空器，在仪表飞行规则（IFR）下从事商业运输。",
+            "status": "unverifiable",
+            "reason": "证据未提及最大起飞重量限值及具体适用范围。"
+          },
+          {
+            "text": "未按规定选择备降机场或未满足天气标准可能导致燃油不足、无法安全备降，增加飞行风险。",
+            "status": "unverifiable",
+            "reason": "该风险提示在证据中无直接支撑。"
+          },
+          {
+            "text": "违反法规面临行政处罚或运行限制。",
+            "status": "unverifiable",
+            "reason": "证据未涉及处罚或运行限制的规定。"
+          }
+        ],
+        "summary": {
+          "total_claims": 21,
+          "faithful_pct": 0.381,
+          "partial_pct": 0.048,
+          "unverifiable_pct": 0.571,
+          "hallucinated_pct": 0.0
+        }
+      }
+    },
+    {
+      "question_id": "Q12",
+      "category": "CCAR-135",
+      "question": "CCAR-135部运营人的飞行员资质要求是什么",
+      "mqs": {
+        "q_match": 2,
+        "law_correct": 1,
+        "coverage": 0,
+        "calibration": 2,
+        "format": 2,
+        "weighted_score": 65.0,
+        "reasons": {
+          "q_match": "直接回答了资质要求，虽未列出细节，但给出概括性答案",
+          "law_correct": "引用了第135.9条，该条确有相关要求，但并非飞行员资质的专门条款，且未指出如第135.121、135.123条等更直接的规定",
+          "coverage": "遗漏了型别等级、经历、体检合格证等关键资质要求，应提及至少商用执照、仪表等级等",
+          "calibration": "明确说明资质细节需结合CCAR-61部，未编造不存在的规定",
+          "format": "结构清晰，有结论、依据、适用条件、风险提示等分段"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "飞行员必须持有现行有效的航空人员执照。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "飞行员必须满足民航规章中适用的资格要求。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "飞行员必须能胜任工作。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "飞行机组需符合CCAR-61部规定的无线电通信语言能力要求。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "CCAR-135部本身未详细列出所有资质细节，实际需结合CCAR-61部等规章。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "飞行员须持有相应类别、级别的现行有效执照。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "须满足与所执行任务相关的资格要求（如型别等级、经历要求等）。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "具体资质细节需查阅CCAR-61部及运营人的运行规范。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "若飞行员未持有有效执照或资格不满足要求，运营人违反第135.9条。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "可能面临局方暂停或撤销运行合格证。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "可能被处以罚款。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "一旦发生事故，责任认定可能对运营人极为不利。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 12,
+          "supported_pct": 0.0,
+          "correct_pct": 1.0,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "法规要求飞行员必须持有现行有效的航空人员执照",
+            "status": "unverifiable",
+            "reason": "证据仅提供条款标题，无具体内容，无法验证"
+          },
+          {
+            "text": "飞行员需满足民航规章中适用的资格要求",
+            "status": "unverifiable",
+            "reason": "证据仅提供条款标题，无具体内容，无法验证"
+          },
+          {
+            "text": "飞行员需能胜任工作",
+            "status": "unverifiable",
+            "reason": "证据仅提供条款标题，无具体内容，无法验证"
+          },
+          {
+            "text": "飞行机组须符合CCAR-61部规定的无线电通信语言能力要求",
+            "status": "unverifiable",
+            "reason": "证据仅提供条款标题，无具体内容，无法验证"
+          },
+          {
+            "text": "第135.9条(h)款规定合格证持有人所使用的航空人员应当持有适合的现行有效的航空人员执照，满足涉及民航管理的规章中适用的资格要求，并能够胜任所从事的工作",
+            "status": "unverifiable",
+            "reason": "证据仅提供条款标题，无具体内容，无法验证"
+          },
+          {
+            "text": "第135.9条(g)要求飞行机组成员符合CCAR-61部规定的无线电通信语言能力要求",
+            "status": "unverifiable",
+            "reason": "证据仅提供条款标题，无具体内容，无法验证"
+          },
+          {
+            "text": "CCAR-135部本身未详细列出所有资质细节，实际需结合CCAR-61部等规章",
+            "status": "unverifiable",
+            "reason": "证据仅提供条款标题，无具体内容，无法验证"
+          }
+        ],
+        "summary": {
+          "total_claims": 7,
+          "faithful_pct": 0.0,
+          "partial_pct": 0.0,
+          "unverifiable_pct": 1.0,
+          "hallucinated_pct": 0.0
+        }
+      }
+    },
+    {
+      "question_id": "Q13",
+      "category": "CCAR-92",
+      "question": "无人机在什么情况下需要申请空域许可",
+      "mqs": {
+        "q_match": 1,
+        "law_correct": 1,
+        "coverage": 1,
+        "calibration": 2,
+        "format": 2,
+        "weighted_score": 60.0,
+        "reasons": {
+          "q_match": "部分回答了问题，给出一般建议但未直接引用法规具体情形",
+          "law_correct": "引用的法规名称基本正确，但未提供内容且存在待核实项",
+          "coverage": "覆盖了主要情形（管制空域、人群密集、重量阈值），但遗漏了视距外飞行等边缘情况",
+          "calibration": "清晰承认证据不足，并标注了待核实内容",
+          "format": "结构清晰，有结论、补充说明、法律依据、适用条件和风险提示"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "无人机在管制空域内飞行需要申请空域许可，例如机场净空区、军事禁区等。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "无人机在人口密集区域或重大活动期间飞行需申请空域许可。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "对于空机重量超过一定阈值（如250克）的无人机，通常需要实名登记并可能需申请许可。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "无人机飞行需根据飞行区域、机型重量、飞行高度等因素判断是否需要申请空域许可。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "未经申请在管制空域飞行可能面临行政处罚，甚至刑事责任。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 5,
+          "supported_pct": 0.0,
+          "correct_pct": 1.0,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "根据现有证据，无法直接回答无人机空域许可的具体情形。",
+            "status": "faithful",
+            "reason": "证据中无相关条款，该判断如实反映证据局限。"
+          },
+          {
+            "text": "通常，无人机在管制空域、人口密集区、机场附近等区域飞行需要申请空域许可",
+            "status": "unverifiable",
+            "reason": "证据未涉及无人机空域许可话题。"
+          },
+          {
+            "text": "该回答仅基于一般知识，而非提供的法规证据。",
+            "status": "faithful",
+            "reason": "答案明确自我声明，且证据确实不包含相关法规。"
+          },
+          {
+            "text": "无人机在管制空域内飞行需要申请空域许可，例如机场净空区、军事禁区等。",
+            "status": "unverifiable",
+            "reason": "证据未覆盖该声明内容。"
+          },
+          {
+            "text": "无人机在人口密集区域或重大活动期间飞行需申请空域许可。",
+            "status": "unverifiable",
+            "reason": "证据中无相关信息。"
+          },
+          {
+            "text": "对于空机重量超过一定阈值（如250克）的无人机，通常需要实名登记并可能需申请许可。",
+            "status": "unverifiable",
+            "reason": "证据未提及无人机重量与许可的关系。"
+          },
+          {
+            "text": "《无人驾驶航空器飞行管理暂行条例》等是相关法律依据，但未在证据中提供。",
+            "status": "unverifiable",
+            "reason": "该条例是否确为相关法律依据在证据中无法验证。"
+          },
+          {
+            "text": "无人机飞行需根据飞行区域、机型重量、飞行高度等因素判断是否需要申请空域许可。",
+            "status": "unverifiable",
+            "reason": "证据未讨论任何判定因素。"
+          },
+          {
+            "text": "未经申请在管制空域飞行可能面临行政处罚，甚至刑事责任。",
+            "status": "unverifiable",
+            "reason": "证据未涉及违规飞行的法律后果。"
+          }
+        ],
+        "summary": {
+          "total_claims": 9,
+          "faithful_pct": 0.222,
+          "partial_pct": 0.0,
+          "unverifiable_pct": 0.778,
+          "hallucinated_pct": 0.0
+        }
+      }
+    },
+    {
+      "question_id": "Q14",
+      "category": "CCAR-92",
+      "question": "无人机飞行的安全距离要求是什么",
+      "mqs": {
+        "q_match": 2,
+        "law_correct": 2,
+        "coverage": 2,
+        "calibration": 2,
+        "format": 2,
+        "weighted_score": 100.0,
+        "reasons": {
+          "q_match": "直接回答了无统一数值，并给出法规原则要求",
+          "law_correct": "引用的规则和条号均与问题相关且准确",
+          "coverage": "覆盖视距内障碍物间隔、禁飞人群、超视距优先权等关键要求",
+          "calibration": "明确承认证据未给出具体数值，建议咨询专业部门",
+          "format": "结论、依据、补充、适用、风险等结构清晰易读"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "无人机飞行的安全距离要求没有统一数值。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "无人机飞行的安全距离要求需根据具体运行场景和局方规定确定。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "视距内运行时，与障碍物应至少保持相应运行所要求的最低安全间隔。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "视距内运行时，具体间隔需依据运行手册或局方规定。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "视距内运行时，禁止飞越集会人群上空。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "运行人应制定飞行运行实施程序，包括最低飞行高度配备等。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "超视距运行时，应当将航路优先权让与有人驾驶航空器。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "证据中未给出具体数值（如米或英尺）。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "实际飞行中应参考无人机厂商手册、运行手册或咨询当地空管部门，否则可能因间隔不足导致碰撞或违规。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 9,
+          "supported_pct": 0.222,
+          "correct_pct": 1.0,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "无人机飞行的安全距离要求没有统一数值，需根据具体运行场景和局方规定确定。",
+            "status": "faithful",
+            "reason": "证据中多处规定未给具体数值，表明需按场景和规定确定"
+          },
+          {
+            "text": "视距内运行时，与障碍物应至少保持相应运行所要求的最低安全间隔。",
+            "status": "faithful",
+            "reason": "第92.631条(c)直接规定"
+          },
+          {
+            "text": "具体间隔需依据运行手册或局方规定。",
+            "status": "unverifiable",
+            "reason": "证据未说明间隔由运行手册或局方规定确定"
+          },
+          {
+            "text": "视距内运行时，禁止飞越集会人群上空。",
+            "status": "faithful",
+            "reason": "第92.631条(b)直接规定"
+          },
+          {
+            "text": "禁止飞越集会人群上空是人员安全距离的明确要求。",
+            "status": "faithful",
+            "reason": "合理推断，从禁止飞越人群可得出安全距离要求"
+          },
+          {
+            "text": "运行人应制定飞行运行实施程序，包括最低飞行高度配备等。",
+            "status": "faithful",
+            "reason": "第92.695条直接规定"
+          },
+          {
+            "text": "具体数值需根据运行场景和局方规定确定。",
+            "status": "unverifiable",
+            "reason": "第92.695条未提数值根据什么确定，该细节无证据"
+          },
+          {
+            "text": "超视距运行时，应当将航路优先权让与有人驾驶航空器。",
+            "status": "faithful",
+            "reason": "证据92.631开头避让原则适用于超视距"
+          },
+          {
+            "text": "（超视距运行时）间接要求保持安全间隔。",
+            "status": "unverifiable",
+            "reason": "避让条文未直接提及安全间隔，为推断"
+          }
+        ],
+        "summary": {
+          "total_claims": 9,
+          "faithful_pct": 0.667,
+          "partial_pct": 0.0,
+          "unverifiable_pct": 0.333,
+          "hallucinated_pct": 0.0
+        }
+      }
+    },
+    {
+      "question_id": "Q15",
+      "category": "机场管理",
+      "question": "机场使用许可证的申请条件是什么",
+      "mqs": {
+        "q_match": 2,
+        "law_correct": 1,
+        "coverage": 2,
+        "calibration": 2,
+        "format": 2,
+        "weighted_score": 85.0,
+        "reasons": {
+          "q_match": "直接列出申请条件，切题准确",
+          "law_correct": "第八条引用正确，但第九条报送材料处误引《民用机场建设管理规定》",
+          "coverage": "完整覆盖第八条全部条件及第九条报送要求",
+          "calibration": "所有回答均有明确法规依据，未虚构",
+          "format": "结构清晰，结论/依据/适用/风险分层明确"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "有健全的安全运营管理体系、组织机构和管理制度。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "机场管理机构的主要负责人、分管运行安全的负责人以及其他需要承担安全管理职责的高级管理人员具备与其运营业务相适应的资质和条件。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "有符合规定的与其运营业务相适应的飞行区、航站区、工作区以及运营、服务设施、设备及人员。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "有符合规定的能够保障飞行安全的空中交通服务、航空情报、通信导航监视、航空气象等设施、设备及人员。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "使用空域已经批准。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "飞行程序和运行标准符合民航局的规定。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "有符合规定的安全保卫设施、设备、人员及民用航空安全保卫方案。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "有符合规定的机场突发事件应急救援预案、应急救援设施、设备及人员。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "机场名称已在民航局备案。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "申请时需报送《运输机场使用许可证申请书》、机场使用手册、相关人员资质证明、机场建设批准与验收文件、通信导航气象设施开放使用批准、机场使用细则及飞行程序、安全保卫方案、应急救援预案、机场名称备案文件等材料。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "申请材料不齐全或不符合法定形式时，民航地区管理局会要求补正，逾期不告知则视为受理。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 11,
+          "supported_pct": 0.091,
+          "correct_pct": 1.0,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "申请机场使用许可证需要满足《运输机场使用许可规定》第八条列明的九项基本条件",
+            "status": "unverifiable",
+            "reason": "证据未给出该法条具体内容"
+          },
+          {
+            "text": "需要按照第九条要求报送相关文件资料",
+            "status": "faithful",
+            "reason": "证据第九条明确要求报送文件资料"
+          },
+          {
+            "text": "有健全的安全运营管理体系、组织机构和管理制度",
+            "status": "unverifiable",
+            "reason": "证据未提及此具体条件"
+          },
+          {
+            "text": "机场管理机构的主要负责人、分管运行安全的负责人以及其他需要承担安全管理职责的高级管理人员具备与其运营业务相适应的资质和条件",
+            "status": "unverifiable",
+            "reason": "证据未提及此具体条件"
+          },
+          {
+            "text": "有符合规定的与其运营业务相适应的飞行区、航站区、工作区以及运营、服务设施、设备及人员",
+            "status": "unverifiable",
+            "reason": "证据未提及此具体条件"
+          },
+          {
+            "text": "有符合规定的能够保障飞行安全的空中交通服务、航空情报、通信导航监视、航空气象等设施、设备及人员",
+            "status": "unverifiable",
+            "reason": "证据未提及此具体条件"
+          },
+          {
+            "text": "使用空域已经批准",
+            "status": "unverifiable",
+            "reason": "证据未提及此具体条件"
+          },
+          {
+            "text": "飞行程序和运行标准符合民航局的规定",
+            "status": "unverifiable",
+            "reason": "证据未提及此具体条件"
+          },
+          {
+            "text": "有符合规定的安全保卫设施、设备、人员及民用航空安全保卫方案",
+            "status": "unverifiable",
+            "reason": "证据未提及此具体条件"
+          },
+          {
+            "text": "有符合规定的机场突发事件应急救援预案、应急救援设施、设备及人员",
+            "status": "unverifiable",
+            "reason": "证据未提及此具体条件"
+          },
+          {
+            "text": "机场名称已在民航局备案",
+            "status": "unverifiable",
+            "reason": "证据未提及此具体条件"
+          },
+          {
+            "text": "申请时需报送《运输机场使用许可证申请书》、机场使用手册、相关人员资质证明、机场建设批准与验收文件、通信导航气象设施开放使用批准、机场使用细则及飞行程序、安全保卫方案、应急救援预案、机场名称备案文件等材料",
+            "status": "unverifiable",
+            "reason": "证据未列出具体文件材料名称"
+          },
+          {
+            "text": "适用于运输机场申请使用许可证",
+            "status": "unverifiable",
+            "reason": "证据未明确限定适用范围"
+          },
+          {
+            "text": "申请材料不齐全或不符合法定形式时，民航地区管理局会要求补正，逾期不告知则视为受理",
+            "status": "faithful",
+            "reason": "证据第十条原文直接支撑"
+          }
+        ],
+        "summary": {
+          "total_claims": 14,
+          "faithful_pct": 0.143,
+          "partial_pct": 0.0,
+          "unverifiable_pct": 0.857,
+          "hallucinated_pct": 0.0
+        }
+      }
+    },
+    {
+      "question_id": "Q16",
+      "category": "机场管理",
+      "question": "机场运行安全管理中谁来负责飞行区安全",
+      "mqs": {
+        "q_match": 2,
+        "law_correct": 0,
+        "coverage": 2,
+        "calibration": 2,
+        "format": 2,
+        "weighted_score": 70.0,
+        "reasons": {
+          "q_match": "直接回答了责任主体是机场运营人。",
+          "law_correct": "引用的法规名称和条号格式错误，如'《(一)督促和指导...》第四条'，并非正确法规。",
+          "coverage": "明确了主要责任方，覆盖了问题核心。",
+          "calibration": "没有不确定时硬编，内容有实际依据。",
+          "format": "结构清晰，分段明确，易读。"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "飞行区安全的主要责任主体是机场运营人（即机场管理机构）。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "机场运营人负责对机场的运行安全实施统一协调、管理，维护机场正常秩序，并承担相应的责任，这包括飞行区的运行安全。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "机场管理机构对机场航空安保工作承担直接责任，飞行区安全中的安保方面也由其负责。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "机场运营人还应制定跑道、滑行道、机坪的临时关闭管理规定，并确保其道面等设施持续适用，这些是飞行区安全的具体内容。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 4,
+          "supported_pct": 1.0,
+          "correct_pct": 1.0,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "机场运营人即机场管理机构。",
+            "status": "unverifiable",
+            "reason": "证据未提及两者等同关系。"
+          },
+          {
+            "text": "飞行区安全的主要责任主体是机场运营人。",
+            "status": "partial",
+            "reason": "第四条仅笼统规定运行安全责任，未明确飞行区安全。"
+          },
+          {
+            "text": "机场运营人负责对机场的运行安全实施统一协调、管理。",
+            "status": "faithful",
+            "reason": "第四条原文直接支撑。"
+          },
+          {
+            "text": "机场运营人负责维护机场正常秩序。",
+            "status": "faithful",
+            "reason": "第四条原文直接支撑。"
+          },
+          {
+            "text": "机场运营人承担相应的责任。",
+            "status": "faithful",
+            "reason": "第四条原文直接支撑。"
+          },
+          {
+            "text": "这一责任包括飞行区的运行安全。",
+            "status": "partial",
+            "reason": "第四条未明确运行安全范围包含飞行区。"
+          },
+          {
+            "text": "机场管理机构对机场航空安保工作承担直接责任。",
+            "status": "faithful",
+            "reason": "第五条原文直接支撑。"
+          },
+          {
+            "text": "飞行区安全中的安保方面由机场管理机构负责。",
+            "status": "partial",
+            "reason": "第五条未提及飞行区安保，属推断。"
+          },
+          {
+            "text": "机场运营人应制定跑道、滑行道、机坪的临时关闭管理规定。",
+            "status": "faithful",
+            "reason": "第三十条原文直接支撑。"
+          },
+          {
+            "text": "机场运营人应确保跑道、滑行道和机坪的道面等设施持续适用。",
+            "status": "partial",
+            "reason": "第四十一条不完整，细节无法验证。"
+          },
+          {
+            "text": "制定关闭管理规定和确保设施持续适用是飞行区安全的具体内容。",
+            "status": "partial",
+            "reason": "证据未明确将此列为飞行区安全内容。"
+          },
+          {
+            "text": "若机场运营人未履行上述责任，可能导致飞行区安全隐患，如跑道、滑行道状况不佳或安保漏洞。",
+            "status": "unverifiable",
+            "reason": "证据未涉及不履行职责的后果。"
+          },
+          {
+            "text": "未履行责任可能导致航空事故或非法干扰事件。",
+            "status": "unverifiable",
+            "reason": "证据未涉及事故或非法干扰的因果。"
+          },
+          {
+            "text": "未履行责任需承担相应法律责任。",
+            "status": "unverifiable",
+            "reason": "证据未提及法律责任后果。"
+          },
+          {
+            "text": "该责任规定适用于所有运输机场的日常运行安全管理。",
+            "status": "unverifiable",
+            "reason": "证据未提供适用范围信息。"
+          }
+        ],
+        "summary": {
+          "total_claims": 15,
+          "faithful_pct": 0.333,
+          "partial_pct": 0.333,
+          "unverifiable_pct": 0.333,
+          "hallucinated_pct": 0.0
+        }
+      }
+    },
+    {
+      "question_id": "Q17",
+      "category": "机场管理",
+      "question": "航班备降时机场运营人有什么义务",
+      "mqs": {
+        "q_match": 2,
+        "law_correct": 0,
+        "coverage": 1,
+        "calibration": 0,
+        "format": 2,
+        "weighted_score": 50.0,
+        "reasons": {
+          "q_match": "直接回答了备降时机场运营人的各项义务。",
+          "law_correct": "所引《公共航空运输旅客服务管理规定》第28条实际内容与备降无关，义务描述系编造。",
+          "coverage": "覆盖了协同、通报、设施、机位、拒降等主要义务，但缺少应急救护等边缘义务。",
+          "calibration": "引用法条明显错误但未承认不确定，反而给出编造的具体义务。",
+          "format": "结构清晰，有结论、依据、适用、风险分段。"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "航班备降时，机场运营人负有协同保障义务。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "航班备降时，机场运营人负有信息通报义务。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "航班备降时，机场运营人负有基础设施完善义务。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "航班备降时，机场运营人负有预留足够数量备降机位义务。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "航班备降时，机场运营人不得无故拒绝航班备降。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "上述义务适用条件为航班实际备降至本机场，且机场运营人已被确定为承担备降保障任务。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "若机场运营人未履行上述义务，可能面临民航地区管理局的行政处罚（如警告、罚款等）。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "若机场运营人未履行上述义务，可能因拒绝备降或保障不力引发旅客投诉或安全事件。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 8,
+          "supported_pct": 0.0,
+          "correct_pct": 1.0,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "航班备降时，机场运营人主要负有协同保障、信息通报、基础设施完善、机位预留及不得拒绝备降等义务。",
+            "status": "hallucinated",
+            "reason": "证据未提及备降义务，答案自行总结，与证据矛盾。"
+          },
+          {
+            "text": "机场运营人应当按照中国民航局有关规定和各自职责，与公共航空运输企业、空中交通管理机构等共同做好备降保障工作，并及时通报相关信息。（《公共航空运输旅客服务管理规定》第二十八条）",
+            "status": "hallucinated",
+            "reason": "证据中第二十八条为标志标识指引，与备降保障无关。"
+          },
+          {
+            "text": "承担备降保障任务的机场运营人应当完善备降保障所必需的基础设施，预留足够数量的备降机位，不得无故拒绝航班备降。（《公共航空运输旅客服务管理规定》第二十八条）",
+            "status": "hallucinated",
+            "reason": "证据中第二十八条为标志标识指引，与备降义务无关。"
+          },
+          {
+            "text": "适用条件为航班实际备降至本机场，且机场运营人已被确定为承担备降保障任务。",
+            "status": "hallucinated",
+            "reason": "证据无备降义务，适用条件为凭空编造。"
+          },
+          {
+            "text": "若机场运营人未履行上述义务，可能面临民航地区管理局的行政处罚（如警告、罚款等），并可能因拒绝备降或保障不力引发旅客投诉或安全事件。",
+            "status": "hallucinated",
+            "reason": "证据无备降义务及处罚规定，属于编造。"
+          }
+        ],
+        "summary": {
+          "total_claims": 5,
+          "faithful_pct": 0.0,
+          "partial_pct": 0.0,
+          "unverifiable_pct": 0.0,
+          "hallucinated_pct": 1.0
+        }
+      }
+    },
+    {
+      "question_id": "Q18",
+      "category": "旅客服务",
+      "question": "航班延误超过多长时间航空公司需要为旅客提供餐饮",
+      "mqs": {
+        "q_match": 2,
+        "law_correct": 1,
+        "coverage": 2,
+        "calibration": 2,
+        "format": 2,
+        "weighted_score": 85.0,
+        "reasons": {
+          "q_match": "直接回答没有统一时间门槛，由各承运人自行规定",
+          "law_correct": "引用的法规条号正确，但法规名称表述不规范（应为《航班正常管理规定》）",
+          "coverage": "覆盖了承运人原因、非承运人原因、经停地、备降、机上延误等多种情形",
+          "calibration": "明确说明没有全国统一标准，建议咨询航空公司",
+          "format": "结论-依据-细节-风险的结构清晰，易于理解"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "根据现行规定，没有全国统一的延误时长门槛",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "承运人需在其运输总条件和应急预案中明确餐饮服务提供时间",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "国内航班由于机务维护、航班调配、机组等承运人自身原因造成延误或取消的，承运人应当向旅客提供餐食或住宿服务。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "国内航班因天气、突发事件、空中交通管制等非承运人原因延误或取消的，承运人协助安排餐食和住宿，费用由旅客自理。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "国内航班在经停地延误或取消，无论何种原因，承运人均应当向经停旅客提供餐食或住宿服务。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "国内航班发生备降，无论何种原因，承运人均应当向备降旅客提供餐食或住宿服务。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "承运人应当制定并向社会公布机上延误应急预案，明确餐饮服务提供时间，具体时间由各承运人自行确定。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 7,
+          "supported_pct": 0.0,
+          "correct_pct": 1.0,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "没有全国统一的延误时长门槛",
+            "status": "unverifiable",
+            "reason": "证据未涉及是否有统一门槛"
+          },
+          {
+            "text": "承运人需在其运输总条件和应急预案中明确餐饮服务提供时间",
+            "status": "unverifiable",
+            "reason": "证据无第三十二条，无法验证"
+          },
+          {
+            "text": "国内航班由于机务维护、航班调配、机组等承运人自身原因造成延误或取消的，承运人应当向旅客提供餐食或住宿服务",
+            "status": "unverifiable",
+            "reason": "证据中第二十九条未列出具体情形"
+          },
+          {
+            "text": "国内航班因天气、突发事件、空中交通管制等非承运人原因延误或取消的，承运人协助安排餐食和住宿，费用由旅客自理",
+            "status": "unverifiable",
+            "reason": "证据中第二十九条未列出具体情形"
+          },
+          {
+            "text": "国内航班在经停地延误或取消，无论何种原因，承运人均应当向经停旅客提供餐食或住宿服务",
+            "status": "unverifiable",
+            "reason": "证据中未出现经停地规定"
+          },
+          {
+            "text": "国内航班发生备降，无论何种原因，承运人均应当向备降旅客提供餐食或住宿服务",
+            "status": "unverifiable",
+            "reason": "证据中未出现备降规定"
+          },
+          {
+            "text": "承运人应当制定并向社会公布机上延误应急预案，明确餐饮服务提供时间，具体时间由各承运人自行确定",
+            "status": "unverifiable",
+            "reason": "证据无第三十二条，无法验证"
+          },
+          {
+            "text": "适用于国内航班（含港澳台地区、外国承运人航班始发点或经停点在我国境内机场的航班也适用）",
+            "status": "unverifiable",
+            "reason": "证据无明确适用范围条款"
+          }
+        ],
+        "summary": {
+          "total_claims": 8,
+          "faithful_pct": 0.0,
+          "partial_pct": 0.0,
+          "unverifiable_pct": 1.0,
+          "hallucinated_pct": 0.0
+        }
+      }
+    },
+    {
+      "question_id": "Q19",
+      "category": "旅客服务",
+      "question": "航空公司拒载旅客的合法理由有哪些",
+      "mqs": {
+        "q_match": 1,
+        "law_correct": 1,
+        "coverage": 0,
+        "calibration": 2,
+        "format": 2,
+        "weighted_score": 50.0,
+        "reasons": {
+          "q_match": "部分回答了拒载理由，但仅为推断，未直接列出法规明示的合法理由",
+          "law_correct": "引用的法规条号大致相关，但《民用航空法》第九条并非直接规定拒载，且描述偏重安全生产",
+          "coverage": "未覆盖常见拒载情形（如传染病、醉酒、安全威胁等），缺漏关键情况",
+          "calibration": "明确承认证据未列出具体情形，并说明是推断，诚实表达不确定性",
+          "format": "结构清晰，分结论、补充说明、依据、适用条件、风险提示等段落"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "航空公司可基于飞行安全需要拒载旅客，例如旅客健康状况或行为可能威胁航空安全时。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "航空公司可在运输总条件中规定拒载的具体情形，例如旅客不遵守安全规定、携带危险品等。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "旅客扰乱航空器秩序或拒绝服从机长指挥，航空公司有权拒绝运输。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 3,
+          "supported_pct": 0.0,
+          "correct_pct": 1.0,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "航空公司拒载合法理由主要基于安全原则和运输总条件。",
+            "status": "unverifiable",
+            "reason": "证据未提及拒载理由基于什么。"
+          },
+          {
+            "text": "具体情形未在证据中明确列出。",
+            "status": "faithful",
+            "reason": "证据仅含法律片段，未列具体情形。"
+          },
+          {
+            "text": "以下为基于民航法安全原则和运输总条件备案规定的合理推断。",
+            "status": "partial",
+            "reason": "安全原则和备案规定有体现，但“合理推断”无法验证。"
+          },
+          {
+            "text": "航空公司可基于飞行安全需要拒载旅客。",
+            "status": "unverifiable",
+            "reason": "证据中无此规定。"
+          },
+          {
+            "text": "例如旅客健康状况或行为可能威胁航空安全时，航空公司可拒载。",
+            "status": "unverifiable",
+            "reason": "证据未提及具体可拒载情形。"
+          },
+          {
+            "text": "航空公司可在运输总条件中规定拒载的具体情形。",
+            "status": "unverifiable",
+            "reason": "证据未明确授权运输总条件规定拒载。"
+          },
+          {
+            "text": "例如旅客不遵守安全规定、携带危险品等可被规定为拒载情形。",
+            "status": "unverifiable",
+            "reason": "证据无此类举例。"
+          },
+          {
+            "text": "旅客扰乱航空器秩序或拒绝服从机长指挥，航空公司有权拒绝运输。",
+            "status": "unverifiable",
+            "reason": "证据中无此规定。"
+          },
+          {
+            "text": "证据中未直接列出拒载理由。",
+            "status": "faithful",
+            "reason": "证据片段确实未列。"
+          },
+          {
+            "text": "《民用航空法》第九条要求落实安全生产主体责任。",
+            "status": "unverifiable",
+            "reason": "证据中无第九条。"
+          },
+          {
+            "text": "航空公司据此可采取安全措施。",
+            "status": "unverifiable",
+            "reason": "据以推断的条文不在证据中。"
+          },
+          {
+            "text": "《公共航空运输旅客服务管理规定》第五十四条要求承运人备案运输总条件。",
+            "status": "partial",
+            "reason": "证据说“通过民航服务”，未提“备案”细节。"
+          },
+          {
+            "text": "运输总条件中可包含拒载条款。",
+            "status": "unverifiable",
+            "reason": "证据未提总条件可含拒载条款。"
+          },
+          {
+            "text": "适用于旅客违反安全规定、存在健康风险或行为不检等情形，具体以承运人公布的运输总条件为准。",
+            "status": "unverifiable",
+            "reason": "适用情形无证据支撑。"
+          },
+          {
+            "text": "拒载可能涉及旅客权益争议。",
+            "status": "unverifiable",
+            "reason": "证据未提及争议。"
+          },
+          {
+            "text": "建议承运人明确拒载标准并在运输总条件中公示。",
+            "status": "unverifiable",
+            "reason": "属于建议，非证据事实。"
+          },
+          {
+            "text": "旅客若对拒载有异议，可通过民航服务质量监督平台投诉（见证据[1]）。",
+            "status": "hallucinated",
+            "reason": "证据中无此平台及引用，属编造。"
+          }
+        ],
+        "summary": {
+          "total_claims": 17,
+          "faithful_pct": 0.118,
+          "partial_pct": 0.118,
+          "unverifiable_pct": 0.706,
+          "hallucinated_pct": 0.059
+        }
+      }
+    },
+    {
+      "question_id": "Q20",
+      "category": "旅客服务",
+      "question": "旅客行李丢失后航空公司如何赔偿",
+      "mqs": {
+        "q_match": 0,
+        "law_correct": 0,
+        "coverage": 0,
+        "calibration": 0,
+        "format": 2,
+        "weighted_score": 10.0,
+        "reasons": {
+          "q_match": "答非所问：用户问行李丢失赔偿，答案讲拒载理由",
+          "law_correct": "引用法规与行李丢失无关，完全错误",
+          "coverage": "未覆盖行李丢失赔偿的任何情形",
+          "calibration": "未承认未知，反而编造不相关内容",
+          "format": "虽有清晰分段，但内容完全跑题"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "旅客不符合承运人运输总条件中规定的特殊旅客承运标准，如婴儿、孕妇、无成人陪伴儿童、重病患者等，承运人可依法拒载。（《公共航空运输旅客服务管理规定》）",
+            "supported": false,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "旅客携带或托运危险品，违反《民用航空危险品运输管理规定》等相关规定，航空公司有权拒绝运输。（《民用航空危险品运输管理规定》）",
+            "supported": false,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "旅客的行为可能危及航空安全或扰乱航空器内秩序，如非法干扰行为，机长或机组成员可依据航空安保规则拒绝其登机。（《民用航空安全保卫条例》）",
+            "supported": false,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "旅客未在截止时间前办理乘机登记手续、未出示有效身份证件或登机凭证，承运人可拒绝运输。（《公共航空运输旅客服务管理规定》）",
+            "supported": false,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "航空公司若无法定或合同依据拒载，可能承担违约责任或侵犯旅客权益的法律后果。",
+            "supported": false,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "仅在旅客行为或状况影响飞行安全、公共秩序或违反运输总条件时，航空公司方可拒载。",
+            "supported": false,
+            "correct": true,
+            "relevant": false
+          }
+        ],
+        "summary": {
+          "total_ldps": 6,
+          "supported_pct": 0.0,
+          "correct_pct": 1.0,
+          "relevant_pct": 0.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "根据现有证据，无法直接列出航空公司拒载旅客的法定理由。",
+            "status": "faithful",
+            "reason": "证据中确实未列出拒载理由"
+          },
+          {
+            "text": "但可结合一般法律知识和部分证据进行合理推断。",
+            "status": "unverifiable",
+            "reason": "证据未显示可合理推断出拒载理由"
+          },
+          {
+            "text": "旅客不符合承运人运输总条件中规定的特殊旅客承运标准，如婴儿、孕妇、无成人陪伴儿童、重病患者等，承运人可依法拒载。",
+            "status": "unverifiable",
+            "reason": "证据未提及特殊旅客承运标准"
+          },
+          {
+            "text": "旅客携带或托运危险品，违反《民用航空危险品运输管理规定》等相关规定，航空公司有权拒绝运输。",
+            "status": "unverifiable",
+            "reason": "证据未涉及危险品运输规定"
+          },
+          {
+            "text": "旅客的行为可能危及航空安全或扰乱航空器内秩序，如非法干扰行为，机长或机组成员可依据航空安保规则拒绝其登机。",
+            "status": "unverifiable",
+            "reason": "证据未包含航空安保规则条文"
+          },
+          {
+            "text": "旅客未在截止时间前办理乘机登记手续、未出示有效身份证件或登机凭证，承运人可拒绝运输。",
+            "status": "unverifiable",
+            "reason": "证据未提及乘机手续要求"
+          },
+          {
+            "text": "主要依据《公共航空运输旅客服务管理规定》第八条（运输总条件应包括特殊旅客承运标准）及第二十九条（乘机登记手续要求），以及《民用航空危险品运输管理规定》第八条（危险品的限制）。",
+            "status": "unverifiable",
+            "reason": "证据未提供这些法规条款"
+          },
+          {
+            "text": "具体拒载理由需查阅承运人公布的运输总条件。",
+            "status": "unverifiable",
+            "reason": "证据未说明运输总条件内容"
+          },
+          {
+            "text": "仅在旅客行为或状况影响飞行安全、公共秩序或违反运输总条件时，航空公司方可拒载。",
+            "status": "unverifiable",
+            "reason": "证据未限定拒载条件"
+          },
+          {
+            "text": "航空公司若无法定或合同依据拒载，可能承担违约责任或侵犯旅客权益的法律后果。",
+            "status": "unverifiable",
+            "reason": "证据未讨论拒载法律后果"
+          }
+        ],
+        "summary": {
+          "total_claims": 10,
+          "faithful_pct": 0.1,
+          "partial_pct": 0.0,
+          "unverifiable_pct": 0.9,
+          "hallucinated_pct": 0.0
+        }
+      }
+    },
+    {
+      "question_id": "Q21",
+      "category": "航空安全",
+      "question": "航空安全检查中哪些物品禁止带上飞机",
+      "mqs": {
+        "q_match": 1,
+        "law_correct": 1,
+        "coverage": 0,
+        "calibration": 1,
+        "format": 2,
+        "weighted_score": 45.0,
+        "reasons": {
+          "q_match": "答案仅提及高危危险品和活体动物，未涵盖常见安检禁止物品，部分相关但未直接回答",
+          "law_correct": "引用的法规条号正确，但该规定主要针对货物运输，并非旅客安检的直接主要依据",
+          "coverage": "完全遗漏了武器、刀具、易燃易爆品、液态物品等大量常见禁止物品，覆盖严重不足",
+          "calibration": "未主动说明这只是禁止物品的一小部分，仅模糊提示需查技术细则，诚实度不足",
+          "format": "结构清晰，分结论、依据、适用、风险等模块，格式良好"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "禁止带上飞机的物品主要包括《技术细则》中规定禁止在任何情况下航空运输的危险品以及受感染的活体动物。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "禁止在行李中携带或通过货物、邮件托运收运载运《技术细则》中规定禁止在正常情况下航空运输的危险品。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "禁止在行李中携带或通过货物、邮件托运收运载运受到感染的活体动物。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "上述禁止适用于所有旅客及货物、邮件托运人等，但获得民航行政机关按《技术细则》批准或豁免的除外。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "具体危险品种类需查阅《技术细则》或咨询航空公司，违反规定可能导致物品被扣留、罚款甚至承担法律责任。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 5,
+          "supported_pct": 0.0,
+          "correct_pct": 1.0,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "航空安全检查中禁止带上飞机的物品主要包括《技术细则》中规定禁止在任何情况下航空运输的危险品。",
+            "status": "unverifiable",
+            "reason": "证据未提及《技术细则》或相关危险品规定，无法验证。"
+          },
+          {
+            "text": "航空安全检查中禁止带上飞机的物品还包括受感染的活体动物。",
+            "status": "unverifiable",
+            "reason": "证据未提及受感染活体动物禁止携带，无法验证。"
+          },
+          {
+            "text": "《民用航空危险品运输管理规定》第七条规定禁止在行李中携带或通过货物、邮件托运、收运、载运《技术细则》中规定禁止在正常情况下航空运输的危险品。",
+            "status": "unverifiable",
+            "reason": "证据未包含该规定条文，无法验证其内容。"
+          },
+          {
+            "text": "《民用航空危险品运输管理规定》第七条还禁止受到感染的活体动物。",
+            "status": "unverifiable",
+            "reason": "证据未包含该规定条文，无法验证。"
+          },
+          {
+            "text": "该规定适用于所有旅客及货物、邮件托运人等，但获得批准或豁免的除外。",
+            "status": "unverifiable",
+            "reason": "证据未提及该规定的适用范围或例外条款。"
+          },
+          {
+            "text": "具体危险品种类需查阅《技术细则》或咨询航空公司。",
+            "status": "unverifiable",
+            "reason": "证据未涉及《技术细则》内容或咨询建议。"
+          },
+          {
+            "text": "违反规定可能导致物品被扣留、罚款甚至承担法律责任。",
+            "status": "unverifiable",
+            "reason": "证据未说明违反相关规定的法律后果。"
+          }
+        ],
+        "summary": {
+          "total_claims": 7,
+          "faithful_pct": 0.0,
+          "partial_pct": 0.0,
+          "unverifiable_pct": 1.0,
+          "hallucinated_pct": 0.0
+        }
+      }
+    },
+    {
+      "question_id": "Q22",
+      "category": "航空安全",
+      "question": "民用航空安全信息报告的时限要求是什么",
+      "mqs": {
+        "q_match": 1,
+        "law_correct": 2,
+        "coverage": 0,
+        "calibration": 2,
+        "format": 2,
+        "weighted_score": 65.0,
+        "reasons": {
+          "q_match": "用户问具体时限，答案仅列出相关法规条目，未直接给出时限数字，部分相关但未直接回答",
+          "law_correct": "引用的《民用航空安全信息管理规定》及条号均与问题相关，准确",
+          "coverage": "未说明紧急/非紧急事件的具体报告时限，遗漏关键信息",
+          "calibration": "明确提示‘可能与情形有偏差’，建议补充细节或咨询专业人士，诚实",
+          "format": "有结论、相关法规、说明等清晰分段，结构良好"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "在规定期限内不能完成初步定性或不能按规定时限提交最终调查信息，负责调查的单位应当向民航局民用航空安全信息主管部门申请延期报告，并按要求尽快上报事件的最终调查信息。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "民用航空安全信息报告表应当使用中国民用航空安全信息系统上报。",
+            "supported": true,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "当该系统不可用时，可以使用传真等方式上报；当系统恢复后3日内，应当使用该系统补报。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 3,
+          "supported_pct": 1.0,
+          "correct_pct": 1.0,
+          "relevant_pct": 0.667
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "以下为系统检索到的可能相关法规",
+            "status": "unverifiable",
+            "reason": "证据未涉及系统检索过程"
+          },
+          {
+            "text": "《民用航空安全信息管理规定》第十七条摘录为“（七）在规定期限内不能完成初步定性或不能按规定时限提交最终调查信息，负责调查的单位应当向民航局民用航空安全信息主管部门申请延期报告...”",
+            "status": "hallucinated",
+            "reason": "证据中第十七条内容为报告表使用，无此摘录"
+          },
+          {
+            "text": "《民用航空安全信息管理规定》第十五条摘录为“（三）当空管单位为事发相关单位时，事发地/所属地监管局和地区管理局为空管单位所在地的监管局和地区管理局...”",
+            "status": "partial",
+            "reason": "第十五条存在但具体内容证据未覆盖"
+          },
+          {
+            "text": "《民用航空安全信息管理规定》第十八条摘录为“第十七条 民用航空安全信息报告表应当使用中国民用航空安全信息系统上报...”",
+            "status": "hallucinated",
+            "reason": "证据中第十八条为其他内容，摘录实为第十七条"
+          },
+          {
+            "text": "《民用航空安全信息管理规定》第十四条摘录为“第十三条 事件信息收集分为紧急事件报告和非紧急事件报告...”",
+            "status": "hallucinated",
+            "reason": "证据中第十四条仅有标题，摘录实为第十三条"
+          },
+          {
+            "text": "《民用航空安全信息管理规定》第十条摘录为“第九条 地区管理局应当依据本规定...”",
+            "status": "hallucinated",
+            "reason": "证据中第十条为如实报告规定，摘录实为第九条"
+          },
+          {
+            "text": "以上条目由系统按相关度自动排序",
+            "status": "unverifiable",
+            "reason": "证据未提及排序机制"
+          },
+          {
+            "text": "如需进一步确认，建议补充更多细节或咨询专业法律人士",
+            "status": "unverifiable",
+            "reason": "建议性陈述无法从证据验证"
+          }
+        ],
+        "summary": {
+          "total_claims": 8,
+          "faithful_pct": 0.0,
+          "partial_pct": 0.125,
+          "unverifiable_pct": 0.375,
+          "hallucinated_pct": 0.5
+        }
+      }
+    },
+    {
+      "question_id": "Q23",
+      "category": "航空安全",
+      "question": "航空器发生事故后谁来负责调查",
+      "mqs": {
+        "q_match": 2,
+        "law_correct": 2,
+        "coverage": 2,
+        "calibration": 2,
+        "format": 2,
+        "weighted_score": 100.0,
+        "reasons": {
+          "q_match": "直接回答调查主体（民航局/国务院/国际机制）",
+          "law_correct": "引用《民用航空器事件调查规定》具体条款准确",
+          "coverage": "覆盖国内分层调查、涉外及通知义务等情形",
+          "calibration": "承认国际公约附件待核实，并建议咨询专业人士",
+          "format": "结构清晰，分结论/依据/适用/风险等段落"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "调查工作由民航局或其地区管理局负责组织。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "特别重大事故可能由国务院组织调查。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "在国务院组织调查时，民航局参与技术调查。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "涉及境外事故时，按照国际公约和我国规定执行。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "由民航局组织的调查，事发地地区管理局和相关单位应当参与。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "由事发地地区管理局组织的调查，相关单位所属地地区管理局应当给予协助。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "若国务院直接组织事故调查组，民航局或地区管理局将参与其中，并参照规定执行技术调查工作。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "对于我国组织调查的事故或严重征候，民航局负责通知航空器登记国、运营人所在国、设计国、制造国和国际民航组织，并联络外国参加调查。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "调查适用于中华人民共和国境内发生的民用航空器事故。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "调查机构为中国民用航空局（民航局）及其地区管理局。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "若事故涉及境外主体或地点，需依据《国际民用航空公约》附件13及我国批准的国际公约处理。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "实际调查主体可能因事故等级、涉及国家或国务院介入而有所不同。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "若事故发生在境外，调查权通常归事故发生地所在国。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "我国民航局可能以参与国身份协助。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 14,
+          "supported_pct": 0.643,
+          "correct_pct": 1.0,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "航空器发生事故后，调查工作由民航局或其地区管理局负责组织",
+            "status": "partial",
+            "reason": "第十三条显示民航局组织调查，但地区管理局组织调查部分证据未显示"
+          },
+          {
+            "text": "特别重大事故可能由国务院组织调查，民航局参与技术调查",
+            "status": "faithful",
+            "reason": "第五十八条片段显示民航局或地区管理局参与国务院组织的调查"
+          },
+          {
+            "text": "涉及境外事故时，按照国际公约和我国规定执行",
+            "status": "unverifiable",
+            "reason": "证据未提及境外事故调查规则"
+          },
+          {
+            "text": "根据《民用航空器事件调查规定》，由民航局组织的调查，事发地地区管理局和相关单位应当参与",
+            "status": "partial",
+            "reason": "第十三条片段显示事发地地区管理局参与，但‘和相关单位’未完全显示"
+          },
+          {
+            "text": "由事发地地区管理局组织的调查，相关单位所属地地区管理局应当给予协助",
+            "status": "unverifiable",
+            "reason": "证据未显示地区管理局组织调查的内容"
+          },
+          {
+            "text": "若国务院直接组织事故调查组，民航局或地区管理局将参与其中，并参照本规定执行技术调查工作",
+            "status": "partial",
+            "reason": "第五十八条显示参与，但‘参照本规定执行技术调查工作’未显示"
+          },
+          {
+            "text": "对于我国组织调查的事故或严重征候，民航局负责通知航空器登记国、运营人所在国、设计国、制造国和国际民航组织，并联络外国参加调查",
+            "status": "unverifiable",
+            "reason": "证据第二十五条片段未列出通知对象"
+          },
+          {
+            "text": "适用于中华人民共和国境内发生的民用航空器事故",
+            "status": "unverifiable",
+            "reason": "证据未提及适用范围"
+          },
+          {
+            "text": "调查机构为中国民用航空局（民航局）及其地区管理局",
+            "status": "unverifiable",
+            "reason": "证据未明确界定调查机构"
+          },
+          {
+            "text": "若事故涉及境外主体或地点，需依据《国际民用航空公约》附件13[待核实]及我国批准的国际公约处理",
+            "status": "unverifiable",
+            "reason": "证据未提及附件13或国际公约处理"
+          },
+          {
+            "text": "实际调查主体可能因事故等级、涉及国家或国务院介入而有所不同",
+            "status": "unverifiable",
+            "reason": "证据未明确提及调查主体因事故等级变化"
+          },
+          {
+            "text": "若事故发生在境外，调查权通常归事故发生地所在国",
+            "status": "unverifiable",
+            "reason": "证据未涉及境外事故调查权归属"
+          },
+          {
+            "text": "我国民航局可能以参与国身份协助",
+            "status": "unverifiable",
+            "reason": "证据未提及以参与国身份协助"
+          }
+        ],
+        "summary": {
+          "total_claims": 13,
+          "faithful_pct": 0.077,
+          "partial_pct": 0.231,
+          "unverifiable_pct": 0.692,
+          "hallucinated_pct": 0.0
+        }
+      }
+    },
+    {
+      "question_id": "Q24",
+      "category": "适航管理",
+      "question": "民用航空器适航指令是做什么的",
+      "mqs": {
+        "q_match": 2,
+        "law_correct": 2,
+        "coverage": 2,
+        "calibration": 2,
+        "format": 2,
+        "weighted_score": 100.0,
+        "reasons": {
+          "q_match": "直接解释了适航指令的定义和目的，用户问题得到精准回答",
+          "law_correct": "引用了《第8号》相关条文，正确匹配适航指令规定",
+          "coverage": "涵盖了定义、强制性要求、适用条件和风险，全面回应",
+          "calibration": "对推断内容明确标注，未硬编，保持诚实态度",
+          "format": "结构清晰，包括结论、依据、补充说明等，易读"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "适航指令是民航局针对航空器不安全状况发布的强制性要求。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "适航指令规定检查、改正或使用限制。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "适航指令确保持续适航和安全。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "适航指令以书面形式颁发。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "紧急情况时，适航指令以电报形式颁发。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "航空运营人需遵照执行适航指令。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "适航指令有统一编号，并成为规定的一部分。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "适航指令是持续适航管理的重要环节。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "在航空器适航检查时需提供适航指令执行情况记录。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "任何经中国民航局登记的民用航空器，若存在不安全状况，即触发适航指令的颁发和执行。",
+            "supported": false,
+            "correct": false,
+            "relevant": true
+          },
+          {
+            "text": "不执行适航指令可能导致航空器处于不安全状态，影响飞行安全。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "不执行适航指令可能面临行政处罚或适航证被吊销的风险。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 12,
+          "supported_pct": 0.417,
+          "correct_pct": 0.917,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "适航指令是民航局针对航空器不安全状况发布的强制性要求。",
+            "status": "unverifiable",
+            "reason": "证据仅提供条款标题，未涉及发布主体与条件"
+          },
+          {
+            "text": "适航指令规定检查要求、改正措施或使用限制。",
+            "status": "unverifiable",
+            "reason": "证据未提及指令的具体内容"
+          },
+          {
+            "text": "适航指令的目的是确保持续适航和安全。",
+            "status": "unverifiable",
+            "reason": "证据未说明指令目的"
+          },
+          {
+            "text": "适航指令是在发现民用航空产品存在不安全状况时颁发的。",
+            "status": "unverifiable",
+            "reason": "证据仅标题提及颁发，未说明触发条件"
+          },
+          {
+            "text": "适航指令由民航局以书面形式颁发。",
+            "status": "unverifiable",
+            "reason": "证据未提及颁发形式"
+          },
+          {
+            "text": "紧急情况时，适航指令以电报的形式颁发，随后补发书面适航指令。",
+            "status": "unverifiable",
+            "reason": "证据未涉及紧急颁发形式"
+          },
+          {
+            "text": "适航指令是强制性文件。",
+            "status": "unverifiable",
+            "reason": "证据未说明文件性质"
+          },
+          {
+            "text": "适航指令中规定了必须执行的检查要求、改正措施或使用限制。",
+            "status": "unverifiable",
+            "reason": "证据未提及指令包含的具体内容"
+          },
+          {
+            "text": "航空运营人需遵照执行适航指令。",
+            "status": "unverifiable",
+            "reason": "证据未提及执行主体"
+          },
+          {
+            "text": "适航指令是持续适航管理的重要环节。",
+            "status": "unverifiable",
+            "reason": "证据仅提供适航检查标题，未关联持续适航管理"
+          },
+          {
+            "text": "在航空器适航检查时需提供适航指令执行情况记录。",
+            "status": "unverifiable",
+            "reason": "证据仅标为适航检查，未提及需提供执行记录"
+          },
+          {
+            "text": "任何经中国民航局登记的民用航空器，若存在不安全状况，即触发适航指令的颁发和执行。",
+            "status": "unverifiable",
+            "reason": "证据未覆盖适用条件和触发机制"
+          },
+          {
+            "text": "不执行适航指令可能导致航空器处于不安全状态。",
+            "status": "unverifiable",
+            "reason": "证据未涉及不执行的后果"
+          },
+          {
+            "text": "不执行适航指令可能影响飞行安全。",
+            "status": "unverifiable",
+            "reason": "证据未提及安全影响"
+          },
+          {
+            "text": "不执行适航指令可能面临行政处罚。",
+            "status": "unverifiable",
+            "reason": "证据未说明行政后果"
+          },
+          {
+            "text": "不执行适航指令可能导致适航证被吊销。",
+            "status": "unverifiable",
+            "reason": "证据未提及适航证吊销风险"
+          }
+        ],
+        "summary": {
+          "total_claims": 16,
+          "faithful_pct": 0.0,
+          "partial_pct": 0.0,
+          "unverifiable_pct": 1.0,
+          "hallucinated_pct": 0.0
+        }
+      }
+    },
+    {
+      "question_id": "Q25",
+      "category": "适航管理",
+      "question": "航空器维修单位需要什么资质",
+      "mqs": {
+        "q_match": 2,
+        "law_correct": 2,
+        "coverage": 2,
+        "calibration": 2,
+        "format": 2,
+        "weighted_score": 100.0,
+        "reasons": {
+          "q_match": "直接回答了维修许可证、人员、器材、手册等核心资质要求",
+          "law_correct": "准确引用了CCAR-145和CCAR-66相关条款，且内容与条号匹配",
+          "coverage": "覆盖了许可证、器材、安全管理体系、手册、人员等关键方面",
+          "calibration": "明确区分了法规直接规定和合理推断，未硬编",
+          "format": "结论、依据、补充、适用、风险，结构清晰分明"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "航空器维修单位必须取得民航局颁发的《民用航空器维修许可证》。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "维修单位应具备合格的维修器材。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "维修单位应建立入库检验、保管控制等制度。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "维修单位需建立以质量系统为基础的安全管理体系，包括事件报告、风险管理和内部审核等。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "维修单位应制定维修管理手册和工作程序手册，详细说明管理要求和操作程序。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "维修单位应配备持有相应航空器维修人员执照的维修和放行人员。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "航空器维修人员执照的申请要求包括年满18周岁、大专以上学历、完成基础培训和实作培训、通过考试、英语等级测试等。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "未取得维修许可证或未满足相关要求从事维修活动，将面临行政处罚，甚至导致航空器不适航。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 8,
+          "supported_pct": 0.5,
+          "correct_pct": 1.0,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "航空器维修单位必须取得民航局颁发的《民用航空器维修许可证》。",
+            "status": "faithful",
+            "reason": "证据第145.1-2条表明规则规范许可证颁发，可推断强制要求。"
+          },
+          {
+            "text": "维修单位应具备合格的维修器材。",
+            "status": "faithful",
+            "reason": "第145.20条(a)要求器材符合技术文件规定。"
+          },
+          {
+            "text": "维修单位应建立入库检验制度。",
+            "status": "faithful",
+            "reason": "第145.20条(b)明确要求建立入库检验制度。"
+          },
+          {
+            "text": "维修单位应建立保管控制制度。",
+            "status": "partial",
+            "reason": "证据要求有效保管控制，但未明确提及'制度'。"
+          },
+          {
+            "text": "维修单位需建立以质量系统为基础的安全管理体系。",
+            "status": "faithful",
+            "reason": "第145.24条直接要求以质量系统为基础建立安全管理体系。"
+          },
+          {
+            "text": "安全管理体系包括事件报告。",
+            "status": "faithful",
+            "reason": "第145.24条(a)要求建立事件和危害报告系统。"
+          },
+          {
+            "text": "安全管理体系包括风险管理。",
+            "status": "faithful",
+            "reason": "第145.24条(b)要求建立风险管理系统。"
+          },
+          {
+            "text": "安全管理体系包括内部审核。",
+            "status": "unverifiable",
+            "reason": "证据摘录未提及内部审核，无法验证。"
+          },
+          {
+            "text": "维修单位应制定维修管理手册。",
+            "status": "faithful",
+            "reason": "第145.28条要求制定维修管理手册。"
+          },
+          {
+            "text": "维修单位应制定工作程序手册。",
+            "status": "faithful",
+            "reason": "第145.28条要求制定工作程序手册。"
+          },
+          {
+            "text": "手册详细说明管理要求和操作程序。",
+            "status": "faithful",
+            "reason": "第145.28条表明手册载明总体要求和具体程序。"
+          },
+          {
+            "text": "维修单位应配备持有相应航空器维修人员执照的维修和放行人员。",
+            "status": "unverifiable",
+            "reason": "证据仅提供CCAR-66条款标题，未涉及CCAR-145人员要求的具体规定。"
+          },
+          {
+            "text": "维修人员执照的申请要求包括年满18周岁。",
+            "status": "unverifiable",
+            "reason": "证据仅有条款标题，无具体申请条件细节。"
+          },
+          {
+            "text": "维修人员执照的申请要求包括大专以上学历。",
+            "status": "unverifiable",
+            "reason": "证据仅有条款标题，无具体申请条件细节。"
+          },
+          {
+            "text": "维修人员执照的申请要求包括完成基础培训。",
+            "status": "unverifiable",
+            "reason": "证据仅有条款标题，无具体申请条件细节。"
+          },
+          {
+            "text": "维修人员执照的申请要求包括完成实作培训。",
+            "status": "unverifiable",
+            "reason": "证据仅有条款标题，无具体申请条件细节。"
+          },
+          {
+            "text": "维修人员执照的申请要求包括通过考试。",
+            "status": "unverifiable",
+            "reason": "证据仅有条款标题，无具体申请条件细节。"
+          },
+          {
+            "text": "维修人员执照的申请要求包括英语等级测试。",
+            "status": "unverifiable",
+            "reason": "证据仅有条款标题，无具体申请条件细节。"
+          }
+        ],
+        "summary": {
+          "total_claims": 18,
+          "faithful_pct": 0.5,
+          "partial_pct": 0.056,
+          "unverifiable_pct": 0.444,
+          "hallucinated_pct": 0.0
+        }
+      }
+    },
+    {
+      "question_id": "Q26",
+      "category": "空管",
+      "question": "空中交通管制服务由哪些单位提供",
+      "mqs": {
+        "q_match": 0,
+        "law_correct": 0,
+        "coverage": 0,
+        "calibration": 2,
+        "format": 1,
+        "weighted_score": 15.0,
+        "reasons": {
+          "q_match": "未回答所问问题，完全跑题",
+          "law_correct": "引用法规与空中交通管制服务提供单位无关",
+          "coverage": "未覆盖任何提供单位信息",
+          "calibration": "明确建议咨询专业人士，未编造答案",
+          "format": "有分段但内容不切题，勉强可读"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "制定本法的目的是为了维护国家的领空主权和民用航空权利，保障民用航空活动安全、有序进行，保护民用航空活动当事人各方的合法权益，促进民用航空事业高质量发展。",
+            "supported": false,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "管制培训机构是指符合条件的担任基础培训的院校及其他空中交通管制培训机构。",
+            "supported": false,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "民用航空空中交通管制培训分为管制基础培训和管制岗位培训。",
+            "supported": true,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "空运企业从事国内旅客、行李、货物、邮件的民用航空运输的航线经营许可。",
+            "supported": false,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "民航局统一颁发中国民用航空监察员证。",
+            "supported": false,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "本规则适用于在中华人民共和国境内依法设立的公共航空运输企业，在中华人民共和国境内从事公共航空运输的外国航空运输企业，以及与公共航空运输活动有关的单位和个人。",
+            "supported": false,
+            "correct": true,
+            "relevant": false
+          }
+        ],
+        "summary": {
+          "total_ldps": 6,
+          "supported_pct": 0.167,
+          "correct_pct": 1.0,
+          "relevant_pct": 0.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "《中华人民共和国民用航空法(2026年7月1日起施行)》第三条摘录为第一条和第二条内容",
+            "status": "hallucinated",
+            "reason": "证据中该法第三条内容完全不同，且无第一条，属编造归属"
+          },
+          {
+            "text": "《管制培训机构是指符合条件的担任基础培训的院校及其他空中交通管制培训机构。》第三条及其摘录",
+            "status": "faithful",
+            "reason": "证据全文包含相同语句和第三条内容"
+          },
+          {
+            "text": "《第160 号》第三条及其摘录",
+            "status": "faithful",
+            "reason": "证据全文提供了完全匹配的摘录内容"
+          },
+          {
+            "text": "《中国民用航空监察员管理规定》第三条及其摘录",
+            "status": "faithful",
+            "reason": "证据全文包含相同的法规名称和摘录"
+          },
+          {
+            "text": "《公共航空运输企业航空安全保卫规则》第三条摘录第二条内容",
+            "status": "unverifiable",
+            "reason": "证据全文未涉及该规则任何内容，无法验证"
+          },
+          {
+            "text": "以上条目由系统按相关度自动排序，可能与您的具体情形有偏差",
+            "status": "unverifiable",
+            "reason": "证据未提及系统排序机制，无法验证"
+          },
+          {
+            "text": "建议补充更多细节或咨询专业法律人士",
+            "status": "unverifiable",
+            "reason": "证据无此类建议，属于无法验证的说明"
+          }
+        ],
+        "summary": {
+          "total_claims": 7,
+          "faithful_pct": 0.429,
+          "partial_pct": 0.0,
+          "unverifiable_pct": 0.429,
+          "hallucinated_pct": 0.143
+        }
+      }
+    },
+    {
+      "question_id": "Q27",
+      "category": "空管",
+      "question": "飞行程序设计和运行最低标准由谁审批",
+      "mqs": {
+        "q_match": 0,
+        "law_correct": 1,
+        "coverage": 0,
+        "calibration": 1,
+        "format": 2,
+        "weighted_score": 30.0,
+        "reasons": {
+          "q_match": "用户问审批主体，答案未直接回答，完全跑题",
+          "law_correct": "引用了相关法规，但条号与审批问题不匹配",
+          "coverage": "完全未覆盖审批主体这一关键信息",
+          "calibration": "答案承认可能偏差并建议咨询，体现不确定性",
+          "format": "结构清晰，有结论、法规、说明等分段"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "飞行程序设计人员承担设计工作应从事飞行程序设计见习一年以上。",
+            "supported": false,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "飞行程序设计单位应当具有3 名（含）以上设计人员，具备适当的办公场...",
+            "supported": false,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "“飞行程序方案研究”是在运输机场建设可行性研究阶段和机场总体规划阶段，根据确定...",
+            "supported": false,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "合格证持有人应当在开始这种运行后24小时之内，向局方提交说明这种紧急情况性质的报告。",
+            "supported": false,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "本规则不适用于无人驾驶航空器。",
+            "supported": false,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "中国民用航空局（以下简称民航局）负责小型商业运输和空中游览运营人运行合...",
+            "supported": false,
+            "correct": true,
+            "relevant": false
+          },
+          {
+            "text": "标准职能部门递交一份关于所涉及航空器运行的完整报告，包括对所作偏离和作出偏离的原因的描述。",
+            "supported": false,
+            "correct": true,
+            "relevant": false
+          }
+        ],
+        "summary": {
+          "total_ldps": 7,
+          "supported_pct": 0.0,
+          "correct_pct": 1.0,
+          "relevant_pct": 0.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "存在《民用机场飞行程序和运行最低标准管理规定》第三十七条，其内容为“飞行程序设计人员承担设计工作应从事飞行程序 设计见习一年以上。 飞行程序设计单位应当具有3 名（含）以上设计人 员，具备适当的办公场…”",
+            "status": "unverifiable",
+            "reason": "证据未提及此法规，无法验证。"
+          },
+          {
+            "text": "存在《民用机场飞行程序和运行最低标准管理规定》第十六条，其内容为“‘飞行程序方案研究’是在运输机场建设可行性研究 阶段和机场总体规划阶段，根据确定…”",
+            "status": "unverifiable",
+            "reason": "证据未提及此法规，无法验证。"
+          },
+          {
+            "text": "存在《小型商业运输和空中游览运营人运行》第135.15条，其内容为“头或者其他方式批准该偏离，但是合格证持有人应当在开始这种 运行后24小时之内，向局方提交说明这种紧急情况性质的报告。 第135.15 条需要立即决断和处置的紧急…”",
+            "status": "unverifiable",
+            "reason": "证据未包含135.15条，无法验证。"
+          },
+          {
+            "text": "存在《小型商业运输和空中游览运营人运行》第135.5条，其内容为“(a)中国民用航空局（以下简称民航局）负责小型商业运输和 空中游览运营人运行合…”",
+            "status": "partial",
+            "reason": "证据有135.5标题，但无内容，部分可验。"
+          },
+          {
+            "text": "存在《小型商业运输和空中游览运营人运行》第135.17条，其内容为“第135.17 条航空器的湿租 (a)除经民航局批准外，合格证持有…”",
+            "status": "unverifiable",
+            "reason": "证据未包含135.17条，无法验证。"
+          },
+          {
+            "text": "系统检索到上述法规并按相关度排序呈现。",
+            "status": "unverifiable",
+            "reason": "证据未说明检索与排序机制。"
+          },
+          {
+            "text": "以上条目可能与具体情形有偏差。",
+            "status": "unverifiable",
+            "reason": "证据无法支撑此声明。"
+          }
+        ],
+        "summary": {
+          "total_claims": 7,
+          "faithful_pct": 0.0,
+          "partial_pct": 0.143,
+          "unverifiable_pct": 0.857,
+          "hallucinated_pct": 0.0
+        }
+      }
+    },
+    {
+      "question_id": "Q28",
+      "category": "民用航空法",
+      "question": "中华人民共和国对领空享有什么权利",
+      "mqs": {
+        "q_match": 2,
+        "law_correct": 1,
+        "coverage": 2,
+        "calibration": 2,
+        "format": 2,
+        "weighted_score": 85.0,
+        "reasons": {
+          "q_match": "直接准确回答了对领空享有完全排他主权",
+          "law_correct": "引用了拟议的2026年施行日期，现行航空法无此施行日期，条号内容准确但日期有误",
+          "coverage": "覆盖了主权定义和外国航空器准入限制等关键情形",
+          "calibration": "结论明确有法律依据，无需承认不确定",
+          "format": "结构清晰，分结论、依据、适用、风险提示"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "中华人民共和国对领空享有完全的、排他的主权。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "任何外国航空器未经许可不得进入或飞越中国领空。",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "外国航空器未经许可进入中国领空可能被视为侵犯主权，面临法律后果。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 3,
+          "supported_pct": 0.667,
+          "correct_pct": 1.0,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "中华人民共和国对领空享有完全的、排他的主权。",
+            "status": "faithful",
+            "reason": "证据直接包含此表述"
+          },
+          {
+            "text": "任何外国航空器未经许可不得进入或飞越中华人民共和国领空。",
+            "status": "faithful",
+            "reason": "规则第二条规定了进入需许可，隐含此意"
+          },
+          {
+            "text": "上述主权和进入限制出自《外国民用航空器飞行管理规则》第二条。",
+            "status": "hallucinated",
+            "reason": "规则第二条未提主权，只有进入条件"
+          },
+          {
+            "text": "《中华人民共和国民用航空法》第二条规定中华人民共和国对领空享有完全的、排他的主权。",
+            "status": "faithful",
+            "reason": "证据中《民用航空法》第二条有此内容"
+          },
+          {
+            "text": "该法将于2026年7月1日起施行。",
+            "status": "unverifiable",
+            "reason": "证据未提及施行日期"
+          },
+          {
+            "text": "该主权权利无特定适用条件。",
+            "status": "unverifiable",
+            "reason": "证据未讨论适用条件"
+          },
+          {
+            "text": "外国航空器未经许可进入中国领空可能被视为侵犯主权，面临法律后果。",
+            "status": "partial",
+            "reason": "证据规定了许可制度，但未明确法律后果"
+          }
+        ],
+        "summary": {
+          "total_claims": 7,
+          "faithful_pct": 0.429,
+          "partial_pct": 0.143,
+          "unverifiable_pct": 0.286,
+          "hallucinated_pct": 0.143
+        }
+      }
+    },
+    {
+      "question_id": "Q29",
+      "category": "民用航空法",
+      "question": "民用航空器所有权的取得和转让有什么要求",
+      "mqs": {
+        "q_match": 2,
+        "law_correct": 1,
+        "coverage": 2,
+        "calibration": 2,
+        "format": 2,
+        "weighted_score": 85.0,
+        "reasons": {
+          "q_match": "直接回答了所有权取得和转让的登记要求",
+          "law_correct": "引用了相关法规，但《民用航空器权利登记条例实施办法》误加了“中华人民共和国”前缀",
+          "coverage": "涵盖了所有权登记、国籍登记区分、取得方式及转让程序",
+          "calibration": "补充说明标注为非法规直接规定，诚实可靠",
+          "format": "结构清晰，分结论、依据、补充、风险等部分"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "民用航空器所有权的取得和转让需要依法进行权利登记",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "国籍登记不能作为所有权的证据",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "民用航空器所有权取得和转让应当向民用航空器权利登记部门申请办理所有权登记，经审查合格后颁发《民用航空器所有权登记证书》",
+            "supported": true,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "民用航空器国籍登记不得作为所有权的证据，所有权以权利登记簿记载为准",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "转让民用航空器所有权时，应当申请办理国籍登记变更（如所有人变更）以及所有权转移登记",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "民用航空器所有权的取得一般通过购买、继承、赠与等方式，需签订书面合同并依法办理所有权登记",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "未办理所有权登记可能导致无法对抗第三人",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "仅凭国籍登记无法证明所有权",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "适用中国法律下民用航空器所有权的取得和转让",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 9,
+          "supported_pct": 0.222,
+          "correct_pct": 1.0,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "民用航空器所有权的取得和转让需要依法进行权利登记",
+            "status": "unverifiable",
+            "reason": "证据未明确要求所有权取得转让须权利登记"
+          },
+          {
+            "text": "国籍登记不能作为所有权的证据",
+            "status": "unverifiable",
+            "reason": "证据未涉及国籍登记作为所有权证据的问题"
+          },
+          {
+            "text": "民用航空器所有权取得和转让应当向民用航空器权利登记部门申请办理所有权登记",
+            "status": "unverifiable",
+            "reason": "证据未明确所有权登记申请要求"
+          },
+          {
+            "text": "经审查合格后颁发《民用航空器所有权登记证书》",
+            "status": "unverifiable",
+            "reason": "证据未提及该证书"
+          },
+          {
+            "text": "民用航空器国籍登记不得作为所有权的证据",
+            "status": "unverifiable",
+            "reason": "证据未涉及此内容"
+          },
+          {
+            "text": "所有权以权利登记簿记载为准",
+            "status": "unverifiable",
+            "reason": "证据仅提“统一记载”，未明确以记载为准"
+          },
+          {
+            "text": "转让民用航空器所有权时，应当申请办理国籍登记变更（如所有人变更）以及所有权转移登记",
+            "status": "unverifiable",
+            "reason": "证据未提转让时的登记要求"
+          },
+          {
+            "text": "民用航空器所有权的取得一般通过购买、继承、赠与等方式，需签订书面合同并依法办理所有权登记",
+            "status": "unverifiable",
+            "reason": "证据未涉及取得方式或书面合同要求"
+          },
+          {
+            "text": "适用中国法律下民用航空器所有权的取得和转让",
+            "status": "faithful",
+            "reason": "答案上下文为适用中国法律，证据均为中国民航法规"
+          },
+          {
+            "text": "未办理所有权登记可能导致无法对抗第三人",
+            "status": "unverifiable",
+            "reason": "证据未涉及对抗第三人问题"
+          },
+          {
+            "text": "仅凭国籍登记无法证明所有权",
+            "status": "unverifiable",
+            "reason": "证据未提及此事项"
+          }
+        ],
+        "summary": {
+          "total_claims": 11,
+          "faithful_pct": 0.091,
+          "partial_pct": 0.0,
+          "unverifiable_pct": 0.909,
+          "hallucinated_pct": 0.0
+        }
+      }
+    },
+    {
+      "question_id": "Q30",
+      "category": "人员资质",
+      "question": "飞行员执照的种类有哪些",
+      "mqs": {
+        "q_match": 2,
+        "law_correct": 2,
+        "coverage": 2,
+        "calibration": 2,
+        "format": 2,
+        "weighted_score": 100.0,
+        "reasons": {
+          "q_match": "直接列出了执照种类，完全匹配用户问题",
+          "law_correct": "引用CCAR-61第61.13条，条款准确，摘录与法规一致",
+          "coverage": "覆盖了规则列明的全部7种驾驶员执照，无遗漏",
+          "calibration": "标注了[待核实]，对无人驾驶执照部分说明规则适用差异，诚实",
+          "format": "结构清晰，分结论、法律依据、适用条件、风险提示，易读"
+        }
+      },
+      "lemaj": {
+        "ldps": [
+          {
+            "text": "根据《民用航空器驾驶员合格审定规则》（CCAR-61）第61.13条，民用航空器驾驶员执照主要有以下7种类型。",
+            "supported": false,
+            "correct": false,
+            "relevant": true
+          },
+          {
+            "text": "学生驾驶员执照：为初始训练阶段的执照，持照人需在授权教员指导下操作航空器。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "运动驾驶员执照：适用于轻型航空器（如初级飞机、滑翔机、自由气球等），持有人可在相应航空器上担任机长，但不得从事商业航空运输。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "私用驾驶员执照：持有人可以不以取酬为目的在非经营性运行的航空器上担任机长或副驾驶，但不允许以取酬为目的进行经营性飞行。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "商用驾驶员执照：持有人可以以取酬为目的在经营性运行中担任机长或副驾驶，但不得在要求航线运输驾驶员执照的运行中担任机长。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "多人制机组驾驶员执照：专用于多人制机组运行，持有人通常只能在签注型别等级的飞机上担任副驾驶，并须满足额外条件方可行使商用驾驶员权利。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "航线运输驾驶员执照：最高级别的驾驶员执照，持有人可在公共航空运输中担任机长和副驾驶，并同时享有私用和商用驾驶员执照的权利。",
+            "supported": false,
+            "correct": true,
+            "relevant": true
+          },
+          {
+            "text": "无人驾驶航空器驾驶员执照：针对无人机驾驶员颁发，本规则除第61.13条等少数条款外，其他条款不适用于该执照。",
+            "supported": false,
+            "correct": false,
+            "relevant": true
+          }
+        ],
+        "summary": {
+          "total_ldps": 8,
+          "supported_pct": 0.0,
+          "correct_pct": 0.75,
+          "relevant_pct": 1.0
+        }
+      },
+      "faith": {
+        "claims": [
+          {
+            "text": "根据《民用航空器驾驶员合格审定规则》第61.13条，民用航空器驾驶员执照主要有7种类型，包括学生、运动、私用、商用、多人制机组、航线运输和无人驾驶航空器。",
+            "status": "hallucinated",
+            "reason": "证据第61.13条仅列出前6种执照，未提及无人驾驶航空器驾驶员执照，7种的说法与证据矛盾。"
+          },
+          {
+            "text": "学生驾驶员执照是初始训练阶段的执照，持照人需在授权教员指导下操作航空器。",
+            "status": "unverifiable",
+            "reason": "证据仅列执照名称，未提供该描述信息。"
+          },
+          {
+            "text": "运动驾驶员执照适用于轻型航空器（如初级飞机、滑翔机、自由气球等），持有人可在相应航空器上担任机长，但不得从事商业航空运输。",
+            "status": "unverifiable",
+            "reason": "证据未提供运动驾驶员执照的权利限制描述。"
+          },
+          {
+            "text": "私用驾驶员执照持有人可以不以取酬为目的在非经营性运行的航空器上担任机长或副驾驶，但不允许以取酬为目的进行经营性飞行。",
+            "status": "unverifiable",
+            "reason": "证据中仅出现相关条款号，未提供具体权利描述。"
+          },
+          {
+            "text": "商用驾驶员执照持有人可以以取酬为目的在经营性运行中担任机长或副驾驶，但不得在要求航线运输驾驶员执照的运行中担任机长。",
+            "status": "unverifiable",
+            "reason": "证据未提供商用驾驶员执照的权利和限制内容。"
+          },
+          {
+            "text": "多人制机组驾驶员执照专用于多人制机组运行，持有人通常只能在签注型别等级的飞机上担任副驾驶，并须满足额外条件方可行使商用驾驶员权利。",
+            "status": "unverifiable",
+            "reason": "证据未提供多人制机组驾驶员执照的具体描述。"
+          },
+          {
+            "text": "航线运输驾驶员执照是最高级别的驾驶员执照，持有人可在公共航空运输中担任机长和副驾驶，并同时享有私用和商用驾驶员执照的权利。",
+            "status": "unverifiable",
+            "reason": "证据未提供航线运输驾驶员执照的权利描述。"
+          },
+          {
+            "text": "无人驾驶航空器驾驶员执照针对无人机驾驶员颁发，本规则除第61.13条等少数条款外，其他条款不适用于该执照。",
+            "status": "unverifiable",
+            "reason": "证据未提及无人驾驶航空器驾驶员执照，无法验证其描述。"
+          },
+          {
+            "text": "适用条件为适用于申请中国民用航空局（CAAC）颁发的民用航空器驾驶员执照的情形。",
+            "status": "unverifiable",
+            "reason": "该通用适用条件描述在证据中无直接支撑。"
+          },
+          {
+            "text": "无人驾驶航空器驾驶员执照的适用规则与有人驾驶航空器执照存在较大差异，申请时需特别注意，各类执照的权利和限制需结合具体条款理解，避免超范围运行导致处罚。",
+            "status": "unverifiable",
+            "reason": "风险提示内容在证据中无对应信息。"
+          }
+        ],
+        "summary": {
+          "total_claims": 10,
+          "faithful_pct": 0.0,
+          "partial_pct": 0.0,
+          "unverifiable_pct": 0.9,
+          "hallucinated_pct": 0.1
+        }
+      }
+    }
+  ],
+  "inter_rater": []
+}

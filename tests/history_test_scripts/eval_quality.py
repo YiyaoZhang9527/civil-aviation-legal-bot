@@ -49,10 +49,13 @@ def make_judge_llm(model: str = "deepseek-v4-pro", provider: str = "deepseek") -
 
 
 def find_latest_bot_results() -> Path:
-    matches = sorted(PROJECT_ROOT.glob("tests/test30_*.csv"))
+    matches = (
+        list(PROJECT_ROOT.glob("tests/test100_*.csv")) +
+        list(PROJECT_ROOT.glob("tests/test30_*.csv"))
+    )
     if not matches:
-        raise FileNotFoundError("找不到 test30_*.csv，请先跑 test_30questions.py")
-    return matches[-1]
+        raise FileNotFoundError("找不到 test30_*.csv 或 test100_*.csv，请先跑测试")
+    return max(matches, key=lambda p: p.stat().st_mtime)
 
 
 def load_bot_answers(csv_path: Path) -> list[dict]:
@@ -355,13 +358,18 @@ def aggregate_results(results: list[dict]) -> dict:
     }
 
 
-def main(n_questions: int | None = None, run_inter_rater: int = 5):
-    """主流程：跑所有 3 个指标 + inter-rater 验证。"""
+def main(n_questions: int | None = None, run_inter_rater: int = 5, offset: int = 0):
+    """主流程：跑所有 3 个指标 + inter-rater 验证。
+
+    offset: 跳过前 N 道题（与 n_questions 配合使用，跑中间段）
+    """
     bot_path = find_latest_bot_results()
     items = load_bot_answers(bot_path)
+    if offset:
+        items = items[offset:]
     if n_questions is not None:
         items = items[:n_questions]
-    print(f"加载 {len(items)} 题 ({bot_path.name})")
+    print(f"加载 {len(items)} 题 ({bot_path.name}, offset={offset})")
 
     judge = make_judge_llm()  # 默认 Pro
     print(f"主裁判模型: {judge.config.provider}/{judge.config.model}")
@@ -452,9 +460,12 @@ def main(n_questions: int | None = None, run_inter_rater: int = 5):
 if __name__ == "__main__":
     n = None
     ir = 5
+    offset = 0
     for arg in sys.argv[1:]:
         if arg.startswith("--n="):
             n = int(arg.split("=", 1)[1])
         elif arg.startswith("--ir="):
             ir = int(arg.split("=", 1)[1])
-    main(n_questions=n, run_inter_rater=ir)
+        elif arg.startswith("--offset="):
+            offset = int(arg.split("=", 1)[1])
+    main(n_questions=n, run_inter_rater=ir, offset=offset)

@@ -1,0 +1,129 @@
+{
+  "timestamp": "2026-06-06T17:27:02.731362",
+  "workers": 2,
+  "total_configs": 23,
+  "total_questions": 5,
+  "out_dir": "tests/ablation_runs/20260606_172702",
+  "grid": [
+    {
+      "param": "RERANKER_MIN_SCORE",
+      "value": 0.0
+    },
+    {
+      "param": "RERANKER_MIN_SCORE",
+      "value": 0.05
+    },
+    {
+      "param": "RERANKER_MIN_SCORE",
+      "value": 0.1
+    },
+    {
+      "param": "RERANKER_MIN_SCORE",
+      "value": 0.2
+    },
+    {
+      "param": "RERANKER_MIN_SCORE",
+      "value": 0.3
+    },
+    {
+      "param": "EVIDENCE_SORT_MIN_SUPPORTED_CONF",
+      "value": 0.3
+    },
+    {
+      "param": "EVIDENCE_SORT_MIN_SUPPORTED_CONF",
+      "value": 0.5
+    },
+    {
+      "param": "EVIDENCE_SORT_MIN_SUPPORTED_CONF",
+      "value": 0.7
+    },
+    {
+      "param": "EVIDENCE_SORT_BY_CE",
+      "value": true
+    },
+    {
+      "param": "EVIDENCE_SORT_BY_CE",
+      "value": false
+    },
+    {
+      "param": "TREE_EARLY_ARTICLE_PENALTY",
+      "value": 0.4
+    },
+    {
+      "param": "TREE_EARLY_ARTICLE_PENALTY",
+      "value": 0.6
+    },
+    {
+      "param": "TREE_EARLY_ARTICLE_PENALTY",
+      "value": 0.8
+    },
+    {
+      "param": "TREE_EARLY_ARTICLE_PENALTY",
+      "value": 1.0
+    },
+    {
+      "param": "TREE_GENERIC_ARTICLE_PENALTY",
+      "value": 0.0
+    },
+    {
+      "param": "TREE_GENERIC_ARTICLE_PENALTY",
+      "value": 0.5
+    },
+    {
+      "param": "TREE_GENERIC_ARTICLE_PENALTY",
+      "value": 1.0
+    },
+    {
+      "param": "SYNTHESIS_EVIDENCE_TRUNCATE",
+      "value": 1000
+    },
+    {
+      "param": "SYNTHESIS_EVIDENCE_TRUNCATE",
+      "value": 2000
+    },
+    {
+      "param": "SYNTHESIS_EVIDENCE_TRUNCATE",
+      "value": 3000
+    },
+    {
+      "param": "SYNTHESIS_EVIDENCE_LIMIT",
+      "value": 8
+    },
+    {
+      "param": "SYNTHESIS_EVIDENCE_LIMIT",
+      "value": 12
+    },
+    {
+      "param": "SYNTHESIS_EVIDENCE_LIMIT",
+      "value": 16
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "category": "CCAR-121",
+      "question": "不在《运行规范》的机场是否可以去备降"
+    },
+    {
+      "id": "Q07",
+      "category": "CCAR-121",
+      "question": "签派员放行飞机时需要检查哪些事项"
+    },
+    {
+      "id": "Q13",
+      "category": "CCAR-92",
+      "question": "无人机在什么情况下需要申请空域许可"
+    },
+    {
+      "id": "Q19",
+      "category": "旅客服务",
+      "question": "航空公司拒载旅客的合法理由有哪些"
+    },
+    {
+      "id": "Q26",
+      "category": "空管",
+      "question": "空中交通管制服务由哪些单位提供"
+    }
+  ],
+  "questions_total": 24
+}

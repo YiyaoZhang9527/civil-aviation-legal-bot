@@ -202,7 +202,7 @@ def _direct_read_articles(law_hints: list[str], article_hints: list[str]) -> lis
         if node is None:
             continue
 
-        text = node.summary or node.text or node.title
+        text = "\n".join(filter(None, [node.summary, node.text, node.title]))
         results.append(Evidence(
             law_id=doc.law_id,
             law_title=doc.title,
@@ -488,7 +488,7 @@ def _keyword_hints_search(query, top_k, law_hints, article_hints, _logger, t_sta
                 law_title=doc.title,
                 node_id=node.node_id,
                 article=node.title,
-                text=node.summary or node.text or node.title,
+                text="\n".join(filter(None, [node.summary, node.text, node.title])),
                 score=score,
                 source_file=doc.source_file,
                 source_anchor=node.source_anchor or node.title,
@@ -610,7 +610,7 @@ def _tree_search(query, top_k, law_hints, article_hints, _logger, t_start, tree)
                 law_title=doc.title,
                 node_id=node.node_id,
                 article=node.title,
-                text=node.summary or node.text or node.title,
+                text="\n".join(filter(None, [node.summary, node.text, node.title])),
                 score=score,
                 source_file=doc.source_file,
                 source_anchor=node.source_anchor or node.title,
@@ -666,7 +666,7 @@ def _tree_search(query, top_k, law_hints, article_hints, _logger, t_start, tree)
                     Evidence(
                         law_id=doc.law_id, law_title=doc.title,
                         node_id=node.node_id, article=node.title,
-                        text=node.summary or node.text or node.title,
+                        text="\n".join(filter(None, [node.summary, node.text, node.title])),
                         score=score, source_file=doc.source_file,
                         source_anchor=node.source_anchor or node.title,
                         verified=False,
@@ -766,7 +766,7 @@ def _flat_search(query, top_k, law_hints, article_hints, _logger, t_start):
                 law_title=doc.title,
                 node_id=node.node_id,
                 article=node.title,
-                text=node.summary or node.text or node.title,
+                text="\n".join(filter(None, [node.summary, node.text, node.title])),
                 score=score,
                 source_file=doc.source_file,
                 source_anchor=node.source_anchor or node.title,
@@ -851,7 +851,7 @@ def _legacy_search_index_tree(query: str, top_k: int = config.DEFAULT_TOP_K, law
                 law_title=law.title,
                 node_id=node.node_id,
                 article=node.title,
-                text=node.summary or node.text or node.title,
+                text="\n".join(filter(None, [node.summary, node.text, node.title])),
                 score=score,
                 source_file=law.source_file,
                 source_anchor=node.source_anchor or node.title,

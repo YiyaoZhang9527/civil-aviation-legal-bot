@@ -1,0 +1,48 @@
+flowchart LR
+    subgraph INPUT ["📥 输入"]
+        Q["❓ 用户提问"]
+    end
+
+    subgraph UNDERSTAND ["🧠 理解层"]
+        S1["👤 主体识别<br/>提取当事人·事件链·假设"]
+        S2["🎯 争点识别<br/>法律问题分类"]
+        S3["✏️ 查询改写<br/>口语→法律查询<br/>原始query保底"]
+    end
+
+    subgraph RETRIEVE ["🌲 检索层"]
+        R1["三级树检索<br/>法规→章节→条文"]
+        R2["8-12 条证据"]
+    end
+
+    subgraph VERIFY ["⚡ 校验层"]
+        V1["Cross-Encoder 精排<br/>supported / partial / unsupported"]
+        V2["⚖️ 冲突检测<br/>上位法>下位法"]
+        V3["🔄 问题回退打分<br/>claim分数低→用原始问题"]
+    end
+
+    subgraph GENERATE ["📝 生成层"]
+        G1["结构化答案<br/>JSON模式·claim带node_id"]
+        G2["Set-Membership<br/>引用不存在→⚠️待核实<br/><i>警告不删除</i>"]
+        G3["采纳判断<br/>未验证证据根据问题<br/>自行决定是否采纳"]
+    end
+
+    subgraph REFLEXION ["🔁 自检循环"]
+        RF["质量评估<br/>不足→补搜→重试<br/><i>max 2轮</i>"]
+    end
+
+    subgraph OUTPUT ["📋 输出"]
+        A["最终答案"]
+    end
+
+    Q --> S1 --> S2 --> S3 --> R1 --> R2 --> V1
+    V1 --> V2 --> V3 --> G1 --> G2 --> G3 --> RF --> A
+
+    RF -. "质量不足<br/>补搜证据" .-> R1
+
+    style INPUT fill:#0f172a,stroke:#06b6d4,color:#06b6d4
+    style UNDERSTAND fill:#0f172a,stroke:#3b82f6,color:#93bbfc
+    style RETRIEVE fill:#0f172a,stroke:#10b981,color:#6ee7b7
+    style VERIFY fill:#0f172a,stroke:#f59e0b,color:#fcd34d
+    style GENERATE fill:#0f172a,stroke:#a855f7,color:#d8b4fe
+    style REFLEXION fill:#0f172a,stroke:#ef4444,color:#fca5a5
+    style OUTPUT fill:#0f172a,stroke:#10b981,color:#6ee7b7

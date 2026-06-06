@@ -1,0 +1,23 @@
+{
+  "config_id": "RERANKER_MIN_SCORE=0.1",
+  "config_param": "RERANKER_MIN_SCORE",
+  "config_value": 0.1,
+  "qid": "Q01",
+  "category": "CCAR-121",
+  "question": "不在《运行规范》的机场是否可以去备降",
+  "answer_full": "抱歉，处理您的问题时遇到了异常，请稀后重试。",
+  "evidence": [],
+  "citations": [],
+  "elapsed_sec": 60.96,
+  "answer_len": 22,
+  "evidence_count": 0,
+  "citation_count": 0,
+  "supported_count": 0,
+  "partial_count": 0,
+  "unsupported_count": 0,
+  "reflexion_iterations": 0,
+  "is_refusal": false,
+  "error": null,
+  "timestamp": 1780738866.0688338,
+  "worker_id": "0"
+}
